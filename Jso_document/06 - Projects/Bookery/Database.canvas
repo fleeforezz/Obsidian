@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "82a47edd70b893a4",
+      "type": "text",
+      "text": "# Users Table\n\n| Field Name    | Data Type         | Description                                        |\n| ------------- | ----------------- | -------------------------------------------------- |\n| user_id       | INT (primary key) | Unique identifier for each user                    |\n| username      | VARCHAR(60)       | Username chosen by the user                        |\n| email         | VARCHAR(60)       | Email address of the user                          |\n| password_hash | VARCHAR(60)       | Hashed password for security                       |\n| created_at    | DATE              | Timestamp when the user registered                 |\n| role          |                   | User role (to distinguish normal users and admins) |\n",
+      "styleAttributes": {},
+      "x": -600,
+      "y": -28,
+      "width": 705,
+      "height": 308
+    },
+    {
+      "id": "e56c55559c66358d",
+      "type": "text",
+      "text": "# Books Table\n\n| Field Name    | Data Type         | Description                                        |\n| ------------- | ----------------- | -------------------------------------------------- |\n| user_id       | INT (primary key) | Unique identifier for each user                    |\n| username      | VARCHAR(60)       | Username chosen by the user                        |\n| email         | VARCHAR(60)       | Email address of the user                          |\n| password_hash | VARCHAR(60)       | Hashed password for security                       |\n| created_at    | DATE              | Timestamp when the user registered                 |\n| role          |                   | User role (to distinguish normal users and admins) |\n",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 340,
+      "width": 705,
+      "height": 308
+    },
+    {
+      "id": "832a09c30ca2a19f",
+      "type": "text",
+      "text": "# Users Table\n\n| Field Name | Data Type         | Description                     |\n| ---------- | ----------------- | ------------------------------- |\n| user_id    | INT (primary key) | Unique identifier for each user |\n| username   | VARCHAR(60)       | Username chosen by the user     |\n| email      | VARCHAR(60)       | Email address of the user       |\n| password   | VARCHAR(60)       | Hashed password for security    |\n| user_image | VARCHAR(255)      | User profile image              |\n\n\n",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -28,
+      "width": 560,
+      "height": 308
+    },
+    {
+      "id": "dca5f554704ca64d",
+      "type": "text",
+      "text": "# Books Table\n\n| Field Name     | Data Type         | Description                               |\n| -------------- | ----------------- | ----------------------------------------- |\n| book_id        | INT (primary key) | Unique identifier for each books          |\n| title          | VARCHAR(255)      | Books title                               |\n| author         | VARCHAR(255)      | Author of the book                        |\n| description    | TEXT              | Short description or synopsis of the book |\n| cover_image    | VARCHAR(255)      | Path to the cover image of the book       |\n| published_date | datetime          | Year the book was published               |\n\n",
+      "styleAttributes": {},
+      "x": 460,
+      "y": 340,
+      "width": 640,
+      "height": 308
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

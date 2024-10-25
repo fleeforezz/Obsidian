@@ -1,0 +1,4 @@
+
+```shell
+umount drive-name
+```

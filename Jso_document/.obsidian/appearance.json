@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "system",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "banner",
+    "Colored Sidebar Items"
+  ],
+  "textFontFamily": ""
+}

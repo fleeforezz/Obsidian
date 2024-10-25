@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "fad9b306646794fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be1f89e36ecdf0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b807f51b39ac34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1fd3efe757d64f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Automation/Ansible/Ansible.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69cba9fc3b702a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bb2d22dff67e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3685614dac22550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfb6017066a8bc5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7dd236338f74c3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "61708746631e78d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a70fde18935461b",
+        "type": "tabs",
+        "dimension": 47.70992366412214,
+        "children": [
+          {
+            "id": "e023380c6a8d59d5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121324,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "d81ea4921a303541",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1335c03b92f3f73c",
+        "type": "tabs",
+        "dimension": 52.29007633587786,
+        "children": [
+          {
+            "id": "19da2d0c474c9e02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80253dcccac132d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "782fe95fe39756c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - HomeLab/Development/ArgoCD/ArgoCD.md"
+              }
+            }
+          },
+          {
+            "id": "0b1166eae33d4df7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3810e886fa1bd08a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98987880cbb77fe7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c9b807f51b39ac34",
+  "lastOpenFiles": [
+    "01 - HomeLab/OS & System control/Linux Command/Network.md",
+    "01 - HomeLab/Automation/Ansible/Ansible.md",
+    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+    "04 - Tasks Board/Home Server board.md",
+    "04 - Tasks Board/Learning board.md",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+    "01 - HomeLab/Game/Minecraft/Minecraft.md",
+    "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
+    "01 - HomeLab/OS & System control/Cockpit/Third party repository.md",
+    "01 - HomeLab/Containerize/Docker Compose/Docker Compose.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/StarShip.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+    "01 - HomeLab/Development/Jenkin/Jenkins with docker CICD pipeline.md",
+    "01 - HomeLab/OS & System control/Linux Command/Change user and root password.md",
+    "01 - HomeLab/OS & System control/Linux Command/Disable root login.md",
+    "01 - HomeLab/OS & System control/Linux Command/Set passwordless.md",
+    "01 - HomeLab/OS & System control/Linux Command/Switch user without password.md",
+    "01 - HomeLab/OS & System control/Linux Command/Sudo command without password.md",
+    "01 - HomeLab/Development/Jenkin/CICD pipeline project sample.md",
+    "01 - HomeLab/Development/Jenkin/Config jenkins.md",
+    "01 - HomeLab/Development/Jenkin/Jenkin.md",
+    "01 - HomeLab/Development/Forgejo/Forgejo.md",
+    "01 - HomeLab/Storage & BackUp/NextCloud/Install NextCloud.md",
+    "01 - HomeLab/Dashboard/Home Page/Home Page.md",
+    "01 - HomeLab/Development/Forgejo",
+    "01 - HomeLab/Development/Gitlab/GitLab.md",
+    "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
+    "99 - Meta/System Tweaks/Add Desktop entry",
+    "01 - HomeLab/OS & System control/SSH Key/Generate SSH key.md",
+    "01 - HomeLab/OS & System control/SSH Key",
+    "01 - HomeLab/OS & System control/CasaOS",
+    "01 - HomeLab/NVR/Scryted",
+    "01 - HomeLab/Network/Wireguard",
+    "01 - HomeLab/Network/Traefik",
+    "01 - HomeLab/Network/Tailscale VPN",
+    "01 - HomeLab/Monitoring/Prometheus",
+    "01 - HomeLab/Media/Qbittorrent",
+    "03 - Study/Kubernetes/Pasted image 20240220151025.png",
+    "01 - HomeLab/Home Server Infrastructure/CI~CD Pipeline.canvas",
+    "01 - HomeLab/Containerize/Kubernetes/Diagram/Traffic Routing.canvas",
+    "01 - HomeLab/Game/Minecraft/Resorces/Pasted image 20240302093727.png",
+    "01 - HomeLab/Home Server Infrastructure/Resources/gmail.png",
+    "01 - HomeLab/Home Server Infrastructure/Resources/development.png",
+    "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121358.png",
+    "01 - HomeLab/Home Server Infrastructure/Resources/namecheap-icon-2048x2048-ft2h6a21.png",
+    "01 - HomeLab/Home Server Infrastructure/Resources/arggocd.png",
+    "arggocd 1.png",
+    "01 - HomeLab/Home Server Infrastructure/Resources/nginx-proxy-manager 1.png",
+    "01 - HomeLab/Home Server Infrastructure/Resources/cloudflare.png",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
+    "03 - Study/FPTU/dotNet/Untitled.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure.canvas",
+    "Home Server Infrastructure.canvas",
+    "03 - Study/Java/ArrayList practise.canvas",
+    "03 - Study/Java/Interface.canvas"
+  ]
+}

@@ -1,0 +1,4 @@
+
+```shell
+sudo userdel [username]
+```

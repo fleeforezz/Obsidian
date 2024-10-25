@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "fad9b306646794fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a364424b48771b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32045aaacc1e9f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Study/FPTU/CSD/CSD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69cba9fc3b702a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bb2d22dff67e57",
+        "type": "tabs",
+        "dimension": 64.12930135557873,
+        "children": [
+          {
+            "id": "e3685614dac22550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "UID",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfb6017066a8bc5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7dd236338f74c3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "007844e90d8e414b",
+        "type": "tabs",
+        "dimension": 35.870698644421275,
+        "children": [
+          {
+            "id": "ed37251b5c60d523",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "61708746631e78d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a70fde18935461b",
+        "type": "tabs",
+        "dimension": 30.038759689922482,
+        "children": [
+          {
+            "id": "e023380c6a8d59d5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03 - Study/FPTU/CSD/CSD.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012128,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1335c03b92f3f73c",
+        "type": "tabs",
+        "dimension": 69.96124031007751,
+        "children": [
+          {
+            "id": "19da2d0c474c9e02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Study/FPTU/CSD/CSD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80253dcccac132d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "782fe95fe39756c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Study/FPTU/CSD/CSD.md"
+              }
+            }
+          },
+          {
+            "id": "0b1166eae33d4df7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3810e886fa1bd08a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Study/FPTU/CSD/CSD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98987880cbb77fe7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "32045aaacc1e9f05",
+  "lastOpenFiles": [
+    "03 - Study/FPTU/CSD/Images/Singly linked list.png",
+    "03 - Study/FPTU/CSD/CSD.md",
+    "03 - Study/FPTU/CSD/Resources/Excalidraw/Array.md",
+    "03 - Study/FPTU/dotNet/Design Pattern.md",
+    "03 - Study/FPTU/dotNet/Resource/Abstract Factory interface.png",
+    "03 - Study/FPTU/dotNet/Resource/Abstract Factory Structure.png",
+    "03 - Study/FPTU/dotNet/Resource/Builder pattern structure.png",
+    "03 - Study/FPTU/dotNet/Resource/Builder Problem.png",
+    "03 - Study/FPTU/dotNet/Resource/chair interface.png",
+    "03 - Study/FPTU/dotNet/Resource/Class diagram Builder pattern.md",
+    "03 - Study/FPTU/dotNet/Resource/Class Diagram of Abstract Factory.md",
+    "Pasted Image 20240616180401_256.png",
+    "Pasted Image 20240616180249_290.png",
+    "01 - HomeLab/Install dependencies.md",
+    "Pasted image 20240616115810.png",
+    "03 - Study/FPTU/dotNet/Resource",
+    "03 - Study/FPTU/dotNet/CRUD in ASP.NET.md",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
+    "01 - HomeLab/OS & System control/Linux Command/Sudo command without password.md",
+    "01 - HomeLab/OS & System control/Linux Command/Set passwordless.md",
+    "01 - HomeLab/OS & System control/Linux Command/Network.md",
+    "01 - HomeLab/OS & System control/Linux Command/Mount drive.md",
+    "01 - HomeLab/OS & System control/Linux Command/Install curl.md",
+    "01 - HomeLab/OS & System control/Linux Command/GUI interface.md",
+    "01 - HomeLab/OS & System control/Linux Command/Disable root login.md",
+    "01 - HomeLab/OS & System control/Linux Command/Delete block of text in nano.md",
+    "01 - HomeLab/OS & System control/Linux Command/Delete a user.md",
+    "01 - HomeLab/OS & System control/Linux Command/Change hostname.md",
+    "01 - HomeLab/Development/Gitlab/GitLab.md",
+    "01 - HomeLab/OS & System control/Cockpit/Cockpit.md",
+    "01 - HomeLab/OS & System control/Cockpit/Third party repository.md",
+    "01 - HomeLab/Development/Gitlab/Generate SSH key for Gitlab.md",
+    "01 - HomeLab/NVR/Frigate/Frigate.md",
+    "01 - HomeLab/Media/Photoprism/Photoprism.md",
+    "01 - HomeLab/Media/Navidrome/Navidrome.md",
+    "01 - HomeLab/The first step !!!.md",
+    "01 - HomeLab/Game/Minecraft/Resorces/Pasted image 20240302093727.png",
+    "01 - HomeLab/OS & System control/Proxmox/Pasted image 20240302122621.png",
+    "99 - Meta/System Tweaks/Add large file to github or gitlab",
+    "01 - HomeLab/Development/Jenkin/Images",
+    "Excalidraw",
+    "05 - Excalidraw/Images",
+    "01 - HomeLab/OS & System control/Linux Command/Resource",
+    "01 - HomeLab/Monitoring/Uptime Kuma/Resources",
+    "01 - HomeLab/Home Server Infrastructure/Resources",
+    "01 - HomeLab/Game/Minecraft/Resorces",
+    "01 - HomeLab/Development/Gitlab/Resources",
+    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
+    "03 - Study/FPTU/dotNet/Untitled.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure.canvas",
+    "Home Server Infrastructure.canvas",
+    "03 - Study/Java/ArrayList practise.canvas",
+    "03 - Study/Java/Interface.canvas",
+    "03 - Study/Java/Meow Coffee Shop.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "nodes": [
+    {
+      "id": "8ed9d3273c652b74",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -270,
+      "width": 1174,
+      "height": 1540,
+      "label": "Coffee Shop"
+    },
+    {
+      "id": "0be726de3829c11a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -440,
+      "y": -100,
+      "width": 1440,
+      "height": 1200,
+      "label": "ArrayList"
+    },
+    {
+      "id": "1cc61085d0aa7763",
+      "type": "text",
+      "text": ">interface\nCollection\n----------------------\n+add()\n+get()\n+size()\n+rename()\n+clear()",
+      "styleAttributes": {},
+      "x": -80,
+      "y": -20,
+      "width": 250,
+      "height": 300
+    },
+    {
+      "id": "d87c2a8432e636b7",
+      "type": "text",
+      "text": ">interface\nList\n-----------------------\n+...\n+...",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 420,
+      "width": 250,
+      "height": 221
+    },
+    {
+      "id": "a2afb29e91aca1fd",
+      "type": "text",
+      "text": ">interface\nSet\n------------------\n+...\n+...",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 422,
+      "width": 250,
+      "height": 219
+    },
+    {
+      "id": "cddc8c310848107b",
+      "type": "text",
+      "text": "ArrayList\n----------------------------\n+buffer:[]Object\n+get(i):Object\n+remove(i)\n+size():int\n",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 760,
+      "width": 250,
+      "height": 214
+    },
+    {
+      "id": "628a866dd2046fdc",
+      "type": "text",
+      "text": "TreeSet\n------------------------\n-root:Object\n+...\n+...",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 760,
+      "width": 250,
+      "height": 168
+    },
+    {
+      "id": "0200da88bb570552",
+      "type": "text",
+      "text": ">interface\nComparable\n-------------------------\n+int compareTo(Object o)",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 43,
+      "width": 288,
+      "height": 237
+    },
+    {
+      "id": "5366628aa8ff13d9",
+      "type": "text",
+      "text": ">interface\nComparator\n-------------------------\n+int compare(01, 02)",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 360,
+      "width": 288,
+      "height": 237
+    },
+    {
+      "id": "2f162f4d22da6cd9",
+      "type": "text",
+      "text": "Collections / Arrays\n------------------------\n+static void sort(list)\n+static void sort(list, comparator)",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 650,
+      "width": 250,
+      "height": 278
+    },
+    {
+      "id": "379c3958920fbdac",
+      "type": "text",
+      "text": "Compiler ko check trùng các object ko buffer",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 680,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "7cea60c8b0f64928",
+      "type": "text",
+      "text": "Drink\n--------------------\n\n-code: int\n-name: String\n-price: int\n-status: boolean\n\n------------------\n+...\n+...",
+      "styleAttributes": {},
+      "x": 1214,
+      "y": 470,
+      "width": 250,
+      "height": 320
+    },
+    {
+      "id": "26899c508e1cefd8",
+      "type": "text",
+      "text": "OrderDetail\n--------------------\n\n-drink: Drink\n-quantity: int\n\n------------------\n+constructor\n+getter / setter",
+      "styleAttributes": {},
+      "x": 1600,
+      "y": 470,
+      "width": 250,
+      "height": 320
+    },
+    {
+      "id": "f6967f2f88ac684c",
+      "type": "text",
+      "text": "ArrayList\n--------------------\n\n-buyer: []Object\n\n------------------\n+add()\n+...",
+      "styleAttributes": {},
+      "x": 1974,
+      "y": 470,
+      "width": 250,
+      "height": 320
+    },
+    {
+      "id": "4180185c83bf4a9e",
+      "type": "text",
+      "text": "Menu\n--------------------\n\n-list: Arraylist(Drink)\n\n------------------\n+addDrink(Drink d): void\n+findDrink(int code): Drink\n+updateDrink(int code): void\n+displayMenu(): void\n+Menu()\n+Menu(String filename)",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 870,
+      "width": 318,
+      "height": 360
+    },
+    {
+      "id": "2e66d07520691585",
+      "type": "text",
+      "text": "Order\n--------------------\n\n-id: int\n-name: String\n-orderDate: Date\n-list: ArrayList(OrderDetail)\n\n------------------\n+Order()\n+addDrink(Drink d, int quantity): void\n+removeDrink(int code): boolean\n+printOrder(): void",
+      "styleAttributes": {},
+      "x": 1566,
+      "y": 870,
+      "width": 318,
+      "height": 380
+    },
+    {
+      "id": "01256b2e62c4dc52",
+      "type": "text",
+      "text": "OrderList\n--------------------\n\n...\n\n------------------\n+displayOrder(Date from, Date to): void\n+displayTotalMoney(int month): void",
+      "styleAttributes": {},
+      "x": 1940,
+      "y": 870,
+      "width": 374,
+      "height": 260
+    },
+    {
+      "id": "4f22fbd49c43d9eb",
+      "type": "text",
+      "text": "Extend",
+      "styleAttributes": {},
+      "x": 2162,
+      "y": 820,
+      "width": 125,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "5cd8a8be14cbc472",
+      "type": "text",
+      "text": "# Arraylist để viết app cho 1 coffee shop\n\n## 1 . Merge shop's menu\n+ Add drink menu\n+ update drink to menu\n+ display menu\n## 2. Create Orders\n+ Add drink, quantity to order\n+ print order\n## 3. Report\n+ Display order from...to\n+ Display total money in month",
+      "styleAttributes": {},
+      "x": 1214,
+      "y": -202,
+      "width": 636,
+      "height": 562
+    },
+    {
+      "id": "a7a876c813ffd6c0",
+      "type": "text",
+      "text": "Map",
+      "styleAttributes": {},
+      "x": -679,
+      "y": 379,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "2095a643002423c0",
+      "fromNode": "d87c2a8432e636b7",
+      "fromSide": "top",
+      "toNode": "1cc61085d0aa7763",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d07c0b7188ee81aa",
+      "fromNode": "a2afb29e91aca1fd",
+      "fromSide": "top",
+      "toNode": "1cc61085d0aa7763",
+      "toSide": "bottom"
+    },
+    {
+      "id": "21d90f97bdffbb87",
+      "fromNode": "cddc8c310848107b",
+      "fromSide": "top",
+      "toNode": "d87c2a8432e636b7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e4117b51d6b2040a",
+      "fromNode": "628a866dd2046fdc",
+      "fromSide": "top",
+      "toNode": "a2afb29e91aca1fd",
+      "toSide": "bottom"
+    },
+    {
+      "id": "53ae1b9789bdadd9",
+      "fromNode": "01256b2e62c4dc52",
+      "fromSide": "top",
+      "toNode": "f6967f2f88ac684c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "723f26d148e71cc7",
+      "fromNode": "1cc61085d0aa7763",
+      "fromSide": "bottom",
+      "toNode": "a7a876c813ffd6c0",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

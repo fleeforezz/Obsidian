@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "6b0c14c5bae3c6bd",
+      "type": "text",
+      "text": "# Java App\nLogin\n",
+      "styleAttributes": {},
+      "x": -125,
+      "y": 63,
+      "width": 250,
+      "height": 217
+    },
+    {
+      "id": "a37f9946f8373653",
+      "type": "text",
+      "text": "# Bên trung gian \n\nCung cấp code từ nhà cung cấp dưới dạng là một function",
+      "styleAttributes": {},
+      "x": 276,
+      "y": 146,
+      "width": 250,
+      "height": 214
+    },
+    {
+      "id": "2201e2f7243f4593",
+      "type": "text",
+      "text": "# Google API\n\nCode \nCode \nCode\nAPI\ncode \nAPI \nAPI",
+      "styleAttributes": {},
+      "x": 740,
+      "y": 63,
+      "width": 250,
+      "height": 257
+    },
+    {
+      "id": "8ddfc27ad23c80e6",
+      "type": "text",
+      "text": "card này gọi là interface trong java",
+      "styleAttributes": {},
+      "x": 276,
+      "y": -35,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "c2bdcb7db5925e83",
+      "fromNode": "a37f9946f8373653",
+      "fromSide": "top",
+      "toNode": "8ddfc27ad23c80e6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f55670e448ada690",
+      "fromNode": "2201e2f7243f4593",
+      "fromSide": "left",
+      "toNode": "a37f9946f8373653",
+      "toSide": "right"
+    },
+    {
+      "id": "fdaedd6ce4f784be",
+      "fromNode": "a37f9946f8373653",
+      "fromSide": "left",
+      "toNode": "6b0c14c5bae3c6bd",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}
