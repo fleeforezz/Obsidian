@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9571e751fb0f6ef5",
+        "id": "20f49a06391634cb",
         "type": "tabs",
         "children": [
           {
-            "id": "674a959590bf2a2b",
+            "id": "77f8bc2c6317ca47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Study/Docker/Container Port Mapping.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Container Port Mapping"
+            }
+          },
+          {
+            "id": "f8c530a97115d1ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Study/Docker/Docker port mapping.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Docker port mapping"
             }
           }
         ]
@@ -91,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/My PC Build/Pc Components.md",
+                "file": "03 - Study/Docker/Container Port Mapping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,7 +133,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pc Components"
+              "title": "Graph of Container Port Mapping"
             }
           },
           {
@@ -140,6 +154,16 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "aa15c9b811981c47",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -182,9 +206,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "03 - Study/Docker/Container Port Mapping.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Container Port Mapping"
             }
           },
           {
@@ -221,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +263,18 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "674a959590bf2a2b",
+  "active": "77f8bc2c6317ca47",
   "lastOpenFiles": [
+    "03 - Study/Docker/Dockerfile.md",
+    "03 - Study/Docker/Specific a Working Directory.md",
+    "03 - Study/Docker/Container Port Mapping.md",
+    "03 - Study/Docker/Docker port mapping.md",
+    "03 - Study/Docker/Copy local file to container.md",
+    "03 - Study/Docker/Basic docker CLI command.md",
+    "02 - Resources/Image Library/Pasted Image 20241025152928_493.png",
+    "99 - Meta/System Tweaks/WSL/Install WSL.md",
+    "04 - Tasks Board/Home Server board.md",
+    "04 - Tasks Board/Learning board.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "99 - Meta/System Tweaks/Add large file to github or gitlab/Use github or gitlab LFS (Large File Storage).md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
@@ -257,24 +294,15 @@
     "99 - Meta/Temp",
     "01 - HomeLab/NVR/Frigate/Frigate.md",
     "01 - HomeLab/Storage & BackUp/MinIO/MinIO.md",
-    "03 - Study/Docker/Basic docker CLI command.md",
     "01 - HomeLab/Storage & BackUp/MinIO",
     "01 - HomeLab/OS & System control/Cockpit/Third party repository.md",
     "01 - HomeLab/OS & System control/Cockpit/Cockpit.md",
-    "01 - HomeLab/Containerize/Portainer/Portainer.md",
-    "01 - HomeLab/Containerize/Docker Compose/Docker Compose.md",
     "Bookery 1.sql",
     "Bookery.sql",
-    "03 - Study/FPTU/PRJ/Quá trình tạo CRUD.md",
-    "03 - Study/FPTU/PRJ/DAO design pattern.md",
-    "06 - Projects/Untitled.md",
     "06 - Projects/Bookery",
     "06 - Projects",
-    "05 - Excalidraw/Drawing 2024-09-23 13.40.10.excalidraw.md",
     "03 - Study/FPTU/PRJ/Resources",
     "03 - Study/FPTU/PRJ",
-    "01 - HomeLab/Monitoring/Prometheus/Install Prometheus.md",
-    "01 - HomeLab/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "03 - Study/Java/Pasted image 20240220131603.png",
@@ -291,7 +319,6 @@
     "01 - HomeLab/Home Server Infrastructure/Resources/gmail.png",
     "01 - HomeLab/Home Server Infrastructure/Resources/development.png",
     "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121358.png",
-    "01 - HomeLab/Home Server Infrastructure/Resources/namecheap-icon-2048x2048-ft2h6a21.png",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
     "03 - Study/FPTU/dotNet/Untitled.canvas"
   ]

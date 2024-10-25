@@ -6,6 +6,9 @@ We use nodejs base image from docker hub
 # Specify a base image 
 FROM node:14-alpine
 
+# Create a Working directory
+WORKDIR /usr/app
+
 # Install some dependencies
 COPY ./ ./
 RUN npm install
