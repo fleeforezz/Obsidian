@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## Management Server
 
-- [ ] 192.168.1.32
-- [ ] 192.168.1.35
+- [ ] 192.168.1.32 (Cockpit)
+- [ ] 192.168.1.35 (Portainer HQ)
 
 
 ## Networking Server
 
-- [ ] 192.168.1.90
+- [ ] 192.168.1.90 (Nginx Proxy Manager)
 - [ ] 192.168.1.91
 
 
@@ -49,6 +49,7 @@ kanban-plugin: board
 
 - [ ] 192.168.1.34
 - [ ] 192.168.1.31
+- [ ] 192.168.1.41
 
 
 ## Monitoring Server
