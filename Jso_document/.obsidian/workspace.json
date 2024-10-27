@@ -15,8 +15,8 @@
               "state": {
                 "file": "03 - Study/Docker/Container Port Mapping.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Container Port Mapping"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -143,8 +143,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -153,12 +153,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "aa15c9b811981c47",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7160c015d954cd4f",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -168,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "1335c03b92f3f73c",
@@ -264,7 +274,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f8c530a97115d1ff",
+  "active": "7160c015d954cd4f",
   "lastOpenFiles": [
     "03 - Study/Docker/Container Port Mapping.md",
     "05 - Excalidraw/Docker Explain.excalidraw.md",
