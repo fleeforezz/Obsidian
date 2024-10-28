@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Containerize/Docker/Docker.md",
-                "mode": "source",
+                "file": "01 - HomeLab/Containerize/Docker/Docker syntax.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Docker syntax"
             }
           }
         ]
@@ -207,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/Docker/Container Port Mapping.md"
+                "file": "01 - HomeLab/Containerize/Docker/Docker syntax.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Container Port Mapping"
+              "title": "Outline of Docker syntax"
             }
           },
           {
@@ -265,8 +265,8 @@
   },
   "active": "dd86641de824361f",
   "lastOpenFiles": [
-    "01 - HomeLab/Containerize/Docker/Docker syntax.md",
     "01 - HomeLab/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Containerize/Docker/Docker syntax.md",
     "01 - HomeLab/Storage & BackUp/Immich/Immich.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Storage & BackUp/Immich",
