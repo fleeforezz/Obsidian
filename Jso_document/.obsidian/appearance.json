@@ -4,8 +4,8 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "system",
-  "cssTheme": "Vanilla AMOLED",
-  "interfaceFontFamily": "",
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "Cascadia Code,Consolas",
   "enabledCssSnippets": [
     "banner",
     "Colored Sidebar Items"
