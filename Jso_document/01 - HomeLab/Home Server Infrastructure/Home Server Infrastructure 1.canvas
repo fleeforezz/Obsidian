@@ -103,15 +103,6 @@
       "height": 60
     },
     {
-      "id": "ed9a0518a6787521",
-      "type": "text",
-      "text": "Acer Monitor",
-      "x": -228,
-      "y": -452,
-      "width": 230,
-      "height": 60
-    },
-    {
       "id": "246ddaf0a638b5e2",
       "type": "text",
       "text": "Tp-link Router AC",
@@ -236,24 +227,6 @@
       "y": 267,
       "width": 120,
       "height": 120
-    },
-    {
-      "id": "193db6291d31c8ad",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/nginx-proxy-manager.png",
-      "x": 2924,
-      "y": 1003,
-      "width": 104,
-      "height": 120
-    },
-    {
-      "id": "182b39954a7dd266",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "x": 3466,
-      "y": 969,
-      "width": 67,
-      "height": 67
     },
     {
       "id": "fe7ae03c24ae9222",
@@ -391,15 +364,6 @@
       "height": 67
     },
     {
-      "id": "79a32e5dced87be8",
-      "type": "file",
-      "file": "02 - Resources/Image Library/data-server.png",
-      "x": 655,
-      "y": 964,
-      "width": 170,
-      "height": 170
-    },
-    {
       "id": "09b36df0d3f86ca5",
       "type": "file",
       "file": "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
@@ -434,33 +398,6 @@
       "y": -467,
       "width": 67,
       "height": 67
-    },
-    {
-      "id": "c710ff7760a0ebe7",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
-      "x": 686,
-      "y": -210,
-      "width": 105,
-      "height": 105
-    },
-    {
-      "id": "0c520621e0dc47d1",
-      "type": "file",
-      "file": "02 - Resources/Image Library/decode.png",
-      "x": 681,
-      "y": 111,
-      "width": 120,
-      "height": 120
-    },
-    {
-      "id": "b3d5d5b69f1b487f",
-      "type": "file",
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "x": 688,
-      "y": -53,
-      "width": 104,
-      "height": 104
     },
     {
       "id": "9a69279d7287a0ab",
@@ -535,24 +472,6 @@
       "height": 168
     },
     {
-      "id": "75b0442f4cba1c8d",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
-      "x": 2142,
-      "y": 1138,
-      "width": 104,
-      "height": 101
-    },
-    {
-      "id": "427491958643da1b",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/truenas-scale.png",
-      "x": 2681,
-      "y": 1138,
-      "width": 120,
-      "height": 82
-    },
-    {
       "id": "fb8922f6d0faa62c",
       "type": "file",
       "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
@@ -569,6 +488,87 @@
       "y": 1138,
       "width": 104,
       "height": 101
+    },
+    {
+      "id": "ed9a0518a6787521",
+      "type": "text",
+      "text": "Acer Monitor",
+      "x": -228,
+      "y": -452,
+      "width": 230,
+      "height": 60
+    },
+    {
+      "id": "193db6291d31c8ad",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/nginx-proxy-manager.png",
+      "x": 2924,
+      "y": 1003,
+      "width": 104,
+      "height": 120
+    },
+    {
+      "id": "182b39954a7dd266",
+      "type": "file",
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "x": 3466,
+      "y": 969,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "79a32e5dced87be8",
+      "type": "file",
+      "file": "02 - Resources/Image Library/data-server.png",
+      "x": 655,
+      "y": 964,
+      "width": 170,
+      "height": 170
+    },
+    {
+      "id": "c710ff7760a0ebe7",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
+      "x": 686,
+      "y": -210,
+      "width": 105,
+      "height": 105
+    },
+    {
+      "id": "0c520621e0dc47d1",
+      "type": "file",
+      "file": "02 - Resources/Image Library/decode.png",
+      "x": 681,
+      "y": 111,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "id": "b3d5d5b69f1b487f",
+      "type": "file",
+      "file": "02 - Resources/Image Library/network-switch.png",
+      "x": 688,
+      "y": -53,
+      "width": 104,
+      "height": 104
+    },
+    {
+      "id": "75b0442f4cba1c8d",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
+      "x": 2142,
+      "y": 1138,
+      "width": 104,
+      "height": 101
+    },
+    {
+      "id": "427491958643da1b",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/truenas-scale.png",
+      "x": 2681,
+      "y": 1138,
+      "width": 120,
+      "height": 82
     },
     {
       "id": "70549c62d4d0431a",

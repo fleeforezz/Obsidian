@@ -1,6 +1,8 @@
 ---
-banner: "https://bknet.edu.vn/wp-content/uploads/2021/09/ansible-la-gi.png"
-banner_y: 0.44
+banner: https://bknet.edu.vn/wp-content/uploads/2021/09/ansible-la-gi.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
 ---
 # Install Ansile
 ## For linux

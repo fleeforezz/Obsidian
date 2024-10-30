@@ -1,7 +1,10 @@
 ---
-banner: "https://www.librechat.ai/_next/image?url=%2Fimages%2Fblog%2F2024-03-02_ollama.png&w=3840&q=75"
-banner_y: 0.808
+banner: https://assets.st-note.com/production/uploads/images/150640182/rectangle_large_type_2_1e85397b83c94eff1ce77b64a965359c.png?width=1200
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
 ---
+
 # Install directly on linux server
 
 ```shell
