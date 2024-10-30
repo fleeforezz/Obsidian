@@ -11,7 +11,6 @@ kanban-plugin: board
 - [ ] Buy a Proxmox server
 - [ ] Create Ingress in K8s
 - [ ] Create LoadBalancer for K8s clusters
-- [ ] Fix Argocd cannot add repository error
 - [ ] Fix Jso_Blog cannot deploy to K8s
 
 
@@ -26,6 +25,8 @@ kanban-plugin: board
 **Complete**
 - [x] Create monitoring for each server and import to Grafana
 - [x] Change game data storage from internal to external using NFS share from TrueNas Scale
+- [x] Update Gitlab Storage
+- [x] Recreate Gitlab
 - [x] Try to deploy App to K8s
 - [x] Merge storage from using cockpit to TrueNas scale using NFS
 - [x] Passthrough 2 Ethernet nic into pfsense
@@ -35,6 +36,7 @@ kanban-plugin: board
 - [x] Create full CI/CD pipline with Jenkin and K8s
 - [x] Add SSH into Guacamole
 - [x] Have a separate file server
+- [x] Fix Argocd cannot add repository error
 - [x] Close Jellyfin service
 - [x] Change HomeLab obsidian services name
 
@@ -42,8 +44,6 @@ kanban-plugin: board
 ## Failed ⭕
 
 **Complete**
-- [x] Update Gitlab Storage
-- [x] Recreate Gitlab
 
 
 ## Abort
