@@ -1,11 +1,10 @@
 ---
-banner: "https://www.docker.com/wp-content/uploads/2022/12/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png"
+banner: https://www.docker.com/wp-content/uploads/2022/12/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
 ---
----
-banner: "https://www.docker.com/wp-content/uploads/2022/12/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png"
-banner_y: 0.424
----
-# Docker
+## Docker
 1. Set up Docker's `apt` repository.
 ```
 # Add Docker's official GPG key:

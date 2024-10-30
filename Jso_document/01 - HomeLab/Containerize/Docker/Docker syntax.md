@@ -1,15 +1,5 @@
----
-banner: "https://www.docker.com/wp-content/uploads/2022/12/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png"
----
----
-banner: "https://www.docker.com/wp-content/uploads/2022/12/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png"
----
----
-banner: "https://www.docker.com/wp-content/uploads/2022/12/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png"
-banner_y: 0.888
----
+## Docker syntax
 
-# Docker syntax
 ```shell
 docker images   # To show docker images
 docker ps   # To show active container
@@ -29,7 +19,7 @@ docker exec -it <container ID> <bash | powershell | zsh | sh>   # To edit the fi
 
 ```
 
-# Create a Dockerfile
+## Create a Dockerfile
 
 For NodeJS we use node base image from docker hub
 

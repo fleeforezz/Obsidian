@@ -1,4 +1,11 @@
-# Install
+---
+banner: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yVgftESQvE5pLgVICFieaw.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]] installed

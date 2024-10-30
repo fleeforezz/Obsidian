@@ -1,4 +1,11 @@
-# Install
+---
+banner: https://medevel.com/content/images/size/w960/2023/12/themes.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]] installed

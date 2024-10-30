@@ -1,9 +1,16 @@
-# Install
+---
+banner: https://www.home-assistant.io/images/blog/2023-09-ha10/logo-cover.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]]
 
-# Docker
+## Docker
 
 > Create a folder name HASS
 
@@ -25,7 +32,7 @@ sudo docker run -d \
 ```
 --> WebUi: `http://localhost:8123` 
 
-# Docker Compose (Reccommend)
+## Docker Compose (Reccommend)
 
 ```yaml
 version: '3'
@@ -42,7 +49,7 @@ services:
     network_mode: host
 ```
 
-# 404 problem
+## 404 problem
 
 > If you using SSL using [[Nginx Proxy Manager]] with HomeAssistant you have to add extra config in the `configuration.yml` file.
 

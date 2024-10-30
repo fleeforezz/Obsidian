@@ -1,13 +1,19 @@
-# What is Kubernetes
+---
+banner: https://media.licdn.com/dms/image/v2/D5612AQEtYZHuG9EAvA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690715676764?e=2147483647&v=beta&t=BSZ6IpTKRQKGWDCqPnYSSHhk8V8ecqAXCfGnZT4lU0k
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+## What is Kubernetes
 
 
-# Install Kubernetes
+## Install Kubernetes
 [[Install Kubernetes]]
-# Fix Error
+## Fix Error
 [[Fix error]]
-# Cheatsheet
+## Cheatsheet
 [[Cheatsheet]]
-# deployment.yml file
+## deployment.yml file
 
 ```YAML
 apiVersion: apps/v1
@@ -31,7 +37,7 @@ spec:
         - containerPort: 9463
 ```
 
-# service.yml
+## service.yml
 
 ```YAML
 apiVersion: v1
@@ -48,7 +54,7 @@ spec:
       nodePort: 32000
 ```
 
-# Export file
+## Export file
 
 ```shell
 export KUBECONFIG=/etc/kubernetes/admin.conf

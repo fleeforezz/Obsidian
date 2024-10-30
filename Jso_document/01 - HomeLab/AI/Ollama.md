@@ -5,19 +5,19 @@ banner-display: cover
 banner-fade: "-100"
 ---
 
-# Install directly on linux server
+## Install directly on linux server
 
 ```shell
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-# For CPU Support
+## For CPU Support
 
 ```shell
 docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 ```
 
-# For GPU Support
+## For GPU Support
 
 ```shell
 docker run -d -p 3000:8080 --gpus=all -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama

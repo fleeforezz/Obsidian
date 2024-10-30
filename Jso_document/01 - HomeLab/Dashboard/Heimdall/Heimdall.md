@@ -1,8 +1,15 @@
-# Install
+---
+banner: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/heimdall-banner.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note] 
 > Make sure you have [[Docker]] and [[Docker Compose]]
-## Docker
+### Docker
 
 ```docker
 docker run -d \
@@ -21,7 +28,7 @@ Remember to change:
 - Timezone
 - Path data
 
-## Docker-Compose (Recommend)
+### Docker-Compose (Recommend)
 
 ```yaml
 ---
@@ -41,7 +48,7 @@ services:
     restart: unless-stopped
 ```
 
-## Update 
+### Update 
 
 > Update Image
 

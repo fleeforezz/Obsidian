@@ -1,4 +1,11 @@
-# Install
+---
+banner: https://quoc9x.com/wp-content/uploads/2022/05/rancher-logo-1.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] installed

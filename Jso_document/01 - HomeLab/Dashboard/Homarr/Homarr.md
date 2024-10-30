@@ -1,8 +1,15 @@
-# Install
+---
+banner: https://i.pinimg.com/736x/08/b1/24/08b124742cb680b20617992f4ddfdc3a.jpg
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]] installed
-# Docker
+## Docker
 
 ```shell
 docker run  \
@@ -14,7 +21,7 @@ docker run  \
   -d ghcr.io/ajnart/homarr:latest
 ```
 
-# Docker Compose (Recommend)
+## Docker Compose (Recommend)
 
 ```yaml
 version: '3'

@@ -1,14 +1,18 @@
-# Install
+---
+banner:
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]]
-## Docker
+### Docker
 
 ```shell
 docker run -p 3000:3000 -v /path/to/config:/app/config -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/benphelps/homepage:latest
 ```
 
-## Docker Compose (Recommend)
+### Docker Compose (Recommend)
 
 ```yaml
 version: "3.3"

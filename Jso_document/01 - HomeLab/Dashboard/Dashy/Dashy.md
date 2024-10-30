@@ -1,14 +1,21 @@
-# Install
+---
+banner: https://miro.medium.com/v2/resize:fit:1200/1*DpdendagBOaOfsvcKG6wcQ.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]]
-# Quick start
+## Quick start
 
 ```docker
 docker run -p 8080:80 lissy93/dashy
 ```
 
-# Docker
+## Docker
 
 ```docker
 sudo docker run -d \\
@@ -19,7 +26,7 @@ sudo docker run -d \\
   lissy93/dashy:latest
 ```
 
-# Docker Compose (Recommended)
+## Docker Compose (Recommended)
 
 ```yaml
 ---

@@ -1,4 +1,11 @@
-# Install
+---
+banner: https://domopi.eu/content/images/2021/02/image-2.jpg
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
+## Install
 
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]] installed
@@ -14,7 +21,7 @@ sudo docker run -d \
                 portainer/portainer-ce:latest
 ```
 
-# Update
+## Update
 
 > **Remember to backup first**
 
@@ -34,7 +41,7 @@ docker pull portainer/portainer-ce:latest
 docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
 ```
 
-# Uninstall
+## Uninstall
 
 ```shell
 sudo su

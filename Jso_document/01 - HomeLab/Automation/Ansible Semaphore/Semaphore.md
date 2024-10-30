@@ -1,3 +1,10 @@
+---
+banner: https://eazytraining.fr/wp-content/uploads/2024/03/logo_ansible-semaphore-1.png
+content-start: "300"
+banner-display: cover
+banner-fade: "-100"
+---
+
 > [!note]
 >  Make sure your machine have [[Docker]] and [[Docker Compose]] installed
  
