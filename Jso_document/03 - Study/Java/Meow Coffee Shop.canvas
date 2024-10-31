@@ -31,112 +31,6 @@
       "label": "Code"
     },
     {
-      "id": "da604c0beec1f76d",
-      "type": "text",
-      "text": "Choose option 2",
-      "styleAttributes": {},
-      "x": -80,
-      "y": 273,
-      "width": 140,
-      "height": 73,
-      "color": "5"
-    },
-    {
-      "id": "d83d5e0c90bb6720",
-      "type": "text",
-      "text": "# Meow Coffee Shop\n\n## Menu display:\n\n1.Manage Meow Coffee Shop\n2.Create Order\n3.Report\n4.Exit\n\nEnter Choice : ",
-      "styleAttributes": {},
-      "x": -100,
-      "y": -700,
-      "width": 680,
-      "height": 460
-    },
-    {
-      "id": "cf99e9b8eafa0ac2",
-      "type": "text",
-      "text": "# Create Order\n## Menu display\n\n1.Create\n2.Return to main Menu\n\nEnter drink code to buy (To select drink through drink id) :\nEnter quantity (Enter how many drink) :\n",
-      "styleAttributes": {},
-      "x": 860,
-      "y": -470,
-      "width": 388,
-      "height": 290
-    },
-    {
-      "id": "0376df957f7f0190",
-      "type": "text",
-      "text": "# Display shop report\n## Menu display\n\n1.Display order history from....to...\n2.Display income in month/year\n3.Return to main Menu\n\nEnter choice : \n",
-      "styleAttributes": {},
-      "x": 165,
-      "y": 4,
-      "width": 355,
-      "height": 276
-    },
-    {
-      "id": "ce512a4eeca083c4",
-      "type": "text",
-      "text": "Enter drink code to buy (To select drink through drink id) :\nEnter quantity (Enter how many drink) :",
-      "styleAttributes": {},
-      "x": 1499,
-      "y": -376,
-      "width": 250,
-      "height": 156
-    },
-    {
-      "id": "5b3585e65f3ba51a",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": 1300,
-      "y": -350,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "1e70aedcd8ac937c",
-      "type": "text",
-      "text": "Drink not found !!!",
-      "styleAttributes": {},
-      "x": 2000,
-      "y": -220,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "c88db13049f92f5d",
-      "type": "text",
-      "text": "Added !!!",
-      "styleAttributes": {},
-      "x": 1980,
-      "y": -530,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "db8d31b6c9d9e8cc",
-      "type": "text",
-      "text": "Valid",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": -450,
-      "width": 100,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "ee0883963fb952f0",
-      "type": "text",
-      "text": "Invalid",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": -270,
-      "width": 120,
-      "height": 60,
-      "color": "1"
-    },
-    {
       "id": "6572ea5ffd7284a0",
       "type": "text",
       "text": "# Manage Meow Coffee Shop\n\n## Menu display\n\n1.Add new drink to Menu\n2.Update drink\n3.Display Menu\n4.Return to main Menu\n\nEnter Choice :\n",
@@ -147,27 +41,6 @@
       "height": 321
     },
     {
-      "id": "75f62db16aeed74a",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -1200,
-      "y": -730,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "d5aafc444787cccb",
-      "type": "text",
-      "text": "# Display drink\n## Menu display\n\n1.Display\n2.Return to manage Menu\n\nEnter choice :",
-      "styleAttributes": {},
-      "x": -1529,
-      "y": -220,
-      "width": 309,
-      "height": 260
-    },
-    {
       "id": "8303cf89a2020606",
       "type": "text",
       "text": "Choose option 3",
@@ -176,27 +49,6 @@
       "y": -309,
       "width": 140,
       "height": 69,
-      "color": "5"
-    },
-    {
-      "id": "3e96c96f06f5c809",
-      "type": "text",
-      "text": "# Enter drink info\n## Menu display\n\n1.Add\n2.Display menu\n3.Return to manage Menu\n\nEnter choice :\n",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": -940,
-      "width": 309,
-      "height": 270
-    },
-    {
-      "id": "c311e4356208d441",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -1740,
-      "y": -842,
-      "width": 140,
-      "height": 60,
       "color": "5"
     },
     {
@@ -211,122 +63,6 @@
       "color": "5"
     },
     {
-      "id": "38e8b738d510afc9",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -1740,
-      "y": -487,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "76c0f2fc5334cbb9",
-      "type": "text",
-      "text": "Choose option 3",
-      "styleAttributes": {},
-      "x": 203,
-      "y": -140,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "4ea6d0848df3a7b5",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": 660,
-      "y": -420,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "88fa280819b612b1",
-      "type": "text",
-      "text": "# Update Drink\n## Menu display\n\n1.Update\n2.Return to manage Menu\n\nEnter choice :",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": -607,
-      "width": 309,
-      "height": 267
-    },
-    {
-      "id": "c93f9cca381cbb83",
-      "type": "text",
-      "text": "Enter Code:\nEnter Name:\nEnter Price:\nEnter Status:",
-      "styleAttributes": {},
-      "x": -2040,
-      "y": -895,
-      "width": 250,
-      "height": 130
-    },
-    {
-      "id": "d452a3d7597e1402",
-      "type": "text",
-      "text": "Drink display here\nDrink display here\nDrink display here",
-      "styleAttributes": {},
-      "x": -2019,
-      "y": -52,
-      "width": 250,
-      "height": 112
-    },
-    {
-      "id": "22884bc8b61c648e",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -1720,
-      "y": -82,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "3006925d68f3fb48",
-      "type": "text",
-      "text": "Enter date from... :\nEnter date to :",
-      "styleAttributes": {},
-      "x": -1060,
-      "y": 142,
-      "width": 250,
-      "height": 78
-    },
-    {
-      "id": "f1575b740e5bc7cc",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -754,
-      "y": 82,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "3fbf2185d874b814",
-      "type": "text",
-      "text": "Valid Input",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": -885,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "6669d56de3a3e319",
-      "type": "text",
-      "text": "Enter drink code to update (Find drink code to update it) :",
-      "styleAttributes": {},
-      "x": -2093,
-      "y": -475,
-      "width": 303,
-      "height": 96
-    },
-    {
       "id": "e485e846ea31228b",
       "type": "text",
       "text": "Update Successfully",
@@ -338,114 +74,6 @@
       "color": "4"
     },
     {
-      "id": "297c8cec64e45a33",
-      "type": "text",
-      "text": "Valid",
-      "styleAttributes": {},
-      "x": -2282,
-      "y": -526,
-      "width": 100,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "d8832254d1484636",
-      "type": "text",
-      "text": "Add Successfully",
-      "styleAttributes": {},
-      "x": -3047,
-      "y": -1040,
-      "width": 193,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "61e0bb59b5d1aea2",
-      "type": "text",
-      "text": "Add Fail !!!",
-      "styleAttributes": {},
-      "x": -3009,
-      "y": -765,
-      "width": 155,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "c479672c30d3d34b",
-      "type": "text",
-      "text": "Update Fail !!!",
-      "styleAttributes": {},
-      "x": -2540,
-      "y": -311,
-      "width": 174,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "f84b37e36e3bde42",
-      "type": "text",
-      "text": "Invalid",
-      "styleAttributes": {},
-      "x": -2292,
-      "y": -371,
-      "width": 120,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "c775d21f979a0dfd",
-      "type": "text",
-      "text": "Code > 0\nName only contain String\nPrice only contain number and price >= 0\n",
-      "styleAttributes": {},
-      "x": -2660,
-      "y": -939,
-      "width": 378,
-      "height": 145
-    },
-    {
-      "id": "51b0e5dfab143878",
-      "type": "text",
-      "text": "Valid",
-      "styleAttributes": {},
-      "x": -2820,
-      "y": -980,
-      "width": 100,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "927424e4cb1949df",
-      "type": "text",
-      "text": "Invalid",
-      "styleAttributes": {},
-      "x": -2820,
-      "y": -824,
-      "width": 120,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "007e227cb9fa86ff",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -80,
-      "y": 60,
-      "width": 140,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "719447f383f89e6b",
-      "type": "text",
-      "text": "Collections / Arrays\n------------------------\n+static void sort(list)\n+static void sort(list, comparator)",
-      "styleAttributes": {},
-      "x": 2779,
-      "y": 2110,
-      "width": 250,
-      "height": 278
-    },
-    {
       "id": "b07cc712bd6b655e",
       "type": "text",
       "text": "# Display income in month/year\n\n## Menu display\n\n1.Income in month\n2.Income in year\n3.Back to Shop report\n\nEnter choice : ",
@@ -454,98 +82,6 @@
       "y": 273,
       "width": 410,
       "height": 307
-    },
-    {
-      "id": "6731bd32496e91ae",
-      "type": "text",
-      "text": ">interface\nSet\n------------------\n+...\n+...",
-      "styleAttributes": {},
-      "x": 2400,
-      "y": 1882,
-      "width": 250,
-      "height": 219
-    },
-    {
-      "id": "caa651fef69bd620",
-      "type": "text",
-      "text": "TreeSet\n------------------------\n-root:Object\n+...\n+...",
-      "styleAttributes": {},
-      "x": 2400,
-      "y": 2220,
-      "width": 250,
-      "height": 168
-    },
-    {
-      "id": "512afd3802b422d2",
-      "type": "text",
-      "text": "ArrayList\n----------------------------\n+buffer:[]Object\n+get(i):Object\n+remove(i)\n+size():int\n",
-      "styleAttributes": {},
-      "x": 1920,
-      "y": 2220,
-      "width": 250,
-      "height": 214
-    },
-    {
-      "id": "b7e10218c43fcb73",
-      "type": "text",
-      "text": "Compiler ko check trùng các object ko buffer",
-      "styleAttributes": {},
-      "x": 2080,
-      "y": 2140,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "7f77394f5965bfa0",
-      "type": "text",
-      "text": ">interface\nComparable\n-------------------------\n+int compareTo(Object o)",
-      "styleAttributes": {},
-      "x": 2760,
-      "y": 1503,
-      "width": 288,
-      "height": 237
-    },
-    {
-      "id": "d7ae287cefdd43c5",
-      "type": "text",
-      "text": ">interface\nComparator\n-------------------------\n+int compare(01, 02)",
-      "styleAttributes": {},
-      "x": 2760,
-      "y": 1820,
-      "width": 288,
-      "height": 237
-    },
-    {
-      "id": "1410e66fd95cc442",
-      "type": "text",
-      "text": ">interface\nList\n-----------------------\n+...\n+...",
-      "styleAttributes": {},
-      "x": 1920,
-      "y": 1880,
-      "width": 250,
-      "height": 221
-    },
-    {
-      "id": "1677880e8719546d",
-      "type": "text",
-      "text": ">interface\nCollection\n----------------------\n+add()\n+get()\n+size()\n+rename()\n+clear()",
-      "styleAttributes": {},
-      "x": 2120,
-      "y": 1440,
-      "width": 250,
-      "height": 300
-    },
-    {
-      "id": "b5fbebe5c3c4c9c8",
-      "type": "text",
-      "text": "Choose option 1",
-      "styleAttributes": {},
-      "x": -320,
-      "y": -530,
-      "width": 140,
-      "height": 60,
-      "color": "5"
     },
     {
       "id": "8a138ade416df8ac",
@@ -600,6 +136,449 @@
       "height": 253
     },
     {
+      "id": "75f62db16aeed74a",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -1200,
+      "y": -730,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d5aafc444787cccb",
+      "type": "text",
+      "text": "# Display drink\n## Menu display\n\n1.Display\n2.Return to manage Menu\n\nEnter choice :",
+      "styleAttributes": {},
+      "x": -1529,
+      "y": -220,
+      "width": 309,
+      "height": 260
+    },
+    {
+      "id": "38e8b738d510afc9",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -1740,
+      "y": -487,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "76c0f2fc5334cbb9",
+      "type": "text",
+      "text": "Choose option 3",
+      "styleAttributes": {},
+      "x": 203,
+      "y": -140,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "88fa280819b612b1",
+      "type": "text",
+      "text": "# Update Drink\n## Menu display\n\n1.Update\n2.Return to manage Menu\n\nEnter choice :",
+      "styleAttributes": {},
+      "x": -1580,
+      "y": -607,
+      "width": 309,
+      "height": 267
+    },
+    {
+      "id": "d452a3d7597e1402",
+      "type": "text",
+      "text": "Drink display here\nDrink display here\nDrink display here",
+      "styleAttributes": {},
+      "x": -2019,
+      "y": -52,
+      "width": 250,
+      "height": 112
+    },
+    {
+      "id": "22884bc8b61c648e",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -1720,
+      "y": -82,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "3006925d68f3fb48",
+      "type": "text",
+      "text": "Enter date from... :\nEnter date to :",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": 142,
+      "width": 250,
+      "height": 78
+    },
+    {
+      "id": "f1575b740e5bc7cc",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -754,
+      "y": 82,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b5fbebe5c3c4c9c8",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -530,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "3e96c96f06f5c809",
+      "type": "text",
+      "text": "# Enter drink info\n## Menu display\n\n1.Add\n2.Display menu\n3.Return to manage Menu\n\nEnter choice :\n",
+      "styleAttributes": {},
+      "x": -1580,
+      "y": -940,
+      "width": 309,
+      "height": 270
+    },
+    {
+      "id": "c311e4356208d441",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -1740,
+      "y": -842,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c93f9cca381cbb83",
+      "type": "text",
+      "text": "Enter Code:\nEnter Name:\nEnter Price:\nEnter Status:",
+      "styleAttributes": {},
+      "x": -2040,
+      "y": -895,
+      "width": 250,
+      "height": 130
+    },
+    {
+      "id": "3fbf2185d874b814",
+      "type": "text",
+      "text": "Valid Input",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": -885,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "6669d56de3a3e319",
+      "type": "text",
+      "text": "Enter drink code to update (Find drink code to update it) :",
+      "styleAttributes": {},
+      "x": -2093,
+      "y": -475,
+      "width": 303,
+      "height": 96
+    },
+    {
+      "id": "297c8cec64e45a33",
+      "type": "text",
+      "text": "Valid",
+      "styleAttributes": {},
+      "x": -2282,
+      "y": -526,
+      "width": 100,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "d8832254d1484636",
+      "type": "text",
+      "text": "Add Successfully",
+      "styleAttributes": {},
+      "x": -3047,
+      "y": -1040,
+      "width": 193,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "c479672c30d3d34b",
+      "type": "text",
+      "text": "Update Fail !!!",
+      "styleAttributes": {},
+      "x": -2540,
+      "y": -311,
+      "width": 174,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "f84b37e36e3bde42",
+      "type": "text",
+      "text": "Invalid",
+      "styleAttributes": {},
+      "x": -2292,
+      "y": -371,
+      "width": 120,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "db8d31b6c9d9e8cc",
+      "type": "text",
+      "text": "Valid",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": -450,
+      "width": 100,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ee0883963fb952f0",
+      "type": "text",
+      "text": "Invalid",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": -270,
+      "width": 120,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "61e0bb59b5d1aea2",
+      "type": "text",
+      "text": "Add Fail !!!",
+      "styleAttributes": {},
+      "x": -3009,
+      "y": -765,
+      "width": 155,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "c775d21f979a0dfd",
+      "type": "text",
+      "text": "Code > 0\nName only contain String\nPrice only contain number and price >= 0\n",
+      "styleAttributes": {},
+      "x": -2660,
+      "y": -939,
+      "width": 378,
+      "height": 145
+    },
+    {
+      "id": "51b0e5dfab143878",
+      "type": "text",
+      "text": "Valid",
+      "styleAttributes": {},
+      "x": -2820,
+      "y": -980,
+      "width": 100,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "927424e4cb1949df",
+      "type": "text",
+      "text": "Invalid",
+      "styleAttributes": {},
+      "x": -2820,
+      "y": -824,
+      "width": 120,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "719447f383f89e6b",
+      "type": "text",
+      "text": "Collections / Arrays\n------------------------\n+static void sort(list)\n+static void sort(list, comparator)",
+      "styleAttributes": {},
+      "x": 2779,
+      "y": 2110,
+      "width": 250,
+      "height": 278
+    },
+    {
+      "id": "caa651fef69bd620",
+      "type": "text",
+      "text": "TreeSet\n------------------------\n-root:Object\n+...\n+...",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": 2220,
+      "width": 250,
+      "height": 168
+    },
+    {
+      "id": "512afd3802b422d2",
+      "type": "text",
+      "text": "ArrayList\n----------------------------\n+buffer:[]Object\n+get(i):Object\n+remove(i)\n+size():int\n",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 2220,
+      "width": 250,
+      "height": 214
+    },
+    {
+      "id": "b7e10218c43fcb73",
+      "type": "text",
+      "text": "Compiler ko check trùng các object ko buffer",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 2140,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "0376df957f7f0190",
+      "type": "text",
+      "text": "# Display shop report\n## Menu display\n\n1.Display order history from....to...\n2.Display income in month/year\n3.Return to main Menu\n\nEnter choice : \n",
+      "styleAttributes": {},
+      "x": 165,
+      "y": 4,
+      "width": 355,
+      "height": 276
+    },
+    {
+      "id": "1e70aedcd8ac937c",
+      "type": "text",
+      "text": "Drink not found !!!",
+      "styleAttributes": {},
+      "x": 2000,
+      "y": -220,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "c88db13049f92f5d",
+      "type": "text",
+      "text": "Added !!!",
+      "styleAttributes": {},
+      "x": 1980,
+      "y": -530,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "007e227cb9fa86ff",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 60,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "6731bd32496e91ae",
+      "type": "text",
+      "text": ">interface\nSet\n------------------\n+...\n+...",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": 1882,
+      "width": 250,
+      "height": 219
+    },
+    {
+      "id": "7f77394f5965bfa0",
+      "type": "text",
+      "text": ">interface\nComparable\n-------------------------\n+int compareTo(Object o)",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": 1503,
+      "width": 288,
+      "height": 237
+    },
+    {
+      "id": "d7ae287cefdd43c5",
+      "type": "text",
+      "text": ">interface\nComparator\n-------------------------\n+int compare(01, 02)",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": 1820,
+      "width": 288,
+      "height": 237
+    },
+    {
+      "id": "1410e66fd95cc442",
+      "type": "text",
+      "text": ">interface\nList\n-----------------------\n+...\n+...",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": 1880,
+      "width": 250,
+      "height": 221
+    },
+    {
+      "id": "1677880e8719546d",
+      "type": "text",
+      "text": ">interface\nCollection\n----------------------\n+add()\n+get()\n+size()\n+rename()\n+clear()",
+      "styleAttributes": {},
+      "x": 2120,
+      "y": 1440,
+      "width": 250,
+      "height": 300
+    },
+    {
+      "id": "da604c0beec1f76d",
+      "type": "text",
+      "text": "Choose option 2",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 273,
+      "width": 140,
+      "height": 73,
+      "color": "5"
+    },
+    {
+      "id": "d83d5e0c90bb6720",
+      "type": "text",
+      "text": "# Meow Coffee Shop\n\n## Menu display:\n\n1.Manage Meow Coffee Shop\n2.Create Order\n3.Report\n4.Exit\n\nEnter Choice : ",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -700,
+      "width": 680,
+      "height": 460
+    },
+    {
+      "id": "cf99e9b8eafa0ac2",
+      "type": "text",
+      "text": "# Create Order\n## Menu display\n\n1.Create\n2.Return to main Menu\n\nEnter drink code to buy (To select drink through drink id) :\nEnter quantity (Enter how many drink) :\n",
+      "styleAttributes": {},
+      "x": 860,
+      "y": -470,
+      "width": 388,
+      "height": 290
+    },
+    {
+      "id": "5b3585e65f3ba51a",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": -350,
+      "width": 140,
+      "height": 60,
+      "color": "5"
+    },
+    {
       "id": "0813443931672589",
       "type": "text",
       "text": "Order\n--------------------\n-id: long\n-name: String\n-orderDate: Date\n-list ArrayList(OrderDetail)\n\n---------------\n+constructor\n+getter/setter\n+findDrink(Drink d): OrderDetail\n+addDrinkToOrder(int drinkCode, int quantity, Menu menu): boolean\n+displayOrder(): void\n\n\n\n",
@@ -648,6 +627,27 @@
       "y": 1180,
       "width": 250,
       "height": 367
+    },
+    {
+      "id": "ce512a4eeca083c4",
+      "type": "text",
+      "text": "Enter drink code to buy (To select drink through drink id) :\nEnter quantity (Enter how many drink) :",
+      "styleAttributes": {},
+      "x": 1499,
+      "y": -376,
+      "width": 250,
+      "height": 156
+    },
+    {
+      "id": "4ea6d0848df3a7b5",
+      "type": "text",
+      "text": "Choose option 1",
+      "styleAttributes": {},
+      "x": 660,
+      "y": -420,
+      "width": 140,
+      "height": 60,
+      "color": "5"
     }
   ],
   "edges": [

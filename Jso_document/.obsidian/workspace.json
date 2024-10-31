@@ -11,10 +11,14 @@
             "id": "ff9b3ea036de40c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Study/Java/doGet và doPost.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "doGet và doPost"
             }
           }
         ]
@@ -202,9 +206,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "03 - Study/Java/doGet và doPost.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of doGet và doPost"
             }
           },
           {
@@ -254,12 +260,16 @@
       "daily-notes:Open today's daily note": false,
       "obsidian-kanban:Create new board": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "card-board:CardBoard": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ff9b3ea036de40c4",
   "lastOpenFiles": [
+    "03 - Study/Java/Pasted image 20240220131603.png",
+    "03 - Study/Java/doGet và doPost.md",
+    "03 - Study/Java/Interface.canvas",
+    "03 - Study/Java/Meow Coffee Shop.canvas",
+    "01 - HomeLab/Automation/Ansible/Ansible.md",
     "03 - Study/FPTU/MOC TEST/MOC.md",
     "04 - Tasks Board/Home Server board.md",
     "04 - Tasks Board/FPTU board.md",
@@ -282,12 +292,9 @@
     "01 - HomeLab/Automation/HomeAssistant/HomeAssistant.md",
     "01 - HomeLab/Automation/Ansible Semaphore/Semaphore.md",
     "01 - HomeLab/AI/Ollama.md",
-    "01 - HomeLab/Automation/Ansible/Ansible.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
-    "01 - HomeLab/Install dependencies.md",
-    "04 - Tasks Board/Learning board.md",
     "01 - HomeLab/Storage & BackUp/Immich",
     "02 - Resources/Image Library/Pasted Image 20241025152928_493.png",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
@@ -301,9 +308,6 @@
     "06 - Projects",
     "03 - Study/FPTU/PRJ/Resources",
     "03 - Study/FPTU/PRJ",
-    "03 - Study/Java/Pasted image 20240220131603.png",
-    "03 - Study/Java/Meow Coffee Shop.canvas",
-    "03 - Study/Java/Interface.canvas",
     "03 - Study/Java/ArrayList practise.canvas",
     "02 - Resources/Image Library/cctv.png",
     "02 - Resources/Image Library/Asign group to user.png",
