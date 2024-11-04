@@ -26,3 +26,12 @@ sudo apt update && sudo apt upgrade -y && sudo apt install golang -y
 ```shell
 sudo apt install make
 ```
+
+```shell
+cd terraform-provider-proxmox
+make
+```
+
+```shell
+mkdir -p ~/.terraform.d/plugins/registry.example.com/telmate/proxmox/1.0.0/linux_amd64
+```
