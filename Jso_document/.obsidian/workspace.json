@@ -8,61 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b41775812ac5ec5",
+            "id": "85262360ea8790c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Automation/Ansible/Ansible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ansible"
-            }
-          },
-          {
-            "id": "e22e105c6d2faec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/System Tweaks/Terminal theme and color theme.md",
+                "file": "01 - HomeLab/Development/Jenkin/Jenkin.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal theme and color theme"
-            }
-          },
-          {
-            "id": "413a31c7539954d8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Ips Table"
+              "title": "Jenkin"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "61708746631e78d6",
@@ -249,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md"
+                "file": "01 - HomeLab/Development/Jenkin/Jenkin.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ips Table"
+              "title": "Outline of Jenkin"
             }
           },
           {
@@ -301,14 +259,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-kanban:Create new board": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "413a31c7539954d8",
+  "active": "85262360ea8790c0",
   "lastOpenFiles": [
+    "01 - HomeLab/Automation/Ansible/Ansible.md",
     "99 - Meta/System Tweaks/Terminal theme and color theme.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Automation/Ansible/Ansible.md",
     "01 - HomeLab/Automation/Terraform/Terraform.md",
     "99 - Meta/System Tweaks/WSL/Install WSL.md",
     "03 - Study/Java/doGet và doPost.md",
