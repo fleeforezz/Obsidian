@@ -2,6 +2,8 @@
   "apiProvider": "pexels",
   "pexelsApiKey": "",
   "pixabayApiKey": "",
+  "flickrApiKey": "",
+  "unsplashApiKey": "",
   "imageSize": "medium",
   "imageOrientation": "landscape",
   "numberOfImages": 10,
@@ -41,5 +43,8 @@
   "showPinIcon": true,
   "pinnedImageFolder": "pixel-banner-images",
   "showReleaseNotes": true,
-  "lastVersion": "2.5.6"
+  "lastVersion": "2.9.1",
+  "showRefreshIcon": true,
+  "hidePixelBannerFields": false,
+  "hidePropertiesSectionIfOnlyBanner": false
 }

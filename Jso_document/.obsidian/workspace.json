@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3bac20fb7ccd209",
+        "id": "0db00b1e8ad91607",
         "type": "tabs",
         "children": [
           {
-            "id": "0cad0db92a65cab6",
+            "id": "b733af088d93e073",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "06 - Projects/Espresso/URI context path.md"
+                "file": "03 - Study/FPTU/MOC TEST/MOC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "URI context path"
+              "icon": "lucide-file",
+              "title": "MOC"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "61708746631e78d6",
@@ -206,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Espresso/URI context path.md"
+                "file": "03 - Study/FPTU/MOC TEST/MOC.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of URI context path"
+              "title": "Outline of MOC"
             }
           },
           {
@@ -262,10 +263,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cad0db92a65cab6",
+  "active": "b733af088d93e073",
   "lastOpenFiles": [
-    "06 - Projects/Espresso/Untitled Kanban.md",
     "06 - Projects/Espresso/URI context path.md",
+    "06 - Projects/Espresso/Untitled Kanban.md",
     "06 - Projects/Espresso",
     "99 - Meta/Temp/K8s connection.md",
     "01 - HomeLab/Development/Jenkin/Jenkin.md",

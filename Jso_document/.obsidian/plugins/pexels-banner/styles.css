@@ -1,11 +1,10 @@
+/* ------------------------------------------------------------------ */
+/* -- configure default: move banner image to top, fade/size, etc. -- */
+/* ------------------------------------------------------------------ */
 @keyframes pixel-banner-image--fade-in {
     from { opacity: 0; }
     to { opacity: 1; }
 }
-
-/* ------------------------------------------------------------------ */
-/* -- configure default: move banner image to top, fade/size, etc. -- */
-/* ------------------------------------------------------------------ */
 .pixel-banner-image {
 	position: absolute;
 	top: 0;
@@ -23,30 +22,48 @@
 	will-change: opacity;
 	transform: translateZ(0);
 	background-repeat: no-repeat;
-    z-index: 0;
+    z-index: -1;
 }
+
 /* fix for banner image overlapping with note content */
-.pixel-banner-image ~ div {
-    z-index: 1;
+/* isolate the banner image from the note content */
+.view-content.pixel-banner {
+    position: relative;
+    isolation: isolate;
 }
+
 .cm-sizer .metadata-container,
 .markdown-preview-sizer .metadata-container {
     z-index: 1;
 }
-.cm-sizer,
-.markdown-preview-sizer {
-    display: flex;
-    flex-direction: column;
-}
 
 /* fix overflow issue with embedded notes */
-.internal-embed:not(.image-embed) {
+.internal-embed:not(.image-embed),
+.internal-embed:not(.image-embed) > .markdown-embed-content > .markdown-preview-view {
     overflow: hidden;
 }
 
-/* pin icon */
-.pin-icon {
+/* hide frontmatter fields in reading mode */
+.markdown-preview-view .pixel-banner-hidden-field {
+    display: none !important;
+}
+/* Add specific targeting for properties view */
+.metadata-property.pixel-banner-hidden-field {
+    display: none !important;
+}
+
+/* pin / refresh icons */
+.pin-icon,
+.refresh-icon {
     z-index: var(--layer-modal);
+    opacity: 0.2;
+    transition: all 0.3s ease-in-out;
+}
+.pin-icon:hover,
+.refresh-icon:hover {
+    opacity: 1;
+    cursor: pointer;
+    transform: scale(1.2);
 }
 
 /* ------------------------------------------------------------------ */
@@ -76,7 +93,6 @@
     overflow: hidden;
     padding: 20px;
     max-width: 800px;
-    margin: 50px auto 0 auto;
 }
 
 .pixel-banner-header {
@@ -97,7 +113,7 @@
     flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 10px;
     overflow: hidden;
 }
 
@@ -126,11 +142,12 @@
 	bottom: 0;
 	right: 64px;
     padding-right: 16px;
-    background: var(--background-primary);
+    background: var(--color-secondary);
 }
 .tab-content[data-tab="Folder Images"] .add-folder-image-setting button {
-    color: var(--text-accent);
-    border: 1px solid var(--text-accent);
+    color: var(--text-on-accent);
+    border-bottom: 2px solid var(--text-accent-hover);
+    background: var(--color-accent);
 }
 
 .pixel-banner-section {
@@ -143,7 +160,7 @@
 .pixel-banner-section h3 {
     margin-top: 0;
     margin-bottom: 15px;
-    color: var(--text-accent);
+    color: var(--text-accent-hover);
     font-size: 1.2em;
 }
 
@@ -194,6 +211,13 @@
     top: 10px;
     right: 0;
 }
+.pixel-banner-setting--delete-button {
+    border: 1px solid var(--color-accent) !important;
+}
+.pixel-banner-setting--delete-button:hover {
+    background: var(--color-accent) !important;
+    color: var(--text-on-accent) !important;
+}
 
 .setting-item.folder-image-setting > .folder-input-container,
 .setting-item.folder-image-setting > .display-and-repeat-container {
@@ -243,10 +267,11 @@
 
 .pixel-banner-settings-tabs {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .pixel-banner-settings-tab {
-    margin-right: 10px;
+    margin: 0 10px 10px 0;
     padding: 10px 20px;
     border: none;
     background: none;
@@ -261,8 +286,9 @@
 }
 
 .pixel-banner-settings-tab.active {
-    color: var(--text-accent);
-    border-bottom: 2px solid var(--text-accent);
+    color: var(--text-on-accent);
+    border-bottom: 2px solid var(--text-accent-hover);
+    background: var(--color-accent);
 }
 
 .pixel-banner-settings-tab-content-container > .tab-content {
@@ -308,7 +334,7 @@
   background-color: var(--background-primary-alt);
   border: 1px solid var(--background-modifier-border);
   border-radius: 5px;
-  color: var(--text-accent);
+  color: var(--text-accent-hover);
 }
 
 .pixel-banner-settings .setting-item {
@@ -333,13 +359,23 @@
     background-color: var(--background-secondary);
 }
 
+.release-notes-container img {
+    max-width: 100%;
+}
+
+.release-notes-instructions {
+    font-size: 0.75em;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
 .release-notes-section {
     margin: 10px 0;
 }
 
 .release-notes-section h4 {
     margin: 15px 0 5px 0;
-    color: var(--text-accent);
+    color: var(--text-accent-hover);
 }
 
 .release-notes-container > ul {
@@ -361,4 +397,9 @@
 
 .release-notes-spacer {
     margin: 10px 0;
+}
+
+/* Add to your existing CSS */
+.metadata-container.pixel-banner-hidden-section {
+    display: none !important;
 }
