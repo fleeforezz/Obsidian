@@ -103,15 +103,6 @@
       "height": 60
     },
     {
-      "id": "246ddaf0a638b5e2",
-      "type": "text",
-      "text": "Tp-link Router AC",
-      "x": 42,
-      "y": -452,
-      "width": 230,
-      "height": 60
-    },
-    {
       "id": "afaba2e2bf2a6d80",
       "type": "text",
       "text": "Internal DNS server",
@@ -211,39 +202,12 @@
       "height": 104
     },
     {
-      "id": "e8f54e958f032a52",
-      "type": "file",
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "x": 2186,
-      "y": 796,
-      "width": 120,
-      "height": 120
-    },
-    {
       "id": "69e75705f438f6ab",
       "type": "file",
       "file": "02 - Resources/Image Library/decode.png",
       "x": 681,
       "y": 267,
       "width": 120,
-      "height": 120
-    },
-    {
-      "id": "fe7ae03c24ae9222",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "x": 2759,
-      "y": -433,
-      "width": 67,
-      "height": 67
-    },
-    {
-      "id": "0eb8d07e9827988f",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/pi-hole.png",
-      "x": 2326,
-      "y": -261,
-      "width": 82,
       "height": 120
     },
     {
@@ -272,15 +236,6 @@
       "y": -36,
       "width": 104,
       "height": 104
-    },
-    {
-      "id": "7dfbe7fdc9863665",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
-      "x": 550,
-      "y": 427,
-      "width": 105,
-      "height": 105
     },
     {
       "id": "33ce701493e291d7",
@@ -326,15 +281,6 @@
       "y": -85,
       "width": 88,
       "height": 129
-    },
-    {
-      "id": "44bc540dda116967",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
-      "x": 1394,
-      "y": 267,
-      "width": 104,
-      "height": 101
     },
     {
       "id": "7ad544a7934e94a1",
@@ -481,15 +427,6 @@
       "height": 101
     },
     {
-      "id": "e026c3d230f1cf06",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
-      "x": 1960,
-      "y": 1138,
-      "width": 104,
-      "height": 101
-    },
-    {
       "id": "ed9a0518a6787521",
       "type": "text",
       "text": "Acer Monitor",
@@ -551,6 +488,69 @@
       "y": -53,
       "width": 104,
       "height": 104
+    },
+    {
+      "id": "246ddaf0a638b5e2",
+      "type": "text",
+      "text": "Tp-link Router AC",
+      "x": 42,
+      "y": -452,
+      "width": 230,
+      "height": 60
+    },
+    {
+      "id": "e8f54e958f032a52",
+      "type": "file",
+      "file": "02 - Resources/Image Library/network-switch.png",
+      "x": 2186,
+      "y": 796,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "id": "fe7ae03c24ae9222",
+      "type": "file",
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "x": 2759,
+      "y": -433,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "0eb8d07e9827988f",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/pi-hole.png",
+      "x": 2326,
+      "y": -261,
+      "width": 82,
+      "height": 120
+    },
+    {
+      "id": "7dfbe7fdc9863665",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
+      "x": 550,
+      "y": 427,
+      "width": 105,
+      "height": 105
+    },
+    {
+      "id": "44bc540dda116967",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
+      "x": 1394,
+      "y": 267,
+      "width": 104,
+      "height": 101
+    },
+    {
+      "id": "e026c3d230f1cf06",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/kubernetes-dashboard.png",
+      "x": 1960,
+      "y": 1138,
+      "width": 104,
+      "height": 101
     },
     {
       "id": "75b0442f4cba1c8d",
