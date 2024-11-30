@@ -27,12 +27,13 @@ kanban-plugin: board
 
 ## Security Server
 
-- [ ] 192.168.1.70
+- [ ] 192.168.1.70 (Frigate)
 
 
 ## Database Server
 
-- [ ] 192.168.1.80
+- [ ] 192.168.1.80 (MySQL)
+- [ ] 192.168.1.81 (MSSQL)
 
 
 ## Game Server

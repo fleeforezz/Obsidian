@@ -4,7 +4,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "system",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "Cascadia Code,Consolas",
   "enabledCssSnippets": [
     "banner",
