@@ -47,8 +47,7 @@
               "title": "InfluxDB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md"
+                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of InfluxDB"
+              "title": "Outline of Ips Table"
             }
           },
           {
@@ -290,8 +289,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f102c6096b89dbba",
+  "active": "3fb2b6910a843d67",
   "lastOpenFiles": [
+    "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Monitoring/Prometheus/Install Prometheus.md",
     "01 - HomeLab/Automation/Ansible/Ansible.md",
@@ -323,7 +323,6 @@
     "01 - HomeLab/Dashboard/Heimdall/Heimdall.md",
     "01 - HomeLab/Dashboard/Heimdall/Custom Css.md",
     "01 - HomeLab/Dashboard/Flame/Flame.md",
-    "01 - HomeLab/Dashboard/Flame/Custom CSS.md",
     "01 - HomeLab/Storage & BackUp/Immich",
     "02 - Resources/Image Library/Pasted Image 20241025152928_493.png",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
