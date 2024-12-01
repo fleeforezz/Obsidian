@@ -5,7 +5,7 @@
 # Create a config file
 
 ```shell
-mkdir /etc/prometheus
+touch /etc/prometheus
 ```
 
 ```yaml
