@@ -301,15 +301,6 @@
       "height": 120
     },
     {
-      "id": "d6d5ad72fbd3846f",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "x": 1414,
-      "y": -467,
-      "width": 67,
-      "height": 67
-    },
-    {
       "id": "09b36df0d3f86ca5",
       "type": "file",
       "file": "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
@@ -337,15 +328,6 @@
       "height": 170
     },
     {
-      "id": "6cd53b9086ccf8af",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "x": 834,
-      "y": -467,
-      "width": 67,
-      "height": 67
-    },
-    {
       "id": "9a69279d7287a0ab",
       "type": "file",
       "file": "02 - Resources/Image Library/data-server.png",
@@ -362,15 +344,6 @@
       "y": -240,
       "width": 104,
       "height": 104
-    },
-    {
-      "id": "2c1fb64e7247e377",
-      "type": "file",
-      "file": "02 - Resources/Image Library/monitor.png",
-      "x": 1140,
-      "y": -467,
-      "width": 67,
-      "height": 67
     },
     {
       "id": "a0febdbf5404a924",
@@ -398,24 +371,6 @@
       "y": -467,
       "width": 67,
       "height": 67
-    },
-    {
-      "id": "ff931dee02b1f794",
-      "type": "file",
-      "file": "02 - Resources/Image Library/data-server.png",
-      "x": 655,
-      "y": 1164,
-      "width": 170,
-      "height": 170
-    },
-    {
-      "id": "35cb8819b7ef90e5",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Resources/truenas-scale.png",
-      "x": 1182,
-      "y": 1040,
-      "width": 247,
-      "height": 168
     },
     {
       "id": "fb8922f6d0faa62c",
@@ -452,15 +407,6 @@
       "y": 969,
       "width": 67,
       "height": 67
-    },
-    {
-      "id": "79a32e5dced87be8",
-      "type": "file",
-      "file": "02 - Resources/Image Library/data-server.png",
-      "x": 655,
-      "y": 964,
-      "width": 170,
-      "height": 170
     },
     {
       "id": "c710ff7760a0ebe7",
@@ -580,13 +526,67 @@
       "height": 82
     },
     {
+      "id": "d6d5ad72fbd3846f",
+      "type": "file",
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "x": 1414,
+      "y": -467,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "6cd53b9086ccf8af",
+      "type": "file",
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "x": 834,
+      "y": -467,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "2c1fb64e7247e377",
+      "type": "file",
+      "file": "02 - Resources/Image Library/monitor.png",
+      "x": 1140,
+      "y": -467,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "ff931dee02b1f794",
+      "type": "file",
+      "file": "02 - Resources/Image Library/data-server.png",
+      "x": 655,
+      "y": 1164,
+      "width": 170,
+      "height": 170
+    },
+    {
+      "id": "35cb8819b7ef90e5",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Resources/truenas-scale.png",
+      "x": 1182,
+      "y": 1040,
+      "width": 247,
+      "height": 168
+    },
+    {
+      "id": "79a32e5dced87be8",
+      "type": "file",
+      "file": "02 - Resources/Image Library/data-server.png",
+      "x": 655,
+      "y": 964,
+      "width": 170,
+      "height": 170
+    },
+    {
       "id": "31fe5cf1851d51a6",
       "type": "group",
       "styleAttributes": {},
       "x": -320,
       "y": -2960,
       "width": 4280,
-      "height": 1840,
+      "height": 1920,
       "label": "Homelab production draft"
     },
     {
@@ -595,8 +595,8 @@
       "styleAttributes": {},
       "x": 1280,
       "y": -2820,
-      "width": 1332,
-      "height": 1600,
+      "width": 1720,
+      "height": 1700,
       "label": "Network design"
     },
     {
@@ -618,6 +618,15 @@
       "width": 572,
       "height": 690,
       "label": "Server Rack (10U Server rack)"
+    },
+    {
+      "id": "fde96cd46cbcdf66",
+      "type": "group",
+      "x": 2360,
+      "y": -2280,
+      "width": 320,
+      "height": 260,
+      "label": "Services"
     },
     {
       "id": "0b46aad200506c2d",
@@ -650,6 +659,16 @@
       "height": 60
     },
     {
+      "id": "a70f27aefcc1e34e",
+      "type": "file",
+      "file": "02 - Resources/Image Library/monitor.png",
+      "styleAttributes": {},
+      "x": 560,
+      "y": -2787,
+      "width": 67,
+      "height": 67
+    },
+    {
       "id": "61a94c48528d8545",
       "type": "file",
       "file": "02 - Resources/Image Library/wifi-router.png",
@@ -660,14 +679,14 @@
       "height": 67
     },
     {
-      "id": "a70f27aefcc1e34e",
+      "id": "861dd9f4184ac1d5",
       "type": "file",
-      "file": "02 - Resources/Image Library/monitor.png",
+      "file": "02 - Resources/Image Library/network-switch.png",
       "styleAttributes": {},
-      "x": 560,
-      "y": -2787,
-      "width": 67,
-      "height": 67
+      "x": 542,
+      "y": -2560,
+      "width": 104,
+      "height": 104
     },
     {
       "id": "d7321ed2fab70f18",
@@ -698,16 +717,6 @@
       "y": -2540,
       "width": 230,
       "height": 60
-    },
-    {
-      "id": "5e8c5021f496f1c2",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "styleAttributes": {},
-      "x": 1773,
-      "y": -2753,
-      "width": 67,
-      "height": 67
     },
     {
       "id": "e30b8d275b4e7fb8",
@@ -760,6 +769,16 @@
       "height": 100
     },
     {
+      "id": "cc53f8fdd42bc21f",
+      "type": "file",
+      "file": "02 - Resources/Image Library/data-server.png",
+      "styleAttributes": {},
+      "x": 655,
+      "y": -1900,
+      "width": 170,
+      "height": 170
+    },
+    {
       "id": "e0f5855e6e11abe4",
       "type": "text",
       "text": "Dell ",
@@ -770,14 +789,14 @@
       "height": 60
     },
     {
-      "id": "0962a259868cc36a",
-      "type": "file",
-      "file": "02 - Resources/Image Library/decode.png",
+      "id": "c05a7db3f491afa2",
+      "type": "text",
+      "text": "Gipco Server",
       "styleAttributes": {},
-      "x": 1340,
-      "y": -2581,
-      "width": 120,
-      "height": 120
+      "x": -220,
+      "y": -2215,
+      "width": 500,
+      "height": 55
     },
     {
       "id": "2570de2221ea1c88",
@@ -800,42 +819,34 @@
       "height": 60
     },
     {
-      "id": "861dd9f4184ac1d5",
+      "id": "5e8c5021f496f1c2",
       "type": "file",
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "styleAttributes": {},
-      "x": 542,
-      "y": -2560,
-      "width": 104,
-      "height": 104
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 1920,
+      "y": -2787,
+      "width": 108,
+      "height": 108
     },
     {
-      "id": "cc53f8fdd42bc21f",
+      "id": "57177b5b4d741e5b",
       "type": "file",
-      "file": "02 - Resources/Image Library/data-server.png",
+      "file": "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
       "styleAttributes": {},
-      "x": 655,
-      "y": -1900,
-      "width": 170,
-      "height": 170
-    },
-    {
-      "id": "c05a7db3f491afa2",
-      "type": "text",
-      "text": "Gipco Server",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -2215,
-      "width": 500,
-      "height": 55
+      "x": 3081,
+      "y": -1560,
+      "width": 290,
+      "height": 203
     },
     {
       "id": "28d57ce218d4605c",
       "type": "text",
       "text": "# Patch panel port\n\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15. Delta\n16. Tp-link\n17. TrueNas BackUp\n18. pf-sense Lan in to Proxmox\n19. pf-sense Lan out To Switch\n20. \n21. Pi-hole\n22. Proxmox-failover\n23. Proxmox\n24. Viettel in",
       "styleAttributes": {},
-      "x": 2880,
-      "y": -2555,
+      "x": 3371,
+      "y": -2671,
       "width": 402,
       "height": 743
     },
@@ -843,71 +854,97 @@
       "id": "decf5edfdbea571b",
       "type": "file",
       "file": "02 - Resources/Image Library/network-switch.png",
-      "styleAttributes": {},
-      "x": 1755,
-      "y": -2356,
-      "width": 104,
-      "height": 104
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 1894,
+      "y": -2440,
+      "width": 160,
+      "height": 160
     },
     {
-      "id": "57177b5b4d741e5b",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-      "styleAttributes": {},
-      "x": 2302,
-      "y": -2015,
-      "width": 290,
-      "height": 203
-    },
-    {
-      "id": "eec822643d5a1621",
+      "id": "2335139bcf17e5c8",
       "type": "file",
       "file": "02 - Resources/Image Library/data-server.png",
-      "styleAttributes": {},
-      "x": 2042,
-      "y": -2015,
-      "width": 120,
-      "height": 120
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 1894,
+      "y": -2060,
+      "width": 160,
+      "height": 160
     },
     {
-      "id": "f395f3736c2c3532",
-      "type": "file",
-      "file": "02 - Resources/Image Library/decode.png",
-      "styleAttributes": {},
-      "x": 1520,
-      "y": -1392,
-      "width": 120,
-      "height": 120
-    },
-    {
-      "id": "5b7d4ddcae802292",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "styleAttributes": {},
-      "x": 1975,
-      "y": -1305,
-      "width": 67,
-      "height": 67
-    },
-    {
-      "id": "8dcc4c6515c761cb",
-      "type": "file",
-      "file": "02 - Resources/Image Library/cpu.png",
-      "styleAttributes": {},
-      "x": 2302,
-      "y": -1392,
-      "width": 120,
-      "height": 120
-    },
-    {
-      "id": "64bd64478550b4d9",
+      "id": "e48beae1f7bcc7b1",
       "type": "file",
       "file": "02 - Resources/Image Library/network-switch.png",
-      "styleAttributes": {},
-      "x": 2042,
-      "y": -1755,
-      "width": 120,
-      "height": 120
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 1894,
+      "y": -1660,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "fc5737bebee52fae",
+      "type": "file",
+      "file": "proxmox.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 2391,
+      "y": -2120,
+      "width": 69,
+      "height": 60
+    },
+    {
+      "id": "f3d6f482bf7acad3",
+      "type": "file",
+      "file": "nginx-proxy-manager.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 2400,
+      "y": -2221,
+      "width": 60,
+      "height": 69
+    },
+    {
+      "id": "314dceee100d93a5",
+      "type": "file",
+      "file": "pfsense.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 2500,
+      "y": -2220,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "7a44d96792e18636",
+      "type": "file",
+      "file": "pi-hole.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 2600,
+      "y": -2240,
+      "width": 60,
+      "height": 88
+    },
+    {
+      "id": "f341b3c39609b8be",
+      "type": "file",
+      "file": "02 - Resources/Image Library/data-server.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 1894,
+      "y": -1357,
+      "width": 160,
+      "height": 160
     }
   ],
   "edges": [
@@ -919,83 +956,12 @@
       "toSide": "left"
     },
     {
-      "id": "0ad6f94ef6312e8a",
-      "fromNode": "decf5edfdbea571b",
-      "fromSide": "bottom",
-      "toNode": "eec822643d5a1621",
-      "toSide": "top",
-      "color": "5",
-      "label": "192.168.1.33:8006"
-    },
-    {
-      "id": "1468164db31b4859",
-      "fromNode": "decf5edfdbea571b",
-      "fromSide": "bottom",
-      "toNode": "eec822643d5a1621",
-      "toSide": "left",
-      "color": "5",
-      "label": "FailOver"
-    },
-    {
-      "id": "6382515608a0b663",
-      "fromNode": "eec822643d5a1621",
-      "fromSide": "bottom",
-      "toNode": "64bd64478550b4d9",
-      "toSide": "top",
-      "color": "6",
-      "label": "10.0.1.1/24"
-    },
-    {
-      "id": "04bf0bb76fcf4328",
-      "fromNode": "eec822643d5a1621",
-      "fromSide": "right",
-      "toNode": "57177b5b4d741e5b",
-      "toSide": "left"
-    },
-    {
-      "id": "8a45ab2b4086d833",
-      "fromNode": "decf5edfdbea571b",
-      "fromSide": "right",
-      "toNode": "eec822643d5a1621",
-      "toSide": "top",
-      "color": "5",
-      "label": "Wan port for Pfsense"
-    },
-    {
-      "id": "56215fb9e0a05162",
-      "fromNode": "64bd64478550b4d9",
-      "fromSide": "bottom",
-      "toNode": "5b7d4ddcae802292",
-      "toSide": "top",
-      "color": "6",
-      "label": "10.0.1.1/24"
-    },
-    {
-      "id": "ee7ca2091b27d73e",
-      "fromNode": "64bd64478550b4d9",
-      "fromSide": "bottom",
-      "toNode": "8dcc4c6515c761cb",
-      "toSide": "top",
-      "color": "6",
-      "label": "10.0.1.31"
-    },
-    {
       "id": "22a33c1471dce065",
       "fromNode": "5e8c5021f496f1c2",
       "fromSide": "bottom",
       "toNode": "decf5edfdbea571b",
       "toSide": "top",
-      "color": "5",
-      "label": "192.168.1.1/24"
-    },
-    {
-      "id": "63f57d0851ba0e9c",
-      "fromNode": "64bd64478550b4d9",
-      "fromSide": "left",
-      "toNode": "eec822643d5a1621",
-      "toSide": "left",
-      "color": "6",
-      "label": "10.0.1.41"
+      "color": "5"
     },
     {
       "id": "4bbda3514a09f2cc",
@@ -1005,29 +971,66 @@
       "toSide": "left"
     },
     {
-      "id": "b8a15c3876fc9f06",
-      "fromNode": "64bd64478550b4d9",
-      "fromSide": "bottom",
-      "toNode": "f395f3736c2c3532",
-      "toSide": "top",
-      "color": "6",
-      "label": "10.0.1.30"
-    },
-    {
-      "id": "09e6a3ab16e22073",
-      "fromNode": "5e8c5021f496f1c2",
-      "fromSide": "left",
-      "toNode": "0962a259868cc36a",
-      "toSide": "right",
-      "color": "5",
-      "label": "192.168.1.29"
-    },
-    {
       "id": "6801c96592351af3",
       "fromNode": "3bcad7655e1fc3a3",
       "fromSide": "right",
       "toNode": "28d57ce218d4605c",
       "toSide": "left"
+    },
+    {
+      "id": "7bfd5965c81a09b1",
+      "styleAttributes": {},
+      "fromNode": "decf5edfdbea571b",
+      "fromSide": "bottom",
+      "toNode": "2335139bcf17e5c8",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "8944b58458377ddd",
+      "styleAttributes": {},
+      "fromNode": "2335139bcf17e5c8",
+      "fromSide": "right",
+      "toNode": "fde96cd46cbcdf66",
+      "toSide": "left"
+    },
+    {
+      "id": "f65ee71ee2f7c283",
+      "styleAttributes": {},
+      "fromNode": "2335139bcf17e5c8",
+      "fromSide": "bottom",
+      "toNode": "e48beae1f7bcc7b1",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "63085a45c873150f",
+      "styleAttributes": {},
+      "fromNode": "e48beae1f7bcc7b1",
+      "fromSide": "left",
+      "toNode": "2335139bcf17e5c8",
+      "toSide": "left",
+      "color": "6",
+      "label": "Pf-sense LAN"
+    },
+    {
+      "id": "a745c9a3a7f861c4",
+      "styleAttributes": {},
+      "fromNode": "decf5edfdbea571b",
+      "fromSide": "left",
+      "toNode": "2335139bcf17e5c8",
+      "toSide": "left",
+      "color": "5",
+      "label": "Pf-sense WAN"
+    },
+    {
+      "id": "70d44c42a83b1e17",
+      "styleAttributes": {},
+      "fromNode": "e48beae1f7bcc7b1",
+      "fromSide": "bottom",
+      "toNode": "f341b3c39609b8be",
+      "toSide": "top",
+      "color": "6"
     },
     {
       "id": "06b157c5b34bd20e",

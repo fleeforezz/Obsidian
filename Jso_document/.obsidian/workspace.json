@@ -34,20 +34,36 @@
             }
           },
           {
-            "id": "f102c6096b89dbba",
+            "id": "2602712ea1ba4091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md",
-                "mode": "preview",
-                "source": false
+                "file": "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
+                "viewState": {
+                  "x": 2136.9401529473203,
+                  "y": -1850.9341607994788,
+                  "zoom": -1.158990166861339
+                }
               },
-              "icon": "lucide-file",
-              "title": "InfluxDB"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home Server Infrastructure 1"
+            }
+          },
+          {
+            "id": "905d51a1fb56ec5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "05 - Excalidraw/Drawing 2024-12-02 09.43.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-02 09.43.54.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,10 +249,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md"
+                "file": "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ips Table"
+              "title": "Outline of Home Server Infrastructure 1"
             }
           },
           {
@@ -289,19 +305,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fb2b6910a843d67",
+  "active": "2602712ea1ba4091",
   "lastOpenFiles": [
-    "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md",
+    "proxmox.png",
+    "pfsense.png",
+    "pi-hole.png",
+    "nginx-proxy-manager.png",
+    "05 - Excalidraw/Drawing 2024-12-02 09.43.54.excalidraw.md",
+    "05 - Excalidraw/Drawing 2024-10-02 20.55.22.excalidraw.md",
+    "01 - HomeLab/Home Server Infrastructure/Drawing 2024-12-02 09.39.17.excalidraw.md",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Monitoring/Prometheus/Install Prometheus.md",
     "01 - HomeLab/Automation/Ansible/Ansible.md",
+    "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md",
+    "01 - HomeLab/Monitoring/Prometheus/Install Prometheus.md",
     "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
     "01 - HomeLab/Containerize/Docker/Docker syntax.md",
     "01 - HomeLab/Containerize/Docker/Docker.md",
     "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
     "01 - HomeLab/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "03 - Study/FPTU/MOC TEST/MOC.md",
     "99 - Meta/Temp/Dog Shit.md",
     "06 - Projects/Espresso/URI context path.md",
@@ -319,10 +342,6 @@
     "04 - Tasks Board/Home Server board.md",
     "04 - Tasks Board/FPTU board.md",
     "01 - HomeLab/Dashboard/Home Page/Home Page.md",
-    "01 - HomeLab/Dashboard/Homarr/Homarr.md",
-    "01 - HomeLab/Dashboard/Heimdall/Heimdall.md",
-    "01 - HomeLab/Dashboard/Heimdall/Custom Css.md",
-    "01 - HomeLab/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Storage & BackUp/Immich",
     "02 - Resources/Image Library/Pasted Image 20241025152928_493.png",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
@@ -342,9 +361,6 @@
     "01 - HomeLab/Home Server Infrastructure/CI~CD Pipeline.canvas",
     "01 - HomeLab/Containerize/Kubernetes/Diagram/Traffic Routing.canvas",
     "01 - HomeLab/Game/Minecraft/Resorces/Pasted image 20240302093727.png",
-    "01 - HomeLab/Home Server Infrastructure/Resources/gmail.png",
-    "01 - HomeLab/Home Server Infrastructure/Resources/development.png",
-    "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121358.png",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
     "03 - Study/FPTU/dotNet/Untitled.canvas"
   ]
