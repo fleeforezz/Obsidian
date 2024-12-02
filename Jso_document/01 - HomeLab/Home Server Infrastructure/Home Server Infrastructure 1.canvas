@@ -610,6 +610,16 @@
       "label": "Server design"
     },
     {
+      "id": "fde96cd46cbcdf66",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2360,
+      "y": -2280,
+      "width": 320,
+      "height": 260,
+      "label": "Services"
+    },
+    {
       "id": "aacbb8fc9a001bba",
       "type": "group",
       "styleAttributes": {},
@@ -618,15 +628,6 @@
       "width": 572,
       "height": 690,
       "label": "Server Rack (10U Server rack)"
-    },
-    {
-      "id": "fde96cd46cbcdf66",
-      "type": "group",
-      "x": 2360,
-      "y": -2280,
-      "width": 320,
-      "height": 260,
-      "label": "Services"
     },
     {
       "id": "0b46aad200506c2d",
@@ -659,36 +660,6 @@
       "height": 60
     },
     {
-      "id": "a70f27aefcc1e34e",
-      "type": "file",
-      "file": "02 - Resources/Image Library/monitor.png",
-      "styleAttributes": {},
-      "x": 560,
-      "y": -2787,
-      "width": 67,
-      "height": 67
-    },
-    {
-      "id": "61a94c48528d8545",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "styleAttributes": {},
-      "x": 834,
-      "y": -2787,
-      "width": 67,
-      "height": 67
-    },
-    {
-      "id": "861dd9f4184ac1d5",
-      "type": "file",
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "styleAttributes": {},
-      "x": 542,
-      "y": -2560,
-      "width": 104,
-      "height": 104
-    },
-    {
       "id": "d7321ed2fab70f18",
       "type": "text",
       "text": "Patch Panel (24 cat5e port)",
@@ -717,6 +688,76 @@
       "y": -2540,
       "width": 230,
       "height": 60
+    },
+    {
+      "id": "e0f5855e6e11abe4",
+      "type": "text",
+      "text": "Dell ",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -2460,
+      "width": 500,
+      "height": 60
+    },
+    {
+      "id": "c05a7db3f491afa2",
+      "type": "text",
+      "text": "Gipco Server",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -2215,
+      "width": 500,
+      "height": 55
+    },
+    {
+      "id": "2570de2221ea1c88",
+      "type": "text",
+      "text": "Dell ",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -2380,
+      "width": 500,
+      "height": 60
+    },
+    {
+      "id": "c6fd3776ddc25cfd",
+      "type": "text",
+      "text": "Dell Optiplex 780",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -2300,
+      "width": 500,
+      "height": 60
+    },
+    {
+      "id": "a70f27aefcc1e34e",
+      "type": "file",
+      "file": "02 - Resources/Image Library/monitor.png",
+      "styleAttributes": {},
+      "x": 560,
+      "y": -2787,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "61a94c48528d8545",
+      "type": "file",
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "styleAttributes": {},
+      "x": 834,
+      "y": -2787,
+      "width": 67,
+      "height": 67
+    },
+    {
+      "id": "861dd9f4184ac1d5",
+      "type": "file",
+      "file": "02 - Resources/Image Library/network-switch.png",
+      "styleAttributes": {},
+      "x": 542,
+      "y": -2560,
+      "width": 104,
+      "height": 104
     },
     {
       "id": "e30b8d275b4e7fb8",
@@ -779,46 +820,6 @@
       "height": 170
     },
     {
-      "id": "e0f5855e6e11abe4",
-      "type": "text",
-      "text": "Dell ",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -2460,
-      "width": 500,
-      "height": 60
-    },
-    {
-      "id": "c05a7db3f491afa2",
-      "type": "text",
-      "text": "Gipco Server",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -2215,
-      "width": 500,
-      "height": 55
-    },
-    {
-      "id": "2570de2221ea1c88",
-      "type": "text",
-      "text": "Dell ",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -2380,
-      "width": 500,
-      "height": 60
-    },
-    {
-      "id": "c6fd3776ddc25cfd",
-      "type": "text",
-      "text": "Dell Optiplex 780",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -2300,
-      "width": 500,
-      "height": 60
-    },
-    {
       "id": "5e8c5021f496f1c2",
       "type": "file",
       "file": "02 - Resources/Image Library/wifi-router.png",
@@ -829,26 +830,6 @@
       "y": -2787,
       "width": 108,
       "height": 108
-    },
-    {
-      "id": "57177b5b4d741e5b",
-      "type": "file",
-      "file": "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-      "styleAttributes": {},
-      "x": 3081,
-      "y": -1560,
-      "width": 290,
-      "height": 203
-    },
-    {
-      "id": "28d57ce218d4605c",
-      "type": "text",
-      "text": "# Patch panel port\n\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15. Delta\n16. Tp-link\n17. TrueNas BackUp\n18. pf-sense Lan in to Proxmox\n19. pf-sense Lan out To Switch\n20. \n21. Pi-hole\n22. Proxmox-failover\n23. Proxmox\n24. Viettel in",
-      "styleAttributes": {},
-      "x": 3371,
-      "y": -2671,
-      "width": 402,
-      "height": 743
     },
     {
       "id": "decf5edfdbea571b",
@@ -923,18 +904,6 @@
       "height": 60
     },
     {
-      "id": "7a44d96792e18636",
-      "type": "file",
-      "file": "pi-hole.png",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "x": 2600,
-      "y": -2240,
-      "width": 60,
-      "height": 88
-    },
-    {
       "id": "f341b3c39609b8be",
       "type": "file",
       "file": "02 - Resources/Image Library/data-server.png",
@@ -945,6 +914,38 @@
       "y": -1357,
       "width": 160,
       "height": 160
+    },
+    {
+      "id": "57177b5b4d741e5b",
+      "type": "file",
+      "file": "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+      "styleAttributes": {},
+      "x": 3081,
+      "y": -1560,
+      "width": 290,
+      "height": 203
+    },
+    {
+      "id": "28d57ce218d4605c",
+      "type": "text",
+      "text": "# Patch panel port\n\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15. Delta\n16. Tp-link\n17. TrueNas BackUp\n18. pf-sense Lan in to Proxmox\n19. pf-sense Lan out To Switch\n20. \n21. Pi-hole\n22. Proxmox-failover\n23. Proxmox\n24. Viettel in",
+      "styleAttributes": {},
+      "x": 3371,
+      "y": -2671,
+      "width": 402,
+      "height": 743
+    },
+    {
+      "id": "7a44d96792e18636",
+      "type": "file",
+      "file": "pi-hole.png",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": 2600,
+      "y": -2240,
+      "width": 60,
+      "height": 88
     }
   ],
   "edges": [
