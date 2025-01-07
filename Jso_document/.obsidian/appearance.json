@@ -5,10 +5,11 @@
   "nativeMenus": false,
   "theme": "system",
   "cssTheme": "Vanilla AMOLED",
-  "interfaceFontFamily": "Cascadia Code,Consolas",
+  "interfaceFontFamily": "GeistMono Nerd Font",
   "enabledCssSnippets": [
     "banner",
     "Colored Sidebar Items"
   ],
-  "textFontFamily": ""
+  "textFontFamily": "GeistMono Nerd Font",
+  "monospaceFontFamily": "GeistMono Nerd Font"
 }
