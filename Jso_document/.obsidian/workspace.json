@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Projects/Bookery/Idea space.md",
+                "file": "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea space"
+              "title": "Chap 1 Logic and Proofs"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Propositional-Equivalences",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Study/Docker/Container Port Mapping.md",
+                "file": "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Container Port Mapping"
+              "title": "Graph of Chap 1 Logic and Proofs"
             }
           },
           {
@@ -132,8 +132,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -142,32 +142,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "aa15c9b811981c47",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7160c015d954cd4f",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "1335c03b92f3f73c",
@@ -207,20 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Bookery/Idea space.md"
+                "file": "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Idea space"
-            }
-          },
-          {
-            "id": "0b1166eae33d4df7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Chap 1 Logic and Proofs"
             }
           },
           {
@@ -229,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/My PC Build/Pc Components.md",
+                "file": "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,16 +209,15 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pc Components"
+              "title": "Backlinks for Chap 1 Logic and Proofs"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,8 +234,10 @@
   },
   "active": "a739f041197113d4",
   "lastOpenFiles": [
-    "06 - Projects/Bookery/Database.md",
+    "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
     "06 - Projects/Bookery/Idea space.md",
+    "03 - Study/FPTU/MAD",
+    "06 - Projects/Bookery/Database.md",
     "06 - Projects/Bookery/Database.canvas",
     "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
@@ -301,7 +272,6 @@
     "03 - Study/Java/Interface.canvas",
     "03 - Study/Java/Meow Coffee Shop.canvas",
     "04 - Tasks Board/Home Server board.md",
-    "04 - Tasks Board/FPTU board.md",
     "01 - HomeLab/Storage & BackUp/Immich",
     "02 - Resources/Image Library/Pasted Image 20241025152928_493.png",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
@@ -312,7 +282,6 @@
     "Bookery.sql",
     "06 - Projects/Bookery",
     "06 - Projects",
-    "03 - Study/FPTU/PRJ/Resources",
     "03 - Study/Java/ArrayList practise.canvas",
     "02 - Resources/Image Library/cctv.png",
     "02 - Resources/Image Library/Asign group to user.png",
