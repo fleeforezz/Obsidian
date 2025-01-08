@@ -53,8 +53,48 @@ p$\leftrightarrow$q = proposition that is true when p and q have the same truth 
 
 ## True table
 
+(Coming soon)
+
+## Transalting Sentenses into Logical Expressions
+
+<mark style="background: #FFB8EBA6;">Example 1:</mark> I watch soccer only if Arsenal play or I have no homework.
+
+p = "I watch soccer"
+q = "Arsenal play"
+r = "I have homework"
+
+<mark style="background: #FF5582A6;">Example 2:</mark>
+(a) You cannot pass this class if you miss more than 20% of lectures.
+p = "You pass this class"
+q = "You miss more than 20% of lectures"
+
+(b) You cannot pass this class if you miss more than 20% of lectures unless you provide reasonable excuses. 
+r = "You provide reasonable excuses"
+
+## Logic and Bit Operations
+
+Computers represent information using bits. A bit is a symbol of two possible values, <mark style="background: #FFB8EBA6;">0 and 1</mark>.
+
+A bit can represent a truth value, that is:
++ 1 represents T (true)
++ 0 represents F (false)
+
+Information is often represented using bit strings, and operations on bit strings can be used to manipulate this information.
+
+<mark style="background: #FF5582A6;">Example:</mark> 1001100 $\land$ 0011001 = 0001000.
 
 # <mark style="background: #FF5582A6;">1.2</mark> Propositional Equivalences
+
+A compound proposition is called a <mark style="background: #CACFD9A6;">tautology</mark> if it is always true regardless of the truth values of the propositions that occur in it. 
+
+A compound proposition is called a <mark style="background: #CACFD9A6;">contradiction</mark> if it is always false. 
+
+A compound proposition that is neither tautology nor contradiction is called a <mark style="background: #CACFD9A6;">contingency</mark>.
+
+Two propositions p and q are <mark style="background: #CACFD9A6;">logical equivalent</mark> if the biconditional statement p$\leftrightarrow$q is a tauatology.
+
+Translation: [[Chap 1#trs1]]
+
 # <mark style="background: #FFB86CA6;">1.3</mark> Predicates and Quantifiers
 # <mark style="background: #FFF3A3A6;">1.4</mark> Nested Quantifiers
 # <mark style="background: #BBFABBA6;">1.5</mark> Rules of Inference
