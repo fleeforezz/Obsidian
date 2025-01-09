@@ -11,6 +11,16 @@
       "label": "Gipco Server"
     },
     {
+      "id": "27915447322c1753",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -100,
+      "width": 290,
+      "height": 414,
+      "label": "Gipco Server"
+    },
+    {
       "id": "5c4172d7e1416d4e",
       "type": "group",
       "styleAttributes": {},
@@ -39,16 +49,6 @@
       "width": 176,
       "height": 94,
       "label": "Intel Lan card"
-    },
-    {
-      "id": "27915447322c1753",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -640,
-      "y": -100,
-      "width": 290,
-      "height": 414,
-      "label": "Gipco Server"
     },
     {
       "id": "587de3ef44447106",
@@ -191,6 +191,26 @@
       "height": 60
     },
     {
+      "id": "4fc2e562d9865324",
+      "type": "text",
+      "text": "vmbr1",
+      "styleAttributes": {},
+      "x": 1260,
+      "y": 560,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "c2779bcdea185a71",
+      "type": "file",
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "styleAttributes": {},
+      "x": 1133,
+      "y": -260,
+      "width": 100,
+      "height": 100
+    },
+    {
       "id": "eb2854b3592b37d2",
       "type": "text",
       "text": "Dual Intel Lan",
@@ -209,16 +229,6 @@
       "y": 510,
       "width": 191,
       "height": 100
-    },
-    {
-      "id": "4fc2e562d9865324",
-      "type": "text",
-      "text": "vmbr1",
-      "styleAttributes": {},
-      "x": 1260,
-      "y": 560,
-      "width": 120,
-      "height": 60
     },
     {
       "id": "4d79203f8328c55e",
@@ -248,16 +258,6 @@
       "x": 1933,
       "y": 520,
       "width": 213,
-      "height": 100
-    },
-    {
-      "id": "c2779bcdea185a71",
-      "type": "file",
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "styleAttributes": {},
-      "x": 1133,
-      "y": -260,
-      "width": 100,
       "height": 100
     },
     {
