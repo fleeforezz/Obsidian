@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2255e28672974473",
+        "id": "3e8c6dfbab4a1b14",
         "type": "tabs",
         "children": [
           {
-            "id": "4238f4ee5fe031d3",
+            "id": "ac80a8d844abb14b",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "03 - Study/Frameworks/Spring Boot/Mind Map.md"
+                "file": "01 - HomeLab/Containerize/Portainer/Portainer.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "Mind Map"
+              "icon": "lucide-file",
+              "title": "Portainer"
             }
           }
         ]
@@ -185,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/Frameworks/Spring Boot/Mind Map.md"
+                "file": "01 - HomeLab/Containerize/Portainer/Portainer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mind Map"
+              "title": "Outline of Portainer"
             }
           },
           {
@@ -227,13 +229,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "obsidian-kanban:Create new board": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4238f4ee5fe031d3",
+  "active": "ac80a8d844abb14b",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
     "03 - Study/Frameworks/Spring Boot/Mind Map.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "test/yay.md",
     "test/Untitled mindmap.md",
     "test",
@@ -267,7 +271,6 @@
     "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
     "01 - HomeLab/Containerize/Docker/Docker syntax.md",
     "01 - HomeLab/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
     "01 - HomeLab/OS & System control/Proxmox/Config Proxmox.md",
     "03 - Study/FPTU/MOC TEST/MOC.md",
     "99 - Meta/Temp/Dog Shit.md",
