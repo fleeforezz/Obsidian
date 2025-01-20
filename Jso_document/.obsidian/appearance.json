@@ -4,7 +4,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "system",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "",
   "interfaceFontFamily": "GeistMono Nerd Font",
   "enabledCssSnippets": [
     "banner",

@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0301feaff8a9670e",
+            "id": "b7f511eb41c60d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "61708746631e78d6",
@@ -233,11 +233,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0301feaff8a9670e",
+  "active": "b7f511eb41c60d77",
   "lastOpenFiles": [
     "03 - Study/FPTU/CSD/List Data Structure.md",
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
+    "03 - Study/FPTU/CSD/Resources/Excalidraw/addPosition.md",
+    "03 - Study/FPTU/CSD/Resources/Excalidraw/addFirst.md",
+    "03 - Study/FPTU/CSD/Resources/Excalidraw/Untitled.md",
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Add first node in the list.md",
+    "03 - Study/FPTU/CSD/Resources/Bubble Sort.md",
+    "03 - Study/FPTU/CSD/Resources/Excalidraw/Single Linked List.md",
     "03 - Study/FPTU/PRJ/Quá trình tạo CRUD.md",
     "03 - Study/FPTU/PRJ/DAO design pattern.md",
     "03 - Study/ASP.NET Core/ASP.NET CORE.md",
@@ -264,12 +269,7 @@
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "01 - HomeLab/Home Server Infrastructure/Drawing 2024-12-02 09.39.17.excalidraw.md",
     "06 - Projects/Bookery/Sample design.md",
-    "06 - Projects/Bookery/Idea space.md",
-    "06 - Projects/Bookery/Database.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/addLast.md",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113171455.png",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/addFirst.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/Untitled.md",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113163547.png",
     "Pasted image 20250113160303.png",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113155850.png",
