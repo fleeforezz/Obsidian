@@ -140,7 +140,12 @@ public class MyList {
 + [[Add first node in the list]]
 + [[Add last node in the list]]
 + [[Add node to specific position in the list]]
++ [[Remove first node]]
++ [[Remove last node]]
 
 # <mark style="background: #BBFABBA6;">1.5</mark> Circular Lists
 # <mark style="background: #ABF7F7A6;">1.6</mark> Doubly Linked Lists
+
+
+
 # <mark style="background: #ADCCFFA6;">1.7</mark> Lists in java.util
