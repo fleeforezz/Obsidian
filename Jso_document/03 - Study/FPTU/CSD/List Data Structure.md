@@ -137,38 +137,9 @@ public class MyList {
 ```
 
 ### Advanced MyList class
-
-#### Add first node in the list
-
-```Java
-if (isEmpty() == true) {
-	head = new Node(12) // create new node with head.info = 12
-} else {
-	Node temp = new Node(12);
-	temp.next = head;
-	head = temp;
-}
-```
-
-![[Pasted image 20250113163547.png]]
-
-#### Add last node in the list
-
-```Java
-if (isEmpty() == true) {
-	head = new Node(12) // create new node with head.info = 12
-} else {
-	Node temp = head;
-	while(temp.next != null) {
-		temp = temp.next;
-	}
-	temp.next = new Node(12);
-}
-```
-
-![[Pasted image 20250113171455.png]]
-
-#### Add node to the specific position in the list
++ [[Add first node in the list]]
++ [[Add last node in the list]]
++ [[Add node to specific position in the list]]
 
 # <mark style="background: #BBFABBA6;">1.5</mark> Circular Lists
 # <mark style="background: #ABF7F7A6;">1.6</mark> Doubly Linked Lists

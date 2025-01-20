@@ -1,1 +1,0 @@
-doGet truyền dữ liệu từ Servlet lên jsp

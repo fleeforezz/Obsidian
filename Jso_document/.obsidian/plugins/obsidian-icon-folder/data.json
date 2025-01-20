@@ -31,7 +31,8 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
     "debugMode": false,
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "04 - Tasks Board": "FarCalendarCheck",
   "03 - Study": "FarNoteSticky",

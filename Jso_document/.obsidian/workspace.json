@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad41583d6fb5534",
+        "id": "f0fe8f2c1399407f",
         "type": "tabs",
         "children": [
           {
-            "id": "37320cde341e76ee",
+            "id": "0301feaff8a9670e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Projects/Bookery/Sample design.md",
+                "file": "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample design"
+              "title": "Add node to specific position in the list"
             }
           }
         ]
@@ -127,16 +127,6 @@
             }
           },
           {
-            "id": "11e881d0bede3672",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "94b17b76b1c68476",
             "type": "leaf",
             "state": {
@@ -144,6 +134,16 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "1baf982ab6c61399",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -187,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Bookery/Sample design.md"
+                "file": "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sample design"
+              "title": "Outline of Add node to specific position in the list"
             }
           },
           {
@@ -233,60 +233,60 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37320cde341e76ee",
+  "active": "0301feaff8a9670e",
   "lastOpenFiles": [
-    "06 - Projects/Bookery/Idea space.md",
+    "03 - Study/FPTU/CSD/List Data Structure.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add first node in the list.md",
+    "03 - Study/FPTU/PRJ/Quá trình tạo CRUD.md",
+    "03 - Study/FPTU/PRJ/DAO design pattern.md",
+    "03 - Study/ASP.NET Core/ASP.NET CORE.md",
+    "03 - Study/Docker/Specific a Working Directory.md",
+    "03 - Study/Docker/Dockerfile.md",
+    "03 - Study/Docker/Copy local file to container.md",
+    "03 - Study/Docker/Container Port Mapping.md",
+    "03 - Study/Docker/Basic docker CLI command.md",
+    "03 - Study/Software Engineer/Software developing scaling.md",
+    "03 - Study/Kubernetes/Pasted image 20240220151025.png",
+    "03 - Study/Kubernetes/Giới thiệu về Kubernetes.md",
+    "03 - Study/Java/ArrayList practise.canvas",
+    "03 - Study/Java/2024-02-20.md",
+    "03 - Study/Java/Meow Coffee Shop.canvas",
+    "03 - Study/Java/doGet và doPost.md",
+    "03 - Study/Java/Pasted image 20240220131603.png",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add last node in the list.md",
+    "03 - Study/Java/Interface.canvas",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList",
+    "03 - Study/FPTU/CSD/Advanced",
+    "03 - Study/FPTU/CSD/CSD.md",
+    "99 - Meta/Temp/K8s connection.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Drawing 2024-12-02 09.39.17.excalidraw.md",
     "06 - Projects/Bookery/Sample design.md",
+    "06 - Projects/Bookery/Idea space.md",
     "06 - Projects/Bookery/Database.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/addLast.md",
-    "03 - Study/FPTU/CSD/List Data Structure.md",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113171455.png",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/addFirst.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/Untitled.md",
-    "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
-    "03 - Study/FPTU/CSD/CSD.md",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113163547.png",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/Single Linked List.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/Array rời rạc.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/Array.md",
-    "03 - Study/FPTU/CSD/Resources/Bubble Sort.md",
     "Pasted image 20250113160303.png",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113155850.png",
-    "01 - HomeLab/Containerize/Portainer/Portainer.md",
-    "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
-    "03 - Study/Frameworks/Spring Boot/Mind Map.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "test/yay.md",
-    "test/Untitled mindmap.md",
     "test",
-    "03 - Study/Frameworks/Untitled.md",
     "03 - Study/Frameworks/Spring Boot",
     "03 - Study/Frameworks",
-    "01 - HomeLab/Home Server Infrastructure/Drawing 2024-12-02 09.39.17.excalidraw.md",
-    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-    "03 - Study/Java/Pasted image 20240220131603.png",
-    "03 - Study/Java/Meow Coffee Shop.canvas",
     "01 - HomeLab/Home Server Infrastructure/Resources/pfsense.png",
     "01 - HomeLab/Home Server Infrastructure/Resources/pi-hole 1.png",
     "01 - HomeLab/Home Server Infrastructure/Resources/proxmox.png",
-    "01 - HomeLab/Network/SpeedTest Tracker/SpeedTest Tracker.md",
-    "03 - Study/FPTU/MAD/Translate/Chap 1.md",
-    "Note Name.md",
     "03 - Study/FPTU/MAD/Translate",
     "03 - Study/FPTU/PRO",
     "03 - Study/FPTU/MAD",
     "06 - Projects/Bookery/Database.canvas",
-    "01 - HomeLab/Monitoring/InfluxDB/InfluxDB.md",
     "01 - HomeLab/Home Server Infrastructure/Resources/nginx-proxy-manager 1.png",
-    "05 - Excalidraw/Drawing 2024-12-02 09.43.54.excalidraw.md",
     "06 - Projects/Espresso",
-    "03 - Study/Java/Interface.canvas",
     "01 - HomeLab/Storage & BackUp/Immich",
-    "02 - Resources/Image Library/Pasted Image 20241025152928_493.png",
-    "99 - Meta/My PC Build",
-    "99 - Meta/Temp",
-    "03 - Study/Java/ArrayList practise.canvas",
     "01 - HomeLab/Home Server Infrastructure/CI~CD Pipeline.canvas",
     "01 - HomeLab/Containerize/Kubernetes/Diagram/Traffic Routing.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
