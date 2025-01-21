@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "846700dbc8389f71",
+        "id": "f0fe8f2c1399407f",
         "type": "tabs",
         "children": [
           {
-            "id": "18667c9b9537dcf1",
+            "id": "b7f511eb41c60d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Study/FPTU/CSD/List Data Structure.md",
+                "file": "01 - HomeLab/Storage & BackUp/Longlorn/Add more disk or increase storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List Data Structure"
+              "title": "Add more disk or increase storage"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Propositional-Equivalences",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "61708746631e78d6",
@@ -188,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/FPTU/CSD/List Data Structure.md"
+                "file": "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List Data Structure"
+              "title": "Outline of Add node to specific position in the list"
             }
           },
           {
@@ -234,12 +233,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18667c9b9537dcf1",
+  "active": "b7f511eb41c60d77",
   "lastOpenFiles": [
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove last node.md",
-    "03 - Study/FPTU/CSD/List Data Structure.md",
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
+    "01 - HomeLab/Storage & BackUp/Longlorn/Longhorn.md",
+    "01 - HomeLab/Storage & BackUp/Longlorn/Add more disk or increase storage.md",
+    "01 - HomeLab/Storage & BackUp/Longlorn",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove last node.md",
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove first node.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add last node in the list.md",
+    "01 - HomeLab/OS & System control/Linux Command/Mount drive.md",
+    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+    "01 - HomeLab/Monitoring/Uptime Kuma/Uptime Kuma.md",
+    "01 - HomeLab/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
+    "03 - Study/FPTU/CSD/List Data Structure.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/addPosition.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/addFirst.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/Untitled.md",
@@ -254,21 +261,13 @@
     "03 - Study/Docker/Copy local file to container.md",
     "03 - Study/Docker/Container Port Mapping.md",
     "03 - Study/Docker/Basic docker CLI command.md",
-    "03 - Study/Software Engineer/Software developing scaling.md",
     "03 - Study/Kubernetes/Pasted image 20240220151025.png",
-    "03 - Study/Kubernetes/Giới thiệu về Kubernetes.md",
     "03 - Study/Java/ArrayList practise.canvas",
-    "03 - Study/Java/2024-02-20.md",
     "03 - Study/Java/Meow Coffee Shop.canvas",
-    "03 - Study/Java/doGet và doPost.md",
     "03 - Study/Java/Pasted image 20240220131603.png",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add last node in the list.md",
     "03 - Study/Java/Interface.canvas",
     "03 - Study/FPTU/CSD/Advanced/LinkedList",
     "03 - Study/FPTU/CSD/Advanced",
-    "03 - Study/FPTU/CSD/CSD.md",
-    "99 - Meta/Temp/K8s connection.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113171455.png",
     "03 - Study/FPTU/CSD/Images/Pasted image 20250113163547.png",
@@ -287,7 +286,6 @@
     "06 - Projects/Bookery/Database.canvas",
     "01 - HomeLab/Home Server Infrastructure/Resources/nginx-proxy-manager 1.png",
     "06 - Projects/Espresso",
-    "01 - HomeLab/Storage & BackUp/Immich",
     "01 - HomeLab/Home Server Infrastructure/CI~CD Pipeline.canvas",
     "01 - HomeLab/Containerize/Kubernetes/Diagram/Traffic Routing.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
