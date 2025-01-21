@@ -26,3 +26,6 @@ services:
     restart: unless-stopped
 ```
 
++ Default `username` and `password`
+	+ username: admin@example.com
+	+ password: password
