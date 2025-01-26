@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d01d6a7e273971de",
+        "id": "846700dbc8389f71",
         "type": "tabs",
         "children": [
           {
-            "id": "13d1bb9344326496",
+            "id": "6bdec57bd0cce55a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Network/Pi-Hole/Pi-Hole.md",
+                "file": "06 - Projects/Bookery/Sample design.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pi-Hole"
-            }
-          },
-          {
-            "id": "07739c49fcb13b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/OS & System control/Linux Command/Network.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network"
+              "title": "Sample design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Propositional-Equivalences",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 208.5
   },
   "right": {
     "id": "61708746631e78d6",
@@ -202,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md"
+                "file": "03 - Study/FPTU/CSD/List Data Structure.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Add node to specific position in the list"
+              "title": "Outline of List Data Structure"
             }
           },
           {
@@ -248,23 +233,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07739c49fcb13b1f",
+  "active": "6bdec57bd0cce55a",
   "lastOpenFiles": [
-    "01 - HomeLab/Network/Pi-Hole/Pi-Hole.md",
-    "01 - HomeLab/OS & System control/Proxmox/Config Proxmox.md",
-    "01 - HomeLab/Network/SpeedTest Tracker/SpeedTest Tracker.md",
-    "01 - HomeLab/Storage & BackUp/Longlorn/Add more disk or increase storage.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
     "01 - HomeLab/Storage & BackUp/Longlorn/Longhorn.md",
+    "01 - HomeLab/Storage & BackUp/Longlorn/Add more disk or increase storage.md",
     "01 - HomeLab/Storage & BackUp/Longlorn",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove last node.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove first node.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add last node in the list.md",
-    "01 - HomeLab/OS & System control/Linux Command/Mount drive.md",
-    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
-    "01 - HomeLab/Monitoring/Uptime Kuma/Uptime Kuma.md",
-    "01 - HomeLab/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
+    "06 - Projects/Bookery/Idea space.md",
     "03 - Study/FPTU/CSD/List Data Structure.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove last node.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove first node.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/addPosition.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/addFirst.md",
     "03 - Study/FPTU/CSD/Resources/Excalidraw/Untitled.md",
@@ -277,10 +255,17 @@
     "03 - Study/Docker/Specific a Working Directory.md",
     "03 - Study/Docker/Dockerfile.md",
     "03 - Study/Docker/Copy local file to container.md",
+    "03 - Study/Docker/Container Port Mapping.md",
+    "03 - Study/Docker/Basic docker CLI command.md",
+    "03 - Study/Software Engineer/Software developing scaling.md",
     "03 - Study/Kubernetes/Pasted image 20240220151025.png",
+    "03 - Study/Kubernetes/Giới thiệu về Kubernetes.md",
     "03 - Study/Java/ArrayList practise.canvas",
+    "03 - Study/Java/2024-02-20.md",
     "03 - Study/Java/Meow Coffee Shop.canvas",
+    "03 - Study/Java/doGet và doPost.md",
     "03 - Study/Java/Pasted image 20240220131603.png",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add last node in the list.md",
     "03 - Study/Java/Interface.canvas",
     "03 - Study/FPTU/CSD/Advanced/LinkedList",
     "03 - Study/FPTU/CSD/Advanced",
