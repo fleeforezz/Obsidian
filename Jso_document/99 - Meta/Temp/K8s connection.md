@@ -1,16 +1,16 @@
 ```shell
-kubeadm join 192.168.1.52:6443 --token uqfcf0.4do6gor51lp6bodj \
-        --discovery-token-ca-cert-hash sha256:4215c7a5c9bdb90770a78acdf17304fffe74d0808d4ca9d5b4dfc8d9b038a42e
+kubeadm join 10.0.1.53:6443 --token 161cqq.ish6d4qy2kwa96ec \
+        --discovery-token-ca-cert-hash sha256:edb1761906eac671f28d286c5bb031850232aa9b8c565e36e32e3538006a12d7 \
+        --control-plane
 ```
 
 ```shell
-kubeadm join 192.168.1.52:6443 --token uqfcf0.4do6gor51lp6bodj \
-        --discovery-token-ca-cert-hash sha256:4215c7a5c9bdb90770a78acdf17304fffe74d0808d4ca9d5b4dfc8d9b038a42e \
-        --control-plane
+kubeadm join 10.0.1.53:6443 --token 161cqq.ish6d4qy2kwa96ec \
+        --discovery-token-ca-cert-hash sha256:edb1761906eac671f28d286c5bb031850232aa9b8c565e36e32e3538006a12d7
 ```
 
 ```shell
 mkdir -p $HOME/.kube
   sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
-  sudo chown $(id -u):$(id -g) $HOME/.kube/confi
+  sudo chown $(id -u):$(id -g) $HOME/.kube/config
 ```
