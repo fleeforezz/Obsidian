@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "fad9b306646794fe",
+    "id": "ede581953f35eef1",
     "type": "split",
     "children": [
       {
-        "id": "846700dbc8389f71",
+        "id": "bd6509fa32302ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "6bdec57bd0cce55a",
+            "id": "2d6b9052b34651a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,20 +27,32 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "69cba9fc3b702a79",
+    "id": "d053eba1c27ea4fc",
     "type": "split",
     "children": [
       {
-        "id": "c1bb2d22dff67e57",
+        "id": "cf61740e6acf9aee",
         "type": "tabs",
         "children": [
           {
-            "id": "e3685614dac22550",
+            "id": "187bc4847c5bdd7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "583e3ed1e3cda423",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Propositional-Equivalences",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +64,7 @@
             }
           },
           {
-            "id": "cfb6017066a8bc5a",
+            "id": "b18d95439877f2d5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -60,116 +72,56 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "a7dd236338f74c3d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 300
   },
   "right": {
-    "id": "61708746631e78d6",
+    "id": "32bbfc717621d88e",
     "type": "split",
     "children": [
       {
-        "id": "4a70fde18935461b",
+        "id": "01bd831edaa895d6",
         "type": "tabs",
-        "dimension": 47.70992366412214,
         "children": [
           {
-            "id": "e023380c6a8d59d5",
+            "id": "fddea4ee227dbfc7",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "backlink",
               "state": {
-                "file": "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.36288736930121324,
-                  "close": true
-                }
+                "file": "06 - Projects/Bookery/Sample design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Chap 1 Logic and Proofs"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sample design"
             }
           },
           {
-            "id": "94b17b76b1c68476",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "1baf982ab6c61399",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1335c03b92f3f73c",
-        "type": "tabs",
-        "dimension": 52.29007633587786,
-        "children": [
-          {
-            "id": "19da2d0c474c9e02",
+            "id": "35e436cfce1a9a72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/My PC Build/Pc Components.md",
+                "file": "06 - Projects/Bookery/Sample design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pc Components"
+              "title": "Outgoing links from Sample design"
             }
           },
           {
-            "id": "80253dcccac132d0",
+            "id": "92f4e5c5f975ffb7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -182,114 +134,62 @@
             }
           },
           {
-            "id": "782fe95fe39756c4",
+            "id": "ed5b1630ffd6cb2d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/FPTU/CSD/List Data Structure.md"
+                "file": "06 - Projects/Bookery/Sample design.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List Data Structure"
+              "title": "Outline of Sample design"
             }
           },
           {
-            "id": "3810e886fa1bd08a",
+            "id": "e87b2eba31501c7b",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Chap 1 Logic and Proofs"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "13d182e04b9fa8c5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "6bdec57bd0cce55a",
+  "active": "2d6b9052b34651a6",
   "lastOpenFiles": [
-    "01 - HomeLab/Storage & BackUp/Longlorn/Longhorn.md",
-    "01 - HomeLab/Storage & BackUp/Longlorn/Add more disk or increase storage.md",
-    "01 - HomeLab/Storage & BackUp/Longlorn",
-    "06 - Projects/Bookery/Idea space.md",
+    "03 - Study/FPTU/CSD/CSD.md",
     "03 - Study/FPTU/CSD/List Data Structure.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove last node.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Remove first node.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/addPosition.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/addFirst.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/Untitled.md",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add first node in the list.md",
-    "03 - Study/FPTU/CSD/Resources/Bubble Sort.md",
-    "03 - Study/FPTU/CSD/Resources/Excalidraw/Single Linked List.md",
-    "03 - Study/FPTU/PRJ/Quá trình tạo CRUD.md",
-    "03 - Study/FPTU/PRJ/DAO design pattern.md",
-    "03 - Study/ASP.NET Core/ASP.NET CORE.md",
-    "03 - Study/Docker/Specific a Working Directory.md",
-    "03 - Study/Docker/Dockerfile.md",
-    "03 - Study/Docker/Copy local file to container.md",
-    "03 - Study/Docker/Container Port Mapping.md",
-    "03 - Study/Docker/Basic docker CLI command.md",
-    "03 - Study/Software Engineer/Software developing scaling.md",
-    "03 - Study/Kubernetes/Pasted image 20240220151025.png",
-    "03 - Study/Kubernetes/Giới thiệu về Kubernetes.md",
-    "03 - Study/Java/ArrayList practise.canvas",
-    "03 - Study/Java/2024-02-20.md",
-    "03 - Study/Java/Meow Coffee Shop.canvas",
-    "03 - Study/Java/doGet và doPost.md",
-    "03 - Study/Java/Pasted image 20240220131603.png",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add last node in the list.md",
-    "03 - Study/Java/Interface.canvas",
-    "03 - Study/FPTU/CSD/Advanced/LinkedList",
-    "03 - Study/FPTU/CSD/Advanced",
-    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
-    "03 - Study/FPTU/CSD/Images/Pasted image 20250113171455.png",
-    "03 - Study/FPTU/CSD/Images/Pasted image 20250113163547.png",
-    "Pasted image 20250113160303.png",
-    "03 - Study/FPTU/CSD/Images/Pasted image 20250113155850.png",
-    "test",
-    "03 - Study/Frameworks/Spring Boot",
-    "03 - Study/Frameworks",
-    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-    "01 - HomeLab/Home Server Infrastructure/Resources/pfsense.png",
-    "01 - HomeLab/Home Server Infrastructure/Resources/pi-hole 1.png",
-    "01 - HomeLab/Home Server Infrastructure/Resources/proxmox.png",
-    "03 - Study/FPTU/MAD/Translate",
-    "03 - Study/FPTU/PRO",
-    "03 - Study/FPTU/MAD",
-    "06 - Projects/Bookery/Database.canvas",
-    "01 - HomeLab/Home Server Infrastructure/Resources/nginx-proxy-manager 1.png",
-    "06 - Projects/Espresso",
-    "01 - HomeLab/Home Server Infrastructure/CI~CD Pipeline.canvas",
-    "01 - HomeLab/Containerize/Kubernetes/Diagram/Traffic Routing.canvas",
-    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1 (conflicted copy 2024-05-20 072939).canvas",
-    "03 - Study/FPTU/dotNet/Untitled.canvas"
+    "06 - Projects/Bookery/Sample design.md"
   ]
 }
