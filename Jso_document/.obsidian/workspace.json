@@ -47,8 +47,7 @@
               "title": "Network"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,11 +212,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "10afaa5ceedf61f2",
+  "active": "fa97d8d73b346b8c",
   "lastOpenFiles": [
+    "01 - HomeLab/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
-    "01 - HomeLab/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Development/Gitlab/Install Gitlab with Docker.md",
     "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
     "99 - Meta/Temp/K8s connection.md",
