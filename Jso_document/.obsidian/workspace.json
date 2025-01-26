@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "46a0b32e0148f285",
+        "id": "d01d6a7e273971de",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5c6e95f836505f",
+            "id": "13d1bb9344326496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/OS & System control/Proxmox/Config Proxmox.md",
-                "mode": "source",
+                "file": "01 - HomeLab/Network/Pi-Hole/Pi-Hole.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Config Proxmox"
+              "title": "Pi-Hole"
+            }
+          },
+          {
+            "id": "07739c49fcb13b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/OS & System control/Linux Command/Network.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,8 +248,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe5c6e95f836505f",
+  "active": "07739c49fcb13b1f",
   "lastOpenFiles": [
+    "01 - HomeLab/Network/Pi-Hole/Pi-Hole.md",
+    "01 - HomeLab/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Network/SpeedTest Tracker/SpeedTest Tracker.md",
     "01 - HomeLab/Storage & BackUp/Longlorn/Add more disk or increase storage.md",
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Add node to specific position in the list.md",
@@ -260,8 +277,6 @@
     "03 - Study/Docker/Specific a Working Directory.md",
     "03 - Study/Docker/Dockerfile.md",
     "03 - Study/Docker/Copy local file to container.md",
-    "03 - Study/Docker/Container Port Mapping.md",
-    "03 - Study/Docker/Basic docker CLI command.md",
     "03 - Study/Kubernetes/Pasted image 20240220151025.png",
     "03 - Study/Java/ArrayList practise.canvas",
     "03 - Study/Java/Meow Coffee Shop.canvas",
