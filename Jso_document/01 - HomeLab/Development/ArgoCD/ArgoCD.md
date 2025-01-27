@@ -1,4 +1,4 @@
-# Install
+a# Install
 
 ```shell
 kubectl create namespace argocd 
