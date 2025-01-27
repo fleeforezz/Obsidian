@@ -60,7 +60,7 @@ sudo apt-mark hold kubelet kubeadm kubectl
 ### Init cluster
 
 ```shell
-sudo kubeadm init --control-plane-endpoint=172.16.250.216 --node-name controller --pod-network-cidr=10.244.0.0/16
+sudo kubeadm init --control-plane-endpoint=172.16.250.216 --node-name controller --pod-network-cidr=192.168.0.0/16
 ```
 
 Things have to change: 
