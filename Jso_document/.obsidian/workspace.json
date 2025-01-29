@@ -75,7 +75,8 @@
               "title": "Ips Table"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,11 +241,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "20b7a70e3cbfade4",
+  "active": "e000dca83aaf330c",
   "lastOpenFiles": [
+    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
     "99 - Meta/Temp/K8s connection.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
     "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
     "01 - HomeLab/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Development/Gitlab/Install Gitlab with Docker.md",
