@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "365cc1e1ac2e894f",
+        "id": "1ea6ee36e30658b7",
         "type": "tabs",
         "children": [
           {
-            "id": "c6631d105ee89ca9",
+            "id": "bff1f693f26d5268",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +187,18 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c6631d105ee89ca9",
+  "active": "bff1f693f26d5268",
   "lastOpenFiles": [
-    "leaf.png",
+    "Dashboard/Learning.md",
     "Dashboard/🧩 L i f e 2.0.md",
+    "Dashboard/HomeLab.md",
+    "Dashboard/Meta.md",
+    "Dashboard/University.md",
+    "Dashboard/Library.md",
+    "Dashboard/asd.md",
+    "01 - HomeLab/Install dependencies.md",
+    "04 - Tasks Board/FPTU board.md",
+    "leaf.png",
     "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
     "99 - Meta/Temp/Dog Shit.md",
     "99 - Meta/Temp/K8s connection.md",

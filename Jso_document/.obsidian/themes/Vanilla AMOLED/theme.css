@@ -18,6 +18,13 @@
 	--titlebar-background-focused: var(--color-base-10);
 }
 
+.theme-light, .theme-dark {
+	--link-decoration: none;
+	--link-decoration-hover: none;
+	/* --link-external-decoration: underline; 
+	--link-external-decoration-hover: underline; */
+  }
+
 
 /*
 	No, seriously, that's as simple as it gets.
