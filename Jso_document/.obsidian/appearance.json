@@ -1,17 +1,17 @@
 {
-  "accentColor": "#8b5ff2",
+  "accentColor": "#f2cb84",
   "translucency": false,
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "system",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "iA Writer Mono S",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "GeistMono Nerd Font Mono",
   "enabledCssSnippets": [
     "banner",
     "Colored Sidebar Items"
   ],
-  "textFontFamily": "iA Writer Mono S",
-  "monospaceFontFamily": "iA Writer Mono S",
+  "textFontFamily": "GeistMono Nerd Font Mono",
+  "monospaceFontFamily": "GeistMono Nerd Font Mono",
   "showRibbon": true,
   "baseFontSizeAction": true,
   "baseFontSize": 16

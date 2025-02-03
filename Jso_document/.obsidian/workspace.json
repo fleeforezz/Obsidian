@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aede09f60c7fd6c9",
+        "id": "365cc1e1ac2e894f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c677cd8a2628ee7",
+            "id": "c6631d105ee89ca9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,11 +183,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5c677cd8a2628ee7",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
+    "01 - HomeLab/Containerize/Kubernetes/Kubernetes.md",
+    "01 - HomeLab/Containerize/Kubernetes/Fix error.md",
+    "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
+    "01 - HomeLab/Containerize/Kubernetes/Infrastructure.md",
+    "01 - HomeLab/Containerize/Kubernetes/Cheatsheet.md",
     "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
     "01 - HomeLab/Automation/Terraform/Terraform.md",
-    "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
