@@ -1,15 +1,16 @@
 {
   "main": {
-    "id": "ede581953f35eef1",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "1ea6ee36e30658b7",
+        "id": "c181e4b7b714ecba",
         "type": "tabs",
         "children": [
           {
-            "id": "bff1f693f26d5268",
+            "id": "c9b6c64eddfa2806",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "🧩 L i f e 2.0"
             }
@@ -184,38 +186,46 @@
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "bff1f693f26d5268",
+  "active": "c9b6c64eddfa2806",
   "lastOpenFiles": [
-    "Dashboard/Learning.md",
+    "99 - Meta/My PC Build/Pc Components.md",
+    "Dashboard/🚩 Meta.md",
     "Dashboard/🧩 L i f e 2.0.md",
-    "Dashboard/HomeLab.md",
-    "Dashboard/Meta.md",
-    "Dashboard/University.md",
-    "Dashboard/Library.md",
+    "Dashboard/🧪 HomeLab.md",
+    "Dashboard/✏️ Learning.md",
+    "02 - Resources/Image Library/Asign group to user.png",
+    "02 - Resources/Banner image gallary/leaf.png",
+    "02 - Resources/Template Resources/NoteTemplate.md",
+    "00 - Notes/s 2025-02-03.md",
+    "00 - Notes/NewNote.md",
+    "00 - Notes/Untitled 2025-02-03.md",
+    "00 - Notes/null 2025-02-03.md",
+    "00 - Notes/null 2025-02-03.md",
+    "00 - Notes/test 2025-02-03.md",
+    "00 - Notes/New Note 2025-02-03.md",
+    "00 - Notes/testnote 2025-02-03.md",
+    "00 - Notes00 - NotesNew Note.md",
+    "testnote 2025-02-03.md",
+    "00 - Notes/Normal/testnote 2025-02-03.md",
+    "00 - Notes/Normal/null 2025-02-03.md",
+    "00 - Notes/Normal",
+    "00 - Notes/Normal/testNote.md",
+    "00 - Notes/Normal/CSD.md",
+    "02 - Resources/Template Resources/New Note.md",
+    "02 - Resources/Banner image gallary/sushi.webp",
+    "02 - Resources/Banner image gallary",
+    "Dashboard/🔖 Library.md",
+    "00 - Notes/Untitled.md",
+    "00 - Notes/Daily",
+    "02 - Resources/Template Resources/test.md",
+    "02 - Resources/Template Resources",
+    "Dashboard/🏫 University.md",
     "Dashboard/asd.md",
-    "01 - HomeLab/Install dependencies.md",
-    "04 - Tasks Board/FPTU board.md",
-    "leaf.png",
-    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
-    "99 - Meta/Temp/Dog Shit.md",
-    "99 - Meta/Temp/K8s connection.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "Dashboard",
-    "01 - HomeLab/Containerize/Kubernetes/Kubernetes.md",
-    "01 - HomeLab/Containerize/Kubernetes/Fix error.md",
-    "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
-    "01 - HomeLab/Containerize/Kubernetes/Infrastructure.md",
-    "01 - HomeLab/Containerize/Kubernetes/Cheatsheet.md",
-    "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
-    "01 - HomeLab/Automation/Terraform/Terraform.md",
-    "01 - HomeLab/OS & System control/Linux Command/Network.md",
-    "01 - HomeLab/Development/Gitlab/Install Gitlab with Docker.md",
-    "01 - HomeLab/Containerize/Docker/Docker.md",
-    "06 - Projects/Bookery/Sample design.md",
-    "03 - Study/FPTU/CSD/CSD.md",
-    "03 - Study/FPTU/CSD/List Data Structure.md"
+    "Dashboard"
   ]
 }

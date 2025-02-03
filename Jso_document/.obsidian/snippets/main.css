@@ -1,0 +1,36 @@
+:root {
+  --interactive-accent: #ff6600; /* Change this to your preferred color */
+  --background-primary: var(--interactive-accent);
+  --background-secondary: var(--interactive-accent);
+  --background-secondary-alt: var(--interactive-accent);
+  --background-modifier-border: var(--interactive-accent);
+  --background-modifier-hover: var(--interactive-accent);
+  --background-modifier-active-hover: var(--interactive-accent);
+  --background-modifier-box-shadow: var(--interactive-accent);
+  --background-modifier-cover: var(--interactive-accent);
+  --background-modifier-form-field: var(--interactive-accent);
+  
+  --text-normal: white !important; /* Keeps normal text white */
+  --text-title-h1: white !important;
+  --text-title-h2: white !important;
+  --text-title-h3: white !important;
+  --text-title-h4: white !important;
+  --text-title-h5: white !important;
+  --text-title-h6: white !important;
+  --text-selection: white !important;
+  --text-muted: white !important;
+  
+  /* Keep links white */
+  --text-accent: white !important;
+  --text-accent-hover: white !important;
+}
+
+/* Override specific link styles */
+a {
+  color: #999999 !important;
+  transition: 500ms !important;
+}
+a:hover {
+  color: white !important;
+  text-decoration: underline;
+}

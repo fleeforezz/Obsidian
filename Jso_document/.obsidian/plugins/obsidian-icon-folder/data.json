@@ -37,7 +37,6 @@
   "04 - Tasks Board": "FarCalendarCheck",
   "03 - Study": "FarNoteSticky",
   "02 - Resources": "BoBxBox",
-  "00 - Daily": "FarCalendarPlus",
   "99 - Meta": "FarHardDrive",
   "01 - HomeLab": "BoBxServer",
   "05 - Excalidraw": "BoBxPaint",
@@ -57,5 +56,6 @@
   "01 - HomeLab/Secret Manager": "LiLock",
   "01 - HomeLab/Storage & BackUp": "BoBxCabinet",
   "01 - HomeLab/Web Server": "LiServer",
-  "06 - Projects": "FarPaperPlane"
+  "06 - Projects": "FarPaperPlane",
+  "00 - Notes": "FarCalendarPlus"
 }

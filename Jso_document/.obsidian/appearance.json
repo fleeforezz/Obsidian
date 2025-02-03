@@ -12,7 +12,9 @@
     "dashboard",
     "dashboard-ReadLineLength",
     "dim-support-files",
-    "vault-logo"
+    "vault-logo",
+    "main",
+    "button"
   ],
   "textFontFamily": "GeistMono Nerd Font Mono",
   "monospaceFontFamily": "GeistMono Nerd Font Mono",
