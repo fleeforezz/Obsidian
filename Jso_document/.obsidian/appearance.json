@@ -8,7 +8,11 @@
   "interfaceFontFamily": "GeistMono Nerd Font Mono",
   "enabledCssSnippets": [
     "banner",
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "dim-support-files",
+    "vault-logo"
   ],
   "textFontFamily": "GeistMono Nerd Font Mono",
   "monospaceFontFamily": "GeistMono Nerd Font Mono",

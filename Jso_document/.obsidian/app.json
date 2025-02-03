@@ -4,5 +4,8 @@
   "livePreview": true,
   "showInlineTitle": true,
   "defaultViewMode": "preview",
-  "spellcheck": false
+  "spellcheck": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": false
 }

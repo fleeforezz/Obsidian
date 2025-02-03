@@ -11,10 +11,14 @@
             "id": "c6631d105ee89ca9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/🧩 L i f e 2.0.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🧩 L i f e 2.0"
             }
           }
         ]
@@ -183,8 +187,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "187bc4847c5bdd7e",
+  "active": "c6631d105ee89ca9",
   "lastOpenFiles": [
+    "leaf.png",
+    "Dashboard/🧩 L i f e 2.0.md",
+    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
+    "99 - Meta/Temp/Dog Shit.md",
+    "99 - Meta/Temp/K8s connection.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "Dashboard",
     "01 - HomeLab/Containerize/Kubernetes/Kubernetes.md",
     "01 - HomeLab/Containerize/Kubernetes/Fix error.md",
     "01 - HomeLab/Containerize/Kubernetes/Install Kubernetes.md",
@@ -192,11 +203,8 @@
     "01 - HomeLab/Containerize/Kubernetes/Cheatsheet.md",
     "01 - HomeLab/Storage & BackUp/MySQL/Install MySQL.md",
     "01 - HomeLab/Automation/Terraform/Terraform.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/OS & System control/Linux Command/Network.md",
-    "01 - HomeLab/Development/ArgoCD/ArgoCD.md",
     "01 - HomeLab/Development/Gitlab/Install Gitlab with Docker.md",
-    "99 - Meta/Temp/K8s connection.md",
     "01 - HomeLab/Containerize/Docker/Docker.md",
     "06 - Projects/Bookery/Sample design.md",
     "03 - Study/FPTU/CSD/CSD.md",

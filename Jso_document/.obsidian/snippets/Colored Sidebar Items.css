@@ -78,9 +78,9 @@ customization. Just swap out the color variable names in the prefix groups.
   .nav-file-title,
   .nav-folder-title {
     /* padding: 3px 5px 2px 4px !important; */
-    padding-top: 3px !important;
+    padding-top: 4px !important;
     padding-right: 5px !important;
-    padding-bottom: 2px !important;
+    padding-bottom: 4px !important;
     padding-left: 15px;
   }
 }
