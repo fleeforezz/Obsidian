@@ -14,5 +14,7 @@
   "dataview",
   "buttons",
   "templater-obsidian",
-  "homepage"
+  "homepage",
+  "obsidian-full-calendar",
+  "pomodoro-timer"
 ]

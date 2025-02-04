@@ -3,9 +3,9 @@ cssclasses:
   - dashboard
 content-start: "270"
 banner-display: cover
-banner: https://img.notionusercontent.com/ext/https%3A%2F%2Fi.imgur.com%2FT4TdY8g.gif/size/?exp=1738572311&sig=VidfUZNPRuF23V4-OPkanJmHaG_jhiPWIt4uJhnmVak
 banner-height: "310"
 banner-fade: "-2"
+banner: https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif
 ---
 ---
 + [<svg xmlns="http://www.w3.org/2000/svg" color="#f2cb84" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-text"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/><path d="M8 11h8"/><path d="M8 7h6"/></svg><span style="color:#f2cb84"> Library</span>](🔖%20Library.md)

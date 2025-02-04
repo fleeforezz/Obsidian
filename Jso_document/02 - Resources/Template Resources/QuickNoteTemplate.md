@@ -1,5 +1,4 @@
 <%*
-const timestamp = moment().format("YYYY-MM-DD");
 const hasTitle = !tp.file.title.startsWith("New Note");
 let noteName;
 
@@ -8,11 +7,10 @@ if (!hasTitle) {
     noteName = await tp.system.prompt("Enter note name");
     
     if (noteName) {
-        noteName = `${noteName} ${timestamp}`;
         await tp.file.rename(noteName);
     } else {
         // Handle case when user cancels or enters empty string
-        noteName = `Untitled ${timestamp}`;
+        noteName = "Untitled";
         await tp.file.rename(noteName);
     }
 } else {

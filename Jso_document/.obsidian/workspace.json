@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/🧩 L i f e 2.0.md",
+                "file": "07 - Dashboard/🧩 L i f e 2.0.md",
                 "mode": "preview",
                 "source": false
               },
@@ -24,20 +24,21 @@
             }
           },
           {
-            "id": "aaabf50ec5f30056",
+            "id": "f10c225fcf0cfeb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Resources/Template Resources/NoteTemplate.md",
-                "mode": "source",
+                "file": "07 - Dashboard/🏫 University.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NoteTemplate"
+              "title": "🏫 University"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,6 +50,7 @@
       {
         "id": "cf61740e6acf9aee",
         "type": "tabs",
+        "dimension": 67.39583333333333,
         "children": [
           {
             "id": "187bc4847c5bdd7e",
@@ -91,6 +93,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "24f5e39882f816ef",
+        "type": "tabs",
+        "dimension": 32.604166666666664,
+        "children": [
+          {
+            "id": "f6e13d002de35df8",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,46 +124,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fddea4ee227dbfc7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "06 - Projects/Bookery/Sample design.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Sample design"
-            }
-          },
-          {
-            "id": "35e436cfce1a9a72",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "06 - Projects/Bookery/Sample design.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Sample design"
-            }
-          },
-          {
             "id": "92f4e5c5f975ffb7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -156,10 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Bookery/Sample design.md"
+                "file": "07 - Dashboard/🏫 University.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sample design"
+              "title": "Outline of 🏫 University"
             }
           },
           {
@@ -183,11 +174,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 308.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -202,45 +193,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c9b6c64eddfa2806",
+  "active": "f10c225fcf0cfeb4",
   "lastOpenFiles": [
-    "00 - Notes/test 2025-02-04.md",
-    "02 - Resources/Template Resources/NoteTemplate.md",
-    "Dashboard/🧩 L i f e 2.0.md",
-    "00 - Notes/test 2025-02-04.md",
-    "00 - Notes/test 2025-02-04.md",
-    "00 - Notes/Quick Note/test 2025-02-04.md",
-    "00 - Notes/Quick Note/Do all test in the class then at 10am head to Hall C 2025-02-04.md",
-    "00 - Notes/Quick Note/test 2025-02-04.md",
-    "00 - Notes/test 2025-02-04.md",
-    "00 - Notes/test 2025-02-04.md",
-    "00 - Notes/test 2025-02-04.md",
-    "00 - Notes/Quick Note/test note 2025-02-04.md",
-    "02 - Resources/Template Resources/QuickNoteTemplate.md",
-    "00 - Notes/Quick NoteUntitled 2025-02-04.md",
-    "00 - Notes/Quick NoteNewNote.md",
-    "00 - Notes/Quick NoteNewNote.md",
-    "00 - Notes/test note 2025-02-04.md",
-    "00 - Notes/mote 2025-02-04.md",
-    "00 - Notes/quick note 2025-02-04.md",
-    "Dashboard/🗒️ Task Board.md",
-    "00 - Notes/test note 2025-02-04.md",
-    "02 - Resources/Link Gallary/Ansible YAML Syntax.md",
-    "00 - Notes/Quick Note",
-    "00 - Notes/Quick NoteUntitled 2025-02-04.md",
-    "Dashboard/🧪 HomeLab.md",
-    "Dashboard/🏫 University.md",
-    "00 - Notes/hello 2025-02-03.md",
+    "03 - Study/FPTU/CSD/CSD.md",
+    "03 - Study/FPTU/CSD/List Data Structure.md",
+    "03 - Study/Docker/Basic docker CLI command.md",
+    "03 - Study/Docker/Container Port Mapping.md",
+    "03 - Study/FPTU/CSD/Advanced/LinkedList/Add first node in the list.md",
+    "07 - Dashboard/🏫 University.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
+    "00 - Notes/University",
+    "03 - Study/FPTU/MOC Test.md",
+    "07 - Dashboard/🧪 HomeLab.md",
+    "04 - Tasks Board/FPTU board.md",
+    "07 - Dashboard/🗒️ Task Board.md",
+    "00 - Notes/University notes/Monthly Notes/2025-02.md",
+    "00 - Notes/University notes/Daily Notes/2025-02-07.md",
+    "02 - Resources/Template Resources/Journal/Monthly Note Template.md",
+    "00 - Notes/University notes/Daily Notes/2025-02-06.md",
+    "00 - Notes/University notes/Daily Notes/2025-02-04.md",
+    "02 - Resources/Template Resources/Journal/Yearly Note Template.md",
+    "02 - Resources/Template Resources/Journal/Weekly Notes Template.md",
+    "02 - Resources/Template Resources/Journal/Daily Note Template.md",
+    "02 - Resources/Template Resources/Journal",
+    "00 - Notes/University notes/Yearly Notes",
+    "00 - Notes/University notes/Monthly Notes",
+    "00 - Notes/University notes/Weekly Notes",
+    "08 - Journal/Untitled/Untitled",
+    "00 - Notes/University notes/Daily Notes",
+    "08 - Journal",
+    "07 - Dashboard/2025-02-04 yay.md",
+    "00 - Notes/University notes",
+    "07 - Dashboard/03 - Study%2FFPTU%2FMOC TEST%2FMOC Test.md",
+    "07 - Dashboard/✏️ Learning.md",
     "02 - Resources/Image Library/Asign group to user.png",
+    "00 - Notes/Quick Note/Do all test in the class then at 10am head to Hall C 2025-02-04.md",
+    "02 - Resources/Template Resources/QuickNoteTemplate.md",
+    "00 - Notes/Quick Note/Untitled.md",
+    "00 - Notes/Quick Note/test.md",
+    "00 - Notes/Quick Note",
     "02 - Resources/Banner image gallary/leaf.png",
-    "00 - Notes/Normal",
-    "02 - Resources/Banner image gallary/sushi.webp",
-    "02 - Resources/Banner image gallary",
-    "00 - Notes/Daily",
-    "02 - Resources/Template Resources",
-    "Dashboard"
+    "02 - Resources/Banner image gallary/sushi.webp"
   ]
 }
