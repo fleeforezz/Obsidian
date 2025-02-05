@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9b6c64eddfa2806",
+            "id": "6e534ed523710e65",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "f10c225fcf0cfeb4",
+            "id": "4a49a6ddc6c1c74d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Dashboard/🏫 University.md",
+                "file": "07 - Dashboard/🧪 HomeLab.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏫 University"
+              "title": "🧪 HomeLab"
             }
           }
         ],
@@ -154,17 +154,40 @@
             }
           },
           {
-            "id": "e87b2eba31501c7b",
+            "id": "7e1c34c44f9d0e6a",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "backlink",
+              "state": {
+                "file": "07 - Dashboard/🧪 HomeLab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🧪 HomeLab"
             }
           },
           {
-            "id": "13d182e04b9fa8c5",
+            "id": "7086bf2859f72682",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07 - Dashboard/🧪 HomeLab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🧪 HomeLab"
+            }
+          },
+          {
+            "id": "d3a519cf62e5d18a",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -172,9 +195,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "9d0240aa20e5a2a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,49 +227,49 @@
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f10c225fcf0cfeb4",
+  "active": "4a49a6ddc6c1c74d",
   "lastOpenFiles": [
+    "07 - Dashboard/🌿 Infrastructure.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
+    "07 - Dashboard/🧪 HomeLab.md",
+    "07 - Dashboard/✏️ Learning.md",
+    "02 - Resources/Template Resources/UniversityNoteTemp.md",
+    "00 - Notes/University/uni note 2025-02-05.md",
+    "02 - Resources/Template Resources/MainNoteTemp.md",
+    "07 - Dashboard/🏫 University.md",
+    "02 - Resources/Template Resources/HomeLabNoteTemp.md",
+    "00 - Notes/HomeLab/test note   2025-02-05.md",
+    "00 - Notes/HomeLab/HomeLab note 2025-02-05.md",
+    "00 - Notes/L i f e 2.0/test note 2025-02-05.md",
+    "00 - Notes/L i f e 2.0test note 2025-02-05.md",
+    "00 - Notes/L i f e 2.0/L i f e 2.0test note 2025-02-05.md",
+    "00 - Notes/Learning",
+    "00 - Notes/Library",
+    "00 - Notes/L i f e 2.0",
+    "00 - Notes/HomeLab",
+    "00 - Notes/University",
     "03 - Study/FPTU/CSD/CSD.md",
     "03 - Study/FPTU/CSD/List Data Structure.md",
     "03 - Study/Docker/Basic docker CLI command.md",
     "03 - Study/Docker/Container Port Mapping.md",
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Add first node in the list.md",
-    "07 - Dashboard/🏫 University.md",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "00 - Notes/University",
     "03 - Study/FPTU/MOC Test.md",
-    "07 - Dashboard/🧪 HomeLab.md",
     "04 - Tasks Board/FPTU board.md",
     "07 - Dashboard/🗒️ Task Board.md",
     "00 - Notes/University notes/Monthly Notes/2025-02.md",
     "00 - Notes/University notes/Daily Notes/2025-02-07.md",
     "02 - Resources/Template Resources/Journal/Monthly Note Template.md",
     "00 - Notes/University notes/Daily Notes/2025-02-06.md",
-    "00 - Notes/University notes/Daily Notes/2025-02-04.md",
-    "02 - Resources/Template Resources/Journal/Yearly Note Template.md",
-    "02 - Resources/Template Resources/Journal/Weekly Notes Template.md",
-    "02 - Resources/Template Resources/Journal/Daily Note Template.md",
     "02 - Resources/Template Resources/Journal",
     "00 - Notes/University notes/Yearly Notes",
     "00 - Notes/University notes/Monthly Notes",
     "00 - Notes/University notes/Weekly Notes",
-    "08 - Journal/Untitled/Untitled",
-    "00 - Notes/University notes/Daily Notes",
-    "08 - Journal",
-    "07 - Dashboard/2025-02-04 yay.md",
-    "00 - Notes/University notes",
-    "07 - Dashboard/03 - Study%2FFPTU%2FMOC TEST%2FMOC Test.md",
-    "07 - Dashboard/✏️ Learning.md",
     "02 - Resources/Image Library/Asign group to user.png",
-    "00 - Notes/Quick Note/Do all test in the class then at 10am head to Hall C 2025-02-04.md",
-    "02 - Resources/Template Resources/QuickNoteTemplate.md",
-    "00 - Notes/Quick Note/Untitled.md",
-    "00 - Notes/Quick Note/test.md",
-    "00 - Notes/Quick Note",
     "02 - Resources/Banner image gallary/leaf.png",
     "02 - Resources/Banner image gallary/sushi.webp"
   ]

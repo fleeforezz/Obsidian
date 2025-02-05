@@ -19,5 +19,5 @@ if (!hasTitle) {
     noteName = tp.file.title;
 }
 
-await tp.file.move("/00 - Notes/" + noteName)
+await tp.file.move("/00 - Notes/L i f e 2.0/" + noteName)
 _%>

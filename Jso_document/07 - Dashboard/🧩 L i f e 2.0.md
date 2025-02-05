@@ -15,9 +15,6 @@ banner: https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3
 + [<svg xmlns="http://www.w3.org/2000/svg" color="#b4f4f6" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar-check"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg><span style="color:#b4f4f6"> Tasks Board</span>](🗒️%20Task%20Board.md)
 + [<svg xmlns="http://www.w3.org/2000/svg" color="#5bbe7c" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-atom"><circle cx="12" cy="12" r="1"/><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"/><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"/></svg><span style="color:5bbe7c"> Meta</span>](🚩%20Meta.md)
 ---
-+  #### <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sticky-note"><path d="M16 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8Z"/><path d="M15 3v4a2 2 0 0 0 2 2h4"/></svg> quick note
-`$=dv.list(dv.pages('"00 - Notes/Quick Note"').sort(f=> f.file.mtime.ts,"desc").limit(10).file.link)`
-`button-quicknote`
 + #### <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-notebook-pen"><path d="M13.4 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7.4"/><path d="M2 6h4"/><path d="M2 10h4"/><path d="M2 14h4"/><path d="M2 18h4"/><path d="M21.378 5.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z"/></svg> notebook 
 `$=dv.list(dv.pages('"00 - Notes"').filter(f => f.file.path.startsWith("00 - Notes/") && !f.file.path.startsWith("00 - Notes/Quick Note/")).sort(f => f.file.mtime.ts, "desc").limit(10).file.link)`
 `button-notebook`
@@ -35,17 +32,8 @@ banner: https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3
 ```button
 name 📝 Add
 type note(New Note, split) template
-action NoteTemplate
+action MainNoteTemp
 templater true
 class add-btns
 ```
 ^button-notebook
-
-```button
-name 📝 Add
-type note(New Note, split) template
-action QuickNoteTemplate
-templater true
-class add-btns
-```
-^button-quicknote
