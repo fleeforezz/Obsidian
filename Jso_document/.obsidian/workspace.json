@@ -37,8 +37,7 @@
               "title": "🧪 HomeLab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +230,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4a49a6ddc6c1c74d",
+  "active": "6e534ed523710e65",
   "lastOpenFiles": [
+    "07 - Dashboard/🧪 HomeLab.md",
     "07 - Dashboard/🌿 Infrastructure.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
-    "07 - Dashboard/🧪 HomeLab.md",
     "07 - Dashboard/✏️ Learning.md",
     "02 - Resources/Template Resources/UniversityNoteTemp.md",
     "00 - Notes/University/uni note 2025-02-05.md",
