@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## No status
 
+- [ ] Nộp workshop1 trên edunext PRO
+- [ ] Làm edunext Q6 PRO
 
 
 ## On going
@@ -14,7 +16,7 @@ kanban-plugin: board
 
 ## Done
 
-- [ ] Làm thuyết trình PRN
+- [x] Làm thuyết trình PRN
 	 + Abstract Factory Pattern
 	 + Builder Pattern
 

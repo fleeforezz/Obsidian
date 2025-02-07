@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "8f427a905ba97ee8",
+            "id": "c98b211758021f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +35,22 @@
               },
               "icon": "lucide-file",
               "title": "🏫 University"
+            }
+          },
+          {
+            "id": "8f427a905ba97ee8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "04 - Tasks Board/FPTU board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "FPTU board"
             }
           }
         ],
@@ -231,11 +247,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8f427a905ba97ee8",
+  "active": "c98b211758021f75",
   "lastOpenFiles": [
-    "00 - Notes/L i f e 2.0/Nộp workshop 1 trên edunext 2025-02-07.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "07 - Dashboard/🏫 University.md",
+    "00 - Notes/L i f e 2.0/Nộp workshop 1 trên edunext 2025-02-07.md",
+    "04 - Tasks Board/FPTU board.md",
     "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "00 - Notes/L i f e 2.0/làm edunext Q6 2025-02-07.md",
     "07 - Dashboard/🧪 HomeLab.md",
@@ -262,7 +279,6 @@
     "03 - Study/FPTU/CSD/Advanced/LinkedList/Add first node in the list.md",
     "00 - Notes/University",
     "03 - Study/FPTU/MOC Test.md",
-    "04 - Tasks Board/FPTU board.md",
     "07 - Dashboard/🗒️ Task Board.md",
     "00 - Notes/University notes/Monthly Notes/2025-02.md",
     "02 - Resources/Template Resources/Journal",
