@@ -36,41 +36,9 @@
               "icon": "lucide-file",
               "title": "🏫 University"
             }
-          },
-          {
-            "id": "a09b0e11a3077bbb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Dashboard/🧩 L i f e 2.0.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "🧩 L i f e 2.0"
-            }
-          },
-          {
-            "id": "8f427a905ba97ee8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04 - Tasks Board/FPTU board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "FPTU board"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,11 +231,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8f427a905ba97ee8",
+  "active": "c98b211758021f75",
   "lastOpenFiles": [
-    "07 - Dashboard/🏫 University.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "04 - Tasks Board/FPTU board.md",
+    "07 - Dashboard/🏫 University.md",
     "00 - Notes/L i f e 2.0/Nộp workshop 1 trên edunext 2025-02-07.md",
     "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "00 - Notes/L i f e 2.0/làm edunext Q6 2025-02-07.md",
