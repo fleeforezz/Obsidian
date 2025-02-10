@@ -1,12 +1,12 @@
 ```shell
-kubeadm join 10.0.1.55:6443 --token zjf8ci.52i57uqowc88o7v7 \
-        --discovery-token-ca-cert-hash sha256:f7f8da2ceca4f9b64449caf6ad976c2a675c714febc217625c53bbd6311dfa00 \
+kubeadm join 192.168.1.55:6443 --token nqtzoo.c3qcr9e3gh2b0e8g \
+        --discovery-token-ca-cert-hash sha256:895dfd78720c183a59e322e00996ae7981f1c3b1afd13704b1a95b5babde5d52 \
         --control-plane
 ```
 
 ```shell
-kubeadm join 10.0.1.55:6443 --token zjf8ci.52i57uqowc88o7v7 \
-        --discovery-token-ca-cert-hash sha256:f7f8da2ceca4f9b64449caf6ad976c2a675c714febc217625c53bbd6311dfa00
+kubeadm join 192.168.1.55:6443 --token nqtzoo.c3qcr9e3gh2b0e8g \
+        --discovery-token-ca-cert-hash sha256:895dfd78720c183a59e322e00996ae7981f1c3b1afd13704b1a95b5babde5d52
 ```
 
 ```shell
