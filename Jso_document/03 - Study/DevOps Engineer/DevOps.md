@@ -13,9 +13,19 @@
 ### 1. Communication and Collaboration
 ### 2. System Administration
 ### 3. Experience with DevOps tools
+[[Jenkins]]
+[[Ansible]]
 ### 4. Configuration management
+[[Terraform]]
 ### 5. Containers and container orchestration
+[[Docker]]
+[[Kubernetes]]
 ### 6. Continuous Integration and Continuous Deployment (CI/CD)
+[[Jenkins]]
+[[GitlabCI]]
+[[ArgoCD]]
+[[CircleCI]]
+[[FluxCI]]
 ### 7. System architecture and provisioning
 ### 8. Familiarity with coding and scripting 
 ### 9. Collaboration management skills
