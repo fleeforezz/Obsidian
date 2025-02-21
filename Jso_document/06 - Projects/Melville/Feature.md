@@ -11,6 +11,7 @@ mindmap-plugin: basic
     - Logout
     - SignUp
     - SignUp with google
+    - Forgot Password
 - Account Management
     - Edit user
     - Deactivate user account
