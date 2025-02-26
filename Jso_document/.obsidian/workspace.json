@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "072011f2a0e0dd1a",
+            "id": "a8a6816875e3ee4a",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -229,15 +229,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "072011f2a0e0dd1a",
+  "active": "a8a6816875e3ee4a",
   "lastOpenFiles": [
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "06 - Projects/Melville/Feature.md",
-    "06 - Projects/Melville/Note.md",
-    "06 - Projects/Melville/Untitled Kanban.md",
-    "06 - Projects/Melville/Sample design.md",
-    "06 - Projects/Melville/Database.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "01 - HomeLab/Development/Jenkin/Config jenkins.md",
+    "01 - HomeLab/Containerize/Portainer/Portainer.md",
+    "01 - HomeLab/Development/Jenkin/Jenkins with docker CICD pipeline.md",
+    "01 - HomeLab/Development/Jenkin/Jenkin.md",
+    "01 - HomeLab/Containerize/Docker/Docker.md",
     "01 - HomeLab/Storage & BackUp/Immich/Immich.md",
+    "06 - Projects/Melville/Sample design.md",
+    "06 - Projects/Melville/Note.md",
+    "06 - Projects/Melville/Database.md",
+    "06 - Projects/Melville",
     "03 - Study/Get ready for Interview/DevOps/Questions board.md",
     "03 - Study/DevOps Engineer/DevOps.md",
     "01 - HomeLab/Automation/Ansible/Ansible.md",
@@ -255,18 +261,12 @@
     "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "00 - Notes/L i f e 2.0/làm edunext Q6 2025-02-07.md",
     "07 - Dashboard/🧪 HomeLab.md",
-    "07 - Dashboard/🌿 Infrastructure.md",
-    "07 - Dashboard/✏️ Learning.md",
-    "02 - Resources/Template Resources/UniversityNoteTemp.md",
-    "00 - Notes/University/uni note 2025-02-05.md",
-    "02 - Resources/Template Resources/MainNoteTemp.md",
     "00 - Notes/Learning",
     "00 - Notes/Library",
     "00 - Notes/L i f e 2.0",
     "00 - Notes/HomeLab",
     "00 - Notes/University",
     "00 - Notes/University",
-    "02 - Resources/Template Resources/Journal",
     "02 - Resources/Image Library/Asign group to user.png",
     "02 - Resources/Banner image gallary/leaf.png",
     "02 - Resources/Banner image gallary/sushi.webp"

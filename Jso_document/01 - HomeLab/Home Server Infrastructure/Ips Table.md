@@ -34,6 +34,7 @@ kanban-plugin: board
 
 - [ ] 192.168.1.80 (MySQL)
 - [ ] 192.168.1.81 (MSSQL)
+- [ ] 10.0.1.82 (Database Servers)
 
 
 ## Game Server
