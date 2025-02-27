@@ -27,12 +27,14 @@
             "id": "a8a6816875e3ee4a",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "06 - Projects/Melville/Feature.md"
+                "file": "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "Feature"
+              "icon": "lucide-file",
+              "title": "ZSH"
             }
           }
         ],
@@ -231,8 +233,8 @@
   },
   "active": "a8a6816875e3ee4a",
   "lastOpenFiles": [
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "06 - Projects/Melville/Feature.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Development/Jenkin/Config jenkins.md",
     "01 - HomeLab/Containerize/Portainer/Portainer.md",
