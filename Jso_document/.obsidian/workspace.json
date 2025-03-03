@@ -24,17 +24,15 @@
             }
           },
           {
-            "id": "a8a6816875e3ee4a",
+            "id": "574d4f665abe1e3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
-                "mode": "preview",
-                "source": false
+                "file": "06 - Projects/Melville/Feature.md"
               },
-              "icon": "lucide-file",
-              "title": "ZSH"
+              "icon": "blocks",
+              "title": "Feature"
             }
           }
         ],
@@ -231,10 +229,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a8a6816875e3ee4a",
+  "active": "574d4f665abe1e3c",
   "lastOpenFiles": [
-    "06 - Projects/Melville/Feature.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+    "06 - Projects/Melville/Feature.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Development/Jenkin/Config jenkins.md",
     "01 - HomeLab/Containerize/Portainer/Portainer.md",
@@ -262,7 +261,6 @@
     "00 - Notes/L i f e 2.0/Nộp workshop 1 trên edunext 2025-02-07.md",
     "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "00 - Notes/L i f e 2.0/làm edunext Q6 2025-02-07.md",
-    "07 - Dashboard/🧪 HomeLab.md",
     "00 - Notes/Learning",
     "00 - Notes/Library",
     "00 - Notes/L i f e 2.0",
