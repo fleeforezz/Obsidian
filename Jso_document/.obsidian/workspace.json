@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "574d4f665abe1e3c",
+            "id": "91f2ee5df8128b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -232,15 +231,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "574d4f665abe1e3c",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
-    "Pasted image 20250304131928.png",
-    "06 - Projects/Melville/Note.md",
+    "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
+    "06 - Projects/Melville/Feature.md",
     "06 - Projects/Melville/Melville Design.md",
+    "06 - Projects/Melville/Note.md",
     "06 - Projects/Melville/Sample design.md",
     "06 - Projects/Melville/Database.md",
-    "06 - Projects/Melville/Feature.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
+    "06 - Projects/Melville/Resources",
+    "06 - Projects/Melville/Resources/Pasted image 20250304131928.png",
+    "Pasted image 20250304214924.png",
+    "06 - Projects/Melville/Resources/Pasted image 20250304215114.png",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Development/Jenkin/Config jenkins.md",
@@ -268,7 +271,6 @@
     "00 - Notes/Library",
     "00 - Notes/L i f e 2.0",
     "00 - Notes/HomeLab",
-    "00 - Notes/University",
     "00 - Notes/University",
     "02 - Resources/Image Library/Asign group to user.png",
     "02 - Resources/Banner image gallary/leaf.png",
