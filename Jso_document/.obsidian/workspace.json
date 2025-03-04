@@ -27,12 +27,14 @@
             "id": "574d4f665abe1e3c",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "06 - Projects/Melville/Feature.md"
+                "file": "06 - Projects/Melville/Melville Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "Feature"
+              "icon": "lucide-file",
+              "title": "Melville Design"
             }
           }
         ],
@@ -111,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -231,9 +234,14 @@
   },
   "active": "574d4f665abe1e3c",
   "lastOpenFiles": [
+    "Pasted image 20250304131928.png",
+    "06 - Projects/Melville/Note.md",
+    "06 - Projects/Melville/Melville Design.md",
+    "06 - Projects/Melville/Sample design.md",
+    "06 - Projects/Melville/Database.md",
+    "06 - Projects/Melville/Feature.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
-    "06 - Projects/Melville/Feature.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Development/Jenkin/Config jenkins.md",
     "01 - HomeLab/Containerize/Portainer/Portainer.md",
@@ -241,9 +249,6 @@
     "01 - HomeLab/Development/Jenkin/Jenkin.md",
     "01 - HomeLab/Containerize/Docker/Docker.md",
     "01 - HomeLab/Storage & BackUp/Immich/Immich.md",
-    "06 - Projects/Melville/Sample design.md",
-    "06 - Projects/Melville/Note.md",
-    "06 - Projects/Melville/Database.md",
     "06 - Projects/Melville",
     "03 - Study/Get ready for Interview/DevOps/Questions board.md",
     "03 - Study/DevOps Engineer/DevOps.md",
@@ -259,8 +264,6 @@
     "99 - Meta/Temp/K8s connection.md",
     "04 - Tasks Board/FPTU board.md",
     "00 - Notes/L i f e 2.0/Nộp workshop 1 trên edunext 2025-02-07.md",
-    "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
-    "00 - Notes/L i f e 2.0/làm edunext Q6 2025-02-07.md",
     "00 - Notes/Learning",
     "00 - Notes/Library",
     "00 - Notes/L i f e 2.0",
