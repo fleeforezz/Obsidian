@@ -4,7 +4,7 @@ mindmap-plugin: basic
 
 # Melville
 
-## Normal User side
+## Guest
 - Account Register
     - Login
     - Login with google
@@ -12,26 +12,13 @@ mindmap-plugin: basic
     - SignUp
     - SignUp with google
     - Forgot Password
-- Account Management
-    - Edit user
-    - Deactivate user account
-    - Delete user data
-    - Recover user account
-    - Reset password
-- Profile Management
-    - List favorite books
-    - Remove favorite books
-    - Read favorite book
 - Library
-    - List books
-    - List books by category
+    - View book
+    - View books by Categories
 - Read Book
     - View book detail
     - Read book
     - Download book
-    - Rate book
-    - Unrate book
-    - Add favorite
 - Search
     - Search book by name
     - Search book by authors name
@@ -87,7 +74,7 @@ mindmap-plugin: basic
     - Search user account by user_name
     - Search books by book_name
 
-## Librarian side
+## User
 - Account Register
     - Login
     - Login with google
@@ -103,25 +90,12 @@ mindmap-plugin: basic
     - Reset password
 - Books Management
     - Add books
-    - List books
+    - View books
     - Update books
     - Delete books
-- Category Management
-    - List category
-    - Add category
-    - Edit category
-    - Delete category
-- Location Management
-    - list country
-    - Add country
-    - Edit country
-    - Delete Country
-    - List city
-    - Add city
-    - Edit city
-    - Delete city
-- Sex Management
-    - List sex
-    - Add sex
-    - Edit sex
-    - Delete Sex
+- Read Book
+    - View Book detail
+    - Read book
+    - Download book
+    - Add favorite
+    - Rating

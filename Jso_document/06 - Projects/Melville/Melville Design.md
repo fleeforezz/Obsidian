@@ -44,7 +44,7 @@ We have 3 main Actors in our system:
 
 + **Admin:** Responsible for full control over users, books, categories
 + **Users:** Will be able to uploads books, view uploaded books, modified books, remove books, add favorite book, download book.
-+ Sytem: Mainly responsible for sending notifications
++ Guest: Can only view book and download books, but cannot add favorite, uploads books, view uploaded books, modified books, remove books,
 
 Here are the top use cass of Melville website:
 
