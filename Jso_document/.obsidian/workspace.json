@@ -27,12 +27,14 @@
             "id": "91f2ee5df8128b71",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "06 - Projects/Melville/Feature.md"
+                "file": "06 - Projects/Melville/Melville Design.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "Feature"
+              "icon": "lucide-file",
+              "title": "Melville Design"
             }
           }
         ],
@@ -231,10 +233,10 @@
   },
   "active": "91f2ee5df8128b71",
   "lastOpenFiles": [
-    "06 - Projects/Melville/Melville Design.md",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
-    "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Melville/Feature.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
+    "06 - Projects/Melville/Melville Design.md",
+    "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Melville/Note.md",
     "06 - Projects/Melville/Sample design.md",
     "06 - Projects/Melville/Database.md",
