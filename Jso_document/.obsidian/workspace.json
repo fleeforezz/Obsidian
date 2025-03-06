@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Automation/HomeAssistant/HomeAssistant.md",
+                "file": "01 - HomeLab/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HomeAssistant"
+              "title": "Beautiful Dashboard in HomeAssistant"
             }
           }
         ],
@@ -233,6 +233,7 @@
   },
   "active": "6266516556440702",
   "lastOpenFiles": [
+    "01 - HomeLab/Automation/HomeAssistant/HomeAssistant.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "06 - Projects/Melville/Feature.md",
     "06 - Projects/Melville/Melville Design.md",
