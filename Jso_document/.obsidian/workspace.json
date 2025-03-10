@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "🧩 L i f e 2.0"
             }
+          },
+          {
+            "id": "edb8339ee83bf642",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "06 - Projects/Melville/Feature.md"
+              },
+              "icon": "blocks",
+              "title": "Feature"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +229,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ef2ac4ae8e96f60b",
+  "active": "edb8339ee83bf642",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "06 - Projects/Melville/Melville Design.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
     "01 - HomeLab/Automation/HomeAssistant/HomeAssistant.md",
     "06 - Projects/Melville/Feature.md",
