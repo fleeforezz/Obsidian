@@ -4,53 +4,23 @@ mindmap-plugin: basic
 
 # Melville
 
-## Guest
-- Account Register
-    - Login
-    - Login with google
-    - Logout
-    - SignUp
-    - SignUp with google
-    - Forgot Password
-- Library
-    - View book
-    - View books by Categories
-- Read Book
-    - View book detail
-    - Read book
-    - Download book
-- Search
-    - Search book by name
-    - Search book by authors name
-
 ## Admin side
 - Account Register
     - Login
     - Login with google
     - Logout
-    - SignUp
-    - SignUp with google
 - Account Management
     - Edit user
     - Deactivate user account
     - Delete user data
     - Recover user account
     - Reset password
-- Profile Management
-    - List favorite books
-    - Remove favorite books
-    - Read favorite book
 - Users Management
     - Add users
     - Update users
     - List all users
     - Grant role to user
     - Delete users
-- Books Management
-    - Add books
-    - Update books
-    - List books
-    - Delete books
 - Category Management
     - List category
     - Add category
@@ -99,3 +69,9 @@ mindmap-plugin: basic
     - Download book
     - Add favorite
     - Rating
+- Favorite Management
+    - Remove Favorite
+    - View favorite list
+    - View book detail in favorite list
+- Search
+    - Search book by book_name

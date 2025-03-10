@@ -7,6 +7,8 @@
   "spellcheck": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "foldHeading": false,
-  "newFileLocation": "current"
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "propertiesInDocument": "visible",
+  "showLineNumber": true
 }
