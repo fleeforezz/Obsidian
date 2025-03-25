@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
-                "mode": "preview",
+                "file": "99 - Meta/System Tweaks/Terminal theme and color theme.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZSH"
+              "title": "Terminal theme and color theme"
             }
           }
         ],
@@ -234,7 +234,9 @@
   "active": "d0f88e7b8eddf2f3",
   "lastOpenFiles": [
     "99 - Meta/System Tweaks/Pretty Terminal/Oh My Posh.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121042.png",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/StarShip.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/DevOps Engineer/Youtube Channel to learn DevOps.md",
     "03 - Study/DevOps Engineer/DevOps.md",
@@ -261,8 +263,6 @@
     "01 - HomeLab/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
     "01 - HomeLab/Automation/HomeAssistant/HomeAssistant.md",
     "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
-    "06 - Projects/Melville/Note.md",
-    "06 - Projects/Melville/Sample design.md",
     "06 - Projects/Melville/Resources",
     "06 - Projects/Melville/Resources/Pasted image 20250304131928.png",
     "Pasted image 20250304214924.png",

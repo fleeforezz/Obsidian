@@ -167,7 +167,31 @@
 }
 ```
 
-
+```shell
+{
+    "background": "#091116",
+    "black": "#282A2E",
+    "blue": "#225555",
+    "brightBlack": "#373B41",
+    "brightBlue": "#449DA1",
+    "brightCyan": "#86C1B9",
+    "brightGreen": "#608360",
+    "brightPurple": "#BA8BAF",
+    "brightRed": "#C63535",
+    "brightWhite": "#C5C8C6",
+    "brightYellow": "#FA805A",
+    "cursorColor": "#868A8C",
+    "cyan": "#5E8D87",
+    "foreground": "#868A8C",
+    "green": "#A1B56C",
+    "name": "Terminix Dark",
+    "purple": "#85678F",
+    "red": "#A54242",
+    "selectionBackground": "#373B41",
+    "white": "#777777",
+    "yellow": "#DE935F"
+},
+```
 
 
 # Linux terminal color
