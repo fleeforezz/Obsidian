@@ -7,20 +7,25 @@ mindmap-plugin: basic
 ## Admin side
 - Account Register
     - Login
-    - Login with google
+        - Login with google
     - Logout
 - Account Management
-    - Edit user
+    - Modified Account
+        - Edit user profile
+        - Change password
     - Deactivate user account
     - Delete user data
-    - Recover user account
-    - Reset password
+    - Reactivate user account
 - Users Management
     - Add users
-    - Update users
-    - List all users
+    - Modify users
     - Grant role to user
     - Delete users
+    - Dashboard
+        - View number of users
+        - View recent created users
+        - View number of authors
+        - View users with upgrade request
 - Category Management
     - List category
     - Add category
@@ -43,35 +48,87 @@ mindmap-plugin: basic
 - Search
     - Search user account by user_name
     - Search books by book_name
+- Dashboard
+    - View total of users in system
+    - View total of books in system
+    - View total of city
+    - View total of country
+    - View total of sex
+    - View table of reject & except permission request
 
 ## User
 - Account Register
     - Login
-    - Login with google
+        - Login with google
     - Logout
-    - SignUp
-    - SignUp with google
-    - Forgot password
+    - Reset password
 - Account Management
-    - Edit user
+    - Modified Account
+        - Edit user profile
+        - Change password
     - Deactivate user account
     - Delete user data
-    - Recover user account
-    - Reset password
-- Books Management
-    - Add books
-    - View books
-    - Update books
-    - Delete books
-- Read Book
-    - View Book detail
-    - Read book
-    - Download book
-    - Add favorite
+    - Reactivate user account
+    - Request role upgrade
+- Books behavior
+    - View book
+    - Read books
+    - Download books
+    - Add favorite & Remove favorite
     - Rating
-- Favorite Management
-    - Remove Favorite
-    - View favorite list
-    - View book detail in favorite list
+    - Share link
+    - Like & Unlike a book
+- Search books
+    - Search by book_name
+    - Search by author_name
+    - Search by Category
+
+## Author
+- Account Register
+    - Login
+        - Login with google
+    - Logout
+    - Reset password
+- Account Management
+    - Modified Account
+        - Edit user profile
+        - Change password
+    - Deactivate user account
+    - Delete user data
+    - Reactivate user account
+- Books behavior
+    - View books
+    - Read books
+    - Download books
+    - Add favorite & Remove favorite
+    - Rating
+    - Share link
+    - Like & Unlike a book
+- Author Settings
+    - Books
+        - Add books
+        - Modify books
+        - Delete books
+    - Categories
+        - Add categories
+        - Modify categories
+        - Delete categories
+    - Dashboard
+        - View total of books
+        - View total of categories
+        - View table of recent activity
 - Search
-    - Search book by book_name
+    - Search all books in website
+        - Search by book_name
+        - Search by author_name
+        - Search by category
+    - Search books in Author Settings
+        - Search by book_name
+        - Search by author_name
+        - Search by category
+
+## Guest
+- View books
+- View homepage
+- SignUp
+    - SignUp with google
