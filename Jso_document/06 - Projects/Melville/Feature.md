@@ -10,53 +10,63 @@ mindmap-plugin: basic
         - Login with google
     - Logout
 - Account Management
-    - Modified Account
-        - Edit user profile
-        - Change password
-    - Deactivate user account
-    - Delete user data
-    - Reactivate user account
+    - Modified account
+        - Edit admin profile
+        - Change admin password
+    - <mark style="background: #FF5582A6;">Deactivate admin account</mark>
 - Users Management
-    - Add users
-    - Modify users
-    - Grant role to user
-    - Delete users
-    - Dashboard
-        - View number of users
-        - View recent created users
-        - View number of authors
+    - Datatable
+        - View username
+        - View user email
+        - View account created date
+        - View user status
+        - View user role
         - View users with upgrade request
-- Category Management
-    - List category
-    - Add category
-    - Update category
-    - Delete category
-- Location Management
-    - list country
-    - Add country
-    - Update country
-    - Delete Country
-    - List city
-    - Add city
-    - Update city
-    - Delete city
-- Sex Management
-    - List sex
-    - Add sex
-    - Update sex
-    - Delete Sex
-- Search
-    - Search user account by user_name
-    - Search books by book_name
+        - <mark style="background: #FF5582A6;">View uploaded books by author</mark>
+    - Action menu
+        - Edit user profile
+        - Grant role to user
+        - Delete users
+        - Deactivate user accounts
+    - Sort from A-Z, Z-A
+    - Search users by name, email
+    - Filter
+        - By user role
+        - By user status
+        - By account created date
+    - Pagination
+- <mark style="background: #FF5582A6;">Location Management</mark>
+    - Country
+        - Add country
+        - Modify country
+        - Remove country
+    - City
+        - Add city
+        - Modify city
+        - Remove city
+    - Dashboard
+        - View number of country
+        - View number of city
+        - View list of recent activity
+- Book Management
+    - Category management
+        - Add category
+        - Datatable
+            - View category name
+            - View user that upload that category
+            - View upload
+        - Action menu
+            - Modify category
+            - Remove category
+        - Sort from A-Z, Z-A
+        - Search category by name
+        - Filter
+            - By category created date
+        - Pagination
+    - Sub title
 - Dashboard
-    - View total of users in system
-    - View total of books in system
-    - View total of city
-    - View total of country
-    - View total of sex
-    - View table of reject & except permission request
 
-## User
+## Reader
 - Account Register
     - Login
         - Login with google
