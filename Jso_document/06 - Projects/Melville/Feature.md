@@ -9,6 +9,7 @@ mindmap-plugin: basic
     - Login
         - Login with google
     - Logout
+    - Reset password
 - Account Management
     - Modified account
         - Edit admin profile
@@ -54,7 +55,7 @@ mindmap-plugin: basic
         - Datatable
             - View category name
             - View user that upload that category
-            - View upload
+            - View uploaded date
         - Action menu
             - Modify category
             - Remove category
@@ -63,7 +64,18 @@ mindmap-plugin: basic
         - Filter
             - By category created date
         - Pagination
-    - Sub title
+    - Datatable
+        - View book name
+        - View user that upload that book
+        - View uploaded date
+    - Action menu
+    - Sort from A-Z, Z-A
+    - Search book
+        - By book name
+        - By author upload
+    - Filter
+        - By book created date
+    - Pagination
 - Dashboard
 
 ## Reader
@@ -74,24 +86,30 @@ mindmap-plugin: basic
     - Reset password
 - Account Management
     - Modified Account
-        - Edit user profile
-        - Change password
+        - Edit reader profile
+        - Change reader password
     - Deactivate user account
     - Delete user data
     - Reactivate user account
     - Request role upgrade
-- Books behavior
-    - View book
-    - Read books
-    - Download books
-    - Add favorite & Remove favorite
+- My book (Favorite)
+    - View all books that reader add to favorite
+    - Read favorite books
+    - Download favorite books
     - Rating
     - Share link
     - Like & Unlike a book
+    - Remove favorite
 - Search books
-    - Search by book_name
-    - Search by author_name
-    - Search by Category
+    - Search favorite book by book_name
+    - Search favorite by author_name
+    - Search favorite by Category
+- Book interaction in website
+    - Read books
+    - Like books
+    - Download books
+    - Add favorite
+- Pagination
 
 ## Author
 - Account Register
