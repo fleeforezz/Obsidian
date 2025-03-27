@@ -59,10 +59,15 @@ kanban-plugin: board
 - [ ] 192.168.1.60
 
 
+## OpenVPN
+
+- [ ] 192.168.1.78
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"full-list-lane-width":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false],"full-list-lane-width":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
 ```
 %%

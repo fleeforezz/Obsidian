@@ -931,17 +931,6 @@
       "y": -2280
     },
     {
-      "height": 60,
-      "id": "0b46aad200506c2d",
-      "styleAttributes": {
-      },
-      "text": "Acer Monitor",
-      "type": "text",
-      "width": 230,
-      "x": -220,
-      "y": -2780
-    },
-    {
       "height": 55,
       "id": "c05a7db3f491afa2",
       "styleAttributes": {
@@ -962,6 +951,61 @@
       "width": 500,
       "x": -220,
       "y": -2300
+    },
+    {
+      "file": "02 - Resources/Image Library/cpu.png",
+      "height": 170,
+      "id": "ecb87c64d3e929cc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 170,
+      "x": 655,
+      "y": -2125
+    },
+    {
+      "file": "02 - Resources/Image Library/monitor.png",
+      "height": 67,
+      "id": "a70f27aefcc1e34e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 67,
+      "x": 560,
+      "y": -2787
+    },
+    {
+      "file": "02 - Resources/Image Library/power-strip.png",
+      "height": 120,
+      "id": "e30b8d275b4e7fb8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 120,
+      "x": 680,
+      "y": -2701
+    },
+    {
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "height": 67,
+      "id": "61a94c48528d8545",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 67,
+      "x": 834,
+      "y": -2787
+    },
+    {
+      "height": 60,
+      "id": "0b46aad200506c2d",
+      "styleAttributes": {
+      },
+      "text": "Acer Monitor",
+      "type": "text",
+      "width": 230,
+      "x": -220,
+      "y": -2780
     },
     {
       "height": 60,
@@ -986,18 +1030,6 @@
       "y": -2780
     },
     {
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "height": 160,
-      "id": "decf5edfdbea571b",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "type": "file",
-      "width": 160,
-      "x": 1894,
-      "y": -2440
-    },
-    {
       "file": "02 - Resources/Image Library/data-server.png",
       "height": 160,
       "id": "2335139bcf17e5c8",
@@ -1008,53 +1040,6 @@
       "width": 160,
       "x": 1894,
       "y": -2060
-    },
-    {
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "height": 108,
-      "id": "5e8c5021f496f1c2",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "type": "file",
-      "width": 108,
-      "x": 1920,
-      "y": -2787
-    },
-    {
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "height": 160,
-      "id": "e48beae1f7bcc7b1",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "type": "file",
-      "width": 160,
-      "x": 1894,
-      "y": -1660
-    },
-    {
-      "file": "02 - Resources/Image Library/data-server.png",
-      "height": 160,
-      "id": "f341b3c39609b8be",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "type": "file",
-      "width": 160,
-      "x": 1894,
-      "y": -1357
-    },
-    {
-      "file": "02 - Resources/Image Library/cpu.png",
-      "height": 170,
-      "id": "ecb87c64d3e929cc",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 170,
-      "x": 655,
-      "y": -2125
     },
     {
       "file": "02 - Resources/Image Library/data-server.png",
@@ -1101,15 +1086,50 @@
       "y": -2380
     },
     {
-      "file": "02 - Resources/Image Library/monitor.png",
-      "height": 67,
-      "id": "a70f27aefcc1e34e",
+      "height": 60,
+      "id": "01aa847adee9bf77",
       "styleAttributes": {
       },
+      "text": "Tp-link 1000Mbps (5 ports)",
+      "type": "text",
+      "width": 230,
+      "x": -220,
+      "y": -2540
+    },
+    {
+      "height": 60,
+      "id": "e0f5855e6e11abe4",
+      "styleAttributes": {
+      },
+      "text": "Dell ",
+      "type": "text",
+      "width": 500,
+      "x": -220,
+      "y": -2460
+    },
+    {
+      "file": "02 - Resources/Image Library/network-switch.png",
+      "height": 160,
+      "id": "e48beae1f7bcc7b1",
+      "styleAttributes": {
+        "border": "invisible"
+      },
       "type": "file",
-      "width": 67,
-      "x": 560,
-      "y": -2787
+      "width": 160,
+      "x": 1894,
+      "y": -1660
+    },
+    {
+      "file": "02 - Resources/Image Library/data-server.png",
+      "height": 160,
+      "id": "f341b3c39609b8be",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 160,
+      "x": 1894,
+      "y": -1357
     },
     {
       "file": "02 - Resources/Image Library/network-switch.png",
@@ -1121,17 +1141,6 @@
       "width": 104,
       "x": 542,
       "y": -2560
-    },
-    {
-      "height": 60,
-      "id": "01aa847adee9bf77",
-      "styleAttributes": {
-      },
-      "text": "Tp-link 1000Mbps (5 ports)",
-      "type": "text",
-      "width": 230,
-      "x": -220,
-      "y": -2540
     },
     {
       "height": 60,
@@ -1154,72 +1163,6 @@
       "width": 100,
       "x": 818,
       "y": -2560
-    },
-    {
-      "height": 60,
-      "id": "e0f5855e6e11abe4",
-      "styleAttributes": {
-      },
-      "text": "Dell ",
-      "type": "text",
-      "width": 500,
-      "x": -220,
-      "y": -2460
-    },
-    {
-      "file": "02 - Resources/Image Library/decode.png",
-      "height": 120,
-      "id": "23516e1bb956aead",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 120,
-      "x": 680,
-      "y": -2440
-    },
-    {
-      "file": "02 - Resources/Image Library/power-strip.png",
-      "height": 120,
-      "id": "e30b8d275b4e7fb8",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 120,
-      "x": 680,
-      "y": -2701
-    },
-    {
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "height": 67,
-      "id": "61a94c48528d8545",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 67,
-      "x": 834,
-      "y": -2787
-    },
-    {
-      "height": 743,
-      "id": "28d57ce218d4605c",
-      "styleAttributes": {
-      },
-      "text": "# Patch panel port\n\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15. Delta\n16. Tp-link\n17. TrueNas BackUp\n18. pf-sense Lan in to Proxmox\n19. pf-sense Lan out To Switch\n20. \n21. Pi-hole\n22. Proxmox-failover\n23. Proxmox\n24. Viettel in",
-      "type": "text",
-      "width": 402,
-      "x": 3371,
-      "y": -2671
-    },
-    {
-      "file": "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-      "height": 203,
-      "id": "57177b5b4d741e5b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 290,
-      "x": 3081,
-      "y": -1560
     },
     {
       "file": "01 - HomeLab/Home Server Infrastructure/Resources/pfsense.png",
@@ -1268,6 +1211,63 @@
       "width": 60,
       "x": 2600,
       "y": -2240
+    },
+    {
+      "file": "02 - Resources/Image Library/network-switch.png",
+      "height": 160,
+      "id": "decf5edfdbea571b",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 160,
+      "x": 1894,
+      "y": -2440
+    },
+    {
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "height": 108,
+      "id": "5e8c5021f496f1c2",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 108,
+      "x": 1920,
+      "y": -2787
+    },
+    {
+      "file": "02 - Resources/Image Library/decode.png",
+      "height": 120,
+      "id": "23516e1bb956aead",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 120,
+      "x": 680,
+      "y": -2440
+    },
+    {
+      "height": 743,
+      "id": "28d57ce218d4605c",
+      "styleAttributes": {
+      },
+      "text": "# Patch panel port\n\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15. Delta\n16. Tp-link\n17. TrueNas BackUp\n18. pf-sense Lan in to Proxmox\n19. pf-sense Lan out To Switch\n20. \n21. Pi-hole\n22. Proxmox-failover\n23. Proxmox\n24. Viettel in",
+      "type": "text",
+      "width": 402,
+      "x": 3371,
+      "y": -2671
+    },
+    {
+      "file": "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+      "height": 203,
+      "id": "57177b5b4d741e5b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 290,
+      "x": 3081,
+      "y": -1560
     }
   ]
 }
