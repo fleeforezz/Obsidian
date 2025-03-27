@@ -23,10 +23,12 @@ Shortcut command:
 + -p : port
 + -it : 
 
-# Secion 4
-## Dockerfile
+# Section 1: Dive into Docker!
+# Section 2: Manipulating Containers with Docker Client
+# Section 3: Building custom images Through Docker Server
+# Secion 4: Making real projects with Docker
 
-### For NodeJS app
+#### For NodeJS app
 We use nodejs base image from docker hub
 [Docker Hub](https://hub.docker.com/explore)
 
@@ -45,7 +47,7 @@ RUN npm install
 CMD ["npm", "start"]
 ```
 
-+ We use node:14-alpine base image from docker hub (alpine version of node image is small and less compact version of the original version this mean u not gonna have a bunch of addition program)
+We use node:14-alpine base image from docker hub (alpine version of node image is small and less compact version of the original version this mean u not gonna have a bunch of addition program)
 
 [[Copy local file to container]]
 
@@ -67,3 +69,10 @@ docker run -p 8080:8080 testify/simpleweb:latest
 
 
 
+
+
+
+# Section 5: Docker Compose With Multiple Local Containers
+
+Problem:
++ Create a 
