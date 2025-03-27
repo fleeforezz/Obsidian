@@ -159,7 +159,7 @@ Paste your token into file from Cloudflare
 ### Traefik Dashboard Password and .env
 
 > [!note]
-> Make sure you have [[htpasswd]] installed
+> Make sure you have [[Htpasswd]] installed
 
 ```shell
 touch .env

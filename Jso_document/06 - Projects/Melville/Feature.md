@@ -160,3 +160,5 @@ mindmap-plugin: basic
 - View homepage
 - SignUp
     - SignUp with google
+- Login
+    - Login with google
