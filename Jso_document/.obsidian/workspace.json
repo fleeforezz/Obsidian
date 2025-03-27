@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef2ac4ae8e96f60b",
+            "id": "a34fbdc701231de2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,31 +24,21 @@
             }
           },
           {
-            "id": "0dde4ffd1bbd11c6",
+            "id": "bb679a5ebd5b366c",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "06 - Projects/Melville/Feature.md"
+                "file": "03 - Study/Udemy Study/Docker/Docker and Kubernetes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "Feature"
-            }
-          },
-          {
-            "id": "be6fb133a8f74416",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Study/Docker/Specific a Working Directory.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Specific a Working Directory"
+              "icon": "lucide-file",
+              "title": "Docker and Kubernetes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,12 +241,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "be6fb133a8f74416",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
+    "03 - Study/Udemy Study/Docker/Basic docker CLI command.md",
+    "03 - Study/Udemy Study/Docker/Docker and Kubernetes.md",
+    "03 - Study/Udemy Study/Docker/Dockerfile.md",
+    "03 - Study/Udemy Study/Docker/Draw/Specific a Working Directory.md",
+    "03 - Study/Udemy Study/Docker/Draw/Docker port mapping.md",
+    "03 - Study/Udemy Study/Docker/Draw/Copy local file to container.md",
+    "03 - Study/Udemy Study/Docker/Draw/Container Port Mapping.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
-    "03 - Study/Docker/Specific a Working Directory.md",
-    "03 - Study/Docker/Dockerfile.md",
-    "03 - Study/Docker/Docker port mapping.md",
+    "03 - Study/Udemy Study/Docker/Draw",
+    "03 - Study/Frameworks/Spring Boot/Mind Map.md",
+    "03 - Study/Software Engineer/Software developing scaling.md",
+    "03 - Study/Udemy Study",
     "06 - Projects/Melville/Note.md",
     "06 - Projects/Melville/Feature.md",
     "06 - Projects/Melville/Melville Design.md",
@@ -278,11 +276,6 @@
     "01 - HomeLab/Categories/Monitoring/Dashdot/Dashdot.md",
     "01 - HomeLab/Categories/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
     "01 - HomeLab/Categories/Network/Pf-Sense/Pf-Sense.md",
-    "01 - HomeLab/Categories/Others/Htpasswd.md",
-    "03 - Study/Get ready for Interview/DevOps/Questions board.md",
-    "03 - Study/Get ready for Interview/DevOps/Answers/Sự khác biệt giữa ảo hóa và container hóa là gì.md",
-    "04 - Tasks Board/FPTU board.md",
-    "04 - Tasks Board/Learning board.md",
     "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Melville/Resources",
     "06 - Projects/Melville/Resources/Pasted image 20250304131928.png",
@@ -293,8 +286,6 @@
     "03 - Study/Get ready for Interview/DevOps",
     "03 - Study/Get ready for Interview",
     "00 - Notes/Learning",
-    "00 - Notes/Library",
-    "00 - Notes/L i f e 2.0",
     "02 - Resources/Image Library/Asign group to user.png",
     "02 - Resources/Banner image gallary/leaf.png",
     "02 - Resources/Banner image gallary/sushi.webp"
