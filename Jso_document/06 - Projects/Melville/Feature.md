@@ -119,11 +119,25 @@ mindmap-plugin: basic
     - Reset password
 - Account Management
     - Modified Account
-        - Edit user profile
+        - Edit author profile
         - Change password
-    - Deactivate user account
-    - Delete user data
-    - Reactivate user account
+    - Deactivate author account
+    - Delete author data
+    - Reactivate author account
+- Book Management
+    - Category Management
+        - Add category
+        - Datatable
+            - View category name
+            - View category uploaded date
+        - Action Menu
+            - Edit category
+            - Remove category
+        - Sort from A-Z, Z-A
+        - Search category by name
+        - Filter
+            - By category create date
+        - Pagination
 - Books behavior
     - View books
     - Read books
