@@ -24,15 +24,27 @@
             }
           },
           {
-            "id": "a096a3a1ade52b6d",
+            "id": "22c88c1e1c5ee767",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "03 - Study/DevOps Engineer/Infrastructure.md"
+                "file": "03 - Study/DevOps Engineer/DevOps Learning Tree.md"
               },
               "icon": "blocks",
-              "title": "Infrastructure"
+              "title": "DevOps Learning Tree"
+            }
+          },
+          {
+            "id": "efb8cae88c3abb14",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "06 - Projects/Melville/Feature Graph.md"
+              },
+              "icon": "blocks",
+              "title": "Feature Graph"
             }
           }
         ],
@@ -111,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -250,19 +261,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a096a3a1ade52b6d",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "06 - Projects/Melville/Feature Graph.md",
-    "03 - Study/DevOps Engineer/Infrastructure.md",
+    "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
+    "06 - Projects/Melville/Melville Design.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
+    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "03 - Study/Software Engineer/Software developing scaling.md",
     "03 - Study/Diagrams",
     "03 - Study/Get ready for Interview/DevOps/Questions board.md",
     "03 - Study/DevOps Engineer/Youtube Channel to learn DevOps.md",
     "03 - Study/DevOps Engineer/DevOps.md",
-    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
-    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-    "06 - Projects/Melville/Melville Design.md",
     "06 - Projects/Melville/Note.md",
     "07 - Dashboard/Untitled.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
@@ -280,7 +291,6 @@
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
     "03 - Study/Udemy Study/Docker/Draw/Copy local file to container.md",
     "03 - Study/Udemy Study/Docker/Basic docker CLI command.md",
-    "03 - Study/Udemy Study/Docker/Dockerfile.md",
     "03 - Study/Udemy Study/Docker/Draw",
     "03 - Study/Udemy Study",
     "01 - HomeLab/Categories",
