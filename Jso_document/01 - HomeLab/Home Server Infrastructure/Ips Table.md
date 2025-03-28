@@ -6,57 +6,57 @@ kanban-plugin: board
 
 ## Management Server
 
-- [ ] 192.168.1.32 (Cockpit)
-- [ ] 192.168.1.35 (Portainer HQ)
+- [ ] 10.0.1.32 (Cockpit)
+- [ ] 10.0.1.35 (Portainer HQ)
 
 
 ## Networking Server
 
-- [ ] 192.168.1.90 (Nginx Proxy Manager)
-- [ ] 192.168.1.91
+- [ ] 10.0.1.90 (Nginx Proxy Manager)
+- [ ] 192.168.1.91 (Pi-hole)
 
 
 ## Development Server
 
-- [ ] 192.168.1.50 (Jenkins)
-- [ ] 192.168.1.51 (Gitlab)
+- [ ] 10.0.1.50 (Jenkins)
+- [ ] 10.0.1.51 (Gitlab)
 - [ ] 192.168.1.52 (k8s-master-1)
 - [ ] 192.168.1.53 (k8s-worker-1)
-- [ ] 192.168.1.54 (Ci-tools)
+- [ ] 10.0.1.54 (Ci-tools)
 
 
 ## Security Server
 
-- [ ] 192.168.1.70 (Frigate)
+- [ ] 10.0.1.70 (Frigate)
 
 
 ## Database Server
 
-- [ ] 192.168.1.80 (MySQL)
+- [ ] 10.0.1.80 (MySQL)
 - [ ] 192.168.1.81 (MSSQL)
 - [ ] 10.0.1.82 (Database Servers)
 
 
 ## Game Server
 
-- [ ] 192.168.1.100
+- [ ] 10.0.1.100
 
 
 ## Media Server
 
-- [ ] 192.168.1.40
+- [ ] 10.0.1.40
 
 
 ## File Server
 
-- [ ] 192.168.1.34
-- [ ] 192.168.1.31
-- [ ] 192.168.1.41
+- [ ] 10.0.1.34
+- [ ] 10.0.1.31
+- [ ] 10.0.1.41
 
 
 ## Monitoring Server
 
-- [ ] 192.168.1.60
+- [ ] 10.0.1.60
 
 
 ## OpenVPN

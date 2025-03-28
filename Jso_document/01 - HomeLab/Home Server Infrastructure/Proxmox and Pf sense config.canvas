@@ -237,28 +237,6 @@
       "y": -80
     },
     {
-      "file": "02 - Resources/Image Library/wifi-router.png",
-      "height": 100,
-      "id": "c2779bcdea185a71",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 100,
-      "x": 1133,
-      "y": -260
-    },
-    {
-      "file": "02 - Resources/Image Library/network-switch.png",
-      "height": 126,
-      "id": "4627791ddf3bb08d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 126,
-      "x": 1120,
-      "y": 9
-    },
-    {
       "file": "02 - Resources/Image Library/ethernet.png",
       "height": 54,
       "id": "af650b396c299c7a",
@@ -279,6 +257,28 @@
       "width": 54,
       "x": -142,
       "y": 320
+    },
+    {
+      "file": "02 - Resources/Image Library/wifi-router.png",
+      "height": 100,
+      "id": "c2779bcdea185a71",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 100,
+      "x": 1133,
+      "y": -260
+    },
+    {
+      "file": "02 - Resources/Image Library/network-switch.png",
+      "height": 126,
+      "id": "4627791ddf3bb08d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 126,
+      "x": 1120,
+      "y": 9
     },
     {
       "file": "02 - Resources/Image Library/ethernet.png",
@@ -413,28 +413,6 @@
       "y": 340
     },
     {
-      "file": "02 - Resources/Image Library/ethernet.png",
-      "height": 60,
-      "id": "7016fc0eaa63f8e7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 60,
-      "x": 1927,
-      "y": 340
-    },
-    {
-      "height": 100,
-      "id": "e1ece945ebcdbc78",
-      "styleAttributes": {
-      },
-      "text": "Wan\n192.168.1.1/24\nvmbr4",
-      "type": "text",
-      "width": 213,
-      "x": 1933,
-      "y": 520
-    },
-    {
       "height": 60,
       "id": "81bf748d1a58be9d",
       "styleAttributes": {
@@ -488,6 +466,28 @@
       "width": 100,
       "x": 2146,
       "y": 1270
+    },
+    {
+      "file": "02 - Resources/Image Library/ethernet.png",
+      "height": 60,
+      "id": "7016fc0eaa63f8e7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 60,
+      "x": 1927,
+      "y": 340
+    },
+    {
+      "height": 100,
+      "id": "e1ece945ebcdbc78",
+      "styleAttributes": {
+      },
+      "text": "Wan\n192.168.1.1/24\nvmbr4",
+      "type": "text",
+      "width": 213,
+      "x": 1933,
+      "y": 520
     }
   ]
 }
