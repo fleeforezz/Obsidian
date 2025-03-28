@@ -40,6 +40,20 @@ mindmap-plugin: basic
 
 ## Containers
 - Docker
+    - Prerequisites
+        - Linux Fundamentals
+            - Package Managers
+            - Users / Group Permissions
+            - Shell Commands
+            - Shell Scripting
+        - Web Development
+            - Programing Languages
+            - Application Architecture
+    - Introduction
+        - What are Containers ?
+        - Why do we need Containers ?
+        - Bare Metals vs VMs vs Containers
+        - Docker and OCI
 - LXC
 
 ## What is and how to setup X ?

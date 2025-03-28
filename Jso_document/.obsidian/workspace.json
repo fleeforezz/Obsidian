@@ -24,18 +24,6 @@
             }
           },
           {
-            "id": "ad7854cc06020b67",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "06 - Projects/Melville/Feature Graph.md"
-              },
-              "icon": "blocks",
-              "title": "Feature Graph"
-            }
-          },
-          {
             "id": "a096a3a1ade52b6d",
             "type": "leaf",
             "state": {
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,6 +252,7 @@
   },
   "active": "a096a3a1ade52b6d",
   "lastOpenFiles": [
+    "07 - Dashboard/🧩 L i f e 2.0.md",
     "06 - Projects/Melville/Feature Graph.md",
     "03 - Study/DevOps Engineer/Infrastructure.md",
     "03 - Study/Software Engineer/Software developing scaling.md",
@@ -275,7 +264,6 @@
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Melville/Melville Design.md",
     "06 - Projects/Melville/Note.md",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "07 - Dashboard/Untitled.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
