@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "🧩 L i f e 2.0"
             }
+          },
+          {
+            "id": "36565887198f6f17",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "06 - Projects/Melville/Feature Graph.md"
+              },
+              "icon": "blocks",
+              "title": "Feature Graph"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,12 +249,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "187bc4847c5bdd7e",
+  "active": "36565887198f6f17",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/OS & System control/Linux Command/Change timezone.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "06 - Projects/Melville/Feature Graph.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/DevOps Engineer/Infrastructure.md",
     "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
-    "06 - Projects/Melville/Feature Graph.md",
     "03 - Study/Software Engineer/Software developing scaling.md",
     "03 - Study/Diagrams",
     "03 - Study/Get ready for Interview/DevOps/Questions board.md",
@@ -252,7 +267,6 @@
     "06 - Projects/Melville/Melville Design.md",
     "06 - Projects/Melville/Note.md",
     "07 - Dashboard/Untitled.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
     "01 - HomeLab/Install dependencies.md",
     "03 - Study/Udemy Study/Docker/Docker and Kubernetes.md",
@@ -266,7 +280,6 @@
     "99 - Meta/System Tweaks/Pretty Terminal/Oh My Posh.md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
     "03 - Study/Udemy Study/Docker/Draw/Copy local file to container.md",
-    "03 - Study/Udemy Study/Docker/Basic docker CLI command.md",
     "03 - Study/Udemy Study/Docker/Draw",
     "03 - Study/Udemy Study",
     "01 - HomeLab/Categories",

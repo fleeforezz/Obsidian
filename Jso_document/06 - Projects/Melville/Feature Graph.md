@@ -4,7 +4,7 @@ mindmap-plugin: basic
 
 # Melville
 
-## Admin side
+## Admin
 - Account Register
     - Login
         - Login with google
@@ -14,7 +14,7 @@ mindmap-plugin: basic
     - Modified account
         - Edit admin profile
         - Change admin password
-    - <mark style="background: #FF5582A6;">Deactivate admin account</mark>
+    - <mark style="background: gray;">Deactivate admin account</mark>
 - Users Management
     - Datatable
         - View username
@@ -23,7 +23,7 @@ mindmap-plugin: basic
         - View user status
         - View user role
         - View users with upgrade request
-        - <mark style="background: #FF5582A6;">View uploaded books by author</mark>
+        - <mark style="background: gray;">View uploaded books by author</mark>
     - Action menu
         - Edit user profile
         - Grant role to user
@@ -36,7 +36,7 @@ mindmap-plugin: basic
         - By user status
         - By account created date
     - Pagination
-- <mark style="background: #FF5582A6;">Location Management</mark>
+- <mark style="background: gray;">Location Management</mark>
     - Country
         - Add country
         - Modify country
@@ -68,7 +68,6 @@ mindmap-plugin: basic
         - View book name
         - View user that upload that book
         - View uploaded date
-    - Action menu
     - Sort from A-Z, Z-A
     - Search book
         - By book name
@@ -99,7 +98,7 @@ mindmap-plugin: basic
     - Rating
     - Share link
     - Like & Unlike a book
-    - Remove favorite
+    - Remove favorite books
 - Search books
     - Search favorite book by book_name
     - Search favorite by author_name
@@ -138,36 +137,31 @@ mindmap-plugin: basic
         - Filter
             - By category create date
         - Pagination
-- Books behavior
-    - View books
-    - Read books
-    - Download books
-    - Add favorite & Remove favorite
+    - Datatable
+        - View book cover
+        - View book name
+        - View book language
+        - View book created date
+        - View book format
+        - View category
+    - Action Menu
+        - Modify book
+        - Remove book
+    - Sort from A-Z, Z-A
+    - Search book
+        - By book name
+        - By category
+- My Book (Favorite)
+    - View all books that author add to favorite
+    - Read favorite books
+    - Download favorite books
     - Rating
     - Share link
     - Like & Unlike a book
-- Author Settings
-    - Books
-        - Add books
-        - Modify books
-        - Delete books
-    - Categories
-        - Add categories
-        - Modify categories
-        - Delete categories
-    - Dashboard
-        - View total of books
-        - View total of categories
-        - View table of recent activity
-- Search
-    - Search all books in website
-        - Search by book_name
-        - Search by author_name
-        - Search by category
-    - Search books in Author Settings
-        - Search by book_name
-        - Search by author_name
-        - Search by category
+    - Remove favorite books
+- Dashboard
+    - View number of book
+    - View number of category
 
 ## Guest
 - View books
