@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "MOC Test"
             }
+          },
+          {
+            "id": "3793a1222a58734c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-11 11.24.49.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -251,11 +264,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "94b67dc4c7521e4a",
+  "active": "3793a1222a58734c",
   "lastOpenFiles": [
+    "Pasted Image 20250411112806_434.png",
+    "Pasted Image 20250411112545_536.png",
+    "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
+    "03 - Study/FPTU/MOC Test.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/FPTU/MAD/Ôn tập FE.md",
-    "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
     "03 - Study/FPTU/MAD/Resources/Pasted image 20250408094127.png",
     "03 - Study/FPTU/MAD/Resources",
@@ -284,8 +300,6 @@
     "03 - Study/Udemy Study/Docker/Docker and Kubernetes.md",
     "05 - Excalidraw/Remove a specific element from Queue.md",
     "05 - Excalidraw/Docker Explain.excalidraw.md",
-    "05 - Excalidraw/Drawing 2024-12-02 09.43.54.excalidraw.md",
-    "05 - Excalidraw/Double Linked list.md",
     "03 - Study/Udemy Study/Docker/Draw",
     "03 - Study/Udemy Study",
     "01 - HomeLab/Categories",
@@ -299,7 +313,6 @@
     "06 - Projects/Melville",
     "03 - Study/Get ready for Interview/DevOps/Answers",
     "03 - Study/Get ready for Interview/DevOps",
-    "02 - Resources/Image Library/Asign group to user.png",
-    "02 - Resources/Banner image gallary/leaf.png"
+    "02 - Resources/Image Library/Asign group to user.png"
   ]
 }
