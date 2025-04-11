@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -264,8 +263,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3793a1222a58734c",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
+    "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
@@ -312,7 +312,6 @@
     "06 - Projects/Melville/Resources/Pasted image 20250304215114.png",
     "06 - Projects/Melville",
     "03 - Study/Get ready for Interview/DevOps/Answers",
-    "03 - Study/Get ready for Interview/DevOps",
-    "02 - Resources/Image Library/Asign group to user.png"
+    "03 - Study/Get ready for Interview/DevOps"
   ]
 }
