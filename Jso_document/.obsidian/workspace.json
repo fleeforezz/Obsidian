@@ -212,8 +212,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -222,12 +222,22 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5be7c7679e746186",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -253,8 +263,9 @@
   },
   "active": "7ed43485ea81fe21",
   "lastOpenFiles": [
-    "03 - Study/FPTU/MOC Test.md",
     "07 - Dashboard/🧩 L i f e 2.0.md",
+    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
+    "03 - Study/FPTU/MOC Test.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Categories/Development/ArgoCD/ArgoCD.md",
     "99 - Meta/Temp/K8s connection.md",
