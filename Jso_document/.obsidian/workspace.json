@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
+                "file": "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform"
+              "title": "ZSH"
             }
           }
         ],
@@ -263,6 +263,7 @@
   },
   "active": "995c5512b5b32009",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
     "99 - Meta/System Tweaks/Docker Desktop/Install Docker Desktop on Linux.md",
     "99 - Meta/System Tweaks/Docker Desktop/Fix Docker Desktop Error.md",
@@ -295,7 +296,6 @@
     "01 - HomeLab/Categories/OS & System control/Linux Command/Change timezone.md",
     "03 - Study/DevOps Engineer/Infrastructure.md",
     "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
-    "03 - Study/Software Engineer/Software developing scaling.md",
     "03 - Study/Diagrams",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
