@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+                "file": "99 - Meta/System Tweaks/Github Desktop/Install Github Desktop on Linux.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZSH"
+              "title": "Install Github Desktop on Linux"
             }
           }
         ],
@@ -263,6 +263,9 @@
   },
   "active": "995c5512b5b32009",
   "lastOpenFiles": [
+    "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+    "99 - Meta/System Tweaks/Pretty Terminal/StarShip.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
     "99 - Meta/System Tweaks/Docker Desktop/Install Docker Desktop on Linux.md",
@@ -270,9 +273,6 @@
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
     "99 - Meta/System Tweaks/Pretty Terminal/Oh My Posh.md",
-    "99 - Meta/System Tweaks/Pretty Terminal/StarShip.md",
-    "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
-    "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
     "99 - Meta/System Tweaks/Terminal theme and color theme.md",
     "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
     "03 - Study/FPTU/MOC Test.md",
