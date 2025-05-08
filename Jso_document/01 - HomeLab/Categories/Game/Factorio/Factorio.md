@@ -3,7 +3,7 @@
 > Download Factorio headless server
 
 ```shell
-wget -O factorio_headless.tar.gz https://factorio.com/get-download/1.1.76/headless/linux64
+wget -O factorio_headless.tar.gz https://www.factorio.com/get-download/2.0.47/headless/linux64
 ```
 
 > Unzip .tar.gz file to `/opt`
@@ -56,7 +56,7 @@ cd /opt/factorio/data
 ```
 
 ```shell
-cp server-settings.example.json sever-settings.json
+cp server-settings.example.json server-settings.json
 ```
 
 --> You can config the `server-settings.json` file to fit your needs
