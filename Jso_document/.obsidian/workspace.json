@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "ad17692341bd7844",
+            "id": "56cc62785416d244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/System Tweaks/Netbean/Flatlaf UI Keys.md",
-                "mode": "preview",
+                "file": "99 - Meta/System Tweaks/Beautiful Window taskbar/Windhawk.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flatlaf UI Keys"
+              "title": "Windhawk"
             }
           }
         ],
@@ -261,9 +261,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad17692341bd7844",
+  "active": "56cc62785416d244",
   "lastOpenFiles": [
     "99 - Meta/System Tweaks/Netbean/Flatlaf UI Keys.md",
+    "99 - Meta/System Tweaks/Beautiful Window taskbar/Windhawk.md",
+    "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/FPTU/LAB/LAB_1/Drawing 2025-05-15 16.32.04.excalidraw.md",
@@ -294,7 +296,6 @@
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
     "03 - Study/FPTU/MAD/Ôn tập FE.md",
-    "03 - Study/FPTU/MAD/Chap 1 Logic and Proofs.md",
     "03 - Study/FPTU/MAD/Resources/Pasted image 20250408094127.png",
     "03 - Study/FPTU/MAD/Resources",
     "Pasted image 20250408094101.png",
@@ -308,7 +309,6 @@
     "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121042.png",
     "03 - Study/DevOps Engineer",
     "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
-    "06 - Projects/Melville/Resources",
     "06 - Projects/Melville/Resources/Pasted image 20250304131928.png",
     "Pasted image 20250304214924.png"
   ]
