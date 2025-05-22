@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "56cc62785416d244",
+            "id": "94689ac2bd883cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/System Tweaks/Beautiful Window taskbar/Windhawk.md",
-                "mode": "source",
+                "file": "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windhawk"
+              "title": "ZSH"
             }
           }
         ],
@@ -232,12 +232,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f89650250f97d7ad",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -261,13 +271,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "56cc62785416d244",
+  "active": "94689ac2bd883cce",
   "lastOpenFiles": [
-    "99 - Meta/System Tweaks/Netbean/Flatlaf UI Keys.md",
+    "07 - Dashboard/🧩 L i f e 2.0.md",
     "99 - Meta/System Tweaks/Beautiful Window taskbar/Windhawk.md",
+    "99 - Meta/System Tweaks/Netbean/Flatlaf UI Keys.md",
     "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/FPTU/LAB/LAB_1/Drawing 2025-05-15 16.32.04.excalidraw.md",
     "03 - Study/FPTU/LAB/Untitled.md",
     "03 - Study/FPTU/LAB/LAB_1",
