@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## Features
+## 🏗️ Features
 
 - [ ] 1.Register Customers
 - [ ] 2.Update customer information
@@ -16,21 +16,22 @@ kanban-plugin: board
 - [ ] 8.Display customer or Order lists
 
 
-## No status
+## 🔴 No status
 
 - [ ] (Feature 5) Fix display price format in place order
 - [ ] (Feature 5) Fix input event date not in right format dd/MM/yyyy
-- [ ] (Feture 8)Fix Order List display format
 - [ ] (Feature 8) Fix Order list display sort by event date ascending
 - [ ] (Feature 8) Fix Customers List display sort by customer name in alphabet order
 
 
-## On going
+## 🟡 On going
+
+- [ ] (Feture 8)Fix Order List display format
 
 
+## 🟢 Done
 
-## Done
-
+- [ ] (Feature 7) Improve save record to file for all classes (Customers, Orders)
 
 
 
