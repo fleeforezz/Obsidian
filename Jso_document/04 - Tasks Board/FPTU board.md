@@ -4,9 +4,25 @@ kanban-plugin: board
 
 ---
 
+## Features
+
+- [ ] 1.Register Customers
+- [ ] 2.Update customer information
+- [ ] 3.Search for customer information by name
+- [ ] 4.Display feast menus
+- [ ] 5.Place a feast menu
+- [ ] 6.Update order information
+- [ ] 7.Save data to file
+- [ ] 8.Display customer or Order lists
+
+
 ## No status
 
-- [ ] Nộp workshop1 trên edunext PRO
+- [ ] (Feature 5) Fix display price format in place order
+- [ ] (Feature 5) Fix input event date not in right format dd/MM/yyyy
+- [ ] (Feture 8)Fix Order List display format
+- [ ] (Feature 8) Fix Order list display sort by event date ascending
+- [ ] (Feature 8) Fix Customers List display sort by customer name in alphabet order
 
 
 ## On going
@@ -15,16 +31,12 @@ kanban-plugin: board
 
 ## Done
 
-- [x] Làm thuyết trình PRN
-	 + Abstract Factory Pattern
-	 + Builder Pattern
-- [x] Làm edunext Q6 PRO
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board"}
+{"kanban-plugin":"board","list-collapse":[null,false]}
 ```
 %%
