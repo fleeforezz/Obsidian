@@ -18,13 +18,13 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 6) Add update order information
 - [ ] (Feature 8) Fix Order list display sort by event date ascending
 - [ ] (Feature 8) Fix Customers List display sort by customer name in alphabet order
 
 
 ## 🟡 On going
 
+- [ ] (Feature 6) Add update order information
 
 
 ## 🟢 Done
