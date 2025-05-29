@@ -18,8 +18,6 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 5) The order was duplicate but cannot handle that error
-- [ ] (Feature 5) Fix input event date not in right format dd/MM/yyyy
 - [ ] (Feature 6) Add update order information
 - [ ] (Feature 8) Fix Order list display sort by event date ascending
 - [ ] (Feature 8) Fix Customers List display sort by customer name in alphabet order
@@ -31,6 +29,8 @@ kanban-plugin: board
 
 ## 🟢 Done
 
+- [ ] (Feature 5) Fix input event date not in right format dd/MM/yyyy
+- [ ] (Feature 5) The order was duplicate but cannot handle that error
 - [ ] (Feature 7) Improve save record to file for all classes (Customers, Orders)
 - [ ] (Feature 5) Fix display price format in place order
 - [ ] (Feture 8)Fix Order List display format
