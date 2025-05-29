@@ -27,12 +27,12 @@ kanban-plugin: board
 
 ## 🟡 On going
 
-- [ ] (📝Feature 6) Fix update order to allow empty number of table input if no change needed
 - [ ] (📝Feature 6) Cannot allow empty event date
 
 
 ## 🟢 Done
 
+- [ ] (📝Feature 6) Fix update order to allow empty number of table input if no change needed
 - [ ] (📝Feature 6) Fix the totalPrice apply to setmenu price but not the total order price
 - [ ] (📝Feature 6) Fix logic error for finding Set Menu with specific code
 - [ ] (📝 Feature 6) Fix wrong validation when input new set menu code
