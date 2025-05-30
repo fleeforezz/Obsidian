@@ -18,20 +18,18 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (📝Feature 8) Fix Order list display sort by event date ascending
-- [ ] (📝Feature 8) Fix Customers List display sort by customer name in alphabet order
-- [ ] (❇️Feature 6) Add validation when success/failed to update order
-- [ ] (❇️Feature 6) Add validation if the new event date is current event date or in the past
-- [ ] (❇️Feature 6) Add validation for update order (The orderlist can only updated when all the input is correct)
 
 
 ## 🟡 On going
 
-- [ ] (📝Feature 6) Cannot allow empty event date
 
 
 ## 🟢 Done
 
+- [ ] (📝Feature 3) Fix display searched result to be sort by alphabet
+- [ ] (📝Feature 8) Fix Order list display sort by event date ascending
+- [ ] (📝Feature 8) Fix Customers List display sort by customer name in alphabet order
+- [ ] (📝Feature 6) Cannot allow empty event date
 - [ ] (📝Feature 6) Fix update order to allow empty number of table input if no change needed
 - [ ] (📝Feature 6) Fix the totalPrice apply to setmenu price but not the total order price
 - [ ] (📝Feature 6) Fix logic error for finding Set Menu with specific code
@@ -44,10 +42,17 @@ kanban-plugin: board
 - [ ] (📝Feture 8) Fix Order List display format
 
 
+## ⚪ Abort
+
+- [ ] (❇️Feature 6) Add validation if the new event date is current event date or in the past
+- [ ] (❇️Feature 6) Add validation when success/failed to update order
+- [ ] (❇️Feature 6) Add validation for update order (The orderlist can only updated when all the input is correct)
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false]}
+{"kanban-plugin":"board","list-collapse":[null,false,false]}
 ```
 %%
