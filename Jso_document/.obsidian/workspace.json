@@ -27,20 +27,14 @@
             "id": "f3392435c70d7b8b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "04 - Tasks Board/FPTU board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false,
-                    false
-                  ]
-                }
+                "file": "03 - Study/Frameworks/DotNet/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "FPTU board"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -279,6 +273,10 @@
   },
   "active": "f3392435c70d7b8b",
   "lastOpenFiles": [
+    "Pasted image 20250530214815.png",
+    "04 - Tasks Board/FPTU board.md",
+    "03 - Study/Frameworks/DotNet/Untitled.md",
+    "03 - Study/Frameworks/DotNet",
     "04 - Tasks Board/Untitled Kanban.md",
     "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
@@ -306,9 +304,6 @@
     "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
     "03 - Study/FPTU/MOC Test.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Categories/Development/ArgoCD/ArgoCD.md",
-    "99 - Meta/Temp/K8s connection.md",
-    "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
     "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
@@ -323,7 +318,6 @@
     "03 - Study/Udemy Study",
     "01 - HomeLab/Categories",
     "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121042.png",
-    "03 - Study/DevOps Engineer",
     "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Melville/Resources/Pasted image 20250304131928.png",
     "Pasted image 20250304214924.png"
