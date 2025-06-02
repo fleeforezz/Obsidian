@@ -7,14 +7,14 @@
   "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "GeistMono Nerd Font Mono",
   "enabledCssSnippets": [
-    "banner",
     "Colored Sidebar Items",
     "dashboard",
     "dashboard-ReadLineLength",
-    "dim-support-files",
-    "vault-logo",
     "button",
-    "main"
+    "dim-support-files",
+    "main",
+    "vault-logo",
+    "banner"
   ],
   "textFontFamily": "GeistMono Nerd Font Mono",
   "monospaceFontFamily": "GeistMono Nerd Font Mono",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c15ac7b009003a27",
+        "id": "feb5fd91da4c2e98",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c4387ad44fcab0",
+            "id": "6489b4fc24d04e53",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,27 +24,7 @@
             }
           },
           {
-            "id": "cf3f376245c9150e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04 - Tasks Board/FPTU/LAB 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "LAB 1"
-            }
-          },
-          {
-            "id": "b179f27c082d2c22",
+            "id": "5bdd44377983502f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -66,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,14 +279,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b179f27c082d2c22",
+  "active": "5bdd44377983502f",
   "lastOpenFiles": [
+    "07 - Dashboard/🧩 L i f e 2.0.md",
     "04 - Tasks Board/FPTU/LAB 1.md",
+    "Pasted image 20250530214815.png",
     "04 - Tasks Board/FPTU/LAB 2.md",
     "04 - Tasks Board/FPTU",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/Frameworks/DotNet/Untitled.md",
-    "Pasted image 20250530214815.png",
     "03 - Study/Frameworks/DotNet",
     "04 - Tasks Board/Untitled Kanban.md",
     "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
@@ -333,7 +313,6 @@
     "99 - Meta/System Tweaks/Terminal theme and color theme.md",
     "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
     "03 - Study/FPTU/MOC Test.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
