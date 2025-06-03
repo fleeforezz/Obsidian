@@ -24,25 +24,17 @@
             }
           },
           {
-            "id": "5bdd44377983502f",
+            "id": "eadcab20f1505b3b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "04 - Tasks Board/FPTU/LAB 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "03 - Study/Frameworks/DotNet/Untitled.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "LAB 2"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -279,12 +271,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5bdd44377983502f",
+  "active": "eadcab20f1505b3b",
   "lastOpenFiles": [
     "07 - Dashboard/🧩 L i f e 2.0.md",
+    "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
+    "04 - Tasks Board/FPTU/LAB 2.md",
     "04 - Tasks Board/FPTU/LAB 1.md",
     "Pasted image 20250530214815.png",
-    "04 - Tasks Board/FPTU/LAB 2.md",
     "04 - Tasks Board/FPTU",
     "03 - Study/Frameworks/DotNet/Untitled.md",
     "03 - Study/Frameworks/DotNet",
@@ -326,7 +319,6 @@
     "03 - Study/Udemy Study/Docker/Draw",
     "03 - Study/Udemy Study",
     "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121042.png",
-    "06 - Projects/Melville/Resources/Pasted image 20250304230750.png",
-    "06 - Projects/Melville/Resources/Pasted image 20250304131928.png"
+    "06 - Projects/Melville/Resources/Pasted image 20250304230750.png"
   ]
 }
