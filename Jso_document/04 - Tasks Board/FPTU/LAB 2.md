@@ -20,14 +20,24 @@ kanban-plugin: board
 
 ## 🔴 No status
 
+- [ ] (Feature 4) Update guest stay information
+- [ ] (Feature 5) Search guest by national Id
+- [ ] (Feature 6) Delete guest reservation brefore arrival
+- [ ] (Feature 7) List vacant rooms
+- [ ] (Feature 8) Monthly revenue report
+- [ ] 9.Reveneue report by room type
+- [ ] (Feature 10) Save guest information
 
 
 ## 🟡 On going
 
+- [ ] (Feature 3) Enter guest information
 
 
 ## 🟢 Done
 
+- [ ] (Feature 1) Import room from text file
+- [ ] (Feature 2) Display Available Room List
 
 
 ## ⚪ Abort
