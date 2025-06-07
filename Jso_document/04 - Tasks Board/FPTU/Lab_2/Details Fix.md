@@ -20,7 +20,6 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 3) Cannot validate input national ID
 
 
 ## 🟡 On going
@@ -29,6 +28,7 @@ kanban-plugin: board
 
 ## 🟢 Done
 
+- [ ] (Feature 3) Cannot validate input national ID
 
 
 ## ⚪ Abort
