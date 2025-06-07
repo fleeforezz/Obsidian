@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "04 - Tasks Board/FPTU/LAB 2.md",
+                "file": "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -26,7 +26,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "LAB 2"
+              "title": "Details Fix"
             }
           }
         ]
@@ -264,8 +264,12 @@
   },
   "active": "2b5d5204748f2105",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/LAB 1.md",
-    "04 - Tasks Board/FPTU/LAB 2.md",
+    "04 - Tasks Board/FPTU/Lab_1/All Features.md",
+    "04 - Tasks Board/FPTU/Lab_1/Details Fix.md",
+    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+    "04 - Tasks Board/FPTU/Lab_1",
+    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+    "04 - Tasks Board/FPTU/Lab_2",
     "07 - Dashboard/🔖 Library.md",
     "07 - Dashboard/🏫 University.md",
     "07 - Dashboard/🌿 Infrastructure.md",
@@ -296,8 +300,6 @@
     "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
     "99 - Meta/System Tweaks/Docker Desktop/Install Docker Desktop on Linux.md",
     "99 - Meta/System Tweaks/Docker Desktop/Fix Docker Desktop Error.md",
-    "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
-    "99 - Meta/System Tweaks/Pretty Terminal/Oh My Posh.md",
     "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
@@ -308,8 +310,6 @@
     "03 - Study/Diagrams",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
-    "03 - Study/Udemy Study/Docker/Draw",
-    "03 - Study/Udemy Study",
     "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121042.png",
     "06 - Projects/Melville/Resources/Pasted image 20250304230750.png"
   ]
