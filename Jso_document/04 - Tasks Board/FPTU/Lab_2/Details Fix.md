@@ -20,6 +20,7 @@ kanban-plugin: board
 
 ## 🔴 No status
 
+- [ ] (Feature 3) Cannot validate input start date
 
 
 ## 🟡 On going
@@ -28,7 +29,9 @@ kanban-plugin: board
 
 ## 🟢 Done
 
+- [ ] (Feature 3) Cannot validate input birthdate
 - [ ] (Feature 3) Cannot validate input national ID
+- [ ] (Feature 3) Cannot validate input fullname
 
 
 ## ⚪ Abort
