@@ -20,7 +20,7 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 3) Add validation if there's somebody already booked that room
+- [ ] (Feature 3) Add validate National Id to be unique
 
 
 ## 🟡 On going
@@ -29,6 +29,7 @@ kanban-plugin: board
 
 ## 🟢 Done
 
+- [ ] (Feature 3) Add validation if there's somebody already booked that room
 - [ ] (Feature 3) Cannot validate input start date if booked date is duplicate with existing room
 - [ ] (Feature 3) Cannot validate input birthdate
 - [ ] (Feature 3) Cannot validate input national ID
