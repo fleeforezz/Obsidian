@@ -20,6 +20,7 @@ kanban-plugin: board
 
 ## 🔴 No status
 
+- [ ] (Feature 3) Add validation if there's somebody already booked that room
 
 
 ## 🟡 On going
