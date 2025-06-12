@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## 🏗️ Features
 
-- [ ] 1.Import room from text file
-- [ ] 2.Display Available Room List
+- [x] 1.Import room from text file
+- [x] 2.Display Available Room List
 - [ ] 3.Enter guest information
 - [ ] 4.Update guest stay information
 - [ ] 5.Search guest by national Id
@@ -22,7 +22,6 @@ kanban-plugin: board
 
 - [ ] (Feature 4) Update guest stay information
 - [ ] (Feature 5) Search guest by national Id
-- [ ] (Feature 6) Delete guest reservation brefore arrival
 - [ ] (Feature 7) List vacant rooms
 - [ ] (Feature 8) Monthly revenue report
 - [ ] 9.Reveneue report by room type
@@ -32,6 +31,7 @@ kanban-plugin: board
 ## 🟡 On going
 
 - [ ] (Feature 3) Enter guest information
+- [ ] (Feature 6) Delete guest reservation brefore arrival
 
 
 ## 🟢 Done
