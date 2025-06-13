@@ -1,11 +1,11 @@
 {
-  "accentColor": "#f2cb84",
+  "accentColor": "#cbc7b9",
   "translucency": false,
   "showViewHeader": true,
-  "nativeMenus": false,
+  "nativeMenus": true,
   "theme": "system",
   "cssTheme": "Vanilla AMOLED",
-  "interfaceFontFamily": "GeistMono Nerd Font Mono",
+  "interfaceFontFamily": "Inter",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "dashboard",
@@ -16,8 +16,8 @@
     "vault-logo",
     "banner"
   ],
-  "textFontFamily": "GeistMono Nerd Font Mono",
-  "monospaceFontFamily": "GeistMono Nerd Font Mono",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
   "showRibbon": true,
   "baseFontSizeAction": true,
   "baseFontSize": 14
