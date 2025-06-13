@@ -28,28 +28,6 @@
               "icon": "lucide-trello",
               "title": "Details Fix"
             }
-          },
-          {
-            "id": "512753edeefc477b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04 - Tasks Board/FPTU/Lab_2/All Features.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "All Features"
-            }
           }
         ]
       }
