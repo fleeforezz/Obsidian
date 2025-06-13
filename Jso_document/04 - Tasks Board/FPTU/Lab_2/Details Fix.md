@@ -30,11 +30,12 @@ kanban-plugin: board
 
 ## 🟢 Done
 
-- [ ] (Feature 3) Add validate National Id to be unique
-- [ ] (Feature 3) Cannot validate input start date if booked date is duplicate with existing room
-- [ ] (Feature 3) Cannot validate input birthdate
-- [ ] (Feature 3) Cannot validate input national ID
-- [ ] (Feature 3) Cannot validate input fullname
+**Complete**
+- [x] (Feature 3) Add validate National Id to be unique
+- [x] (Feature 3) Cannot validate input start date if booked date is duplicate with existing room
+- [x] (Feature 3) Cannot validate input birthdate
+- [x] (Feature 3) Cannot validate input national ID
+- [x] (Feature 3) Cannot validate input fullname
 
 
 ## ⚪ Abort
