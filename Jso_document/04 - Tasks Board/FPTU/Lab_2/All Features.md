@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] 3.Enter guest information
 - [ ] 4.Update guest stay information
 - [ ] 5.Search guest by national Id
-- [ ] 6.Delete guest reservation brefore arrival
+- [x] 6.Delete guest reservation brefore arrival
 - [ ] 7.List vacant rooms
 - [ ] 8.Monthly revenue report
 - [ ] 9.Reveneue report by room type
@@ -31,13 +31,13 @@ kanban-plugin: board
 ## 🟡 On going
 
 - [ ] (Feature 3) Enter guest information
-- [ ] (Feature 6) Delete guest reservation brefore arrival
 
 
 ## 🟢 Done
 
-- [ ] (Feature 1) Import room from text file
+- [ ] (Feature 6) Delete guest reservation brefore arrival
 - [ ] (Feature 2) Display Available Room List
+- [ ] (Feature 1) Import room from text file
 
 
 ## ⚪ Abort

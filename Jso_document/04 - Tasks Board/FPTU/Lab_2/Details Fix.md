@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] 3.Enter guest information
 - [ ] 4.Update guest stay information
 - [ ] 5.Search guest by national Id
-- [ ] 6.Delete guest reservation brefore arrival
+- [x] 6.Delete guest reservation brefore arrival
 - [ ] 7.List vacant rooms
 - [ ] 8.Monthly revenue report
 - [ ] 9.Reveneue report by room type
@@ -26,12 +26,13 @@ kanban-plugin: board
 
 ## 🟡 On going
 
-- [ ] (Feature 3) Fix checkout date, the checkin date and checkoutDate currently the same
 
 
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 3) Fix confirm cancel reservation not act as expected
+- [x] (Feature 3) Fix checkout date, the checkin date and checkoutDate currently the same
 - [x] (Feature 3) Add validate National Id to be unique
 - [x] (Feature 3) Cannot validate input start date if booked date is duplicate with existing room
 - [x] (Feature 3) Cannot validate input birthdate
