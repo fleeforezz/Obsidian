@@ -28,6 +28,28 @@
               "icon": "lucide-trello",
               "title": "Details Fix"
             }
+          },
+          {
+            "id": "512753edeefc477b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "All Features"
+            }
           }
         ]
       }
@@ -264,14 +286,14 @@
   },
   "active": "2b5d5204748f2105",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
-    "04 - Tasks Board/Home Server board.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
+    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "04 - Tasks Board/Home Server board.md",
     "04 - Tasks Board/FPTU/Lab_1/All Features.md",
     "04 - Tasks Board/FPTU/Lab_1/Details Fix.md",
     "04 - Tasks Board/FPTU/Lab_1",
-    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/Lab_2",
     "07 - Dashboard/🔖 Library.md",
     "07 - Dashboard/🏫 University.md",
