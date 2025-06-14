@@ -3,3 +3,9 @@ Nhiều khách hàng có thể đặt 1 phòng
 
 1 khách hàng có thể đặt nhiều phòng nhưng có thể trùng ngày
 + Vì khách có thể đặt nhiều phòng trùng ngày 
+
+### Monthly Revenue Report 
+
+1. Nhập tháng và năm MM/yyyy
+2. Check list reservation_controller xem những khách nào có đặt phòng trong tháng đã nhập
+	+ 
