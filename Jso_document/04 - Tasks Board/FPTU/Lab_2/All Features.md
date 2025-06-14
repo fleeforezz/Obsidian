@@ -21,7 +21,6 @@ kanban-plugin: board
 ## 🔴 No status
 
 - [ ] (Feature 4) Update guest stay information
-- [ ] (Feature 5) Search guest by national Id
 - [ ] (Feature 7) List vacant rooms
 - [ ] (Feature 8) Monthly revenue report
 - [ ] 9.Reveneue report by room type
@@ -30,6 +29,7 @@ kanban-plugin: board
 
 ## 🟡 On going
 
+- [ ] (Feature 5) Search guest by national Id
 - [ ] (Feature 3) Enter guest information
 
 
