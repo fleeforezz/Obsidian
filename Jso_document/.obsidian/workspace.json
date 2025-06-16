@@ -6,6 +6,7 @@
       {
         "id": "feb5fd91da4c2e98",
         "type": "tabs",
+        "dimension": 38.67292225201072,
         "children": [
           {
             "id": "2b5d5204748f2105",
@@ -57,6 +58,7 @@
       {
         "id": "10b52296370bbf80",
         "type": "tabs",
+        "dimension": 61.32707774798928,
         "children": [
           {
             "id": "64af3c9cb4ac0421",
@@ -71,8 +73,21 @@
               "icon": "lucide-file",
               "title": "Note"
             }
+          },
+          {
+            "id": "e31f0e78f00ec33c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-16 07.47.19.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,11 +321,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "31b1a3297bed6c00",
+  "active": "e31f0e78f00ec33c",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
+    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "04 - Tasks Board/Home Server board.md",
     "04 - Tasks Board/FPTU/Lab_1/All Features.md",
@@ -343,7 +359,6 @@
     "01 - HomeLab/Categories/Game/Factorio/Create Custom map-gen and map-settings.md",
     "99 - Meta/System Tweaks/Github Desktop/Install Github Desktop on Linux.md",
     "99 - Meta/System Tweaks/Pretty Terminal/StarShip.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",

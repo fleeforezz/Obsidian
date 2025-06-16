@@ -21,11 +21,11 @@ kanban-plugin: board
 ## 🔴 No status
 
 - [ ] (Feature 3) Fix there's no error message when user input wrong birthdate format
-- [ ] (Feature 3) Add validation if there's somebody already booked that room
 
 
 ## 🟡 On going
 
+- [ ] (Feature 3) Add validation if there's somebody already booked that room
 
 
 ## 🟢 Done
