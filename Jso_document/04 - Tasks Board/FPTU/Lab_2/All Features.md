@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [x] 1.Import room from text file
 - [x] 2.Display Available Room List
-- [ ] 3.Enter guest information
+- [x] 3.Enter guest information
 - [ ] 4.Update guest stay information
 - [x] 5.Search guest by national Id
 - [x] 6.Delete guest reservation brefore arrival
@@ -20,10 +20,9 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 3) Enter guest information
 - [ ] (Feature 4) Update guest stay information
 - [ ] (Feature 8) Monthly revenue report
-- [ ] 9.Reveneue report by room type
+- [ ] (Feature 9) Reveneue report by room type
 - [ ] (Feature 10) Save guest information
 
 
@@ -34,6 +33,7 @@ kanban-plugin: board
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 3) Enter guest information
 - [x] (Feature 7) List vacant rooms
 - [x] (Feature 6) Delete guest reservation brefore arrival
 - [x] (Feature 5) Search guest by national Id

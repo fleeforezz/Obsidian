@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "feb5fd91da4c2e98",
+        "id": "10b52296370bbf80",
         "type": "tabs",
-        "dimension": 38.67292225201072,
         "children": [
           {
-            "id": "2b5d5204748f2105",
+            "id": "a7de9e23839649e7",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -31,7 +30,7 @@
             }
           },
           {
-            "id": "31b1a3297bed6c00",
+            "id": "76f070b48c828a1c",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -51,15 +50,7 @@
               "icon": "lucide-trello",
               "title": "Details Fix"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "10b52296370bbf80",
-        "type": "tabs",
-        "dimension": 61.32707774798928,
-        "children": [
+          },
           {
             "id": "64af3c9cb4ac0421",
             "type": "leaf",
@@ -75,7 +66,7 @@
             }
           },
           {
-            "id": "e31f0e78f00ec33c",
+            "id": "2b5d5204748f2105",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -86,8 +77,7 @@
               "title": "Drawing 2025-06-16 07.47.19.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -321,12 +310,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e31f0e78f00ec33c",
+  "active": "a7de9e23839649e7",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/Lab_2/Note.md",
-    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
     "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
+    "04 - Tasks Board/FPTU/Lab_2/Note.md",
+    "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
+    "Pasted image 20250530214815.png",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "04 - Tasks Board/Home Server board.md",
     "04 - Tasks Board/FPTU/Lab_1/All Features.md",
@@ -340,7 +331,6 @@
     "07 - Dashboard/🧩 L i f e 2.0.md",
     "03 - Study/Frameworks/DotNet/Untitled.md",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
-    "Pasted image 20250530214815.png",
     "04 - Tasks Board/FPTU",
     "03 - Study/Frameworks/DotNet",
     "04 - Tasks Board/Untitled Kanban.md",
@@ -358,7 +348,6 @@
     "01 - HomeLab/Categories/Game/Factorio/Factorio.md",
     "01 - HomeLab/Categories/Game/Factorio/Create Custom map-gen and map-settings.md",
     "99 - Meta/System Tweaks/Github Desktop/Install Github Desktop on Linux.md",
-    "99 - Meta/System Tweaks/Pretty Terminal/StarShip.md",
     "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
