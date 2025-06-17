@@ -77,7 +77,8 @@
               "title": "Drawing 2025-06-16 07.47.19.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,10 +311,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a7de9e23839649e7",
+  "active": "76f070b48c828a1c",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
     "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",

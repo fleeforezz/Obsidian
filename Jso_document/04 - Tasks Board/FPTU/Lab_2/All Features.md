@@ -20,7 +20,6 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 4) Update guest stay information
 - [ ] (Feature 8) Monthly revenue report
 - [ ] (Feature 9) Reveneue report by room type
 - [ ] (Feature 10) Save guest information
@@ -28,6 +27,7 @@ kanban-plugin: board
 
 ## 🟡 On going
 
+- [ ] (Feature 4) Update guest stay information
 
 
 ## 🟢 Done
