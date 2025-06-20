@@ -25,8 +25,8 @@
                   ]
                 }
               },
-              "icon": "lucide-trello",
-              "title": "All Features"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -73,8 +73,8 @@
               "state": {
                 "file": "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-16 07.47.19.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -282,12 +282,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a651ebe51560088e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -311,7 +321,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "76f070b48c828a1c",
+  "active": "a651ebe51560088e",
   "lastOpenFiles": [
     "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
