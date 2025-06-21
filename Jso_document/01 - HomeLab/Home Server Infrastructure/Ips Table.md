@@ -32,8 +32,6 @@ kanban-plugin: board
 
 ## Database Server
 
-- [ ] 10.0.1.80 (MySQL)
-- [ ] 192.168.1.81 (MSSQL)
 - [ ] 10.0.1.82 (Database Servers)
 
 
@@ -49,8 +47,8 @@ kanban-plugin: board
 
 ## File Server
 
-- [ ] 10.0.1.34
-- [ ] 10.0.1.31
+- [ ] 10.0.1.34 (TrueNas Scale FS)
+- [ ] 10.0.1.31 (TrueNas Scale BU)
 - [ ] 10.0.1.41
 
 
@@ -59,7 +57,7 @@ kanban-plugin: board
 - [ ] 10.0.1.60
 
 
-## OpenVPN
+## Network Gate
 
 - [ ] 192.168.1.78
 
