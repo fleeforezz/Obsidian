@@ -25,11 +25,13 @@ kanban-plugin: board
 
 ## 🟡 On going
 
+- [ ] (Feature 4) Cannot input empty start date if user don't want to change  start date
 
 
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 4) Cannot input empty RoomId if user don't want to change room
 - [x] (Feature 3) Fix valiation, if user book same room and have an overlap date then ignore that booking date
 - [x] (Feature 3) Add validation if there's somebody already booked that room
 - [x] (Feature 6) Fix Date format when display guest reservation before cancel

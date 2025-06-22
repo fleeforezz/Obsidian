@@ -73,8 +73,8 @@
               "state": {
                 "file": "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-16 07.47.19.excalidraw"
             }
           },
           {
@@ -110,15 +110,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
+                "file": "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform"
+              "title": "Generate SSH key"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -352,14 +353,15 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "a7de9e23839649e7",
+  "active": "7a87589924e2de99",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
+    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
     "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
-    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Pasted image 20240302122621.png",
@@ -386,7 +388,6 @@
     "04 - Tasks Board/Untitled Kanban.md",
     "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
-    "99 - Meta/System Tweaks/Beautiful Window taskbar/Windhawk.md",
     "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
     "03 - Study/FPTU/LAB/LAB_1",
