@@ -4,17 +4,14 @@
   "showViewHeader": true,
   "nativeMenus": true,
   "theme": "system",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "Focus",
   "interfaceFontFamily": "Inter",
   "enabledCssSnippets": [
-    "Colored Sidebar Items",
-    "dashboard",
-    "dashboard-ReadLineLength",
-    "button",
-    "dim-support-files",
     "main",
     "vault-logo",
-    "banner"
+    "dim-support-files",
+    "banner",
+    "Colored Sidebar Items"
   ],
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
