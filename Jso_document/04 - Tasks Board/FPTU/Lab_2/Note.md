@@ -44,3 +44,14 @@ Input checkin      guestCheckout list
 !(false || false) -> true || true
 
 03/12/2025.isBefore(04/12/2025) -> true
+
+nếu user nhập roomID, numberOfRentalDate, newStartDate
+
+current nationalID = 082286371615
+current start date = 05/12/2025
+current checkout date = 08/12/2025
+
+RoomID = null;
+numberOfRentalDate = 6;
+newStartDate = 05/12/2025
+checkOutDate = 11/12/2025

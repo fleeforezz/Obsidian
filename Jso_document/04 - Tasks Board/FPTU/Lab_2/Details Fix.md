@@ -9,7 +9,7 @@ kanban-plugin: board
 - [x] 1.Import room from text file
 - [x] 2.Display Available Room List
 - [x] 3.Enter guest information
-- [ ] 4.Update guest stay information
+- [x] 4.Update guest stay information
 - [x] 5.Search guest by national Id
 - [x] 6.Delete guest reservation brefore arrival
 - [x] 7.List vacant rooms
@@ -25,12 +25,12 @@ kanban-plugin: board
 
 ## 🟡 On going
 
-- [ ] (Feature 4) Cannot input empty start date if user don't want to change  start date
 
 
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 4) Cannot input empty start date if user don't want to change  start date
 - [x] (Feature 4) Cannot input empty RoomId if user don't want to change room
 - [x] (Feature 3) Fix valiation, if user book same room and have an overlap date then ignore that booking date
 - [x] (Feature 3) Add validation if there's somebody already booked that room

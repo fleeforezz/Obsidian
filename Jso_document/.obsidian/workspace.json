@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 - Tasks Board/FPTU/Lab_2/Note.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -118,8 +118,7 @@
               "title": "Generate SSH key"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,15 +352,15 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "7a87589924e2de99",
+  "active": "a7de9e23839649e7",
   "lastOpenFiles": [
-    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
-    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
+    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
+    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
+    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Pasted image 20240302122621.png",
