@@ -13,7 +13,7 @@ kanban-plugin: board
 - [x] 5.Search guest by national Id
 - [x] 6.Delete guest reservation brefore arrival
 - [x] 7.List vacant rooms
-- [ ] 8.Monthly revenue report
+- [x] 8.Monthly revenue report
 - [ ] 9.Reveneue report by room type
 - [ ] 10.Save guest information
 
@@ -30,6 +30,7 @@ kanban-plugin: board
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 8) Fix cannot get room that match the target month
 - [x] (Feature 4) Cannot input empty start date if user don't want to change  start date
 - [x] (Feature 4) Cannot input empty RoomId if user don't want to change room
 - [x] (Feature 3) Fix valiation, if user book same room and have an overlap date then ignore that booking date

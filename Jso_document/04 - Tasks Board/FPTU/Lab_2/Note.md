@@ -4,8 +4,6 @@ Nhiều khách hàng có thể đặt 1 phòng
 1 khách hàng có thể đặt nhiều phòng nhưng có thể trùng ngày
 + Vì khách có thể đặt nhiều phòng trùng ngày 
 
-### Monthly Revenue Report 
-
 1. Nhập tháng và năm MM/yyyy
 2. Check list reservation_controller xem những khách nào có đặt phòng trong tháng đã nhập
 
@@ -55,3 +53,16 @@ RoomID = null;
 numberOfRentalDate = 6;
 newStartDate = 05/12/2025
 checkOutDate = 11/12/2025
+
+### Monthly Revenue Report 
+
+1. Nhập tháng và năm muốn report
+	- Check format tháng/năm có valid ko
+	- Check xem tháng nhập vào có dữ liệu hay ko 
+2. Sau khi nhập xong check trong tháng đó có những phòng nào đã đc đặt
+3. Sau khi check những phòng đó đã được đặt thì get dữ liệu có trong phòng đó thông qua roomId
+	+ Tính Amount từng phòng bằng cách lấy Amount = numberOfRentDate * DailyRate
+
+### Revenue report by room type
+
+
