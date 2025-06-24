@@ -110,16 +110,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
+                "file": "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generate SSH key"
+              "title": "Network"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -353,12 +353,12 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "76f070b48c828a1c",
+  "active": "9512fce934ed7aaa",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
+    "04 - Tasks Board/FPTU/Lab_2/Note.md",
     "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
-    "04 - Tasks Board/FPTU/Lab_2/Note.md",
-    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",

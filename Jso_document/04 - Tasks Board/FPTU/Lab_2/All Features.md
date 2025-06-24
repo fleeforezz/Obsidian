@@ -20,12 +20,12 @@ kanban-plugin: board
 
 ## 🔴 No status
 
-- [ ] (Feature 9) Reveneue report by room type
 - [ ] (Feature 10) Save guest information
 
 
 ## 🟡 On going
 
+- [ ] (Feature 9) Reveneue report by room type
 
 
 ## 🟢 Done

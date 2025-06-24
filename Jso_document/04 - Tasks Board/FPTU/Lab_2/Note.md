@@ -65,4 +65,5 @@ checkOutDate = 11/12/2025
 
 ### Revenue report by room type
 
+Số lượng người đặt phòng có roomType là Deluxe
 
