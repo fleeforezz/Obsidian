@@ -118,8 +118,7 @@
               "title": "Network"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,12 +352,13 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "9512fce934ed7aaa",
+  "active": "a7de9e23839649e7",
   "lastOpenFiles": [
+    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+    "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
-    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
-    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
@@ -387,7 +387,6 @@
     "03 - Study/Frameworks/DotNet",
     "04 - Tasks Board/Untitled Kanban.md",
     "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
-    "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
     "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
     "03 - Study/FPTU/LAB/LAB_1",

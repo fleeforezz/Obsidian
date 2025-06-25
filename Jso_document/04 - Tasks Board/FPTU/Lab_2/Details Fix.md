@@ -15,7 +15,7 @@ kanban-plugin: board
 - [x] 7.List vacant rooms
 - [x] 8.Monthly revenue report
 - [ ] 9.Reveneue report by room type
-- [ ] 10.Save guest information
+- [x] 10.Save guest information
 
 
 ## 🔴 No status
