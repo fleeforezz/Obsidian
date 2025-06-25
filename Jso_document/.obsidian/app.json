@@ -10,5 +10,6 @@
   "foldHeading": true,
   "newFileLocation": "current",
   "propertiesInDocument": "visible",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "./attachments"
 }

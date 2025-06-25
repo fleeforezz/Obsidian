@@ -4,121 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "10b52296370bbf80",
+        "id": "50219d0063fcba80",
         "type": "tabs",
         "children": [
           {
-            "id": "a7de9e23839649e7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04 - Tasks Board/FPTU/Lab_2/All Features.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "All Features"
-            }
-          },
-          {
-            "id": "76f070b48c828a1c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Details Fix"
-            }
-          },
-          {
-            "id": "64af3c9cb4ac0421",
+            "id": "e1a7fb5b3424c89c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Tasks Board/FPTU/Lab_2/Note.md",
+                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Prometheus"
             }
           },
           {
-            "id": "2b5d5204748f2105",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-16 07.47.19.excalidraw"
-            }
-          },
-          {
-            "id": "7a87589924e2de99",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Ips Table"
-            }
-          },
-          {
-            "id": "9512fce934ed7aaa",
+            "id": "3b59ba2fddba3da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
-                "mode": "preview",
+                "file": "03 - Study/DevOps Engineer/Getting ready for interview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "Getting ready for interview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/FPTU/MAD/Ôn tập FE.md",
+                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ôn tập FE"
+              "title": "Outline of Prometheus"
             }
           },
           {
@@ -239,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Dashboard/🧪 HomeLab.md",
+                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🧪 HomeLab"
+              "title": "Backlinks for Prometheus"
             }
           },
           {
@@ -258,22 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Dashboard/🧪 HomeLab.md",
+                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🧪 HomeLab"
-            }
-          },
-          {
-            "id": "d3a519cf62e5d18a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outgoing links from Prometheus"
             }
           },
           {
@@ -282,42 +190,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "14e96f9af2066d79",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5be7c7679e746186",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f89650250f97d7ad",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a651ebe51560088e",
+            "id": "964cdc4e05a6faf4",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -327,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -352,16 +230,32 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "a7de9e23839649e7",
+  "active": "3b59ba2fddba3da8",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
-    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
+    "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
+    "03 - Study/DevOps Engineer/Getting ready for interview.md",
+    "03 - Study/DevOps Engineer/03.md",
+    "03.md",
+    "03 - Study/DevOps Engineer/DevOps.md",
+    "03 - Study/ASP.NET Core/What is ASP.NET CORE.md",
+    "03 - Study/ASP.NET Core/ASP.NET CORE.md",
+    "03 - Study/DevOps Engineer/Youtube Channel to learn DevOps.md",
+    "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
+    "01 - HomeLab/Categories/AI/Ollama.md",
+    "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625160628.png",
+    "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625155554.png",
+    "03 - Study/DevOps Engineer/Monitoring/attachments",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
+    "03 - Study/ASP.NET Core/Images/Pasted image 20250530214815.png",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
+    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+    "01 - HomeLab/Categories/Monitoring/Prometheus/Install Prometheus.md",
+    "03 - Study/DevOps Engineer/Monitoring",
+    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
     "04 - Tasks Board/FPTU/Lab_2/Note.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
-    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Pasted image 20240302122621.png",
@@ -370,23 +264,11 @@
     "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Proxmox.md",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
-    "Pasted image 20250530214815.png",
-    "04 - Tasks Board/Home Server board.md",
-    "04 - Tasks Board/FPTU/Lab_1/All Features.md",
-    "04 - Tasks Board/FPTU/Lab_1/Details Fix.md",
     "04 - Tasks Board/FPTU/Lab_1",
     "04 - Tasks Board/FPTU/Lab_2",
-    "07 - Dashboard/🔖 Library.md",
-    "07 - Dashboard/🏫 University.md",
-    "07 - Dashboard/🌿 Infrastructure.md",
-    "07 - Dashboard/✏️ Learning.md",
-    "07 - Dashboard/🧩 L i f e 2.0.md",
-    "03 - Study/Frameworks/DotNet/Untitled.md",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
     "04 - Tasks Board/FPTU",
     "03 - Study/Frameworks/DotNet",
-    "04 - Tasks Board/Untitled Kanban.md",
-    "99 - Meta/System Tweaks/Add Desktop entry/Add desktop entry.md",
     "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
     "03 - Study/FPTU/LAB/LAB_1",
@@ -395,12 +277,8 @@
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
     "03 - Study/FPTU/MAD/Resources/Pasted image 20250408094127.png",
-    "03 - Study/FPTU/MAD/Resources",
     "Pasted image 20250408094101.png",
-    "03 - Study/FPTU/MAD/Resources/Pasted image 20250408094046.png",
-    "03 - Study/Diagrams",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas",
-    "99 - Meta/System Tweaks/Pretty Terminal/Pasted image 20240304121042.png"
+    "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
   ]
 }
