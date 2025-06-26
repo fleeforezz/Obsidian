@@ -67,3 +67,8 @@ checkOutDate = 11/12/2025
 
 Số lượng người đặt phòng có roomType là Deluxe
 
+1. Nhập roomID
+	+ Check room type đó có những roomID nào VD có 3 phòng có roomType là Deluxe vs ID là R011, R012, R013
+	+ Check coi 3 phòng đó đã đc đặt ko, nếu 3 phòng đó đã đc đặt thì lấy amount của từng phòng cộng lại, nếu chỉ 2 phòng có ng đặt
+	+ CT Amount từng phòng = numberOfRentalDate * DailyRate
+	+ CT: RoomTypeAmount = Amount * nAmount

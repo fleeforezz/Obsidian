@@ -21,6 +21,7 @@ kanban-plugin: board
 ## 🔴 No status
 
 - [ ] (Feature 3) Fix there's no error message when user input wrong birthdate format
+- [ ] (Feature 1) Add validation for loadRecFromFile(), validation for replication roomId, validation for 6 fields
 
 
 ## 🟡 On going
