@@ -14,13 +14,12 @@ kanban-plugin: board
 - [x] 6.Delete guest reservation brefore arrival
 - [x] 7.List vacant rooms
 - [x] 8.Monthly revenue report
-- [ ] 9.Reveneue report by room type
+- [x] 9.Reveneue report by room type
 - [x] 10.Save guest information
 
 
 ## 🔴 No status
 
-- [ ] (Feature 9) Reveneue report by room type
 
 
 ## 🟡 On going
@@ -30,6 +29,7 @@ kanban-plugin: board
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 9) Reveneue report by room type
 - [x] (Feature 10) Save guest information
 - [x] (Feature 8) Monthly revenue report
 - [x] (Feature 4) Update guest stay information

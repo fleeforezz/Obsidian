@@ -14,14 +14,12 @@ kanban-plugin: board
 - [x] 6.Delete guest reservation brefore arrival
 - [x] 7.List vacant rooms
 - [x] 8.Monthly revenue report
-- [ ] 9.Reveneue report by room type
+- [x] 9.Reveneue report by room type
 - [x] 10.Save guest information
 
 
 ## 🔴 No status
 
-- [ ] (Feature 3) Fix there's no error message when user input wrong birthdate format
-- [ ] (Feature 1) Add validation for loadRecFromFile(), validation for replication roomId, validation for 6 fields
 
 
 ## 🟡 On going
@@ -31,6 +29,8 @@ kanban-plugin: board
 ## 🟢 Done
 
 **Complete**
+- [x] (Feature 3) Fix there's no error message when user input wrong birthdate format
+- [x] (Feature 1) Add validation for loadRecFromFile(), validation for replication roomId, validation for 6 fields
 - [x] (Feature 8) Fix cannot get room that match the target month
 - [x] (Feature 4) Cannot input empty start date if user don't want to change  start date
 - [x] (Feature 4) Cannot input empty RoomId if user don't want to change room

@@ -65,10 +65,17 @@ checkOutDate = 11/12/2025
 
 ### Revenue report by room type
 
-Số lượng người đặt phòng có roomType là Deluxe
+**Số lượng người đặt phòng có roomType là Deluxe**
 
-1. Nhập roomID
-	+ Check room type đó có những roomID nào VD có 3 phòng có roomType là Deluxe vs ID là R011, R012, R013
-	+ Check coi 3 phòng đó đã đc đặt ko, nếu 3 phòng đó đã đc đặt thì lấy amount của từng phòng cộng lại, nếu chỉ 2 phòng có ng đặt
-	+ CT Amount từng phòng = numberOfRentalDate * DailyRate
-	+ CT: RoomTypeAmount = Amount * nAmount
++ Check room type đó có những roomID nào VD có 3 phòng có roomType là Deluxe vs ID là R011, R012, R013
++ Check coi 3 phòng đó đã đc đặt ko, nếu 3 phòng đó đã đc đặt thì lấy amount của từng phòng cộng lại, nếu chỉ 2 phòng có ng đặt
++ CT Amount từng phòng = numberOfRentalDate * DailyRate
++ CT: RoomTypeAmount += Amount từng phòng
+
+**Nếu user ko nhập room type**
+
++ Check từng room type trong roomList có những phòng nào 
++ Check từng phòng xem có phòng nào đc đặt r
++ Nếu có phòng đã có ng đặt thì tính amount của phòng đó
+	+ Amount từng phòng = numberOfRentalDate * DailyRate
++ Tính RoomTypeAmount += Amont từng phòng

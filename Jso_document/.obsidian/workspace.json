@@ -41,7 +41,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+                "file": "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Details Fix"
+              "title": "All Features"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Tasks Board/FPTU/Lab_2/Note.md",
+                "file": "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
                 "mode": "source",
                 "source": false
               },
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,9 +266,12 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "b62eafecf9ac43f9",
+  "active": "554c5aea3da29183",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/Lab_2/Details Fix.md",
+    "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
+    "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
+    "04 - Tasks Board/FPTU/LAB211",
+    "04 - Tasks Board/FPTU/LAB211/Lab_2/Details Fix.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
     "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
     "03 - Study/DevOps Engineer/Getting ready for interview.md",
@@ -289,9 +292,7 @@
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Categories/Monitoring/Prometheus/Install Prometheus.md",
     "03 - Study/DevOps Engineer/Monitoring",
-    "04 - Tasks Board/FPTU/Lab_2/All Features.md",
     "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
-    "04 - Tasks Board/FPTU/Lab_2/Note.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
@@ -299,16 +300,14 @@
     "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "00 - Notes/HomeLab/HomeLab note 2025-02-05.md",
     "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
-    "01 - HomeLab/Categories/OS & System control/Proxmox/Proxmox.md",
-    "04 - Tasks Board/FPTU/Lab_1",
-    "04 - Tasks Board/FPTU/Lab_2",
+    "04 - Tasks Board/FPTU/LAB211/Lab_1",
+    "04 - Tasks Board/FPTU/LAB211/Lab_2",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
     "04 - Tasks Board/FPTU",
     "03 - Study/Frameworks/DotNet",
     "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
     "03 - Study/FPTU/LAB/LAB_1",
-    "03 - Study/FPTU/LAB",
     "Pasted Image 20250411150541_848.png",
     "Pasted Image 20250411112806_434.png",
     "Pasted Image 20250411112545_536.png",
