@@ -36,15 +36,20 @@
             }
           },
           {
-            "id": "554c5aea3da29183",
+            "id": "6380e91207a7d874",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
                     false,
                     false,
                     false,
@@ -54,21 +59,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "All Features"
-            }
-          },
-          {
-            "id": "b62eafecf9ac43f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note"
+              "title": "Ips Table"
             }
           }
         ],
@@ -266,13 +257,13 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "554c5aea3da29183",
+  "active": "6380e91207a7d874",
   "lastOpenFiles": [
-    "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
+    "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
+    "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
     "04 - Tasks Board/FPTU/LAB211",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/Details Fix.md",
-    "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
     "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
     "03 - Study/DevOps Engineer/Getting ready for interview.md",
     "03 - Study/DevOps Engineer/03.md",
