@@ -69,7 +69,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prometheus"
+              "title": "Outline of Ips Table"
             }
           },
           {
@@ -246,12 +246,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,12 +270,12 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "2a44ba0c88c40d7e",
+  "active": "6380e91207a7d874",
   "lastOpenFiles": [
-    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
+    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
     "04 - Tasks Board/FPTU/LAB211",
