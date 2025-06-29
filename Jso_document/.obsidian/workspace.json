@@ -41,17 +41,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
                     false,
                     false,
                     false
@@ -59,7 +52,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Ips Table"
+              "title": "New Ips Table"
             }
           },
           {
@@ -183,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ips Table"
+              "title": "Outline of New Ips Table"
             }
           },
           {
@@ -272,8 +265,9 @@
   },
   "active": "6380e91207a7d874",
   "lastOpenFiles": [
-    "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
+    "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
@@ -304,7 +298,6 @@
     "01 - HomeLab/Categories/OS & System control/Proxmox/Pasted image 20240302122621.png",
     "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "00 - Notes/HomeLab/HomeLab note 2025-02-05.md",
-    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_1",
     "04 - Tasks Board/FPTU/LAB211/Lab_2",
     "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
