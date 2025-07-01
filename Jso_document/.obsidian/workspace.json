@@ -41,6 +41,33 @@
             "state": {
               "type": "kanban",
               "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Ips Table"
+            }
+          },
+          {
+            "id": "330a4f942b44764f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
                 "file": "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
@@ -54,37 +81,9 @@
               "icon": "lucide-trello",
               "title": "New Ips Table"
             }
-          },
-          {
-            "id": "2a44ba0c88c40d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proxmox Infrastructure - Advanced Multi-Environment Structure"
-            }
-          },
-          {
-            "id": "067e459a54fe3fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,15 +277,27 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "6380e91207a7d874",
+  "active": "330a4f942b44764f",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/NetWork Flow.md",
+    "01 - HomeLab/Home Server Infrastructure/CheckList.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
+    "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
+    "01 - HomeLab/Home Server Infrastructure/attachments/watch.png",
+    "01 - HomeLab/Home Server Infrastructure/attachments/smart.png",
+    "01 - HomeLab/Home Server Infrastructure/attachments/iphone.png",
+    "01 - HomeLab/Home Server Infrastructure/attachments/laptop.png",
+    "01 - HomeLab/Home Server Infrastructure/attachments",
+    "02 - Resources/Image Library/network-switch.png",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
-    "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
+    "01 - HomeLab/Home Server Infrastructure/Proxmox.md",
+    "01 - HomeLab/Home Server Infrastructure/Drawing 2025-07-01 10.13.08.excalidraw.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
+    "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
+    "01 - HomeLab/Categories/OS & System control/Linux Command/Cron Job.md",
     "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/LAB211",
@@ -306,26 +318,14 @@
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "03 - Study/ASP.NET Core/Images/Pasted image 20250530214815.png",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
-    "01 - HomeLab/Categories/Monitoring/Prometheus/Install Prometheus.md",
     "03 - Study/DevOps Engineer/Monitoring",
-    "01 - HomeLab/Categories/OS & System control/SSH Key/Generate SSH key.md",
-    "99 - Meta/System Tweaks/Vencord/Install Vencord.md",
-    "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Pasted image 20240302122621.png",
-    "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_1",
     "04 - Tasks Board/FPTU/LAB211/Lab_2",
-    "99 - Meta/System Tweaks/Pasted image 20240304134835.png",
     "04 - Tasks Board/FPTU",
     "03 - Study/Frameworks/DotNet",
     "99 - Meta/System Tweaks/Beautiful Window taskbar",
     "99 - Meta/System Tweaks/Netbean",
-    "03 - Study/FPTU/LAB/LAB_1",
-    "Pasted Image 20250411150541_848.png",
-    "Pasted Image 20250411112806_434.png",
-    "Pasted Image 20250411112545_536.png",
-    "03 - Study/FPTU/MAD/Resources/Pasted image 20250408094127.png",
-    "Pasted image 20250408094101.png",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
   ]
 }

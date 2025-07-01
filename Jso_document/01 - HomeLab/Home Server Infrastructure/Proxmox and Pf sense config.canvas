@@ -1,344 +1,374 @@
 {
 	"edges":[
-		{"fromNode":"27915447322c1753","fromSide":"right","id":"bb1dbc3eb45541c8","toNode":"4f16752653e10603","toSide":"left"},
-		{"color":"5","fromNode":"4627791ddf3bb08d","fromSide":"bottom","id":"bb151b3bc548fc69","label":"192.168.1.33:8006\n192.168.1.1/24\n\nMain","toNode":"696fc1a117705af9","toSide":"top"},
-		{"fromNode":"696fc1a117705af9","fromSide":"left","id":"59ac70b47df7758c","toNode":"179da9a4ab184e07","toSide":"right"},
-		{"fromNode":"08d6fdf6f95b493a","fromSide":"right","id":"2860ee49be3f7991","toNode":"4fc2e562d9865324","toSide":"left"},
-		{"fromNode":"08d6fdf6f95b493a","fromSide":"left","id":"2ce5386980ead9a1","toNode":"7e9863de17915d13","toSide":"right"},
-		{"fromNode":"696fc1a117705af9","fromSide":"right","id":"e83298e89ae48d09","toNode":"9f864a5de6543a87","toSide":"left"},
-		{"fromNode":"a99eb2adc6c6d328","fromSide":"left","id":"ce0137abae02cffb","toNode":"81bf748d1a58be9d","toSide":"right"},
-		{"color":"5","fromNode":"4627791ddf3bb08d","fromSide":"bottom","id":"3f8777256da9400b","label":"192.168.1.33:8006\n192.168.1.1/24\nFailover","toNode":"08d6fdf6f95b493a","toSide":"top"},
-		{"fromNode":"b2fa094dfc6d8407","fromSide":"left","id":"5c83a692d7e8bbfc","toNode":"eb2854b3592b37d2","toSide":"right"},
-		{"fromNode":"4d79203f8328c55e","fromSide":"bottom","id":"b987c024cfa490ec","toNode":"eec4f02c50baec2e","toSide":"top"},
-		{"fromNode":"7016fc0eaa63f8e7","fromSide":"bottom","id":"eda2d90de69ae9bf","toNode":"e1ece945ebcdbc78","toSide":"top"},
-		{"color":"5","fromNode":"4627791ddf3bb08d","fromSide":"bottom","id":"349164a06dbd7fc7","label":"192.168.1.1/24","toNode":"7016fc0eaa63f8e7","toSide":"top"},
-		{"fromNode":"a99eb2adc6c6d328","fromSide":"right","id":"2fe2809e2a2e6e31","toNode":"727e5ed8dc56280a","toSide":"left"},
-		{"color":"5","fromNode":"c2779bcdea185a71","fromSide":"bottom","id":"0008c9fff1f228df","label":"192.168.1.1/24","toNode":"4627791ddf3bb08d","toSide":"top"},
-		{"color":"6","fromNode":"4d79203f8328c55e","fromSide":"bottom","id":"beb81e1f3cea04e0","label":"10.0.1.1/24","toNode":"d492a7840484198e","toSide":"top"},
-		{"color":"6","fromNode":"d492a7840484198e","fromSide":"bottom","id":"f4048960c0c1bef0","label":"10.0.1.1/24","toNode":"a99eb2adc6c6d328","toSide":"top"},
-		{"color":"6","fromNode":"d492a7840484198e","fromSide":"bottom","id":"0006220eb6623694","label":"10.0.1.1/24","toNode":"66b02a3806dc4126","toSide":"top"}
+		{"id":"bb151b3bc548fc69","toFloating":false,"fromNode":"4627791ddf3bb08d","fromSide":"bottom","toNode":"696fc1a117705af9","toSide":"top","color":"5","label":"192.168.1.33:8006\n192.168.1.1/24\n\nMain"},
+		{"id":"59ac70b47df7758c","fromNode":"696fc1a117705af9","fromSide":"left","toNode":"179da9a4ab184e07","toSide":"right"},
+		{"id":"2860ee49be3f7991","fromNode":"08d6fdf6f95b493a","fromSide":"right","toNode":"4fc2e562d9865324","toSide":"left"},
+		{"id":"2ce5386980ead9a1","fromNode":"08d6fdf6f95b493a","fromSide":"left","toNode":"7e9863de17915d13","toSide":"right"},
+		{"id":"e83298e89ae48d09","fromNode":"696fc1a117705af9","fromSide":"right","toNode":"9f864a5de6543a87","toSide":"left"},
+		{"id":"ce0137abae02cffb","fromNode":"a99eb2adc6c6d328","fromSide":"left","toNode":"81bf748d1a58be9d","toSide":"right"},
+		{"id":"3f8777256da9400b","fromNode":"4627791ddf3bb08d","fromSide":"bottom","toNode":"08d6fdf6f95b493a","toSide":"top","color":"5","label":"192.168.1.33:8006\n192.168.1.1/24\nFailover"},
+		{"id":"5c83a692d7e8bbfc","fromNode":"b2fa094dfc6d8407","fromSide":"left","toNode":"eb2854b3592b37d2","toSide":"right"},
+		{"id":"b987c024cfa490ec","fromNode":"4d79203f8328c55e","fromSide":"bottom","toNode":"eec4f02c50baec2e","toSide":"top"},
+		{"id":"eda2d90de69ae9bf","fromNode":"7016fc0eaa63f8e7","fromSide":"bottom","toNode":"e1ece945ebcdbc78","toSide":"top"},
+		{"id":"349164a06dbd7fc7","fromNode":"4627791ddf3bb08d","fromSide":"bottom","toNode":"7016fc0eaa63f8e7","toSide":"top","color":"5","label":"192.168.1.1/24"},
+		{"id":"2fe2809e2a2e6e31","fromNode":"a99eb2adc6c6d328","fromSide":"right","toNode":"727e5ed8dc56280a","toSide":"left"},
+		{"id":"0008c9fff1f228df","fromNode":"c2779bcdea185a71","fromSide":"bottom","toNode":"4627791ddf3bb08d","toSide":"top","color":"5","label":"192.168.1.1/24"},
+		{"id":"beb81e1f3cea04e0","fromNode":"4d79203f8328c55e","fromSide":"bottom","toNode":"d492a7840484198e","toSide":"top","color":"6","label":"10.0.1.1/24"},
+		{"id":"f4048960c0c1bef0","fromNode":"d492a7840484198e","fromSide":"bottom","toNode":"a99eb2adc6c6d328","toSide":"top","color":"6","label":"10.0.1.1/24"},
+		{"id":"0006220eb6623694","fromNode":"d492a7840484198e","fromSide":"bottom","toNode":"66b02a3806dc4126","toSide":"top","color":"6","label":"10.0.1.1/24"},
+		{
+			"id":"360653ffc0fdf486",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"442f9d26377c8c94",
+			"fromSide":"right",
+			"toNode":"5c2348f14bc6b456",
+			"toSide":"right",
+			"label":"192.168.1.0/24"
+		}
 	],
 	"metadata":{"version":"1.0-1.0"},
 	"nodes":[
 		{
-			"height":660,
 			"id":"4f16752653e10603",
-			"label":"Gipco Server",
 			"styleAttributes":{},
 			"type":"group",
-			"width":285,
-			"x":-180,
-			"y":-100
+			"x":-204,
+			"y":-107,
+			"width":284,
+			"height":660,
+			"label":"Gipco Server"
 		},
 		{
-			"height":414,
-			"id":"27915447322c1753",
-			"label":"Gipco Server",
+			"id":"f7fb8357da90586c",
 			"styleAttributes":{},
 			"type":"group",
-			"width":290,
-			"x":-640,
-			"y":-100
-		},
-		{
+			"x":-223,
+			"y":680,
+			"width":703,
 			"height":240,
-			"id":"5c4172d7e1416d4e",
-			"label":"I/O Panel",
-			"styleAttributes":{},
-			"type":"group",
-			"width":94,
-			"x":-162,
-			"y":-40
+			"label":"Gipco Server"
 		},
 		{
-			"height":100,
-			"id":"b2fa094dfc6d8407",
-			"label":"Untitled group",
-			"styleAttributes":{},
-			"type":"group",
-			"width":207,
-			"x":1800,
-			"y":320
-		},
-		{
-			"height":94,
 			"id":"9772fb4e10898bb3",
-			"label":"Intel Lan card",
 			"styleAttributes":{},
 			"type":"group",
-			"width":176,
-			"x":-162,
-			"y":420
+			"x":-185,
+			"y":300,
+			"width":246,
+			"height":94,
+			"label":"Intel Nic"
 		},
 		{
-			"height":60,
-			"id":"587de3ef44447106",
+			"id":"dc3ba9b0832d66e7",
 			"styleAttributes":{},
-			"text":"Broadcom Lan Card",
-			"type":"text",
-			"width":250,
-			"x":-620,
-			"y":70
+			"type":"group",
+			"x":-185,
+			"y":420,
+			"width":246,
+			"height":94,
+			"label":"Broadcom Nic"
 		},
 		{
-			"height":60,
-			"id":"8548eac13eab6bb3",
+			"id":"394fd4e3e452a21e",
 			"styleAttributes":{},
-			"text":"Realtek Lan Card",
-			"type":"text",
-			"width":250,
-			"x":-620,
-			"y":150
+			"type":"group",
+			"x":-117,
+			"y":800,
+			"width":246,
+			"height":94,
+			"label":"Onboard Nic"
 		},
 		{
-			"height":60,
-			"id":"551d30d2ff9911c8",
+			"id":"5c4172d7e1416d4e",
 			"styleAttributes":{},
-			"text":"Dual Intel Lan Card",
-			"type":"text",
-			"width":250,
-			"x":-620,
-			"y":234
+			"type":"group",
+			"x":-186,
+			"y":-47,
+			"width":94,
+			"height":240,
+			"label":"I/O Panel"
 		},
 		{
-			"height":60,
-			"id":"5ce0f4acb537c556",
+			"id":"b2fa094dfc6d8407",
 			"styleAttributes":{},
-			"text":"Onboard Lan",
-			"type":"text",
-			"width":180,
-			"x":-620,
-			"y":-80
+			"type":"group",
+			"x":2400,
+			"y":314,
+			"width":207,
+			"height":100,
+			"label":"Untitled group"
+		},
+		{
+			"id":"20b6b64044c8fb6d",
+			"styleAttributes":{},
+			"type":"group",
+			"x":220,
+			"y":700,
+			"width":80,
+			"height":194,
+			"label":"Intel Nic"
+		},
+		{
+			"id":"442f9d26377c8c94",
+			"styleAttributes":{},
+			"type":"group",
+			"x":160,
+			"y":-540,
+			"width":140,
+			"height":100,
+			"label":"Viettel Mesh"
 		},
 		{
 			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":54,
-			"id":"af650b396c299c7a",
-			"styleAttributes":{},
+			"id":"e66696b9482fb98a",
+			"styleAttributes":{"border":"invisible"},
 			"type":"file",
+			"x":-166,
+			"y":113,
 			"width":54,
-			"x":-142,
-			"y":240
+			"height":54
 		},
 		{
 			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":54,
+			"id":"5c2348f14bc6b456",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":-19,
+			"y":320,
+			"width":54,
+			"height":54
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
 			"id":"99a2a014276acb60",
-			"styleAttributes":{},
+			"styleAttributes":{"border":"invisible"},
 			"type":"file",
+			"x":-159,
+			"y":440,
 			"width":54,
-			"x":-142,
-			"y":320
+			"height":54
 		},
 		{
 			"file":"02 - Resources/Image Library/wifi-router.png",
-			"height":100,
-			"id":"c2779bcdea185a71",
-			"styleAttributes":{},
+			"id":"eec800db399a0e0a",
+			"styleAttributes":{"border":"invisible"},
 			"type":"file",
+			"x":180,
+			"y":-540,
 			"width":100,
-			"x":1133,
-			"y":-260
+			"height":100
 		},
 		{
-			"file":"02 - Resources/Image Library/network-switch.png",
-			"height":126,
-			"id":"4627791ddf3bb08d",
-			"styleAttributes":{},
-			"type":"file",
-			"width":126,
-			"x":1120,
-			"y":9
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":54,
-			"id":"646693e71e5a5220",
-			"styleAttributes":{},
-			"type":"file",
-			"width":54,
-			"x":-142,
-			"y":440
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":54,
-			"id":"5c2348f14bc6b456",
-			"styleAttributes":{},
-			"type":"file",
-			"width":54,
-			"x":-60,
-			"y":440
-		},
-		{
-			"height":60,
-			"id":"179da9a4ab184e07",
-			"styleAttributes":{},
-			"text":"Onboard Lan",
-			"type":"text",
-			"width":144,
-			"x":240,
-			"y":320
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":60,
-			"id":"696fc1a117705af9",
-			"styleAttributes":{},
-			"type":"file",
-			"width":60,
-			"x":440,
-			"y":320
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":54,
-			"id":"e66696b9482fb98a",
-			"styleAttributes":{},
-			"type":"file",
-			"width":54,
-			"x":-142,
-			"y":120
-		},
-		{
-			"height":60,
-			"id":"9f864a5de6543a87",
-			"styleAttributes":{},
-			"text":"vmbr0",
-			"type":"text",
-			"width":143,
-			"x":550,
-			"y":320
-		},
-		{
-			"height":60,
-			"id":"7e9863de17915d13",
-			"styleAttributes":{},
-			"text":"Broadcom Lan",
-			"type":"text",
-			"width":144,
-			"x":960,
-			"y":560
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":60,
-			"id":"08d6fdf6f95b493a",
-			"styleAttributes":{},
-			"type":"file",
-			"width":60,
-			"x":1153,
-			"y":560
-		},
-		{
-			"height":60,
-			"id":"4fc2e562d9865324",
-			"styleAttributes":{},
-			"text":"vmbr1",
-			"type":"text",
-			"width":120,
-			"x":1260,
-			"y":560
-		},
-		{
-			"height":60,
 			"id":"eb2854b3592b37d2",
 			"styleAttributes":{},
 			"text":"Dual Intel Lan",
 			"type":"text",
+			"x":2120,
+			"y":334,
 			"width":211,
-			"x":1520,
-			"y":340
+			"height":60
 		},
 		{
-			"height":100,
 			"id":"eec4f02c50baec2e",
 			"styleAttributes":{},
 			"text":"Lan\n10.0.1.1/24\nvmbr3",
 			"type":"text",
+			"x":2140,
+			"y":504,
 			"width":191,
-			"x":1540,
-			"y":510
+			"height":100
 		},
 		{
 			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":60,
 			"id":"4d79203f8328c55e",
 			"styleAttributes":{},
 			"type":"file",
+			"x":2420,
+			"y":334,
 			"width":60,
-			"x":1820,
-			"y":340
-		},
-		{
-			"height":60,
-			"id":"81bf748d1a58be9d",
-			"styleAttributes":{},
-			"text":"Realtek Lan",
-			"type":"text",
-			"width":144,
-			"x":1246,
-			"y":1260
+			"height":60
 		},
 		{
 			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":60,
-			"id":"a99eb2adc6c6d328",
-			"styleAttributes":{},
-			"type":"file",
-			"width":60,
-			"x":1439,
-			"y":1260
-		},
-		{
-			"height":60,
-			"id":"727e5ed8dc56280a",
-			"styleAttributes":{},
-			"text":"10.0.1.1\nvmbr2",
-			"type":"text",
-			"width":140,
-			"x":1546,
-			"y":1260
-		},
-		{
-			"file":"02 - Resources/Image Library/network-switch.png",
-			"height":126,
-			"id":"d492a7840484198e",
-			"styleAttributes":{},
-			"type":"file",
-			"width":126,
-			"x":1787,
-			"y":940
-		},
-		{
-			"file":"02 - Resources/Image Library/wifi-router.png",
-			"height":100,
-			"id":"66b02a3806dc4126",
-			"styleAttributes":{},
-			"type":"file",
-			"width":100,
-			"x":2146,
-			"y":1270
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"height":60,
 			"id":"7016fc0eaa63f8e7",
 			"styleAttributes":{},
 			"type":"file",
+			"x":2527,
+			"y":334,
 			"width":60,
-			"x":1927,
-			"y":340
+			"height":60
 		},
 		{
-			"height":100,
 			"id":"e1ece945ebcdbc78",
 			"styleAttributes":{},
 			"text":"Wan\n192.168.1.1/24\nvmbr4",
 			"type":"text",
+			"x":2533,
+			"y":514,
 			"width":213,
-			"x":1933,
-			"y":520
+			"height":100
+		},
+		{
+			"id":"179da9a4ab184e07",
+			"styleAttributes":{},
+			"text":"Onboard Lan",
+			"type":"text",
+			"x":840,
+			"y":314,
+			"width":144,
+			"height":60
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"696fc1a117705af9",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1040,
+			"y":314,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"9f864a5de6543a87",
+			"styleAttributes":{},
+			"text":"vmbr0",
+			"type":"text",
+			"x":1150,
+			"y":314,
+			"width":143,
+			"height":60
+		},
+		{
+			"file":"02 - Resources/Image Library/wifi-router.png",
+			"id":"c2779bcdea185a71",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1733,
+			"y":-266,
+			"width":100,
+			"height":100
+		},
+		{
+			"id":"7e9863de17915d13",
+			"styleAttributes":{},
+			"text":"Broadcom Lan",
+			"type":"text",
+			"x":1560,
+			"y":554,
+			"width":144,
+			"height":60
+		},
+		{
+			"file":"02 - Resources/Image Library/network-switch.png",
+			"id":"4627791ddf3bb08d",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1720,
+			"y":3,
+			"width":126,
+			"height":126
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"08d6fdf6f95b493a",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1753,
+			"y":554,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"4fc2e562d9865324",
+			"styleAttributes":{},
+			"text":"vmbr1",
+			"type":"text",
+			"x":1860,
+			"y":554,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"81bf748d1a58be9d",
+			"styleAttributes":{},
+			"text":"Realtek Lan",
+			"type":"text",
+			"x":1846,
+			"y":1254,
+			"width":144,
+			"height":60
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"a99eb2adc6c6d328",
+			"styleAttributes":{},
+			"type":"file",
+			"x":2039,
+			"y":1254,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"727e5ed8dc56280a",
+			"styleAttributes":{},
+			"text":"10.0.1.1\nvmbr2",
+			"type":"text",
+			"x":2146,
+			"y":1254,
+			"width":140,
+			"height":60
+		},
+		{
+			"file":"02 - Resources/Image Library/network-switch.png",
+			"id":"d492a7840484198e",
+			"styleAttributes":{},
+			"type":"file",
+			"x":2387,
+			"y":934,
+			"width":126,
+			"height":126
+		},
+		{
+			"file":"02 - Resources/Image Library/wifi-router.png",
+			"id":"66b02a3806dc4126",
+			"styleAttributes":{},
+			"type":"file",
+			"x":2746,
+			"y":1264,
+			"width":100,
+			"height":100
+		},
+		{
+			"file":"02 - Resources/Image Library/network-switch.png",
+			"id":"9f10cfd1bfb034ca",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":-780,
+			"y":-60,
+			"width":126,
+			"height":126
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"61ca077f5448a47f",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":-19,
+			"y":820,
+			"width":54,
+			"height":54
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"646693e71e5a5220",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":220,
+			"y":820,
+			"width":60,
+			"height":60
 		}
 	]
 }
