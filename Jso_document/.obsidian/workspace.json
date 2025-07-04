@@ -4,79 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "50219d0063fcba80",
+        "id": "b19f249ae9af2635",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a7fb5b3424c89c",
+            "id": "81fb107a6ec9e6f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prometheus"
-            }
-          },
-          {
-            "id": "3b59ba2fddba3da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DataDog"
-            }
-          },
-          {
-            "id": "85aa203b109c2ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proxmox Infrastructure - Advanced Multi-Environment Structure"
-            }
-          },
-          {
-            "id": "db0f674e0e701c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network"
-            }
-          },
-          {
-            "id": "728388c817d479bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/NetWork Flow.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "NetWork Flow"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,14 +211,19 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "728388c817d479bf",
+  "active": "81fb107a6ec9e6f1",
   "lastOpenFiles": [
+    "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
+    "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
+    "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
+    "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
+    "04 - Tasks Board/Learning board.md",
+    "04 - Tasks Board/Home Server board.md",
+    "06 - Projects/Melville/Feature Graph.md",
+    "06 - Projects/Melville/Melville Design.md",
     "01 - HomeLab/Home Server Infrastructure/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "99 - Meta/System Tweaks/Pretty Terminal/Oh My Posh.md",
-    "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/CheckList.md",
@@ -298,15 +244,10 @@
     "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/LAB211",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/Details Fix.md",
-    "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
     "03 - Study/DevOps Engineer/Getting ready for interview.md",
     "03 - Study/DevOps Engineer/03.md",
     "03.md",
     "03 - Study/DevOps Engineer/DevOps.md",
-    "03 - Study/ASP.NET Core/What is ASP.NET CORE.md",
-    "03 - Study/ASP.NET Core/ASP.NET CORE.md",
-    "03 - Study/DevOps Engineer/Youtube Channel to learn DevOps.md",
-    "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
     "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625160628.png",
     "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625155554.png",
     "03 - Study/DevOps Engineer/Monitoring/attachments",
