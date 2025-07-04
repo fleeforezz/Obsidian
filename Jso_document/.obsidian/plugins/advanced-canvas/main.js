@@ -1426,7 +1426,7 @@ var CanvasPatcher = class extends Patcher {
     const that = this;
     Patcher.patchPrototype(this.plugin, view, {
       setEphemeralState: Patcher.OverrideExisting((next) => function(state) {
-        var _a, _b;
+        var _a, _b, _c;
         if (state == null ? void 0 : state.subpath) {
           const nodeId = state.subpath.replace(/^#/, "");
           const node = this.canvas.nodes.get(nodeId);
@@ -1436,7 +1436,7 @@ var CanvasPatcher = class extends Patcher {
             return;
           }
         }
-        if (((_b = (_a = state.match) == null ? void 0 : _a.matches) == null ? void 0 : _b[0]) && !(state == null ? void 0 : state.nodeId)) {
+        if (((_b = (_a = state.match) == null ? void 0 : _a.matches) == null ? void 0 : _b[0]) && !((_c = state.match) == null ? void 0 : _c.nodeId)) {
           const match = state.match.matches[0];
           const elementType = match[0] === 0 ? "nodes" : "edges";
           const elementIndex = match[1];
