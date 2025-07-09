@@ -171,12 +171,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "964cdc4e05a6faf4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "791ea4763cf8d5b0",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -186,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,16 +212,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "81fb107a6ec9e6f1",
+  "active": "791ea4763cf8d5b0",
   "lastOpenFiles": [
     "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
