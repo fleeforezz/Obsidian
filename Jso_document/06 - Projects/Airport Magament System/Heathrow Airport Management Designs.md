@@ -1,9 +1,8 @@
 ---
 banner: https://images.vexels.com/media/users/3/174152/raw/b1ffc64e28085dbfbb3c1bda2c5e26db-airport-flat-design-banner.jpg
 banner-display: cover
-banner-x: 49
-banner-y: 30
-banner-height: 260
+banner-x: 47
+banner-y: 24
 ---
 We'll cover the following
 + System Requirement
