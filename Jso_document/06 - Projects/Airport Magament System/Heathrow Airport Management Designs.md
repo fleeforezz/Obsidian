@@ -24,7 +24,7 @@ We will focus on the following set of requirements while designing Heathrow Airp
 
 **Main Function**
 
-1. User should be able to see overview of an airport:
+1. User should be able to see overview of an airport before showing others action:
 	+ Airport Code
 	+ Airport Name
 	+ Airport Weather
