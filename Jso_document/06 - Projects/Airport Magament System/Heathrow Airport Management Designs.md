@@ -17,8 +17,21 @@ Heathrow Airport Management System (Heathrow AMS) is a comprehensive software pl
 
 We will focus on the following set of requirements while designing Heathrow Airport Management System:
 
+**Register Function**
+
+1. User should be able to login or signup before using the app
+2. User should be able to signout after done using the app
+
 **Main Function**
 
-1. User should be able to add flights 
-2. User should be able to assign passengers to an existen flight
-3. User 
+1. User should be able to see overview of an airport:
+	+ Airport Code
+	+ Airport Name
+	+ Airport Weather
+	+ Number of Stands
+		+ Stands for passenger
+		+ Stands for cargo
+	+ Number of Runway
+2. User should be able to add flights 
+3. User should be able to assign passengers to an existen flight
+4. User 

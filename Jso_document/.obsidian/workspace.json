@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "32bbfc717621d88e",
