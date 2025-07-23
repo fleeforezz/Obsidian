@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
+                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Ips Table"
+              "title": "Outline of Heathrow Airport Management Designs"
             }
           },
           {
@@ -170,26 +170,6 @@
             }
           },
           {
-            "id": "9d0240aa20e5a2a2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "964cdc4e05a6faf4",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "791ea4763cf8d5b0",
             "type": "leaf",
             "state": {
@@ -200,12 +180,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +204,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "99a4644f61c2a6ef",
+  "active": "ed5b1630ffd6cb2d",
   "lastOpenFiles": [
     "06 - Projects/Airport Magament System/All Feature.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
