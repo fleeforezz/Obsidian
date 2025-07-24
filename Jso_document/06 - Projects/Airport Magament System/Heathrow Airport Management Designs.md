@@ -37,6 +37,9 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Password must meet requirement (password length 8-12 character, password must have 1 special character and uppercase letters)
 		+ User confirm password
 2. User should be able to signout after done using the app
+	+ The system will popup a message to confirm SignOut
+	+ If confirmed signout the system will throw a success message, else cancel message
+	+ Return to contract menu
 
 #### Main Function
 
@@ -92,7 +95,7 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Contract fees
 		+ Input ID of a contract want to assign
 		+ The system will popup a message to confirm assign contract
-		+ If confirmed assign the system will through a success message, else cancel message
+		+ If confirmed assign the system will throw a success message, else cancel assign message
 		+ Return to contract menu
 	3. Cancel a contract
 	4. UnActive a contract
