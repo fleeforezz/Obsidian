@@ -22,6 +22,20 @@ We will focus on the following set of requirements while designing Heathrow Airp
 #### Register Function
 
 1. User should be able to login or signup before using the app
+	1. Login
+		+ User enter email or username
+			+ Email must match regex (example@test.com)
+		+ User enter password
+			+ Password must match the old one
+		+ Prompt to signup if user don't have account yet
+	2. SignUp
+		+ User enter email
+			+ Email must match regex (example@test.com)
+		+ User enter username
+			+ No requirement for enter username
+		+ User enter password
+			+ Password must meet requirement (password length 8-12 character, password must have 1 special character and uppercase letters)
+		+ User confirm password
 2. User should be able to signout after done using the app
 
 #### Main Function
@@ -37,28 +51,52 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ Stands for cargo
 	+ Number of Runways (Show runway code like 27L or 16R)
 	+ Number of active Runways
-	+ Total of money Airport has earned
+	+ Total of money Airport has earned (Currency dollar)
 2. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
 			+ Active Contracts
 			+ Free slots
 		+ Show current available contracts
-			User should be able to see an overview of a airplane contract 
+			User should be able to see a list of available contracts
+			+ Contract ID
 			+ Country ID
 			+ Airplane type (B747)
 			+ Airplane Name
 			+ Contract Type (Internation, Regional, Local)
 			+ Contract fees
 		+ Show all contract that airport has assigned and active
-		+ Show all contract that airport has cancel
+			User should be able to see a list of assigned and active contracts
+			+ Contract ID
+			+ Country ID
+			+ Airplane type (B747)
+			+ Airplane Name
+			+ Contract Type (Internation, Regional, Local)
+			+ Contract fees
+		+ Show all contract that airport has been cancel
+			User should be able to see a list of canceled and unactive contracts
+			+ Contract ID
+			+ Country ID
+			+ Airplane type (B747)
+			+ Airplane Name
+			+ Contract Type (Internation, Regional, Local)
+			+ Contract fees
 	2.  Assign a contract:
-		User should be able to assign a contract
-		+ Show all available contract
+		User should be able to assign a contract by enter Contract ID that user want to assign to
+		+ Show all available contract (Show only basic info of an contract)
+			+ Contract ID
+			+ Country ID
+			+ Airplane type (B747)
+			+ Airplane Name
+			+ Contract Type (Internation, Regional, Local)
+			+ Contract fees
 		+ Input ID of a contract want to assign
-	3. User should be able to assign to a contract
-	4. User should be 
-	5. User should be able to cancel a contract
+		+ The system will popup a message to confirm assign contract
+		+ If confirmed assign the system will through a success message, else cancel message
+		+ Return to contract menu
+	3. Cancel a contract
+	4. UnActive a contract
+	5. Return to main menu
 3. **Employes Management**
 	1. Ground Service Management
 	2. Tower Service Management
