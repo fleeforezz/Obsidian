@@ -175,12 +175,32 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f2c3ef066da4f993",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "87dc4c531b6c5828",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,7 +224,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ed5b1630ffd6cb2d",
+  "active": "f2c3ef066da4f993",
   "lastOpenFiles": [
     "06 - Projects/Airport Magament System/All Feature.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
