@@ -93,20 +93,24 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Airplane Name
 			+ Contract Type (Internation, Regional, Local)
 			+ Contract fees
-		+ Input ID of a contract want to assign
+		+ Enter ID of a contract that want to assign
 		+ The system will popup a message to confirm assign contract
 		+ If confirmed assign the system will throw a success message, else cancel assign message
 		+ Return to contract menu
 	3. Cancel a contract
+		User should be able to cancel a contract if no longer needed
+		+ Show all contract that airport has assigned and active (Some basic info of the contract)
+		+ Enter ID of a contract that want to be canceled (ID must match requirement)
+		+ If entered Contract ID found, system will prompt detail of that contract and send confirm cancel mesaage
 	4. UnActive a contract
 	5. Return to main menu
 3. **Employes Management**
 	1. Ground Service Management
 	2. Tower Service Management
 	3. Handling Crew Management
-4. 
-5. User should be able to assign passengers to an existen flight
-6. User 
+4. **Logs Management**
+	1. Contracts Logs
+	2. Passengers Logs
 
 ### Use Case Diagram
 
