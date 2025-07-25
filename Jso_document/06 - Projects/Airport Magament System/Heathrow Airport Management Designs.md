@@ -100,10 +100,16 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	3. Cancel a contract
 		User should be able to cancel a contract if no longer needed
 		+ Show all contract that airport has assigned and active (Some basic info of the contract)
-		+ Enter ID of a contract that want to be canceled (ID must match requirement)
-		+ If entered Contract ID found, system will prompt detail of that contract and send confirm cancel mesaage
-	4. UnActive a contract
-	5. Return to main menu
+		+ Enter ID of a contract that want to be cancelled (ID must match requirement)
+		+ If entered Contract ID found, system will prompt detail of that contract and send confirm cancel message
+	4. Activate a contract
+		User should be able to activate a contract again
+	5. UnActive a contract
+	    User should be able to deactivate a contract 
+		+ Show all contract that airport has assigned and active (Some basic info of the contract)
+		+ Enter ID of a contract that want to be cancelled (ID must match requirement)
+		+ If entered Contract ID found, system will prompt detail of that contract and send confirm Deactivate message
+	6. Return to main menu
 3. **Employes Management**
 	1. Ground Service Management
 	2. Tower Service Management
