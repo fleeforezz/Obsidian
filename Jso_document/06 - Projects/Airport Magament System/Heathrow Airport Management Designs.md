@@ -55,7 +55,10 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	+ Number of Runways (Show runway code like 27L or 16R)
 	+ Number of active Runways
 	+ Total of money Airport has earned (Currency dollar)
-2. **Contract Management**
+	+ Notification of which contract is about to expired
+2. **Airport Mangement**
+	+ 
+3. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
 			+ Active Contracts
@@ -65,17 +68,20 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Contract ID
 			+ Country ID
 			+ Airplane type (B747)
-			+ Airplane Name
+			+ Airplane Name (Virgin Atlantic)
 			+ Contract Type (Internation, Regional, Local)
-			+ Contract fees
+			+ Contract expiration date (date time format 1d 20h)
+			+ Contract fees (currentcy format # ### ###)
 		+ Show all contract that airport has assigned and active
 			User should be able to see a list of assigned and active contracts
 			+ Contract ID
 			+ Country ID
 			+ Airplane type (B747)
 			+ Airplane Name
+			+ Stand class
 			+ Contract Type (Internation, Regional, Local)
-			+ Contract fees
+			+ Contract expiration date (date time format 1d 20h)
+			+ Contract fees (currentcy format # ### ###)
 		+ Show all contract that airport has been cancel
 			User should be able to see a list of canceled and unactive contracts
 			+ Contract ID
@@ -83,7 +89,46 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Airplane type (B747)
 			+ Airplane Name
 			+ Contract Type (Internation, Regional, Local)
-			+ Contract fees
+			+ Contract expiration date (date time format 1d 20h)
+			+ Contract fees (currentcy format # ### ###)
+		+ Show detail of a contract
+			User should be able to see detail of a contract
+			+ Enter ID of a contract that want to show detail (ID must match the requirement and cannot be null)
+			+ Economy
+				+ Lading fee
+				+ Departure fee
+				+ Refueling 
+				+ Handling Services fee
+				+ Other Fees (CO2, Crew, ATC)
+				+ Shipping & Transport
+				+ Total
+				+ Contract Total
+				+ Requested services: (Only show the service that the airplane need to request)
+					+ Boarding out 
+					+ Unload
+					+ Fuel
+					+ Water
+					+ Lavatory
+					+ Cleaning
+					+ Catering
+					+ Load
+					+ Boarding in
+					+ Deicing
+				+ Handling limits
+			+ Contract
+				+ Airline name
+				+ Flight number
+				+ Airline (Korean Airline)
+				+ Destination airport (Airport code | Airport name)
+				+ Destination country (Country name)
+				+ Roundtrip duration (Datetime format 02h 39m)
+				+ Destination distance (1020km)
+			+ Airplane info
+				+ Airplane name and Airplane type (Antonov | A124)
+				+ Aircrew (8 Crew)
+				+ Max range
+				+ Cruise speed (500 km/h)
+				+ Approach speed (165 km/h)
 	2.  Assign a contract:
 		User should be able to assign a contract by enter Contract ID that user want to assign to
 		+ Show all available contract (Show only basic info of an contract)
@@ -100,21 +145,27 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	3. Cancel a contract
 		User should be able to cancel a contract if no longer needed
 		+ Show all contract that airport has assigned and active (Some basic info of the contract)
-		+ Enter ID of a contract that want to be cancelled (ID must match requirement)
+		+ Enter ID of a contract that want to be cancelled (ID must match requirement and cannot be null)
 		+ If entered Contract ID found, system will prompt detail of that contract and send confirm cancel message
+		+ After Cancel a contract successfully return to Contract Management menu
 	4. Activate a contract
 		User should be able to activate a contract again
-	5. UnActive a contract
+		+ Show all contract that airport has assigned and unactive (Some basic info of the contract)
+		+ Enter ID of a contract that want to be activate again (ID must match requirement and cannot be null)
+		+ If entered Contract ID found, system will prompt detail of that contract and send confirm activate message
+		+ After activate successfully return to Contract Management menu
+	5. DeActive a contract
 	    User should be able to deactivate a contract 
 		+ Show all contract that airport has assigned and active (Some basic info of the contract)
-		+ Enter ID of a contract that want to be cancelled (ID must match requirement)
+		+ Enter ID of a contract that want to be cancelled (ID must match requirement and cannot be null)
 		+ If entered Contract ID found, system will prompt detail of that contract and send confirm Deactivate message
+		+ After Deactivate successfully return to Contract Management menu
 	6. Return to main menu
-3. **Employes Management**
+4. **Employes Management**
 	1. Ground Service Management
 	2. Tower Service Management
 	3. Handling Crew Management
-4. **Logs Management**
+5. **Logs Management**
 	1. Contracts Logs
 	2. Passengers Logs
 
