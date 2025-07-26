@@ -57,7 +57,12 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	+ Total of money Airport has earned (Currency dollar)
 	+ Notification of which contract is about to expired
 2. **Airport Mangement**
-	+ 
+	User should be able to control over terminal, runway, assign gate:
+	1. Show a list of all arriving airplanes
+	2. Show a list of all airplanes on airport
+	3. Show a list of departing airplane
+	4. Show a list of requiring action
+		+ 
 3. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
