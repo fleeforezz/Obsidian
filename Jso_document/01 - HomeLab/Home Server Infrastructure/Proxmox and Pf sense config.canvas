@@ -131,6 +131,26 @@
 			"height":54
 		},
 		{
+			"file":"02 - Resources/Image Library/wifi-router.png",
+			"id":"eec800db399a0e0a",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":180,
+			"y":-540,
+			"width":100,
+			"height":100
+		},
+		{
+			"file":"02 - Resources/Image Library/network-switch.png",
+			"id":"9f10cfd1bfb034ca",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":-780,
+			"y":-60,
+			"width":126,
+			"height":126
+		},
+		{
 			"file":"02 - Resources/Image Library/ethernet.png",
 			"id":"5c2348f14bc6b456",
 			"styleAttributes":{"border":"invisible"},
@@ -149,66 +169,6 @@
 			"y":440,
 			"width":54,
 			"height":54
-		},
-		{
-			"file":"02 - Resources/Image Library/wifi-router.png",
-			"id":"eec800db399a0e0a",
-			"styleAttributes":{"border":"invisible"},
-			"type":"file",
-			"x":180,
-			"y":-540,
-			"width":100,
-			"height":100
-		},
-		{
-			"id":"eb2854b3592b37d2",
-			"styleAttributes":{},
-			"text":"Dual Intel Lan",
-			"type":"text",
-			"x":2120,
-			"y":334,
-			"width":211,
-			"height":60
-		},
-		{
-			"id":"eec4f02c50baec2e",
-			"styleAttributes":{},
-			"text":"Lan\n10.0.1.1/24\nvmbr3",
-			"type":"text",
-			"x":2140,
-			"y":504,
-			"width":191,
-			"height":100
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"id":"4d79203f8328c55e",
-			"styleAttributes":{},
-			"type":"file",
-			"x":2420,
-			"y":334,
-			"width":60,
-			"height":60
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"id":"7016fc0eaa63f8e7",
-			"styleAttributes":{},
-			"type":"file",
-			"x":2527,
-			"y":334,
-			"width":60,
-			"height":60
-		},
-		{
-			"id":"e1ece945ebcdbc78",
-			"styleAttributes":{},
-			"text":"Wan\n192.168.1.1/24\nvmbr4",
-			"type":"text",
-			"x":2533,
-			"y":514,
-			"width":213,
-			"height":100
 		},
 		{
 			"id":"179da9a4ab184e07",
@@ -241,16 +201,6 @@
 			"height":60
 		},
 		{
-			"file":"02 - Resources/Image Library/wifi-router.png",
-			"id":"c2779bcdea185a71",
-			"styleAttributes":{},
-			"type":"file",
-			"x":1733,
-			"y":-266,
-			"width":100,
-			"height":100
-		},
-		{
 			"id":"7e9863de17915d13",
 			"styleAttributes":{},
 			"text":"Broadcom Lan",
@@ -272,22 +222,62 @@
 		},
 		{
 			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"61ca077f5448a47f",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":-19,
+			"y":820,
+			"width":54,
+			"height":54
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"646693e71e5a5220",
+			"styleAttributes":{"border":"invisible"},
+			"type":"file",
+			"x":220,
+			"y":820,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"eb2854b3592b37d2",
+			"styleAttributes":{},
+			"text":"Dual Intel Lan",
+			"type":"text",
+			"x":2120,
+			"y":334,
+			"width":211,
+			"height":60
+		},
+		{
+			"id":"eec4f02c50baec2e",
+			"styleAttributes":{},
+			"text":"Lan\n10.0.1.1/24\nvmbr3",
+			"type":"text",
+			"x":2140,
+			"y":504,
+			"width":191,
+			"height":100
+		},
+		{
+			"file":"02 - Resources/Image Library/wifi-router.png",
+			"id":"c2779bcdea185a71",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1733,
+			"y":-266,
+			"width":100,
+			"height":100
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
 			"id":"08d6fdf6f95b493a",
 			"styleAttributes":{},
 			"type":"file",
 			"x":1753,
 			"y":554,
 			"width":60,
-			"height":60
-		},
-		{
-			"id":"4fc2e562d9865324",
-			"styleAttributes":{},
-			"text":"vmbr1",
-			"type":"text",
-			"x":1860,
-			"y":554,
-			"width":120,
 			"height":60
 		},
 		{
@@ -341,33 +331,43 @@
 			"height":100
 		},
 		{
-			"file":"02 - Resources/Image Library/network-switch.png",
-			"id":"9f10cfd1bfb034ca",
-			"styleAttributes":{"border":"invisible"},
-			"type":"file",
-			"x":-780,
-			"y":-60,
-			"width":126,
-			"height":126
-		},
-		{
 			"file":"02 - Resources/Image Library/ethernet.png",
-			"id":"61ca077f5448a47f",
-			"styleAttributes":{"border":"invisible"},
+			"id":"4d79203f8328c55e",
+			"styleAttributes":{},
 			"type":"file",
-			"x":-19,
-			"y":820,
-			"width":54,
-			"height":54
-		},
-		{
-			"file":"02 - Resources/Image Library/ethernet.png",
-			"id":"646693e71e5a5220",
-			"styleAttributes":{"border":"invisible"},
-			"type":"file",
-			"x":220,
-			"y":820,
+			"x":2420,
+			"y":334,
 			"width":60,
+			"height":60
+		},
+		{
+			"file":"02 - Resources/Image Library/ethernet.png",
+			"id":"7016fc0eaa63f8e7",
+			"styleAttributes":{},
+			"type":"file",
+			"x":2527,
+			"y":334,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"e1ece945ebcdbc78",
+			"styleAttributes":{},
+			"text":"Wan\n192.168.1.1/24\nvmbr4",
+			"type":"text",
+			"x":2533,
+			"y":514,
+			"width":213,
+			"height":100
+		},
+		{
+			"id":"4fc2e562d9865324",
+			"styleAttributes":{},
+			"text":"vmbr1",
+			"type":"text",
+			"x":1860,
+			"y":554,
+			"width":120,
 			"height":60
 		}
 	]

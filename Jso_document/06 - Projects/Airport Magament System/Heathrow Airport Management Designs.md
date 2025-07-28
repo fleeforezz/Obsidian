@@ -62,7 +62,11 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	2. Show a list of all airplanes on airport
 	3. Show a list of departing airplane
 	4. Show a list of requiring action
-		+ 
+	5. Assign stands for arrival planes
+	6. Assign ground service for arrival planes
+	7. Assign arrival runway for airplanes
+	8. Assign departure runway for airplanes
+	9. Assign ground service for airplanes
 3. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
