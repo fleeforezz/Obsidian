@@ -77,19 +77,37 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		If the result match and not be empty, show the list of airplanes that have the enterd state status 
 		If not match system will send an error message
 	3. Assign stands for arrival planes
-		+ Enter Flight number user want to assign 
-		+ If flight number exist list all available stands (If the current airplane is for passenger boarding list the stand with type passenger only and reverse)
+		+ Enter Flight number user want to assign stand
+		+ If flight number exist, list all available stands (If the current airplane is for passenger boarding list the stand with type passenger only and reverse)
 			+ Stand ID
 			+ Stand Type (For passenger, For cargo)
 			+ Stand classes (A B C D E F G)
 		+ Enter stand ID that available
 		+ If everthing sucess system will send a success assign stand for that flight
 		+ Or else user have to do the process again (From enter flight number to enter stand id)
-	4. Assign ground service for arrival planes
-	5. Assign arrival runway for airplanes
-	6. Assign departure runway for airplanes
-	7. Assign ground service for airplanes
-3. **Contract Management**
+	4. Assign arrival runway for airplanes
+		+ Enter Flight number user want to assign runway
+		+ If flight number exist, list all available runways 
+			+ Runway ID
+			+ Runway Name
+		+ Enter runway name for assigning runway
+		+ If everything sucess, set the landing status for that flight to ready to land, system will send a success message 
+		+ Or else user have to do the process again (From enter flight number to enter runway name)
+	5. Landing and takeoff action
+		1. Landing
+			+ Enter flight number want to approve for landing
+			+ if current flight has been assigned to stand and runway, then set the landing status landing, set timer for taxing to terminal stand (01m left to reach terminal stand). After taxing timer runs out then system will send a success landing and taxing to terminal stand
+			+ Or else flight cannot able to land on the airport, system will send a notification says flight with number VN12324 cannot be landing since flight currently not assigned to stand or runway
+		2. TakeOff
+			+ Enter flight number want to approve for takeoff
+			+ 
+	6. Assign ground service for arrival planes
+		+ Enter Flight number user want to assign ground service
+		+ Check if enter flight has been landed or not
+		+ If landing status is false then the flight hasn't landed yet so cannot assign ground service
+	7. Assign departure runway for airplanes
+	8. Assign ground service for airplanes
+4. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
 			+ Active Contracts
@@ -192,11 +210,11 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ If entered Contract ID found, system will prompt detail of that contract and send confirm Deactivate message
 		+ After Deactivate successfully return to Contract Management menu
 	6. Return to main menu
-4. **Employees Management**
+5. **Employees Management**
 	1. Ground Service Management
 	2. Tower Service Management
 	3. Handling Crew Management
-5. **Logs Management**
+6. **Logs Management**
 	1. Contracts Logs
 	2. Passengers Logs
 
