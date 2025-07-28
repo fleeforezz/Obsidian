@@ -58,15 +58,37 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	+ Notification of which contract is about to expired
 2. **Airport Mangement**
 	User should be able to control over terminal, runway, assign gate:
-	1. Show a list of all arriving airplanes
-	2. Show a list of all airplanes on airport
-	3. Show a list of departing airplane
-	4. Show a list of requiring action
-	5. Assign stands for arrival planes
-	6. Assign ground service for arrival planes
-	7. Assign arrival runway for airplanes
-	8. Assign departure runway for airplanes
-	9. Assign ground service for airplanes
+	1. Show a list of all current planes have assigned contract
+		+ Flight number (VS3642)
+		+ Airplane type (B747)
+		+ Airplane Name (Virgin Atlantic)
+		+ State
+		+ Stand
+		+ Actual Revenue
+		+ Handling Limit
+		+ Contract ID
+		+ Contract expiration date
+	2. Sort airplane by state
+		Show list of state user can enter
+		+ Arrival
+		+ On Stand
+		+ Departure
+		Enter state that user want to sort (State must be match the given state)
+		If the result match and not be empty, show the list of airplanes that have the enterd state status 
+		If not match system will send an error message
+	3. Assign stands for arrival planes
+		+ Enter Flight number user want to assign 
+		+ If flight number exist list all available stands (If the current airplane is for passenger boarding list the stand with type passenger only and reverse)
+			+ Stand ID
+			+ Stand Type (For passenger, For cargo)
+			+ Stand classes (A B C D E F G)
+		+ Enter stand ID that available
+		+ If everthing sucess system will send a success assign stand for that flight
+		+ Or else user have to do the process again (From enter flight number to enter stand id)
+	4. Assign ground service for arrival planes
+	5. Assign arrival runway for airplanes
+	6. Assign departure runway for airplanes
+	7. Assign ground service for airplanes
 3. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
@@ -170,7 +192,7 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ If entered Contract ID found, system will prompt detail of that contract and send confirm Deactivate message
 		+ After Deactivate successfully return to Contract Management menu
 	6. Return to main menu
-4. **Employes Management**
+4. **Employees Management**
 	1. Ground Service Management
 	2. Tower Service Management
 	3. Handling Crew Management
