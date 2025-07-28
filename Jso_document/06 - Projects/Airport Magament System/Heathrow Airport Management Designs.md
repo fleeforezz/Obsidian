@@ -100,7 +100,8 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Or else flight cannot able to land on the airport, system will send a notification says flight with number VN12324 cannot be landing since flight currently not assigned to stand or runway
 		2. TakeOff
 			+ Enter flight number want to approve for takeoff
-			+ 
+			+ Check if are there any airplanes are taking off, if not takeoff will be approved for that flight and set takeoff timer (01m left to fully takeoff). System will send a success messgae 
+			+ Or else takeoff not approve, system will send an error message
 	6. Assign ground service for arrival planes
 		+ Enter Flight number user want to assign ground service
 		+ Check if enter flight has been landed or not
