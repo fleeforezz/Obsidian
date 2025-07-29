@@ -100,12 +100,21 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Or else flight cannot able to land on the airport, system will send a notification says flight with number VN12324 cannot be landing since flight currently not assigned to stand or runway
 		2. TakeOff
 			+ Enter flight number want to approve for takeoff
-			+ Check if are there any airplanes are taking off, if not takeoff will be approved for that flight and set takeoff timer (01m left to fully takeoff). System will send a success messgae 
+			+ Check if are there any airplanes are taking off and check if current flight number finished handling ground service, if there are no airplane are taking off and current flight has finished ground handle so takeoff will be approved for that flight and set takeoff timer (01m left to fully takeoff). System will send a success message
 			+ Or else takeoff not approve, system will send an error message
 	6. Assign ground service for arrival planes
 		+ Enter Flight number user want to assign ground service
 		+ Check if enter flight has been landed or not
 		+ If landing status is false then the flight hasn't landed yet so cannot assign ground service
+		+ Or else assign ground service for airplane then, set timer for ground handing (1h52m left to finish handing ground service). Each airplane require some of these services:
+			+ Boarding
+			+ Baggage
+			+ Cleaning
+			+ Cargo
+			+ Catering
+			+ Fuel
+			+ Lavatory
+			+ Water
 3. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
