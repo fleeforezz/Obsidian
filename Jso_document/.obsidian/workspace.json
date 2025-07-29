@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Heathrow Airport Management Designs"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8e6d3b2e919ab297",
+        "type": "tabs",
+        "children": [
           {
             "id": "4ddcc61938e0f66b",
             "type": "leaf",
@@ -139,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+                "file": "06 - Projects/Airport Magament System/Feature graph.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Heathrow Airport Management Designs"
+              "title": "Outline of Feature graph"
             }
           },
           {
@@ -236,10 +242,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "379e212ee2d19200",
+  "active": "4ddcc61938e0f66b",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "06 - Projects/Airport Magament System/Feature graph.md",
     "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
     "06 - Projects/Airport Magament System/Drawing 2025-07-29 11.41.41.excalidraw.md",
     "06 - Projects/Airport Magament System/System.md",
