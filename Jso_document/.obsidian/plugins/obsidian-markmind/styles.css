@@ -1553,10 +1553,26 @@ th {
 }
 
 .mm-node-left.mm-fish-node>.mm-node-bar {
-    bottom: -6px !important;
-    left: -12px !important;
-    top: auto;
+    left: -20px;
+    top: 50%;
+    margin-top: -5px;
 }
+
+.mm-node.mm-node-left.mm-fish-top>.mm-node-bar {
+    display: block;
+    left: 50%;
+    margin-left: -2px;
+    top: 100%;
+    margin-top: 4px;
+}
+
+.mm-node.mm-node-left.mm-fish-bottom>.mm-node-bar {
+    display: block;
+    left: 50%;
+    margin-left: 0px;
+    top: -15px;
+}
+
 
 
 

@@ -106,9 +106,7 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ Enter Flight number user want to assign ground service
 		+ Check if enter flight has been landed or not
 		+ If landing status is false then the flight hasn't landed yet so cannot assign ground service
-	7. Assign departure runway for airplanes
-	8. Assign ground service for airplanes
-4. **Contract Management**
+3. **Contract Management**
 	1. Show contracts information:
 		+ Show contact capacity that airport can handle
 			+ Active Contracts
@@ -211,11 +209,11 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ If entered Contract ID found, system will prompt detail of that contract and send confirm Deactivate message
 		+ After Deactivate successfully return to Contract Management menu
 	6. Return to main menu
-5. **Employees Management**
+4. **Employees Management**
 	1. Ground Service Management
 	2. Tower Service Management
 	3. Handling Crew Management
-6. **Logs Management**
+5. **Logs Management**
 	1. Contracts Logs
 	2. Passengers Logs
 
