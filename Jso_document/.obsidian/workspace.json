@@ -6,6 +6,7 @@
       {
         "id": "9851b67463da5cb9",
         "type": "tabs",
+        "dimension": 62.85930408472012,
         "children": [
           {
             "id": "379e212ee2d19200",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -26,6 +27,7 @@
       {
         "id": "8e6d3b2e919ab297",
         "type": "tabs",
+        "dimension": 37.14069591527988,
         "children": [
           {
             "id": "4ddcc61938e0f66b",
@@ -114,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -145,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+                "file": "06 - Projects/Airport Magament System/Feature graph.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Heathrow Airport Management Designs"
+              "title": "Outline of Feature graph"
             }
           },
           {
@@ -242,10 +245,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "379e212ee2d19200",
+  "active": "4ddcc61938e0f66b",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "06 - Projects/Airport Magament System/Feature graph.md",
     "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
     "06 - Projects/Airport Magament System/Drawing 2025-07-29 11.41.41.excalidraw.md",
     "06 - Projects/Airport Magament System/System.md",
