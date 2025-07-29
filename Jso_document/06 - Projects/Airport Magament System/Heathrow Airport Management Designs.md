@@ -220,6 +220,18 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	6. Return to main menu
 4. **Employees Management**
 	1. Ground Service Management
+		1. List all ground services
+			Each ground service have maximum 90 available slot capacity
+			+ Each ground service contain:
+				+ Service ID
+				+ Service Name
+				+ Available
+				+ Working 
+				+ Purchased
+				+ Price
+		2. Hire more ground service
+			+ Enter Service ID
+		3. Fire ground service
 	2. Tower Service Management
 	3. Handling Crew Management
 5. **Logs Management**
