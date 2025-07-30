@@ -96,17 +96,17 @@ We will focus on the following set of requirements while designing Heathrow Airp
 	5. Landing and takeoff action
 		1. Landing
 			+ Enter flight number want to approve for landing
-			+ if current flight has been assigned to stand and runway, then set the landing status landing, set timer for taxing to terminal stand (01m left to reach terminal stand). After taxing timer runs out then system will send a success landing and taxing to terminal stand
+			+ if current flight has been assigned to stand and runway, then set the landing status landing, set timer for taxing to terminal stand (01m left to reach terminal stand). After taxing timer runs out then system will send a success landing and taxing to terminal stand, then set landing status to landed and taxied
 			+ Or else flight cannot able to land on the airport, system will send a notification says flight with number VN12324 cannot be landing since flight currently not assigned to stand or runway
 		2. TakeOff
 			+ Enter flight number want to approve for takeoff
-			+ Check if are there any airplanes are taking off and check if current flight number finished handling ground service, if there are no airplane are taking off and current flight has finished ground handle so takeoff will be approved for that flight and set takeoff timer (01m left to fully takeoff). System will send a success message
+			+ Check if are there any airplanes are taking off and check if current flight number finished handling ground service, if there are no airplane are taking off and current flight has finished ground handle so takeoff will be approved for that flight and set takeoff timer (01m left to fully takeoff). After take off success set take off status for that flight to took off. System will send a success message
 			+ Or else takeoff not approve, system will send an error message
 	6. Assign ground service for arrival planes
 		+ Enter Flight number user want to assign ground service
 		+ Check if enter flight has been landed or not
 		+ If landing status is false then the flight hasn't landed yet so cannot assign ground service
-		+ Or else assign ground service for airplane then, set timer for ground handing (1h52m left to finish handing ground service). Each airplane require some of these services:
+		+ Or else assign ground service for airplane then, set timer for ground handing (1h52m left to finish handing ground service). After finish ground hadling, set ground handling status to finished. Each airplane require some of these services:
 			+ Boarding
 			+ Baggage
 			+ Cleaning
