@@ -30,6 +30,7 @@ mindmap-plugin: basic
     - Landing
     - TakeOff
 - Assign ground service for arrival planes
+- Return to main menu
 
 ## Contract Management
 - Show contracts info
@@ -44,12 +45,24 @@ mindmap-plugin: basic
 - DeActivate a contract
 - Return to main menu
 
-## Employees Management
+## Serices Management
 - Ground service management
+    - List all ground services
+    - Take on more ground service
+    - Cancel ground service
 - Tower Service Management
+    - Approach
+    - Departure
+    - Delivery
+    - Ground
 - Handling Crew Management
+    - Take on more crew
+    - Cancel crew
+- Return to main menu
 
 ## Logs Management
 - Contracts Logs
 - Passengers Logs
 - Airplane Logs
+- Activity Logs
+- Return to main menu

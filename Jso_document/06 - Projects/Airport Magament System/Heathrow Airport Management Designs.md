@@ -128,7 +128,7 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Airplane Name (Virgin Atlantic)
 			+ Contract Type (Internation, Regional, Local)
 			+ Contract expiration date (date time format 1d 20h)
-			+ Contract fees (currentcy format # ### ###)
+			+ Contract fees (currency format # ### ###)
 		+ Show all contract that airport has assigned and active
 			User should be able to see a list of assigned and active contracts
 			+ Contract ID
@@ -218,7 +218,7 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ If entered Contract ID found, system will prompt detail of that contract and send confirm Deactivate message
 		+ After Deactivate successfully return to Contract Management menu
 	6. Return to main menu
-4. **Employees Management**
+4. **Services Management**
 	1. Ground Service Management
 		1. List all ground services
 			Each ground service have maximum 90 available slot capacity
@@ -228,15 +228,21 @@ We will focus on the following set of requirements while designing Heathrow Airp
 				+ Available
 				+ Working 
 				+ Purchased
-				+ Price
-		2. Hire more ground service
-			+ Enter Service ID
-		3. Fire ground service
+				+ Price to get
+		2. Take on more worker for ground service
+			+ Enter Service ID user want to take on
+			+ Enter number of worker (price will increase with the number of worker)
+			+ Check if total price lower than total airport revenue if that's true then user able to purchase it 
+			+ Or else cannot purchase since current airport revenue not meet the standard
+			+ System will show confirm message 
+		3. Cancel ground service
 	2. Tower Service Management
 	3. Handling Crew Management
 5. **Logs Management**
 	1. Contracts Logs
 	2. Passengers Logs
+	3. Airplane Logs
+	4. Activity Logs
 
 ### Use Case Diagram
 
