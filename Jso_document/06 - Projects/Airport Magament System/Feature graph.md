@@ -48,8 +48,8 @@ mindmap-plugin: basic
 ## Serices Management
 - Ground service management
     - List all ground services
-    - Take on more ground service
-    - Cancel ground service
+    - Take on more ground service worker
+    - Cancel ground service worker
 - Tower Service Management
     - Approach
     - Departure

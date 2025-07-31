@@ -6,10 +6,10 @@
       {
         "id": "9851b67463da5cb9",
         "type": "tabs",
-        "dimension": 59.78441127694859,
+        "dimension": 62.85930408472012,
         "children": [
           {
-            "id": "99a4644f61c2a6ef",
+            "id": "379e212ee2d19200",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "24e2704ac1610d1b",
+        "id": "8e6d3b2e919ab297",
         "type": "tabs",
-        "dimension": 40.21558872305141,
+        "dimension": 37.14069591527988,
         "children": [
           {
-            "id": "6c1874aeb740b0e2",
+            "id": "4ddcc61938e0f66b",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Airport Magament System/Feature graph.md",
+                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Feature graph"
+              "title": "Outline of Heathrow Airport Management Designs"
             }
           },
           {
@@ -240,22 +240,24 @@
       "callout-manager:Insert Callout": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "pomodoro-timer:Toggle timer panel": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6c1874aeb740b0e2",
+  "active": "379e212ee2d19200",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
     "06 - Projects/Airport Magament System/Feature graph.md",
+    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "03 - Study/DevOps Engineer/DevOps Learning Tree.md",
+    "06 - Projects/Airport Magament System/Drawing 2025-07-29 11.41.41.excalidraw.md",
+    "06 - Projects/Airport Magament System/System.md",
+    "06 - Projects/Airport Magament System/All Feature.md",
     "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "06 - Projects/Airport Magament System/Detail Fixes.md",
-    "06 - Projects/Airport Magament System/All Feature.md",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
     "06 - Projects/Airport Magament System/attachments",
     "06 - Projects/Melville/Feature Graph.md",
@@ -282,9 +284,6 @@
     "01 - HomeLab/Home Server Infrastructure/Proxmox.md",
     "01 - HomeLab/Home Server Infrastructure/Drawing 2025-07-01 10.13.08.excalidraw.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Cron Job.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
-    "04 - Tasks Board/FPTU/LAB211/Lab_2/All Features.md",
     "04 - Tasks Board/FPTU/LAB211",
     "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625160628.png",
     "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625155554.png",

@@ -229,14 +229,17 @@ We will focus on the following set of requirements while designing Heathrow Airp
 				+ Working 
 				+ Purchased
 				+ Price to get
-		2. Take on more worker for ground service
+		2. Take on more ground service worker
 			+ Enter Service ID user want to take on
 			+ Enter number of worker (price will increase with the number of worker)
 			+ Check if total price lower than total airport revenue if that's true then user able to purchase it 
 			+ Or else cannot purchase since current airport revenue not meet the standard
 			+ System will show confirm message 
-		3. Cancel ground service
+		3. Cancel ground service worker
+			+ Enter service ID user want to cancel (Entered ID must match the requirement)
+			+ Check if service ID exist, if true user have to enter number of ground service worker want to be cancel, if not exist system will send a notification say service not found in system
 	2. Tower Service Management
+		Tower can control
 	3. Handling Crew Management
 5. **Logs Management**
 	1. Contracts Logs
