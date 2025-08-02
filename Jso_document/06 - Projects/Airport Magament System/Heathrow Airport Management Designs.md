@@ -239,7 +239,12 @@ We will focus on the following set of requirements while designing Heathrow Airp
 			+ Enter service ID user want to cancel (Entered ID must match the requirement)
 			+ Check if service ID exist, if true user have to enter number of ground service worker want to be cancel, if not exist system will send a notification say service not found in system
 	2. Tower Service Management
-		Tower can control
+		Tower can control how planes landing, takeoff, assign stands, ground handing
+		1. Approach
+			+ 
+		2. Departure
+		3. Delivery
+		4. Ground
 	3. Handling Crew Management
 5. **Logs Management**
 	1. Contracts Logs
