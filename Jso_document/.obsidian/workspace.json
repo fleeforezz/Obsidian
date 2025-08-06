@@ -20,6 +20,44 @@
               "icon": "lucide-file",
               "title": "MOC Test"
             }
+          },
+          {
+            "id": "06491a6fbc6256ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxmox Infrastructure - Advanced Multi-Environment Structure"
+            }
+          },
+          {
+            "id": "8769f424474533e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Config Proxmox"
+            }
+          },
+          {
+            "id": "1ada955e83b6af1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -226,6 +264,10 @@
   },
   "active": "0fb85dff71695d27",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
+    "01 - HomeLab/Categories/OS & System control/Proxmox/Proxmox.md",
+    "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
+    "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/SWE/Agile.md",
     "03 - Study/FPTU/SWE",
     "06 - Projects/Airport Magament System/Feature graph.md",
@@ -245,7 +287,6 @@
     "06 - Projects/Airport Magament System",
     "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "04 - Tasks Board/Learning board.md",
     "04 - Tasks Board/Home Server board.md",
@@ -262,9 +303,6 @@
     "02 - Resources/Image Library/network-switch.png",
     "01 - HomeLab/Home Server Infrastructure/Proxmox.md",
     "01 - HomeLab/Home Server Infrastructure/Drawing 2025-07-01 10.13.08.excalidraw.md",
-    "04 - Tasks Board/FPTU/LAB211/Lab_2/Note.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Cron Job.md",
-    "01 - HomeLab/Categories/Automation/Terraform/Terraform.md",
     "04 - Tasks Board/FPTU/LAB211",
     "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625160628.png",
     "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625155554.png",
