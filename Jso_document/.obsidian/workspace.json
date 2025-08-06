@@ -53,13 +53,28 @@
             "id": "1ada955e83b6af1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "NetWork Flow"
+            }
+          },
+          {
+            "id": "2e9eaa039b011863",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Network Nic Detail"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,21 +277,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0fb85dff71695d27",
+  "active": "2e9eaa039b011863",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
+    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
+    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/attachments/Pasted Image 20250806222450_526.png",
+    "01 - HomeLab/Home Server Infrastructure/Networking/attachments/Pasted Image 20250806222350_027.png",
+    "01 - HomeLab/Home Server Infrastructure/Networking/attachments",
+    "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
+    "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
+    "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
-    "01 - HomeLab/Categories/OS & System control/Proxmox/Proxmox.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "03 - Study/FPTU/MOC Test.md",
+    "01 - HomeLab/Categories/OS & System control/Proxmox/Proxmox.md",
     "03 - Study/FPTU/SWE/Agile.md",
     "03 - Study/FPTU/SWE",
     "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-    "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
-    "01 - HomeLab/Home Server Infrastructure/NetWork Flow.md",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
-    "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
-    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "06 - Projects/Airport Magament System/Detail Fixes.md",
     "06 - Projects/Airport Magament System/All Feature.md",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
@@ -293,7 +315,6 @@
     "06 - Projects/Melville/Melville Design.md",
     "99 - Meta/System Tweaks/Pretty Terminal/Oh My Posh.md",
     "99 - Meta/System Tweaks/Pretty Terminal/ZSH.md",
-    "01 - HomeLab/Home Server Infrastructure/CheckList.md",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/watch.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/smart.png",
@@ -301,17 +322,10 @@
     "01 - HomeLab/Home Server Infrastructure/attachments/laptop.png",
     "01 - HomeLab/Home Server Infrastructure/attachments",
     "02 - Resources/Image Library/network-switch.png",
-    "01 - HomeLab/Home Server Infrastructure/Proxmox.md",
-    "01 - HomeLab/Home Server Infrastructure/Drawing 2025-07-01 10.13.08.excalidraw.md",
     "04 - Tasks Board/FPTU/LAB211",
-    "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625160628.png",
-    "03 - Study/DevOps Engineer/Monitoring/attachments/Pasted image 20250625155554.png",
     "03 - Study/DevOps Engineer/Monitoring/attachments",
-    "03 - Study/ASP.NET Core/Images/Pasted image 20250530214815.png",
     "03 - Study/DevOps Engineer/Monitoring",
     "04 - Tasks Board/FPTU/LAB211/Lab_1",
-    "04 - Tasks Board/FPTU/LAB211/Lab_2",
-    "04 - Tasks Board/FPTU",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
   ]
 }
