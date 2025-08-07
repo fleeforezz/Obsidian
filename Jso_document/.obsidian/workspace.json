@@ -53,12 +53,20 @@
             "id": "1ada955e83b6af1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md"
+                "file": "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "NetWork Flow"
+              "icon": "lucide-trello",
+              "title": "New Ips Table"
             }
           },
           {
@@ -308,12 +316,13 @@
   "active": "1ada955e83b6af1d",
   "lastOpenFiles": [
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
+    "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
+    "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
     "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
-    "01 - HomeLab/Home Server Infrastructure/New Ips Table.md",
+    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Storage",
-    "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Networking/attachments/Pasted Image 20250806222450_526.png",
@@ -322,7 +331,6 @@
     "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
     "01 - HomeLab/Home Server Infrastructure/Networking",
-    "01 - HomeLab/Home Server Infrastructure/Ips Table.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "03 - Study/FPTU/MOC Test.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Proxmox.md",
