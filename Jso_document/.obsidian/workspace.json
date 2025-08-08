@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -299,14 +299,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1ada955e83b6af1d",
+  "active": "4536ebd5eec011aa",
   "lastOpenFiles": [
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Storage",
