@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
+                "file": "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxmox Infrastructure - Advanced Multi-Environment Structure"
+              "title": "Portainer"
             }
           },
           {
@@ -50,7 +50,19 @@
             }
           },
           {
-            "id": "683bc641c75ccb83",
+            "id": "2e9eaa039b011863",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Network Nic Detail"
+            }
+          },
+          {
+            "id": "17b0d4309455daea",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -71,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -274,12 +286,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1ada955e83b6af1d",
+  "active": "17b0d4309455daea",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
-    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
+    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+    "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
+    "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
     "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
@@ -289,8 +302,8 @@
     "01 - HomeLab/Home Server Infrastructure/attachments/smart.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/watch.png",
     "01 - HomeLab/Categories/Containerize/Docker/Docker syntax.md",
-    "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
+    "01 - HomeLab/Home Server Infrastructure/Test infra design.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Storage",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
@@ -319,7 +332,6 @@
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "04 - Tasks Board/Learning board.md",
     "04 - Tasks Board/Home Server board.md",
-    "06 - Projects/Melville/Melville Design.md",
     "01 - HomeLab/Home Server Infrastructure/attachments",
     "02 - Resources/Image Library/network-switch.png",
     "04 - Tasks Board/FPTU/LAB211",
