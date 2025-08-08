@@ -32,16 +32,28 @@ kanban-plugin: board
 	10.0.1.53
 
 
-## Prod Environment<br><mark style="background: #ABF7F7A6;">10.0.3.0/24</mark>
+## Prod Environment (Current)<br><mark style="background: #FF5582A6;">10.0.1.0/24</mark>
+
+- [ ] Block Storage Server
+	10.0.1.89
+- [ ] Database Server
+	10.0.1.55
+- [ ] K8s Master 1 Server
+	10.0.1.80
+- [ ] K8s Worker 1 Server
+	10.0.1.86
+
+
+## Prod Environment (Future update)<br><mark style="background: #ABF7F7A6;">10.0.3.0/24</mark>
 
 - [x] Reverse Proxy Server
 	10.0.3.45
-- [x] Monitoring Server
-	10.0.3.67
 - [x] Block Storage Server
 	10.0.3.89
 - [x] Database Server
 	10.0.3.55
+- [x] Monitoring Server
+	10.0.3.67
 - [x] K8s Master 1 Server
 	10.0.3.80
 - [x] K8s Worker 1 Server
@@ -52,6 +64,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"full-list-lane-width":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"full-list-lane-width":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
 ```
 %%
