@@ -34,10 +34,10 @@ kanban-plugin: board
 
 ## Prod Environment (Current)<br><mark style="background: #FF5582A6;">10.0.1.0/24</mark>
 
-- [ ] Block Storage Server
-	10.0.1.89
 - [ ] Database Server
 	10.0.1.55
+- [ ] Block Storage Server
+	10.0.1.89
 - [ ] K8s Master 1 Server
 	10.0.1.80
 - [ ] K8s Worker 1 Server
