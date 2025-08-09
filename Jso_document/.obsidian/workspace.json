@@ -65,21 +65,14 @@
             "id": "17b0d4309455daea",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Ips Table"
+              "icon": "lucide-file",
+              "title": "Storage"
             }
           }
         ],
@@ -288,14 +281,14 @@
   },
   "active": "17b0d4309455daea",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
     "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
-    "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/iphone.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/laptop.png",
