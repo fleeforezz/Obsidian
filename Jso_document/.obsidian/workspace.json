@@ -25,14 +25,21 @@
             "id": "06491a6fbc6256ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
-                "mode": "preview",
-                "source": false
+                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Portainer"
+              "icon": "lucide-trello",
+              "title": "Ips Table"
             }
           },
           {
@@ -50,33 +57,21 @@
             }
           },
           {
-            "id": "2e9eaa039b011863",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Network Nic Detail"
-            }
-          },
-          {
-            "id": "17b0d4309455daea",
+            "id": "ed74f3b68524eb02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+                "file": "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage"
+              "title": "Docker"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,14 +274,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "17b0d4309455daea",
+  "active": "06491a6fbc6256ac",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
-    "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
+    "01 - HomeLab/Categories/Automation/Ansible/Ansible.md",
+    "01 - HomeLab/Categories/Automation/Ansible/Ansible Document and Syntax.md",
+    "01 - HomeLab/Categories/Automation/Ansible/Ansible Playbooks.md",
+    "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
+    "01 - HomeLab/Home Server Infrastructure/Storage/Storage server drive layout.md",
     "01 - HomeLab/Categories/Automation/Terraform/Proxmox Infrastructure - Advanced Multi-Environment Structure.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
@@ -322,9 +320,6 @@
     "06 - Projects/Airport Magament System",
     "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
     "03 - Study/DevOps Engineer/Monitoring/DataDog.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
-    "04 - Tasks Board/Learning board.md",
-    "04 - Tasks Board/Home Server board.md",
     "01 - HomeLab/Home Server Infrastructure/attachments",
     "02 - Resources/Image Library/network-switch.png",
     "04 - Tasks Board/FPTU/LAB211",

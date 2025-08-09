@@ -19,6 +19,8 @@
 	+ 15Gb
 + Reverse Proxy Server
 	+ 15Gb
++ DNS Server
+	+ 15Gb
 + Monitoring Server
 	+ 35Gb
 + Security Server
@@ -26,7 +28,7 @@
 + Game Server
 	+ 50Gb
 
-=> 194Gb
+=> 209Gb
 ### Production Environment
 
 + Database Server

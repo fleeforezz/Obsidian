@@ -14,6 +14,8 @@ kanban-plugin: board
 	192.168.1.78
 - [x] Reverse Proxy Server
 	10.0.1.90
+- [x] PiHole
+	10.0.1.91
 - [x] Monitoring Server
 	10.0.1.60
 - [x] Security Server
@@ -39,7 +41,7 @@ kanban-plugin: board
 - [ ] Block Storage Server
 	10.0.1.89
 - [ ] K8s Master 1 Server
-	10.0.1.80
+	10.0.1.81
 - [ ] K8s Worker 1 Server
 	10.0.1.86
 
