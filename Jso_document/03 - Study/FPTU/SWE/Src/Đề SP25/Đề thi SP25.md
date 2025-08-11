@@ -35,4 +35,4 @@ FU leadership expects the first version of the system to be put into use within 
 5. The manager requires you to apply some quality metrics to measure code & design quality, please list and describe at least 5 quality metrics discussed in the courses that you can apply in your project to measure cohesion, coupling and other quality issues. (1.0 point)  
       
     
-6. Create a story map for "Checkin and Checkout" activities in the above description of the project.**
+6. Create a story map for "Checkin and Checkout" activities in the above description of the project.
