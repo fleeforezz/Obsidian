@@ -50,7 +50,19 @@ letsencrypt['auto_renew'] = true
 ```
 ---> When using nano to edit files, press `CTRL + W` to find what you want faster
 
-> Reconfigure gitlab to make changes
+Change path where repositories store
+```ruby
+gitaly['configuration'] = {
+  storage: [
+    {
+      name: 'default',
+      path: '/mnt/nas/git-data/repositories',
+    },
+  ],
+}
+```
+
+>Reconfigure gitlab to make changes
 
 ```shell
 sudo gitlab-ctl reconfigure

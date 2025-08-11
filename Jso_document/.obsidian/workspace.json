@@ -91,14 +91,15 @@
               "type": "markdown",
               "state": {
                 "file": "01 - HomeLab/Categories/Development/Gitlab/GitLab.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "GitLab"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -301,15 +302,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0fb85dff71695d27",
+  "active": "7f6ca1816bbfd8cf",
   "lastOpenFiles": [
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 1.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 5.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 4.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 3.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 2.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 1.md",
-    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "01 - HomeLab/Categories/Development/Gitlab/GitLab.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 5.md",
@@ -317,7 +319,6 @@
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 4.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 3.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 2.md",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 1.md",
     "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/Exam Login.md",
     "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
