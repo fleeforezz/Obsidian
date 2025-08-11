@@ -1,17 +1,16 @@
 {
-  "accentColor": "#cbc7b9",
+  "accentColor": "#e92f45",
   "translucency": false,
   "showViewHeader": true,
   "nativeMenus": true,
-  "theme": "system",
-  "cssTheme": "",
+  "theme": "moonstone",
+  "cssTheme": "Ultra Lobster",
   "interfaceFontFamily": "Inter",
   "enabledCssSnippets": [
     "main",
     "vault-logo",
     "dim-support-files",
-    "banner",
-    "Colored Sidebar Items"
+    "banner"
   ],
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
