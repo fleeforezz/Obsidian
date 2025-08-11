@@ -6,12 +6,7 @@
   "theme": "moonstone",
   "cssTheme": "Ultra Lobster",
   "interfaceFontFamily": "Inter",
-  "enabledCssSnippets": [
-    "main",
-    "vault-logo",
-    "dim-support-files",
-    "banner"
-  ],
+  "enabledCssSnippets": [],
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
   "showRibbon": true,
