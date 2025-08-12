@@ -4,6 +4,14 @@ kanban-plugin: board
 
 ---
 
+## Self Services Environment
+
+- [x] Game Server
+	192.168.1.100
+- [x] Media Server
+	10.0.1.66
+
+
 ## Dev Services Environment<br><mark style="background: #FF5582A6;">10.0.1.0/24</mark>
 
 - [x] Version Control Server
@@ -20,8 +28,8 @@ kanban-plugin: board
 	10.0.1.60
 - [x] Security Server
 	10.0.1.70
-- [x] Game Server
-	192.168.1.100
+- [ ] CI/CD Server
+	10.0.1.63
 
 
 ## Dev Environment<br><mark style="background: #FF5582A6;">10.0.1.0/24</mark>
@@ -66,6 +74,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"full-list-lane-width":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"full-list-lane-width":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}]}
 ```
 %%
