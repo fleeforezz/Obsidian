@@ -22,84 +22,21 @@
             }
           },
           {
-            "id": "06491a6fbc6256ac",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Ips Table"
-            }
-          },
-          {
-            "id": "f2c0ef91d7c38804",
+            "id": "22cb62b4bc7bdc2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nginx Proxy Manager"
-            }
-          },
-          {
-            "id": "aec7bc7fde336d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cockpit"
-            }
-          },
-          {
-            "id": "75dff4616b009aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Third party repository"
-            }
-          },
-          {
-            "id": "7f6ca1816bbfd8cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/Development/Gitlab/GitLab.md",
+                "file": "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitLab"
+              "title": "Bài 1"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,18 +239,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7f6ca1816bbfd8cf",
+  "active": "22cb62b4bc7bdc2f",
   "lastOpenFiles": [
     "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
-    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 1.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "01 - HomeLab/Categories/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
+    "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
+    "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
+    "01 - HomeLab/Categories/Development/Gitlab/GitLab.md",
+    "01 - HomeLab/Categories/OS & System control/Linux Command/Cron Job.md",
+    "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 5.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 4.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 3.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 2.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 1.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
-    "01 - HomeLab/Categories/Development/Gitlab/GitLab.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 5.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 4.md",
@@ -321,10 +264,6 @@
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 2.md",
     "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/Exam Login.md",
-    "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
-    "01 - HomeLab/Categories/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
     "03 - Study/FPTU/SWE/Src",
     "01 - HomeLab/Categories/OS & System control/Cockpit/Create a Samba Share.md",
@@ -332,8 +271,6 @@
     "01 - HomeLab/Categories/Dashboard/Home Page/Home Page.md",
     "01 - HomeLab/Categories/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
-    "01 - HomeLab/Categories/Automation/Ansible/Ansible.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/iphone.png",
