@@ -6,46 +6,33 @@ Main practices and principles of XP:
 
 - Short release cycles: XP uses short and quick development cycles, good because the first version must be ready in 3 months.  
       
-    
 - Simple design: Only design what is needed now, fits because the system is new and may change a lot.  
       
-    
 - Continuous testing: Always test the code, matches the manager's requirement to test from unit to system level.  
       
-    
 - Customer collaboration: Customer feedback is important, good because users like sales staff and finance staff will use the system.  
       
-    
 - Pair programming: Two developers work together, helps improve code quality because the system needs high reliability.  
       
-    
 - Collective ownership: Everyone can improve any part of the code, helpful when many departments join.  
       
-    
 - Sustainable pace: Developers work at a steady speed, important because project must finish in 6 months with high quality.  
       
-    
 - Refactoring: Improve the code when needed, good because the system must handle large datasets and be efficient.  
       
-    
 
 Project characteristics match XP:
 
 - Tight timeline (3 months, 6 months total)  
       
-    
 - Need flexible changes  
       
-    
 - High quality and security needed  
       
-    
 - Many users and departments involved  
       
-    
 - Team has skilled developers  
       
-    
 
   
 
@@ -54,7 +41,6 @@ Project characteristics match XP:
 - Unit Testing:  
     Test small parts of the code (such as functions or classes) to make sure the program structure is correct.  
       
-    
 - System Testing (including Integration Testing):  
     Test the full system after all parts are connected together, based on the functional requirements, to make sure the system works correctly as expected.
     
