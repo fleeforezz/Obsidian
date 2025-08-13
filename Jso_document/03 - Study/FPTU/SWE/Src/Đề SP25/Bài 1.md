@@ -82,15 +82,15 @@ Lean is a good fit because it supports adaptive, continuous improvement and freq
 
 ### Question 4:
 
-1. As a lecturer, I want to <mark style="background: #D2B3FFA6;">view my exam schedule</mark> so that I can prepare and attend on time.  
+1. As a lecturer, I want to <mark style="background: #ABF7F7A6;">view my exam schedule</mark> so that I can prepare and attend on time.  
       
-2. As a student, I want to <mark style="background: #D2B3FFA6;">check out after my exam</mark> so that my attendance is recorded.  
+2. As a student, I want to <mark style="background: #ABF7F7A6;">check out after my exam</mark> so that my attendance is recorded.  
       
-3. As an exam staff, I want to <mark style="background: #D2B3FFA6;">import the student list</mark> for each room so that I can manage the exam sessions easily.  
+3. As an exam staff, I want to <mark style="background: #ABF7F7A6;">import the student list</mark> for each room so that I can manage the exam sessions easily.  
       
-4. As a student, I want to <mark style="background: #D2B3FFA6;">request a MAC address change</mark> so that I can connect my laptop during exams.  
+4. As a student, I want to <mark style="background: #ABF7F7A6;">request a MAC address change</mark> so that I can connect my laptop during exams.  
       
-5. As a lecturer, I want to <mark style="background: #D2B3FFA6;">submit a WiFi reset request</mark> so that I can solve connection problems quickly.  
+5. As a lecturer, I want to <mark style="background: #ABF7F7A6;">submit a WiFi reset request</mark> so that I can solve connection problems quickly.  
       
 
   
