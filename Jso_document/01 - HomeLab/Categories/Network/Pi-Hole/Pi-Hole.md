@@ -7,6 +7,6 @@ sudo bash basic-install.sh
 ## Change password
 
 ```shell
-sudo pihole -a -p [password]
+sudo pihole setpassword [password]
 ```
 

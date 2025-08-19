@@ -1,5 +1,11 @@
 ### Question 1
 
-I agree with using Lean Software Development for this EMS project. This model is suitable since the project has short timeline, changing requirement, experienced team member, support from different departments.
+I agree since its has short timeline, experience and skills developers, changing requirement, support from different department
 
-Customer involvement
+Identify model characteristic
++ Customer involvement
++ Requirement characteristics
++ Team skills and experience
++ Project deliverable
++ Top management commitment
++ Software development model match
