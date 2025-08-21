@@ -238,16 +238,20 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		3. Cancel ground service worker
 			+ Enter service ID user want to cancel (Entered ID must match the requirement)
 			+ Check if service ID exist, if true user have to enter number of ground service worker want to be cancel, if not exist system will send a notification say service not found in system
-	2. Tower Service Management
-		Tower can control how planes landing, takeoff, assign stands, ground handing
-		1. Approach
-			+ 
-		2. Departure
-		3. Delivery
-		4. Ground
-	3. Handling Crew Management
+	2. Handling Crew Management
+		1. List all Handling Crew services
+			+ Show max handling crew that the airport can handle
+			+ Show number of handling crew that the airport currently have 
+		2. Take on more handling crew service worker
+			+ Enter number of worker user want to take on
+			+ Check if entered number is valid (Number of enter worker cannot bigger than the total of max handling crew in the airport)
+			+ If valid then add more handling crew to current handling crew then send a success notification added more crew to user else send a failed to add notification
 5. **Logs Management**
 	1. Contracts Logs
+		The contracts log should show all contract activities
+		+ The format should look like this:
+			`[Time_User_Make_Activity] - actions when user interact`
+			`[2023-12-03] - User1 assign a contract with ID 92SD123`
 	2. Passengers Logs
 	3. Airplane Logs
 	4. Activity Logs
