@@ -252,9 +252,16 @@ We will focus on the following set of requirements while designing Heathrow Airp
 		+ The format should look like this:
 			`[Time_User_Make_Activity] - actions when user interact`
 			`[2023-12-03] - User1 assign a contract with ID 92SD123`
-	2. Passengers Logs
-	3. Airplane Logs
-	4. Activity Logs
+	2. Airplane Logs
+		The Airplane log should show all activities of that plane
+		+ The format should look like this:
+			`[Time_Airplane_Make_Activity] - airplaneName + airplane flight number + airplane type actions`
+			`[2024-12-03] - VietNamAirline/VNJ1233/A320 landing successfully`
+	3. Activity Logs
+		The activity log show all activites that user make in the airport
+		+ The format should look like this:
+			`[Time_User_Make_Activity] - User2 has assign a stand for flight number VNJ1234`
+			`[2025-12-03] - User3 has assign landing runway 27L for flight number QA1232`
 
 ### Use Case Diagram
 

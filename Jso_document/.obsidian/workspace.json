@@ -11,10 +11,14 @@
             "id": "53c667d4ac5e4ff5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Heathrow Airport Management Designs"
             }
           }
         ]
@@ -223,6 +227,7 @@
   },
   "active": "53c667d4ac5e4ff5",
   "lastOpenFiles": [
+    "06 - Projects/Airport Magament System/All Feature.md",
     "03 - Study/FPTU/SWE/Src/Đề SU25/Bài 1.md",
     "01 - HomeLab/Categories/Storage & BackUp/MinIO/MinIO.md",
     "01 - HomeLab/Categories/Automation/Ansible/Ansible.md",
@@ -251,7 +256,6 @@
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 5.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 4.md",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
     "03 - Study/FPTU/SWE/Src",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
