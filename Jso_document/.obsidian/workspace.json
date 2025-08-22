@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8836687b53f2ce",
+        "id": "8cb397a79ab7e286",
         "type": "tabs",
         "children": [
           {
-            "id": "aca8e720e4261c83",
+            "id": "53c667d4ac5e4ff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Heathrow Airport Management Designs"
-            }
-          },
-          {
-            "id": "e7ba97b92f637caa",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "06 - Projects/Airport Magament System/Feature graph.md"
-              },
-              "icon": "blocks",
-              "title": "Feature graph"
-            }
-          },
-          {
-            "id": "d8294c13b9bbfde6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "06 - Projects/Airport Magament System/All Feature.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "All Feature"
+              "title": "New tab"
             }
           }
         ]
@@ -253,36 +221,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aca8e720e4261c83",
+  "active": "53c667d4ac5e4ff5",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/Feature graph.md",
-    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-    "06 - Projects/Airport Magament System/All Feature.md",
-    "06 - Projects/Airport Magament System/Detail Fixes.md",
-    "03 - Study/FPTU/SWE/Src/Đề SU25/Đề thi SU25.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Cron Job.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Change timezone.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "03 - Study/FPTU/SWE/Src/Đề SU25/Bài 1.md",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
-    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 2.md",
-    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 1.md",
     "01 - HomeLab/Categories/Storage & BackUp/MinIO/MinIO.md",
-    "01 - HomeLab/Categories/Network/Pi-Hole/Pi-Hole.md",
-    "01 - HomeLab/Categories/Network/Pi-Hole/Config Unbound.md",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 1.md",
-    "03 - Study/FPTU/SWE/Self test.md",
-    "03 - Study/FPTU/MOC Test.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "01 - HomeLab/Categories/Automation/Ansible/Ansible.md",
     "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
     "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
+    "03 - Study/FPTU/SWE/Src/Đề SU25/Đề thi SU25.md",
+    "03 - Study/FPTU/SWE/Src/Đề SU25",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 1.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 2.md",
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
+    "03 - Study/FPTU/SWE/Self test.md",
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 1.md",
     "01 - HomeLab/Categories/Development/Jenkin/Jenkin.md",
     "01 - HomeLab/Categories/Development/Sonarqube/Sonarqube.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "01 - HomeLab/Categories/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
+    "01 - HomeLab/Categories/Development/Gitlab/GitLab.md",
+    "01 - HomeLab/Categories/Development/Gitlab/Uninstall Gitlab.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 5.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 4.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 3.md",
+    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 2.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 5.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
+    "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 4.md",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
     "03 - Study/FPTU/SWE/Src",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
@@ -300,7 +269,6 @@
     "01 - HomeLab/Home Server Infrastructure/Networking",
     "03 - Study/FPTU/SWE",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
-    "06 - Projects/Airport Magament System/attachments",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "02 - Resources/Image Library/network-switch.png",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
