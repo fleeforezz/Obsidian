@@ -51,6 +51,7 @@ mindmap-plugin: basic
     - Take on more ground service worker
     - Cancel ground service worker
 - Handling Crew Management
+    - List all handling crew services
     - Take on more crew
     - Cancel crew
 - Return to main menu
