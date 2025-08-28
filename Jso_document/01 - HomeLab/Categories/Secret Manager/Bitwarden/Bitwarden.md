@@ -51,7 +51,7 @@ sudo chown -R bitwarden:bitwarden /opt/bitwarden
 > Download the Bitwarden installation script (bitwarden.sh) to your machine.
 
 ```shell
-curl -Lso [bitwarden.sh](<http://bitwarden.sh/>) "<https://func.bitwarden.com/api/dl/?app=self-host&platform=linux>" && chmod 700 [bitwarden.sh](<http://bitwarden.sh/>)
+curl -Lso bitwarden.sh "https://func.bitwarden.com/api/dl/?app=self-host&platform=linux" && chmod 700 bitwarden.sh
 ```
 
 > Run the installer script. A `./bwdata` directory will be created relative to the location of bitwarden.sh.

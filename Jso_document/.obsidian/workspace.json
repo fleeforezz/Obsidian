@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Development/ArgoCD/ArgoCD.md",
+                "file": "01 - HomeLab/Categories/Secret Manager/Bitwarden/Bitwarden.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArgoCD"
+              "title": "Bitwarden"
             }
           }
         ],
@@ -292,6 +292,10 @@
   },
   "active": "a173c403831d40fa",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/NVR/Frigate/Frigate.md",
+    "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
+    "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
+    "01 - HomeLab/Categories/Development/ArgoCD/ArgoCD.md",
     "99 - Meta/Temp/K8s connection.md",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Change timezone.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
@@ -314,10 +318,6 @@
     "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25/Đề retake SP25.md",
     "03 - Study/FPTU/SWE/Src/Đề SP25/Bài 2.md",
-    "03 - Study/FPTU/SWE/Src/Đề RT SP25/Bài 1.md",
-    "01 - HomeLab/Categories/Storage & BackUp/MinIO/MinIO.md",
-    "01 - HomeLab/Categories/Network/Pi-Hole/Pi-Hole.md",
-    "01 - HomeLab/Categories/Network/Pi-Hole/Config Unbound.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
