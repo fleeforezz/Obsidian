@@ -1,12 +1,13 @@
+### Dev Env
 ```shell
-kubeadm join 192.168.1.53:6443 --token 8ip23s.kja06z50m5y1adv4 \
-        --discovery-token-ca-cert-hash sha256:6d782fbcb1fec3a5e11d1b7922cefda2c75f12d79e42c702f4633c6c231512b6 \
+kubeadm join 10.0.1.52:6443 --token wyrmrq.i9286yti3tp4qov0 \
+        --discovery-token-ca-cert-hash sha256:a603566ec408bb3f6ac3169855164abb97471408072aac5701fcfe092f921afb \
         --control-plane
 ```
 
 ```shell
-kubeadm join 192.168.1.53:6443 --token 8ip23s.kja06z50m5y1adv4 \
-        --discovery-token-ca-cert-hash sha256:6d782fbcb1fec3a5e11d1b7922cefda2c75f12d79e42c702f4633c6c231512b6
+kubeadm join 10.0.1.52:6443 --token wyrmrq.i9286yti3tp4qov0 \
+        --discovery-token-ca-cert-hash sha256:a603566ec408bb3f6ac3169855164abb97471408072aac5701fcfe092f921afb
 ```
 
 ```shell
