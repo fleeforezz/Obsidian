@@ -13,5 +13,5 @@
 - [ ] OJT
 
 ## Kỳ này sẽ học
-- [ ] PRN
-- [ ] 
+- [ ] PRN (T3/T6 Slot 1) 
+- [ ] SWP ()
