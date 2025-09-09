@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Study/FPTU/PRN212/Yay.md",
+                "file": "03 - Study/FPTU/SWP/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yay"
+              "title": "Note"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Heathrow Airport Management Designs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +240,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f732a0c32c0a6b68",
+  "active": "bcf7f24757344485",
   "lastOpenFiles": [
-    "99 - Meta/Temp/Dog Shit.md",
+    "03 - Study/FPTU/SWP/Note.md",
+    "03 - Study/FPTU/MOC Test.md",
+    "03 - Study/FPTU/SWP",
+    "03 - Study/FPTU/Untitled.md",
     "03 - Study/FPTU/PRN212/Yay.md",
+    "99 - Meta/Temp/Dog Shit.md",
     "03 - Study/FPTU/PRN212",
     "01 - HomeLab/Categories/Game/Factorio/Factorio.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
@@ -265,9 +270,6 @@
     "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Detail Fixes.md",
     "03 - Study/FPTU/SWE/Src/Đề SU25/Đề thi SU25.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Cron Job.md",
-    "03 - Study/FPTU/SWE/Src/Đề SU25/Bài 1.md",
-    "03 - Study/FPTU/SWE/Src/Đề SP25/Đề thi SP25.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
@@ -285,7 +287,6 @@
     "01 - HomeLab/Home Server Infrastructure/Networking/attachments",
     "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
     "01 - HomeLab/Home Server Infrastructure/Networking",
-    "03 - Study/FPTU/SWE",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "02 - Resources/Image Library/network-switch.png",
