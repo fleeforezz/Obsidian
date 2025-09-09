@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Temp/Dog Shit.md",
+                "file": "03 - Study/FPTU/PRN212/Yay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dog Shit"
-            }
-          },
-          {
-            "id": "234504d306028913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/Game/Factorio/Factorio.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Factorio"
+              "title": "Yay"
             }
           },
           {
@@ -41,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Media/YoutubeDL/YoutubeDL.md",
-                "mode": "preview",
+                "file": "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YoutubeDL"
+              "title": "Heathrow Airport Management Designs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,13 +239,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bcf7f24757344485",
+  "active": "f732a0c32c0a6b68",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-    "01 - HomeLab/Categories/Media/Navidrome/Navidrome.md",
-    "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
     "99 - Meta/Temp/Dog Shit.md",
+    "03 - Study/FPTU/PRN212/Yay.md",
+    "03 - Study/FPTU/PRN212",
     "01 - HomeLab/Categories/Game/Factorio/Factorio.md",
+    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Categories/Monitoring/InfluxDB/InfluxDB.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
@@ -301,7 +287,6 @@
     "01 - HomeLab/Home Server Infrastructure/Networking",
     "03 - Study/FPTU/SWE",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
-    "06 - Projects/Airport Magament System/attachments",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "02 - Resources/Image Library/network-switch.png",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
