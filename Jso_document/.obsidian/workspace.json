@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Projects/Airport Magament System/Technical Document.md",
+                "file": "06 - Projects/Airport Magament System/File Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Document"
+              "title": "File Structure"
             }
           }
         ],
@@ -242,9 +242,10 @@
   },
   "active": "bcf7f24757344485",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/File Structure.md",
-    "06 - Projects/Airport Magament System/Technical Document.md",
+    "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "06 - Projects/Airport Magament System/Technical Document.md",
+    "06 - Projects/Airport Magament System/File Structure.md",
     "03 - Study/FPTU/SWP/Note.md",
     "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/SWP",
@@ -269,7 +270,6 @@
     "06 - Projects/Melville/Note.md",
     "06 - Projects/Melville/Melville Design.md",
     "06 - Projects/Airport Magament System/All Feature.md",
-    "06 - Projects/Airport Magament System/Feature graph.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
