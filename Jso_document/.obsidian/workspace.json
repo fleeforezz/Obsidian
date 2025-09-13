@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f732a0c32c0a6b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Study/FPTU/SWP/Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note"
-            }
-          },
-          {
             "id": "bcf7f24757344485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "06 - Projects/Airport Magament System/File Structure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "File Structure"
+            }
+          },
+          {
+            "id": "6bc96aa91bea182c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Projects/Airport Magament System/Technical Document.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technical Document"
             }
           }
         ],
@@ -240,13 +240,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bcf7f24757344485",
+  "active": "6bc96aa91bea182c",
   "lastOpenFiles": [
-    "06 - Projects/Airport Magament System/Feature graph.md",
-    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-    "06 - Projects/Airport Magament System/Technical Document.md",
     "06 - Projects/Airport Magament System/File Structure.md",
     "03 - Study/FPTU/SWP/Note.md",
+    "06 - Projects/Airport Magament System/Feature graph.md",
+    "06 - Projects/Airport Magament System/Technical Document.md",
+    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
     "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/SWP",
     "03 - Study/FPTU/Untitled.md",
