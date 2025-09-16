@@ -28,10 +28,10 @@ kanban-plugin: board
 	10.0.1.60
 - [x] Security Server
 	10.0.1.70
-- [ ] CI/CD Server
+- [x] CI/CD Server
 	10.0.1.63
-- [ ] InfluxDB-Promox
-	192.168.1.45
+- [ ] Proxmox Backup Server
+	10.0.1.71
 
 
 ## Dev Environment<br><mark style="background: #FF5582A6;">10.0.1.0/24</mark>
