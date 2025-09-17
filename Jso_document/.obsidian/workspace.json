@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,8 +254,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fb4081db997c688d",
+  "active": "6bc96aa91bea182c",
   "lastOpenFiles": [
+    "03 - Study/FPTU/PRN212/Yay.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "06 - Projects/Airport Magament System/Technical Document.md",
     "06 - Projects/Airport Magament System/File Structure.md",
@@ -265,7 +266,6 @@
     "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/SWP",
     "03 - Study/FPTU/Untitled.md",
-    "03 - Study/FPTU/PRN212/Yay.md",
     "99 - Meta/Temp/Dog Shit.md",
     "03 - Study/FPTU/PRN212",
     "01 - HomeLab/Categories/Game/Factorio/Factorio.md",
