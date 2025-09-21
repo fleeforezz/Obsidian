@@ -50,17 +50,15 @@
             }
           },
           {
-            "id": "3b8a9633d9423d92",
+            "id": "013d959bd75b8bb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "99 - Meta/System Tweaks/WSL/Install WSL.md",
-                "mode": "preview",
-                "source": false
+                "file": "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Install WSL"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-21 17.02.28.excalidraw"
             }
           }
         ],
@@ -268,9 +266,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3b8a9633d9423d92",
+  "active": "013d959bd75b8bb7",
   "lastOpenFiles": [
     "03 - Study/FPTU/PRN212/Yay.md",
+    "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "06 - Projects/Airport Magament System/Technical Document.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "06 - Projects/Airport Magament System/File Structure.md",
@@ -297,7 +296,6 @@
     "06 - Projects/Melville/Feature Graph.md",
     "06 - Projects/Melville/Note.md",
     "06 - Projects/Melville/Melville Design.md",
-    "06 - Projects/Airport Magament System/All Feature.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
