@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,11 +266,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "013d959bd75b8bb7",
+  "active": "fb4081db997c688d",
   "lastOpenFiles": [
+    "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
     "05 - Excalidraw/attachments",
-    "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "03 - Study/FPTU/PRN212/Yay.md",
     "06 - Projects/Airport Magament System/Technical Document.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
@@ -315,7 +315,6 @@
     "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
-    "02 - Resources/Image Library/network-switch.png",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
   ]
 }
