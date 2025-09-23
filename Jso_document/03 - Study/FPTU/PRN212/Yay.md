@@ -30,6 +30,16 @@ L:
 I:
 D:
 
+Class: 
++ Khuôn
++ Mold
++ Form
++ Blue-print
+Object / Instance of a class:
++ 1 hiện thân, 1 thể hiện của class
++ 1 phiên bản đời thực
+
+
 
 #### Quy tắc đặt tên solution, project, namespace
 
