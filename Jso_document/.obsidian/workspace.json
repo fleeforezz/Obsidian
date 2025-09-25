@@ -57,8 +57,8 @@
               "state": {
                 "file": "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-21 17.02.28.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
         ],
@@ -216,8 +216,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -226,8 +226,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -236,12 +236,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "070f5773609b242e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -266,7 +276,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fb4081db997c688d",
+  "active": "070f5773609b242e",
   "lastOpenFiles": [
     "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
