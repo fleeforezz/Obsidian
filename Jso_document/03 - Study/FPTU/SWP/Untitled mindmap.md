@@ -14,12 +14,18 @@ mindmap-plugin: basic
     - Logout
     - Reset Password
 - Dashboard
-    - Dashboard
+    - Stat
+        - Pending Claims
 - Claims Management
 - Repair Coordination
 - Reports
 - Sub title
 
 ## SC Technican
+- Account Register
+    - Login
+        - Login with google
+    - Logout
+    - Reset Password
 
 ## EVM Staff
