@@ -129,4 +129,4 @@ Dữ liệu quanh ta, và đc trừu tượng hóa vào trong thế giới lập
 		Trong hàm sửa biến, tham số, biến gốc bên ngoài bị đổi theo luôn
 		+ Xài: Có từ out ở lúc truyền tham số
 				Biến đầu vào ko cần gần giá trị, vì đằng nào nó cũng bị đè value bởi bên trong hàm !!!
-			 ko cần truyền value vì hàm "out" đã hứa sẽ có value trả về
+			 ko cần truyền value vì hàm "out" đã hứa sẽ có value trả v
