@@ -4,51 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8836687b53f2ce",
+        "id": "bc608bb7750e9a38",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf7f24757344485",
+            "id": "2d8e8b6d920ef33a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "06 - Projects/Airport Magament System/File Structure.md",
-                "mode": "preview",
-                "source": false
+                "file": "03 - Study/FPTU/SWP/Untitled mindmap.md"
               },
-              "icon": "lucide-file",
-              "title": "File Structure"
-            }
-          },
-          {
-            "id": "6bc96aa91bea182c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Projects/Airport Magament System/Technical Document.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technical Document"
-            }
-          },
-          {
-            "id": "013d959bd75b8bb7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-21 17.02.28.excalidraw"
+              "icon": "blocks",
+              "title": "Untitled mindmap"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "921da395cd7e2a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c2fbbe0f163f80",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "06 - Projects/Melville/Feature Graph.md"
+              },
+              "icon": "blocks",
+              "title": "Feature Graph"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -262,16 +252,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "25eacfe4890699c6",
+  "active": "2d8e8b6d920ef33a",
   "lastOpenFiles": [
+    "06 - Projects/Melville/Feature Graph.md",
+    "03 - Study/FPTU/SWP/Untitled mindmap.md",
+    "03 - Study/FPTU/SWP/Note.md",
+    "06 - Projects/Airport Magament System/Technical Document.md",
+    "06 - Projects/Airport Magament System/File Structure.md",
     "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "03 - Study/FPTU/PRN212/Yay.md",
-    "06 - Projects/Airport Magament System/Technical Document.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
     "05 - Excalidraw/attachments",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "06 - Projects/Airport Magament System/File Structure.md",
-    "03 - Study/FPTU/SWP/Note.md",
     "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
     "03 - Study/FPTU/MOC Test.md",
@@ -291,7 +283,6 @@
     "99 - Meta/Temp/K8s connection.md",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Change timezone.md",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Add user.md",
-    "06 - Projects/Melville/Feature Graph.md",
     "06 - Projects/Melville/Note.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
