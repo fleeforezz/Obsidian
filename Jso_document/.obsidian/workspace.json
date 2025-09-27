@@ -35,24 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "921da395cd7e2a67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5c2fbbe0f163f80",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "06 - Projects/Melville/Feature Graph.md"
-              },
-              "icon": "blocks",
-              "title": "Feature Graph"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -268,15 +250,15 @@
   },
   "active": "4fdb57fa10eb5e2f",
   "lastOpenFiles": [
+    "03 - Study/FPTU/SWP/Untitled mindmap.md",
+    "06 - Projects/Airport Magament System/Technical Document.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
     "06 - Projects/Airport Magament System/All Feature.md",
     "06 - Projects/Airport Magament System/Detail Fixes.md",
     "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/File Structure.md",
-    "03 - Study/FPTU/SWP/Untitled mindmap.md",
     "06 - Projects/Melville/Feature Graph.md",
     "03 - Study/FPTU/SWP/Note.md",
-    "06 - Projects/Airport Magament System/Technical Document.md",
     "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "03 - Study/FPTU/PRN212/Yay.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
