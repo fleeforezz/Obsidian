@@ -130,3 +130,12 @@ Dữ liệu quanh ta, và đc trừu tượng hóa vào trong thế giới lập
 		+ Xài: Có từ out ở lúc truyền tham số
 				Biến đầu vào ko cần gần giá trị, vì đằng nào nó cũng bị đè value bởi bên trong hàm !!!
 			 ko cần truyền value vì hàm "out" đã hứa sẽ có value trả v
+
+
+Mình là người nghiêm túc, Nghiêm khắc, chuẩn mực 
+Code Get Set 
+
+
+Nullable: bàn về null (able, able to)
+Null: trong db 1 cột mang null nghĩa là cột đó chưa có giá trị, chưa bik chính xác giá trị là gì, từ từ sẽ có, nhưng ngay lúc này chưa bik
+
