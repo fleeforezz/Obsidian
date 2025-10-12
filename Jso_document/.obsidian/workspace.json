@@ -211,12 +211,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "d17825add2cc6e41",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -241,7 +251,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f043fd68059a8338",
+  "active": "d17825add2cc6e41",
   "lastOpenFiles": [
     "03 - Study/FPTU/PRN212/Yay.md",
     "03 - Study/FPTU/SWP/Note.md",
