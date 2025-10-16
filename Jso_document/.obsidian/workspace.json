@@ -8,23 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f043fd68059a8338",
+            "id": "634cb14bd7461d1c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "04 - Tasks Board/FPTU/LAB211/Lab_1/All Features.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false,
-                    false
-                  ]
-                }
+                "file": "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "All Features"
+              "icon": "lucide-file",
+              "title": "Config Proxmox"
             }
           }
         ]
@@ -251,8 +245,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d17825add2cc6e41",
+  "active": "634cb14bd7461d1c",
   "lastOpenFiles": [
+    "04 - Tasks Board/FPTU/LAB211/Lab_1/All Features.md",
     "03 - Study/FPTU/PRN212/Yay.md",
     "03 - Study/FPTU/SWP/Note.md",
     "03 - Study/FPTU/SWP/Untitled mindmap.md",
@@ -282,7 +277,6 @@
     "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
     "01 - HomeLab/Categories/Development/ArgoCD/ArgoCD.md",
     "99 - Meta/Temp/K8s connection.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Change timezone.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
