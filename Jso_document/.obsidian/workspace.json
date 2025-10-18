@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Categories/Game/Minecraft/Custom config.md",
+                "file": "01 - HomeLab/Categories/Game/Minecraft/Minecraft.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom config"
+              "title": "Minecraft"
             }
           }
         ]
@@ -247,6 +247,7 @@
   },
   "active": "c500f21d6f4c9cd9",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/Game/Minecraft/Custom config.md",
     "01 - HomeLab/Categories/Game/Minecraft/Minecraft.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_1/All Features.md",
@@ -276,7 +277,6 @@
     "01 - HomeLab/Categories/Secret Manager/Bitwarden/Bitwarden.md",
     "01 - HomeLab/Categories/NVR/Frigate/Frigate.md",
     "01 - HomeLab/Categories/OS & System control/Cockpit/Third party repository.md",
-    "01 - HomeLab/Categories/OS & System control/Cockpit/Cockpit.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
