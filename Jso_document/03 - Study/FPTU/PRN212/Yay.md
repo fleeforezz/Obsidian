@@ -139,3 +139,49 @@ Code Get Set
 Nullable: bàn về null (able, able to)
 Null: trong db 1 cột mang null nghĩa là cột đó chưa có giá trị, chưa bik chính xác giá trị là gì, từ từ sẽ có, nhưng ngay lúc này chưa bik
 
+## Delegate
+
+- Deletgate: Ủy nhiệm, ủy quyền
+### Mối quan hệ giữa datatype, variable, data
+1. Data Type:
+- là tên gọi của 1 nhóm data đồng dạng, có cùng hình dạng
+2. Data là những thứ quanh ta, biểu diễn 1 thứ gì đó: Số. chữ, object
+--> Data Type là tên gọi chung cho đám data
+-> Có tên gọi chung thì sẽ có tên gọi riêng
+ 3. Biến - Variable
+ - Biến là tên gọi riêng cho 1 data thuộc tập data type nào đó
+ - Tên gọi riêng cho 1 data
+-> Data Type là tên gọi riêng cho 1 nhóm data
+
+	- VD: 
+		Data: 5  10  15  20  300000 500000
+		-> Cùng nguyên con, ko lẻ miếng Tên gọi chung là Int, Long
+		
+		Data: 3.14  0.08  3.1415  0.1
+		-> Lẻ miếng (3.14 hơn 3 nhưng chưa đến 4) Tên gọi chung là float, double
+
+		Data: {SE1, AN, 2005, 8.6} {SE1, BINH, 2005, 8.2} {SE1, NAM, 2005, 3.6}
+		-> Khá phức tạp, gồm nhiều info bên trong {ID, Name, YOB, GPA} -> Student
+		public class Student {
+			// Chứa các info phức tạp - Object
+		}
+
+		Data: {Nguyễn Thanh Tùng, 1993, Thái Bình, Nhạc viện TPHCM} {Nguyễn Thùy Chi, 1993, Hà Nội, RMIT}
+		-> Khá phức tạp, gồm nhiều info bên trong, nhưng đồng dạng {Tên, YOB, Quê quán, nơi học}
+		public class Singer {
+			// Các info của ca sĩ bất kì
+		}
+
+--> Có 2 loại data type:
+1. Data Type đơn giản: Primitive datatype, Value-Type: int, long, float, double,...
+2. Data Type phức tạp: Object Data Type, Class Student, class Singer, class Dog,...
+
+### Công thức chung về mối liên hệ giữa 3 đứa
+
+DataType  Biến = Data, Value;
+int              yob  = 2005;
+double      pi      = 3.14;
+Student    an     = new() {....}
+Singer       chipu= new Singer() {....}
+
+### 
