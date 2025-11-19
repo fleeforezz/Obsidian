@@ -8,43 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54fa63819d246a8c",
+            "id": "e0b7eab59d06c176",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Ips Table"
-            }
-          },
-          {
-            "id": "d7a26d3cd553b8d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Categories/Media/Navidrome/Navidrome.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Navidrome"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,9 +224,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "4991e60468585b37",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -277,8 +260,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d7a26d3cd553b8d1",
+  "active": "e0b7eab59d06c176",
   "lastOpenFiles": [
+    "01 - HomeLab/Categories/Media/Navidrome/Navidrome.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "06 - Projects/Airport Magament System/Technical Document.md",
     "03 - Study/FPTU/PRN212/Yay.md",
@@ -308,7 +292,6 @@
     "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
     "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Categories/Monitoring/InfluxDB/InfluxDB.md",
-    "01 - HomeLab/Categories/Secret Manager/Bitwarden/Bitwarden.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
