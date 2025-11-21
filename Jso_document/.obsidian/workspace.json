@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Study/FPTU/SWE/Agile.md",
+                "file": "06 - Projects/Todo App/📑 Todo's App Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agile"
+              "title": "Outline of 📑 Todo's App Design"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,8 +214,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ddcb29f11d826750",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
+    "06 - Projects/Todo App/attachments/logo.png",
+    "06 - Projects/Todo App/attachments",
     "06 - Projects/Todo App/Feature Graph.md",
     "06 - Projects/Todo App/📑 Todo's App Design.md",
     "06 - Projects/Airport Magament System/File Structure.md",
@@ -244,7 +246,6 @@
     "04 - Tasks Board/FPTU/LAB211/Lab_1/All Features.md",
     "03 - Study/FPTU/SWP/Note.md",
     "03 - Study/FPTU/SWP/Untitled mindmap.md",
-    "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
     "05 - Excalidraw/attachments",
     "03 - Study/FPTU/SWP",
@@ -252,7 +253,6 @@
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
-    "03 - Study/FPTU/SWE/Src",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/iphone.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/laptop.png",
