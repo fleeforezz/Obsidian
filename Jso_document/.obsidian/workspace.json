@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Projects/Todo App/Feature Graph.md",
-                "mode": "preview",
+                "file": "06 - Projects/Todo App/📑 Todo's App Design.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Graph"
+              "title": "📑 Todo's App Design"
             }
           }
         ]
@@ -170,56 +170,6 @@
             }
           },
           {
-            "id": "791ea4763cf8d5b0",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "f2c3ef066da4f993",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "87dc4c531b6c5828",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "070f5773609b242e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "d17825add2cc6e41",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
             "id": "aa7830aed3029256",
             "type": "leaf",
             "state": {
@@ -230,7 +180,7 @@
             }
           },
           {
-            "id": "a0f50184f3d15629",
+            "id": "a0c2c0eb6360f087",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -240,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -266,7 +216,8 @@
   },
   "active": "ddcb29f11d826750",
   "lastOpenFiles": [
-    "06 - Projects/Todo App/📑 Todo's App.md",
+    "06 - Projects/Todo App/Feature Graph.md",
+    "06 - Projects/Todo App/📑 Todo's App Design.md",
     "06 - Projects/Airport Magament System/File Structure.md",
     "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
     "06 - Projects/Airport Magament System/Technical Document.md",
@@ -275,7 +226,6 @@
     "06 - Projects/Todo App/Kanban",
     "06 - Projects/Melville/Melville Design.md",
     "06 - Projects/Melville/Feature Graph.md",
-    "06 - Projects/Todo App/Feature Graph.md",
     "06 - Projects/Melville/Note.md",
     "06 - Projects/Todo App/Resources",
     "06 - Projects/Todo App",
