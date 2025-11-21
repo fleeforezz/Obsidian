@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "70a78fda8699d7bf",
+        "id": "9aee633b63e88261",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b7eab59d06c176",
+            "id": "ddcb29f11d826750",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 - Projects/Todo App/Feature Graph.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Feature Graph"
             }
           }
         ]
@@ -226,13 +230,13 @@
             }
           },
           {
-            "id": "4991e60468585b37",
+            "id": "a0f50184f3d15629",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -260,14 +264,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e0b7eab59d06c176",
+  "active": "ddcb29f11d826750",
   "lastOpenFiles": [
-    "01 - HomeLab/Categories/Media/Navidrome/Navidrome.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "06 - Projects/Airport Magament System/Technical Document.md",
-    "03 - Study/FPTU/PRN212/Yay.md",
-    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "06 - Projects/Todo App/📑 Todo's App.md",
     "06 - Projects/Airport Magament System/File Structure.md",
+    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "06 - Projects/Airport Magament System/Technical Document.md",
+    "06 - Projects/Todo App/Kanban/Detail Fixes.md",
+    "06 - Projects/Todo App/Kanban/All Feature.md",
+    "06 - Projects/Todo App/Kanban",
+    "06 - Projects/Melville/Melville Design.md",
+    "06 - Projects/Melville/Feature Graph.md",
+    "06 - Projects/Todo App/Feature Graph.md",
+    "06 - Projects/Melville/Note.md",
+    "06 - Projects/Todo App/Resources",
+    "06 - Projects/Todo App",
+    "99 - Meta/My PC Build/Pc Components.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "01 - HomeLab/Categories/Media/Navidrome/Navidrome.md",
+    "03 - Study/FPTU/PRN212/Yay.md",
     "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Detail Fixes.md",
     "06 - Projects/Airport Magament System/All Feature.md",
@@ -279,34 +294,23 @@
     "04 - Tasks Board/FPTU/LAB211/Lab_1/All Features.md",
     "03 - Study/FPTU/SWP/Note.md",
     "03 - Study/FPTU/SWP/Untitled mindmap.md",
-    "06 - Projects/Melville/Feature Graph.md",
     "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
     "05 - Excalidraw/attachments",
-    "03 - Study/FPTU/MOC Test.md",
     "03 - Study/FPTU/SWP",
-    "03 - Study/FPTU/Untitled.md",
-    "99 - Meta/Temp/Dog Shit.md",
     "03 - Study/FPTU/PRN212",
-    "01 - HomeLab/Categories/Game/Factorio/Factorio.md",
-    "01 - HomeLab/Categories/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Categories/OS & System control/Linux Command/Network.md",
-    "01 - HomeLab/Categories/Monitoring/InfluxDB/InfluxDB.md",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
     "03 - Study/FPTU/SWE/Src",
-    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/iphone.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/laptop.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/smart.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/watch.png",
-    "01 - HomeLab/Home Server Infrastructure/Storage",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "01 - HomeLab/Home Server Infrastructure/Networking/attachments/Pasted Image 20250806222450_526.png",
     "01 - HomeLab/Home Server Infrastructure/Networking/attachments/Pasted Image 20250806222350_027.png",
-    "01 - HomeLab/Home Server Infrastructure/Networking/attachments",
     "01 - HomeLab/Home Server Infrastructure/Resources/mini.png",
     "06 - Projects/Airport Magament System/attachments/Rollverkehr Vorfeld.jpg",
     "06 - Projects/Airlines Magament System/Untitled.canvas",

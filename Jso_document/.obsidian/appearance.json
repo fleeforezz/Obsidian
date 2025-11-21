@@ -5,9 +5,11 @@
   "nativeMenus": true,
   "theme": "system",
   "cssTheme": "",
-  "interfaceFontFamily": "Inter",
-  "enabledCssSnippets": [],
-  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Cascadia Mono,Inter",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "textFontFamily": "Cascadia Mono,Inter",
   "monospaceFontFamily": "Inter",
   "showRibbon": true,
   "baseFontSizeAction": true,
