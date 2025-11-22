@@ -188,6 +188,16 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "99a5c6f449cb0681",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 1
