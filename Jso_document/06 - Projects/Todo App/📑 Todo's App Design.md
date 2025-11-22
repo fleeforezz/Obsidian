@@ -90,9 +90,101 @@ erDiagram
 
 ```
 
-## 📑 Create Task Workflow
+## 📑 Flowchart
+### 1. Create Task Flow
 
+```mermaid
+flowchart TD
+    A[User Opens App] --> B[Click 'Add Todo']
+    B --> C[Enter Todo Title & Description]
+    C --> D[Select Tags]
+    D --> E[Set Priority / Important?]
+    E --> F[Choose Reminder Time]
+    F --> G[Click Save]
+  
+    G --> H{Valid Input?}
+    H -->|No| I[Show Error Message]
+    I --> C
 
+    H -->|Yes| J[Create Task in Database]
+    J --> K[Attach Tags]
+    K --> L[Attach Important Flag]
+    L --> M[Schedule Reminder]
+    M --> N[Return Success]
+
+    N --> O[Show Task in List]
+```
+
+### 2. Reminder Scheduling Flow
+
+```mermaid
+flowchart TD
+    A[User Sets Reminder Time] --> B[Convert Reminder to UTC]
+    B --> C[Create Reminder Record in Database]
+    C --> D[Register Reminder Job]
+    D --> E{Is using background scheduler?}
+
+    E -->|Yes| F[Store job in Scheduler Service]
+    E -->|No| G[Use System Notifications API]
+
+    F --> H[Wait Until Time Reached]
+    G --> H
+
+    H --> I[Trigger Notification]
+    I --> J[Mark Reminder as Sent]
+```
+
+## State Machine Diagram
+```mermaid
+stateDiagram-v2
+    [*] --> Draft : Start Creating Todo
+    Draft --> Editing : User enters details
+    Editing --> Validating : User clicks Save
+    Validating --> Error : Missing data
+    Error --> Editing : User corrects input
+
+    Validating --> Saved : Valid Todo
+
+    Saved --> Scheduled : Reminder time set
+    Saved --> Completed : User marks Done
+
+    Scheduled --> ReminderTriggered : Time reached
+    ReminderTriggered --> Completed : User completes after notification
+
+    Completed --> Archived : User archives Todo
+```
+
+## Sequence Diagram
+```mermaid
+sequenceDiagram
+    actor User
+    participant UI as WinUI/WPF UI
+    participant VM as ViewModel
+    participant BLL as Business Logic
+    participant DAL as Data Access Layer
+    participant SCH as Reminder Scheduler
+
+    User ->> UI: Click "Add Todo"
+    UI ->> VM: Open CreateTodo form
+    User ->> VM: Enter details + reminder
+    VM ->> BLL: Validate Todo
+    BLL -->> VM: Valid/Invalid
+
+    VM ->> BLL: Save Todo
+    BLL ->> DAL: Insert Todo into DB
+    DAL -->> BLL: TodoId returned
+    BLL -->> VM: Todo saved successfully
+
+    alt Reminder Set
+        VM ->> BLL: Register reminder
+        BLL ->> SCH: Schedule reminder job
+        SCH -->> BLL: Reminder scheduled
+    end
+
+    VM -->> UI: Show success message
+    UI -->> User: Todo created!
+
+```
 ## 📚 Document References
 ### Project Documentation
 + [⚙️ Project Main Flow](MAIN_FLOW.md)
