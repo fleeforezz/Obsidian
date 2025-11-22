@@ -60,16 +60,11 @@ erDiagram
         string Title
         string Description
         bit IsComplete
+        bit IsImportant
         bit IsActive
-        datetime ReminderTime
+        datetime DueDate
         datetime CreatedTime
         datetime UpdatedTime
-    }
-
-    Importants {
-        Guid ImportantId
-        Guid UserId
-        Guid TaskId
     }
 
     Tags {
@@ -83,10 +78,8 @@ erDiagram
     %% === Relationships ===
     Users ||--o{ Tasks : "creates"
     Users ||--o{ Tags : "creates"
-    Users ||--o{ Importants : "adds"
 
     Tasks ||--o{ Tags : "has"
-    Tasks ||--|| Importants : "has"
 
 ```
 
