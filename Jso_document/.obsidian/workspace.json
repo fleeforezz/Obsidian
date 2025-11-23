@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "052472b5b7230a44",
+        "id": "88f1b1b334745aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "16685e1e7719571d",
+            "id": "628b7846f053b0e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "06 - Projects/Todo App/📑 Todo's App Design.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Projects/Todo App/📑 Todo's App Design.md",
+                "file": "03 - Study/FPTU/SWE/Agile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📑 Todo's App Design"
+              "title": "Outline of Agile"
             }
           },
           {
@@ -180,27 +180,17 @@
             }
           },
           {
-            "id": "a0c2c0eb6360f087",
+            "id": "4991e60468585b37",
             "type": "leaf",
             "state": {
-              "type": "mermaid-toolbar-view",
+              "type": "todo",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "99a5c6f449cb0681",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,46 +214,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "16685e1e7719571d",
+  "active": "628b7846f053b0e2",
   "lastOpenFiles": [
-    "00 - Notes/2025-11-22.md",
-    "00 - Notes/L i f e 2.0/T2 tuần sau KT MAD 2025-02-07.md",
+    "03 - Study/FPTU/MOC Test.md",
     "06 - Projects/Todo App/📑 Todo's App Design.md",
     "06 - Projects/Todo App/attachments/logo.png",
     "06 - Projects/Todo App/attachments",
-    "06 - Projects/Todo App/Feature Graph.md",
-    "06 - Projects/Airport Magament System/File Structure.md",
-    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
-    "06 - Projects/Airport Magament System/Technical Document.md",
     "06 - Projects/Todo App/Kanban/Detail Fixes.md",
     "06 - Projects/Todo App/Kanban/All Feature.md",
     "06 - Projects/Todo App/Kanban",
-    "06 - Projects/Melville/Melville Design.md",
-    "06 - Projects/Melville/Feature Graph.md",
-    "06 - Projects/Melville/Note.md",
-    "06 - Projects/Todo App/Resources",
+    "06 - Projects/Todo App/Feature Graph.md",
     "06 - Projects/Todo App",
-    "99 - Meta/My PC Build/Pc Components.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "03 - Study/FPTU/SWP/Note.md",
+    "03 - Study/FPTU/Exam Login.md",
     "01 - HomeLab/Categories/Media/Navidrome/Navidrome.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "06 - Projects/Airport Magament System/Technical Document.md",
     "03 - Study/FPTU/PRN212/Yay.md",
+    "06 - Projects/Airport Magament System/Heathrow Airport Management Designs.md",
+    "06 - Projects/Airport Magament System/File Structure.md",
     "06 - Projects/Airport Magament System/Feature graph.md",
     "06 - Projects/Airport Magament System/Detail Fixes.md",
     "06 - Projects/Airport Magament System/All Feature.md",
-    "03 - Study/FPTU/Exam Login.md",
     "04 - Tasks Board/Home Server board.md",
     "01 - HomeLab/Categories/Game/Minecraft/Minecraft.md",
     "01 - HomeLab/Categories/Game/Minecraft/Custom config.md",
     "01 - HomeLab/Categories/OS & System control/Proxmox/Config Proxmox.md",
     "04 - Tasks Board/FPTU/LAB211/Lab_1/All Features.md",
-    "03 - Study/FPTU/SWP/Note.md",
+    "03 - Study/FPTU/SWP/Untitled mindmap.md",
+    "06 - Projects/Melville/Feature Graph.md",
+    "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
     "05 - Excalidraw/attachments",
     "03 - Study/FPTU/SWP",
+    "03 - Study/FPTU/Untitled.md",
+    "99 - Meta/Temp/Dog Shit.md",
     "03 - Study/FPTU/PRN212",
     "03 - Study/FPTU/SWE/Src/Đề RT SP25",
     "03 - Study/FPTU/SWE/Src/Đề SP25",
     "03 - Study/FPTU/SWE/Untitled/Untitled",
+    "03 - Study/FPTU/SWE/Src",
     "01 - HomeLab/Home Server Infrastructure/attachments/desktop-computer.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/iphone.png",
     "01 - HomeLab/Home Server Infrastructure/attachments/laptop.png",
