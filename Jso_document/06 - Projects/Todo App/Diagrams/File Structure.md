@@ -1,0 +1,43 @@
+
+Todo/
++ Domain/
+	+ Entities/
+		+ Tag.cs
+		+ Task.cs
+		+ User.cs
++ Application/
+	+ DTOs/
+		+ TasksDto.cs
+	+ Interfaces/
+		+ IRepository.cs
+		+ IUnitOfWork.cs
+		+ ITagRepository.cs
+		+ ITaskRepository.cs
+		+ IUserRepository.cs
+	+ Services/
+		+ TaskService.cs
+		+ TagService.cs
+		+ UserService.cs
++ Infrastructure/
+	+ Data/
+		+ TodoDbContext.cs
+		+ TodoDbContextFactory.cs
+	+ Repositories/
+		+ Repository.cs
+		+ UnitOfWork.cs
+		+ TaskRepository.cs
+		+ TagRepository.cs
+		+ UserRepository.cs
++ WinUi/
+	+ Assets/
+		+ Image1.png
+		+ Image2.png
+		+ Image3.png
+	+ ViewsModels/
+		+ MainViewModel.cs
+		+ LoginViewModel.cs
+		+ SignUpViewModel.cs
+	+ Views/
+		+ MainView.xaml
+	+ appsettings.json
+	+ App.xml
