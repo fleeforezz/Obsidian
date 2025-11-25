@@ -185,7 +185,7 @@
             }
           },
           {
-            "id": "aa7830aed3029256",
+            "id": "b3120590e885e92c",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -195,13 +195,13 @@
             }
           },
           {
-            "id": "4991e60468585b37",
+            "id": "adcd5567fee81697",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "calendar",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
