@@ -190,8 +190,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -200,12 +200,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "eb3d765655e82f5e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -229,7 +239,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a73244c45abd4b36",
+  "active": "eb3d765655e82f5e",
   "lastOpenFiles": [
     "06 - Projects/Todo App/📑 Todo's App Design.md",
     "06 - Projects/Todo App/Diagrams/Flowcharts.md",
