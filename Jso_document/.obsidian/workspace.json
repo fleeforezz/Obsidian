@@ -35,8 +35,7 @@
               "title": "File Structure"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +189,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -200,12 +199,32 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          },
+          {
+            "id": "4f40a3815442156c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "817c56423b3337c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -229,12 +248,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d16871f69b322a0d",
+  "active": "d576bdb4f3bcb1bb",
   "lastOpenFiles": [
+    "06 - Projects/Todo App/Diagrams/File Structure.md",
     "06 - Projects/Todo App/📑 Todo's App Design.md",
     "06 - Projects/Todo App/Diagrams/Flowcharts.md",
     "06 - Projects/Todo App/Diagrams/Entity Relationship Diagram (ERD).md",
-    "06 - Projects/Todo App/Diagrams/File Structure.md",
     "06 - Projects/Todo App/Diagrams/Clean Architecture.md",
     "06 - Projects/Todo App/Diagrams/State Machine Diagram.md",
     "06 - Projects/Todo App/Feature Graph.md",
