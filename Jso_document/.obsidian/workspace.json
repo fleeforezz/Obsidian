@@ -11,6 +11,27 @@
             "id": "6952e0cb7bf557c2",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "03 - Study/FPTU/Curiculum.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Curiculum"
+            }
+          },
+          {
+            "id": "f4c7e5cc3290856d",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
@@ -230,8 +251,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "187bc4847c5bdd7e",
+  "active": "6952e0cb7bf557c2",
   "lastOpenFiles": [
+    "03 - Study/Software Engineer/Software developing scaling.md",
+    "03 - Study/FPTU/Curiculum.md",
+    "03 - Study/FPTU/Exam Login.md",
+    "03 - Study/FPTU/Untitled.md",
+    "03 - Study/Get ready for Interview/DevOps/Answers/Sự khác biệt giữa ảo hóa và container hóa là gì.md",
     "03 - Study/Get ready for Interview/DevOps/Questions board.md",
     "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
@@ -253,16 +279,11 @@
     "06 - Projects/Todo App/Diagrams/Clean Architecture.md",
     "06 - Projects/Todo App/Diagrams/State Machine Diagram.md",
     "06 - Projects/Todo App/Feature Graph.md",
-    "06 - Projects/Todo App/Diagrams/Sequence Diagram.md",
     "06 - Projects/Todo App/Diagrams",
-    "03 - Study/FPTU/MOC Test.md",
     "06 - Projects/Todo App/attachments/logo.png",
     "06 - Projects/Todo App/attachments",
-    "06 - Projects/Todo App/Kanban/Detail Fixes.md",
-    "06 - Projects/Todo App/Kanban/All Feature.md",
     "06 - Projects/Todo App/Kanban",
     "06 - Projects/Todo App",
-    "03 - Study/FPTU/SWP/Note.md",
     "05 - Excalidraw/attachments/Pasted Image 20250921211311_235.png",
     "05 - Excalidraw/attachments",
     "03 - Study/FPTU/SWP",
