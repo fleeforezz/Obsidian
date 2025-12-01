@@ -32,13 +32,18 @@
             "id": "f4c7e5cc3290856d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Infrastructure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,10 +256,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6952e0cb7bf557c2",
+  "active": "f4c7e5cc3290856d",
   "lastOpenFiles": [
-    "03 - Study/Software Engineer/Software developing scaling.md",
+    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "03 - Study/FPTU/Curiculum.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+    "03 - Study/Software Engineer/Software developing scaling.md",
     "03 - Study/FPTU/Exam Login.md",
     "03 - Study/FPTU/Untitled.md",
     "03 - Study/Get ready for Interview/DevOps/Answers/Sự khác biệt giữa ảo hóa và container hóa là gì.md",
@@ -274,11 +284,6 @@
     "02 - Resources/Link Gallary/YAML Syntax.md",
     "02 - Resources/Link Gallary/Pi Hole block list.md",
     "06 - Projects/Todo App/📑 Todo's App Design.md",
-    "06 - Projects/Todo App/Diagrams/Flowcharts.md",
-    "06 - Projects/Todo App/Diagrams/Entity Relationship Diagram (ERD).md",
-    "06 - Projects/Todo App/Diagrams/Clean Architecture.md",
-    "06 - Projects/Todo App/Diagrams/State Machine Diagram.md",
-    "06 - Projects/Todo App/Feature Graph.md",
     "06 - Projects/Todo App/Diagrams",
     "06 - Projects/Todo App/attachments/logo.png",
     "06 - Projects/Todo App/attachments",
