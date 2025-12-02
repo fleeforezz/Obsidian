@@ -68,4 +68,4 @@ docker-compose up -d heimdall
 docker image prune
 ```
 #### Read more
-[[01 - HomeLab/Categories/Dashboard/Heimdall/Custom Css|Custom Css]]
+[[01 - HomeLab/Services/Dashboard/Heimdall/Custom Css|Custom Css]]

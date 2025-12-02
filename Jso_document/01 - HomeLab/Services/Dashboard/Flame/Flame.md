@@ -39,5 +39,5 @@ secrets:
 > Create `password` file inside /home/user/Flame/secrets
 
 #### Custom CSS
-[[01 - HomeLab/Categories/Dashboard/Flame/Custom CSS|Custom CSS]]
+[[01 - HomeLab/Services/Dashboard/Flame/Custom CSS|Custom CSS]]
 
