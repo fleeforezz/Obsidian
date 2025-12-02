@@ -12,7 +12,7 @@
 		+ Web-facing & scalable services, Treafik, Grafana, HomePage, Portainer, Uptime Kuma, Games Server, Jenkins Agents
 + Standalone Docker VMs (One per major service)
 	+ VM 301: Media Stack (docker-compose) - 4vCPU, 4GB RAM
-		+ Navidrome
+		+ Navidrome, YoutubeDL
 	+ VM 302: Personal Services (docker-compose) - 8vCPU, 16GB RAM
 		+ Immich, Bitwarden, Frigate
 	+ VM 303: Databases (docker-compose) - 4vCPU, 8GB RAM

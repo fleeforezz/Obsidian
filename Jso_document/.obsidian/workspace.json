@@ -11,10 +11,14 @@
             "id": "2ebec514706afbe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Infrastructure"
             }
           }
         ]
@@ -105,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Infrastructure"
             }
           },
           {
@@ -191,7 +196,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "187bc4847c5bdd7e",
+  "active": "2ebec514706afbe2",
   "lastOpenFiles": [
     "07 - Resources/Template Resources/MainNoteTemp.md",
     "07 - Resources/Template Resources/HomeLabNoteTemp.md",
