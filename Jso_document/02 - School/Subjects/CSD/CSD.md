@@ -106,7 +106,7 @@ class MyList {
 > clear(): để xóa hết cấu trúc bên trong dữ liệu.
 
 # Sort trong Linked List
-[[Sort in Linked List]]
+[[02 - School/Subjects/CSD/Images/Sort in Linked List]]
 ## 1. Sử dụng bubble sort
 
 ```java

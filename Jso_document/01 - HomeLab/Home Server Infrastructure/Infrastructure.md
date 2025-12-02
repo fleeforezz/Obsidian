@@ -1,18 +1,3 @@
-
-Proxmox Host
-├── PfSense (VM 100) - Firewall
-├── Docker Swarm Cluster (3 managers + 2-3 workers)
-│   └── Web-facing & scalable services only
-├── Standalone Docker VMs (one per major service)
-│   ├── VM 300: GitLab (docker-compose)
-│   ├── VM 301: Media Stack (docker-compose)
-│   │   └── Plex, Sonarr, Radarr, Overseerr
-│   ├── VM 302: Personal Services (docker-compose)
-│   │   └── Immich, Vaultwarden, Paperless
-│   └── VM 303: Databases (docker-compose)
-│       └── PostgreSQL, Redis, MariaDB
-└── NFS Storage (VM 220)
-
 ## 🖥️ Proxmox VMs and Containers Design (Main Server)
 
 **Proxmox Host**

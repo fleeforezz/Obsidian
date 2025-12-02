@@ -3,7 +3,7 @@
 
 ### **1. Monitoring & Telemetry Tools**
 
-- [**Prometheus**](Monitoring/Prometheus): Metrics collection and querying.
+- [**Prometheus**](Prometheus.md): Metrics collection and querying.
     
 - **Grafana**: Visualizing Prometheus metrics, setting up dashboards.
     
