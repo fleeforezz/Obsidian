@@ -7,7 +7,8 @@
   "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "Cascadia Mono,Inter",
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "main"
   ],
   "textFontFamily": "Cascadia Mono,Inter",
   "monospaceFontFamily": "Inter",
