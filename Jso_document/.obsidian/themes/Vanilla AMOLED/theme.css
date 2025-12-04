@@ -25,6 +25,28 @@
 	--link-external-decoration-hover: underline; */
   }
 
+/* Code block background and text */
+.theme-dark pre[class*="language-"],
+.theme-dark code[class*="language-"],
+.theme-dark pre,
+.theme-dark code {
+    background-color: #1a1a1a !important;  /* change background */
+    color: #e0e0e0 !important;             /* change text color */
+}
+
+/* Inline code */
+.theme-dark span.cm-inline-code,
+.theme-dark code:not([class*="language-"]) {
+    background-color: #2a2a2a !important;
+    color: #ffdd88 !important;
+}
+
+.theme-dark pre[class*="language-"] {
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 16px;
+}
+
 
 /*
 	No, seriously, that's as simple as it gets.
