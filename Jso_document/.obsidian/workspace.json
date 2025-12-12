@@ -42,9 +42,23 @@
               "icon": "lucide-file",
               "title": "Portainer"
             }
+          },
+          {
+            "id": "9ffd92759210e26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Other/System Tweaks/Pretty Terminal/Oh My Posh.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oh My Posh"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+                "file": "99 - Other/System Tweaks/Pretty Terminal/Oh My Posh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Portainer"
+              "title": "Outline of Oh My Posh"
             }
           },
           {
@@ -225,13 +239,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2f10ae55e08ebcac",
+  "active": "9ffd92759210e26d",
   "lastOpenFiles": [
+    "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+    "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
+    "99 - Other/System Tweaks/WSL/Install WSL.md",
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
-    "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
     "99 - Other/System Tweaks/Pretty Terminal/Oh My Posh.md",
     "07 - Resources/Template Resources/MainNoteTemp.md",
     "07 - Resources/Template Resources/HomeLabNoteTemp.md",
@@ -258,8 +274,6 @@
     "01 - HomeLab/Services/Storage & BackUp/NextCloud/NextCloud.md",
     "01 - HomeLab/Services/Storage & BackUp/NextCloud/Install NextCloud.md",
     "01 - HomeLab/Services/Storage & BackUp/MySQL/Pasted image 20240302101545.png",
-    "01 - HomeLab/Services/Storage & BackUp/MySQL/Install MySQL.md",
-    "01 - HomeLab/Services/Storage & BackUp/MinIO/MinIO.md",
     "01 - HomeLab/Services/Storage & BackUp/Syncthing",
     "01 - HomeLab/Services/Storage & BackUp/NextCloud",
     "01 - HomeLab/Services/Storage & BackUp/MySQL",
