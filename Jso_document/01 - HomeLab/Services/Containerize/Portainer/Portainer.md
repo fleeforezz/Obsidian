@@ -10,15 +10,31 @@ banner-fade: "-100"
 > [!note]
 > Make sure you have [[Docker]] and [[Docker Compose]] installed
 
-```shell
-sudo docker run -d \
-              --name="portainer" \
-              --restart on-failure \
-              -p 9000:9000 \
-              -p 8000:8000 \
-              -v /var/run/docker.sock:/var/run/docker.sock \
-              -v portainer_data:/data \
-                portainer/portainer-ce:latest
+```YAML
+services:
+  portainer:
+    container_name: portainer
+    image: portainer/portainer-ce:lts
+    restart: always
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    ports:
+      - 9443:9443
+      - 8000:8000  # Remove if you do not intend to use Edge Agents
+
+volumes:
+  portainer_data:
+    name: portainer_data
+
+networks:
+  default:
+    name: portainer_network
+```
+Once you have created or downloaded the compose file, you can deploy it with the following command:
+
+```YAML
+docker compose -f portainer-compose.yaml up -d
 ```
 
 ## Update
