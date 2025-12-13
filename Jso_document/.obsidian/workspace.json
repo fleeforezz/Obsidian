@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "fa1c4f00bec7bf4f",
+        "id": "de803ea15420f51e",
         "type": "tabs",
         "children": [
           {
-            "id": "e0729cd5e8d737c5",
+            "id": "2ebec514706afbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infrastructure"
+            }
+          },
+          {
+            "id": "4cd597e9d328973c",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
+                "file": "02 - School/Curiculum.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -26,21 +40,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Ips Table"
-            }
-          },
-          {
-            "id": "2f10ae55e08ebcac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Portainer"
+              "title": "Curiculum"
             }
           }
         ],
@@ -110,7 +110,6 @@
       {
         "id": "01bd831edaa895d6",
         "type": "tabs",
-        "dimension": 64.90384615384616,
         "children": [
           {
             "id": "92f4e5c5f975ffb7",
@@ -133,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+                "file": "02 - School/Curiculum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Portainer"
+              "title": "Outline of Curiculum"
             }
           },
           {
@@ -184,15 +183,7 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1d64c85dae65393e",
-        "type": "tabs",
-        "dimension": 35.09615384615385,
-        "children": [
+          },
           {
             "id": "adcd5567fee81697",
             "type": "leaf",
@@ -203,7 +194,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,17 +217,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2f10ae55e08ebcac",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
-    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
-    "99 - Other/System Tweaks/Pretty Terminal/Oh My Posh.md",
+    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+    "02 - School/Curiculum.md",
+    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
     "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
     "99 - Other/System Tweaks/WSL/Install WSL.md",
-    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
-    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+    "99 - Other/System Tweaks/Pretty Terminal/Oh My Posh.md",
     "07 - Resources/Template Resources/MainNoteTemp.md",
     "07 - Resources/Template Resources/HomeLabNoteTemp.md",
     "00 - Notes/HomeLab/HomeLab note 2025-02-05.md",
@@ -247,7 +236,6 @@
     "02 - School",
     "06 - Projects/Todo App/Diagrams/File Structure.md",
     "06 - Projects/Todo App/📑 Todo's App Design.md",
-    "02 - School/Subjects/Curiculum.md",
     "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
     "01 - HomeLab/Services/Web Server/Nginx/Install Nginx.md",
     "01 - HomeLab/Services/Web Server/Apache/Install Apache.md",
@@ -259,7 +247,11 @@
     "01 - HomeLab/Services/Storage & BackUp/Syncthing/Syncthing.md",
     "01 - HomeLab/Services/Storage & BackUp/Syncthing/Install Syncthing.md",
     "01 - HomeLab/Services/Storage & BackUp/NextCloud/NextCloud.md",
+    "01 - HomeLab/Services/Storage & BackUp/NextCloud/Install NextCloud.md",
     "01 - HomeLab/Services/Storage & BackUp/MySQL/Pasted image 20240302101545.png",
+    "01 - HomeLab/Services/Storage & BackUp/MySQL/Install MySQL.md",
+    "01 - HomeLab/Services/Storage & BackUp/MinIO/MinIO.md",
+    "01 - HomeLab/Services/Storage & BackUp/Longlorn/Longhorn.md",
     "01 - HomeLab/Services/Storage & BackUp/Syncthing",
     "01 - HomeLab/Services/Storage & BackUp/NextCloud",
     "01 - HomeLab/Services/Storage & BackUp/MySQL",

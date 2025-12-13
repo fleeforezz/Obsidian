@@ -4,7 +4,7 @@
   "showViewHeader": true,
   "nativeMenus": true,
   "theme": "system",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "",
   "interfaceFontFamily": "Cascadia Mono,Inter",
   "enabledCssSnippets": [
     "Colored Sidebar Items",

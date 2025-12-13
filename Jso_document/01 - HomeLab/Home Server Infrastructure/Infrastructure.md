@@ -3,12 +3,12 @@
 **Proxmox Host**
 + VM 100: PfSense - Firewall - 1vCPU, 2GB RAM
 + Docker Swarm Cluster (3 managers + 2-3 workers)
-	+ 150 (swarm-manager-1) - 4vCPU, 8Gb RAM
-	+ 151 (swarm-manager-2) - 4vCPU, 8Gb RAM
-	+ 152 (swarm-manager-3) - 4vCPU, 8Gb RAM
-	+ 153 (swarm-worker-1) - 4vCPU, 8Gb RAM
-	+ 154 (swarm-worker-2) - 4vCPU, 8Gb RAM
-	+ 155 (swarm-worker-3) - 4vCPU, 8Gb RAM
+	+ 150 (k8s-manager-1) - 4vCPU, 8Gb RAM
+	+ 151 (k8s-manager-2) - 4vCPU, 8Gb RAM
+	+ 152 (k8s-manager-3) - 4vCPU, 8Gb RAM
+	+ 153 (k8s-worker-1) - 4vCPU, 8Gb RAM
+	+ 154 (k8s-worker-2) - 4vCPU, 8Gb RAM
+	+ 155 (k8s-worker-3) - 4vCPU, 8Gb RAM
 		+ Web-facing & scalable services, Treafik, Grafana, HomePage, Portainer, Uptime Kuma, Games Server, Jenkins Agents
 + Standalone Docker VMs (One per major service)
 	+ VM 301: Media Stack (docker-compose) - 4vCPU, 4GB RAM

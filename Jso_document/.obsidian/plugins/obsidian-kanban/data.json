@@ -2,10 +2,11 @@
   "show-checkboxes": true,
   "tag-colors": [
     {
-      "tagKey": "#No status 😴",
+      "tagKey": "",
       "color": "",
       "backgroundColor": ""
     }
   ],
-  "move-tags": true
+  "move-tags": true,
+  "tag-sort": []
 }

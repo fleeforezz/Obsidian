@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "excalidraw-embeddable-theme": "text",
     "mindmap-plugin": "text",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "excalidraw-export-internal-links": "checkbox"
   }
 }
