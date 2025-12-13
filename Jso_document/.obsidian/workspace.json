@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "4cd597e9d328973c",
+            "id": "b21861556f6a510e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -217,7 +217,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "187bc4847c5bdd7e",
+  "active": "b21861556f6a510e",
   "lastOpenFiles": [
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "02 - School/Curiculum.md",
