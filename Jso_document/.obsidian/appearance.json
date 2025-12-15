@@ -5,13 +5,13 @@
   "nativeMenus": true,
   "theme": "system",
   "cssTheme": "",
-  "interfaceFontFamily": "Cascadia Mono,Inter",
+  "interfaceFontFamily": "Inter,Cascadia Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "main"
   ],
-  "textFontFamily": "Cascadia Mono,Inter",
-  "monospaceFontFamily": "Inter",
+  "textFontFamily": "Inter,Cascadia Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,Inter",
   "showRibbon": true,
   "baseFontSizeAction": true,
   "baseFontSize": 15

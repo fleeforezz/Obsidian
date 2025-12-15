@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/Web Server/Nginx/Install Nginx.md",
+                "file": "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Nginx"
+              "title": "Nginx"
             }
           },
           {
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Web Server/Nginx/Install Nginx.md",
+                "file": "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Install Nginx"
+              "title": "Outline of Nginx"
             }
           },
           {
@@ -239,7 +239,7 @@
     "02 - School",
     "06 - Projects/Todo App/Diagrams/File Structure.md",
     "06 - Projects/Todo App/📑 Todo's App Design.md",
-    "01 - HomeLab/Services/Web Server/Nginx/Install Nginx.md",
+    "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
     "01 - HomeLab/Services/Web Server/Apache/Install Apache.md",
     "01 - HomeLab/Services/Web Server/Apache/Getting ready for install Apache.md",
     "01 - HomeLab/Services/Web Server/Apache/Apache.md",
