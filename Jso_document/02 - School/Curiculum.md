@@ -55,20 +55,16 @@ kanban-plugin: board
 
 ## 🌠 Wishlist
 
-- [ ] SWP391
-	(Software development project)
-	#SWP391 #SWE201c #PRJ301
 
 
 ## 🔆 On-Going
 
+- [ ] SWP391
+	(Software development project)
+	#SWP391 #SWE201c #PRJ301
 - [ ] SWE201c
 	(Introduction to Software Engineering)
 	#SWE201c #PRO192
-- [ ] MAD101
-	#MAD101
-- [ ] MAE101
-	#MAE101
 - [ ] MAS291
 	(Statistics & Probability)
 	#MAS291
