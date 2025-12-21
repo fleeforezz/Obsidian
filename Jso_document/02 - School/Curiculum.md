@@ -65,9 +65,8 @@ kanban-plugin: board
 - [ ] SWE201c
 	(Introduction to Software Engineering)
 	#SWE201c #PRO192
-- [ ] MAS291
-	(Statistics & Probability)
-	#MAS291
+- [ ] MAD101
+	#MAD101
 
 
 ## ✅ Done
@@ -116,7 +115,6 @@ kanban-plugin: board
 	(Introduction to Software Engineering)
 	#SWE201c #PRO192
 - [ ] MAD101
-	#MAD101
 - [ ] MAE101
 	#MAE101
 
