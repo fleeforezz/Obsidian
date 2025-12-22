@@ -1,7 +1,6 @@
 ## 🖥️ Proxmox VMs and Containers Design (Main Server)
 
 **Proxmox Host**
-+ VM 100: PfSense - Firewall - 1vCPU, 2GB RAM
 + Docker Swarm Cluster (3 managers + 2-3 workers)
 	+ 150 (k8s-manager-1) - 4vCPU, 8Gb RAM
 	+ 151 (k8s-manager-2) - 4vCPU, 8Gb RAM
@@ -22,6 +21,7 @@
 	+ VM 305: Developments (docker-compose) - 4vCPU, 8GB RAM
 		+ Portainer, testing webapps, SonarQube
 + Standalone VMs (One per major service)
+	+ VM 400: PfSense - Firewall - 1vCPU, 2GB RAM
 	+ VM 401: Gitlab - 4vCPU, 8GB RAM
 	+ VM 402: Jenkins - 4vCPU, 8GB RAM
 	+ VM 403: Pi-Hole - 2vCPU, 2GB RAM
