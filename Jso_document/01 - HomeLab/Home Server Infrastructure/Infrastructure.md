@@ -46,15 +46,16 @@
 	+ VM 305: Developments (docker-compose)
 		+ CPU: 4 cores
 		+ RAM: 8Gb
-		+ Disk: 32Gb
+		+ Disk: 50Gb
+	+ VM
 + Standalone VMs (One per major service)
 	+ VM 400: PfSense - Firewall 
 		+ CPU: 1 cores
 		+ RAM: 2Gb
-		+ Disk: 32Gb
+		+ Disk: 16Gb
 	+ VM 401: Gitlab
-		+ CPU: 4 cores
-		+ RAM: 8Gb
+		+ CPU: 8 cores
+		+ RAM: 16Gb
 		+ Disk: 32Gb
 	+ VM 402: Jenkins
 		+ CPU: 4 cores
@@ -63,13 +64,15 @@
 	+ VM 403: Pi-Hole
 		+ CPU: 2 cores
 		+ RAM: 2Gb
-		+ Disk: 32Gb
+		+ Disk: 15Gb
 	+ VM 404: Cockpit
 		+ CPU: 3 cores
 		+ RAM: 4Gb
-		+ Disk: 32Gb
+		+ Disk: 15Gb
 + Cloud-Init Templates
 	+ ubuntu-cloud (type VM)
+
+=> Total used space: 480Gb
 
 ## 🗃️ Truenas Scale (Storage Server)
 
