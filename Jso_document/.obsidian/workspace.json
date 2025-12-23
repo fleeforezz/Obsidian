@@ -70,27 +70,23 @@
               "icon": "lucide-file",
               "title": "Infrastructure"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9824c737bbf111f8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ad43828844e8b214",
+            "id": "7b0bae9f1f3c6dc2",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Networking Map.md"
+                "file": "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "Networking Map"
+              "icon": "lucide-file",
+              "title": "Storage"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -265,16 +260,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ad43828844e8b214",
+  "active": "7b0bae9f1f3c6dc2",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Networking Map.md",
+    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
-    "02 - School/Curiculum.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
+    "01 - HomeLab/Services/Monitoring/Grafana/Grafana.md",
+    "01 - HomeLab/TodoList.md",
+    "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
+    "01 - HomeLab/Services/Storage & BackUp/Longlorn/Longhorn.md",
+    "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
+    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
+    "02 - School/Curiculum.md",
+    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "99 - Other/Temp/Tiền.md",
     "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
     "02 - School/Untitled.md",
@@ -288,14 +289,8 @@
     "07 - Resources/Template Resources/HomeLabNoteTemp.md",
     "00 - Notes/HomeLab/HomeLab note 2025-02-05.md",
     "08 - Templates",
-    "01 - HomeLab/TodoList.md",
-    "02 - School/Task Board/LAB211/Lab_1/All Features.md",
-    "04 - Tasks Board/Learning board.md",
     "03 - Work",
     "02 - School",
-    "06 - Projects/Todo App/Diagrams/File Structure.md",
-    "06 - Projects/Todo App/📑 Todo's App Design.md",
-    "01 - HomeLab/Services/Web Server/Apache/Install Apache.md",
     "01 - HomeLab/Services/Web Server/Nginx",
     "01 - HomeLab/Services/Web Server/Apache",
     "01 - HomeLab/Services/Web Server",
