@@ -6,7 +6,7 @@ Make sure you have [[Docker]] and [[Docker Compose]]
 
 ```shell
 ./traefik
-├── data
+├── config
 │   ├── acme.json
 │   ├── config.yml
 │   └── traefik.yml
@@ -30,61 +30,64 @@ nano docker-compose.yaml
 `docker-compose.yaml`
 
 ```YAML
-version: "3.8"
-
+secrets:
+  cf-token:
+    file: ./cf-token
 services:
   traefik:
-    image: traefik:v3.0
+    image: traefik:latest # or traefik:v3.3 to pin a version
     container_name: traefik
     restart: unless-stopped
     security_opt:
-      - no-new-privileges:true
+      - no-new-privileges:true # helps to increase security
+    secrets:
+      - cf-token # the secret at the top of this file
+    env_file:
+      - .env # store other secrets e.g., dashboard password
     networks:
-      - proxy
+       - proxy
     ports:
       - 80:80
-      - 443:443/tcp
-      # - 443:443/udp # Uncomment if you want HTTP3
+      - 443:443
+     # - 10000:10000 # optional
+     # - 33073:33073 # optional
     environment:
-      CF_DNS_API_TOKEN_FILE: /run/secrets/cf_api_token # note using _FILE for docker secrets
-      # CF_DNS_API_TOKEN: ${CF_DNS_API_TOKEN} # if using .env
-      TRAEFIK_DASHBOARD_CREDENTIALS: ${TRAEFIK_DASHBOARD_CREDENTIALS}
-    secrets:
-      - cf_api_token
-    env_file: .env # use .env
+      - TRAEFIK_DASHBOARD_CREDENTIALS=${TRAEFIK_DASHBOARD_CREDENTIALS}
+      - CF_API_EMAIL=fleeforezz@gmail.com # Cloudflare email
+      # - CF_DNS_API_TOKEN=YOUR-TOKEN # Cloudflare API Token
+      - CF_DNS_API_TOKEN_FILE=/run/secrets/cf-token # see https://doc.traefik.io/traefik/https/acme/#providers
+      # token file is the proper way to do it
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - /var/run/docker.sock:/var/run/docker.sock:ro
-      - ./data/traefik.yml:/traefik.yml:ro
-      - ./data/acme.json:/acme.json
-      # - ./data/config.yml:/config.yml:ro
+      - /home/jso/Traefikv3/config/traefik.yaml:/traefik.yaml:ro
+      - /home/jso/Traefikv3/config/acme.json:/acme.json
+      - /home/jso/Traefikv3/config/config.yaml:/config.yaml:ro
+      - /home/jso/Traefikv3/config/logs:/var/log/traefik
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.traefik.entrypoints=http"
-      - "traefik.http.routers.traefik.rule=Host(`traefik-dashboard.local.example.com`)"
+      - "traefik.http.routers.traefik.rule=Host(`traefik.hikarimoon.pro`)"
       - "traefik.http.middlewares.traefik-auth.basicauth.users=${TRAEFIK_DASHBOARD_CREDENTIALS}"
       - "traefik.http.middlewares.traefik-https-redirect.redirectscheme.scheme=https"
       - "traefik.http.middlewares.sslheader.headers.customrequestheaders.X-Forwarded-Proto=https"
       - "traefik.http.routers.traefik.middlewares=traefik-https-redirect"
       - "traefik.http.routers.traefik-secure.entrypoints=https"
-      - "traefik.http.routers.traefik-secure.rule=Host(`traefik-dashboard.local.example.com`)"
+      - "traefik.http.routers.traefik-secure.rule=Host(`traefik.hikarimoon.pro`)"
       - "traefik.http.routers.traefik-secure.middlewares=traefik-auth"
       - "traefik.http.routers.traefik-secure.tls=true"
       - "traefik.http.routers.traefik-secure.tls.certresolver=cloudflare"
-      - "traefik.http.routers.traefik-secure.tls.domains[0].main=local.example.com"
-      - "traefik.http.routers.traefik-secure.tls.domains[0].sans=*.local.example.com"
+      - "traefik.http.routers.traefik-secure.tls.domains[0].main=hikarimoon.pro"
+      - "traefik.http.routers.traefik-secure.tls.domains[0].sans=*.hikarimoon.pro"
       - "traefik.http.routers.traefik-secure.service=api@internal"
-
-secrets:
-  cf_api_token:
-    file: ./cf_api_token.txt
 
 networks:
   proxy:
-    external: true
+    external: true # or comment this line to auto create the network
+
 ```
 
-### data folder
+### Config folder
 
 ```shell
 mkdir data
@@ -93,14 +96,12 @@ touch acme.json
 chmod 600 acme.json
 ```
 
-### Traefik Config
+#### traefik.yaml
 
 ```shell
 touch traefik.yml
 nano traefik.yml
 ```
-
-`traefik.yml`
 
 ```yaml
 api:
@@ -140,12 +141,167 @@ certificatesResolvers:
           - "1.0.0.1:53"
 ```
 
+#### config.yaml
+
+```shell
+touch config.yaml
+nano config.yaml
+```
+
+```YAML
+http:
+  ###############
+  # MIDDLEWARES #
+  ###############
+  middlewares:
+  # Default Security Header  
+    default-security-headers:
+      headers:
+        browserXssFilter: true                            # X-XSS-Protection=1; mode=block
+        contentTypeNosniff: true                          # X-Content-Type-Options=nosniff
+        forceSTSHeader: true                              # Add the Strict-Transport-Security header
+        referrerPolicy: "strict-origin-when-cross-origin"
+        stsIncludeSubdomains: true                        # Add includeSubdomains to the Strict-Transport-Security header
+        stsPreload: true                                  # Add preload flag
+        stsSeconds: 31536000                              # Set max-age (1 year)
+        customRequestHeaders:
+          X-Forwarded-Proto: https
+
+  # Https Redirectscheme  
+    https-redirectscheme:
+      redirectScheme:
+        scheme: https
+        permanent: true
+    
+  # Proxmox header
+    proxmox-headers:
+        headers:
+          customRequestHeaders:
+            X-Forwarded-Proto: https
+          customResponseHeaders:
+            X-Frame-Options: SAMEORIGIN
+
+  # Homepage Security Header  
+    # homepage-security-headers:
+    #   headers:
+    #     browserXssFilter: true
+    #     contentTypeNosniff: true
+    #     forceSTSHeader: true
+    #     referrerPolicy: "strict-origin-when-cross-origin"
+    #     stsIncludeSubdomains: true
+    #     stsPreload: true
+    #     stsSeconds: 31536000
+    #     # More permissive CSP for homepage
+    #     contentSecurityPolicy: "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' wss: https:;"
+    #     customRequestHeaders:
+    #       X-Forwarded-Proto: https
+    
+
+  ###########
+  # ROUTERS #
+  ###########
+  routers:
+  #---- Homepage Router ----#
+    # HTTP to HTTPS redirect (Hompage)
+    homepage-http:
+      entryPoints:
+        - "http"
+      rule: "Host(`homepage.hikarimoon.pro`)"
+      middlewares:
+        - https-redirectscheme
+      service: homepage
+    # HTTPS router (Homepage)
+    homepage:
+      entryPoints:
+        - "https"
+      rule: "Host(`homepage.hikarimoon.pro`)"
+      middlewares:
+        - default-security-headers
+      tls:
+        certResolver: cloudflare  # Add this!
+      service: homepage
+
+  #---- Portainer Router ----#
+    # HTTP to HTTPS redirect (Portainer)
+    portainer-http:
+      entryPoints: 
+        - "http"
+      rule: "Host(`dev-portainer.hikarimoon.pro`)"
+      middlewares:
+        - https-redirectscheme
+      service: portainer
+    # HTTPS router (Portainer)
+    portainer:
+      entryPoints:
+        - "https"
+      rule: "Host(`dev-portainer.hikarimoon.pro`)"
+      middlewares:
+        - default-security-headers
+      tls:
+        certResolver: cloudflare
+      service: portainer
+    
+  #---- Gitlab Router ----#
+    # HTTP to HTTPS redirect
+    gitlab-http:
+      entryPoints: 
+        - "http"
+      rule: "Host(`gitlab.hikarimoon.pro`)"
+      middlewares:
+        - https-redirectscheme
+      service: portainer
+    # HTTPS router
+    gitlab:
+      entryPoints:
+        - "https"
+      rule: "Host(`gitlab.hikarimoon.pro`)"
+      middlewares:
+        - default-security-headers
+      tls:
+        certResolver: cloudflare
+      service: gitlab
+
+  ############
+  # SERVICES #
+  ############
+  services:
+  #---- Homepage Service ----#
+    homepage:
+      loadBalancer:
+        servers:
+          - url: "http://10.0.1.60:3000"
+        passHostHeader: true
+        serversTransport: insecureTransport
+
+  #---- Portainer Service ----#
+    portainer:
+      loadBalancer:
+        servers:
+          - url: "https://10.0.1.80:9443"
+        passHostHeader: true
+        serversTransport: insecureTransport
+
+  #---- Gitlab Service ----#
+    gitlab:
+      loadBalancer:
+        servers:
+          - url: "https://10.0.1.51:443"
+        passHostHeader: true
+        serversTransport: insecureTransport
+
+  ######################
+  # SERVERS TRANSPORTS #
+  ######################
+  serversTransports:
+    insecureTransport:
+      insecureSkipVerify: true  # Since homepage uses self-signed cert internally
+```
 ### Cloudflare API Token Secret
 
 ```shell
 cd ..
-touch cf_api_token.txt
-nano cf_api_token.txt
+touch cftoken.txt
+nano cftoken.txt
 ```
 
 ### Create Docker Network
