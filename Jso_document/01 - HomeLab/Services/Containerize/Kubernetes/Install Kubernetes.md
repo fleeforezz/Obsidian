@@ -108,6 +108,62 @@ If for some reason the join command has expired, the following command will prov
 ```
 kubeadm token create --print-join-command
 ```
+
+## Multiple Master node
+
+Copy certificates from Master Node
+
++ Step 1: On the **existing master node**, copy the required certificates
+
+```shell
+# Create a certificate package
+sudo tar czf /tmp/k8s-certs.tar.gz \
+  -C /etc/kubernetes/pki \
+  ca.crt ca.key \
+  sa.key sa.pub \
+  front-proxy-ca.crt front-proxy-ca.key \
+  etcd/ca.crt etcd/ca.key
+```
+
++ Step 2: Transfer certificates to the new control plane node
+
+Setup ssh key first
+```shell
+# Generate SSH key if you don't have one (as your user, not root) 
+ssh-keygen -t ed25519 # Copy the public key to the target node ssh-copy-id
+
+# Then add the public key and add to targer master node authorized_keys
+```
+
+```shell
+# From the master node, copy to the new node
+scp /tmp/k8s-certs.tar.gz user@10.0.1.XX:/tmp/
+```
+
++ Step 3: On the **new control plane node**, extract the certificates
+
+```shell
+# Create the directory structure
+sudo mkdir -p /etc/kubernetes/pki/etcd
+
+# Extract certificates
+sudo tar xzf /tmp/k8s-certs.tar.gz -C /etc/kubernetes/pki/
+
+# Set proper permissions
+sudo chmod 600 /etc/kubernetes/pki/*.key
+sudo chmod 600 /etc/kubernetes/pki/etcd/*.key
+
+# Clean up
+rm /tmp/k8s-certs.tar.gz
+```
+
++ Step 4: Now run the join command again
+
+```shell
+sudo kubeadm join 10.0.1.51:6443 --token dmtrzc.horu63awggrawi8x \
+  --discovery-token-ca-cert-hash sha256:0e8af88b3925ddf4b0eef13b4eed2ade34af83fe1b59aca1588fe1eecf23cd18 \
+  --control-plane
+```
 # The comprehensive way
 ## On all nodes
 ### Installing containerd
