@@ -39,16 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+                "file": "01 - HomeLab/Services/Containerize/Kubernetes/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8s architecture"
+              "title": "Cheatsheet"
+            }
+          },
+          {
+            "id": "95ed35c5b75bf2ac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Inside K8s"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+                "file": "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of K8s architecture"
+              "title": "Outline of Inside K8s"
             }
           },
           {
@@ -213,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,17 +244,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ed5b1630ffd6cb2d",
+  "active": "95ed35c5b75bf2ac",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
-    "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Cheatsheet.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Infrastructure.md",
+    "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "99 - Other/Temp/K8s connection.md",
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/K8s/Untitled",
     "01 - HomeLab/Home Server Infrastructure/K8s",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
     "01 - HomeLab/Services/Network/Traefik/Traefik.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
@@ -258,9 +274,6 @@
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "99 - Other/Temp/Tiền.md",
     "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
-    "02 - School/Untitled.md",
-    "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
-    "01 - HomeLab/Services/Containerize/Docker/Docker syntax.md",
     "08 - Templates",
     "03 - Work",
     "02 - School",
