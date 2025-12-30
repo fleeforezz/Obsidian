@@ -43,7 +43,7 @@ mindmap-plugin: basic
         - Testing webapps
         - SonarQube [[Sonarqube]]
     - 306 - Reverse Proxy (10.0.1.75/24)
-    - 307 - K8s-Clusters Load Balancer (10.0.1.76/24)
+        - Traefik
 - Standalone VMs
     - 400 - PfSense (WAN: 192.168.1.99/24 - LAN: 10.0.1.0/24)
     - 401 - Gitlab [[GitLab]] (10.0.1.77/24)
@@ -51,6 +51,7 @@ mindmap-plugin: basic
     - 403 - Pi-Hole [[Pi-Hole]] (10.0.1.79/24)
     - 404 - Cockpit [[Cockpit]] (10.0.1.80/24)
     - 405 - HomeAssistant [[HomeAssistant]] (10.0.1.81/24)
+    - 406 - K8s-Clusters Load Balancer (10.0.1.76/24)
 - Cloud-Init Template
     - ubuntu-cloud (type VM - 10.0.1.0/24)
 

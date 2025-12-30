@@ -47,7 +47,11 @@
 		+ CPU: 4 cores
 		+ RAM: 8Gb
 		+ Disk: 50Gb
-	+ VM
+	+ VM 306: Reverse Proxy Server (docker-compose)
+		+ CPU: 4 cores
+		+ RAM: 4Gb
+		+ Disk: 32Gb
+=> Total disk usage: 210Gb
 + Standalone VMs (One per major service)
 	+ VM 400: PfSense - Firewall 
 		+ CPU: 1 cores
@@ -69,6 +73,10 @@
 		+ CPU: 3 cores
 		+ RAM: 4Gb
 		+ Disk: 15Gb
+	+ VM 405: K8s clusters Load Balancer
+		+ CPU: 4 cores
+		+ RAM: 4Gb
+		+ Disk: 32Gb
 + Cloud-Init Templates
 	+ ubuntu-cloud (type VM)
 

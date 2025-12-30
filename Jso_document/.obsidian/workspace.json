@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/Network/Traefik/Traefik.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traefik"
+              "title": "Infrastructure"
             }
           },
           {
@@ -34,21 +34,21 @@
             }
           },
           {
-            "id": "c5bd747ef95297e5",
+            "id": "7b0bae9f1f3c6dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
-                "mode": "preview",
+                "file": "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "K8s architecture"
             }
           },
           {
-            "id": "95ed35c5b75bf2ac",
+            "id": "8c1374e12d165509",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inside K8s"
+              "title": "Outline of HomeLab Map"
             }
           },
           {
@@ -225,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,28 +243,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "95ed35c5b75bf2ac",
+  "active": "86a9ac1a906da788",
   "lastOpenFiles": [
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/Pasted Image 20251230160435_179.png",
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/Pasted Image 20251230160403_421.png",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Infrastructure.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Cheatsheet.md",
+    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{1AF6CD75-905D-4407-824A-355348120765}.png",
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{2677D7A8-A393-4BBB-844E-63594E40722F}.png",
+    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
+    "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
+    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{2677D7A8-A393-4BBB-844E-63594E40722F}.png",
+    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{1AF6CD75-905D-4407-824A-355348120765}.png",
+    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/Pasted Image 20251230160435_179.png",
+    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/Pasted Image 20251230160403_421.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments",
-    "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
     "99 - Other/Temp/K8s connection.md",
-    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/K8s/Untitled",
     "01 - HomeLab/Home Server Infrastructure/K8s",
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
-    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
@@ -280,6 +277,8 @@
     "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "99 - Other/Temp/Tiền.md",
+    "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
+    "02 - School/Untitled.md",
     "08 - Templates",
     "03 - Work",
     "02 - School",
@@ -291,7 +290,6 @@
     "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302095027.png",
     "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302095012.png",
     "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302094918.png",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302094841.png",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
