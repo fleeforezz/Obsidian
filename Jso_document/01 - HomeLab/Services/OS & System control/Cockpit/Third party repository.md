@@ -35,11 +35,11 @@ sudo apt install cockpit-file-sharing -y
 ## Navigator
 
 ```shell
-wget https://github.com/45Drives/cockpit-navigator/releases/download/v0.5.10/cockpit-navigator_0.5.10-1focal_all.deb
+wget https://github.com/45Drives/cockpit-navigator/releases/download/v0.6.0/cockpit-navigator_0.6.0-1focal_all.deb
 ```
 
 ```shell
-sudo apt install ./cockpit-navigator_0.5.10-1focal_all.deb -y
+sudo apt install ./cockpit-navigator_0.6.0-1focal_all.deb -y
 ```
 
 ## Identities
