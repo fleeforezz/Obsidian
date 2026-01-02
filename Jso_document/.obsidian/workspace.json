@@ -60,35 +60,49 @@
             }
           },
           {
-            "id": "d654e088640918aa",
+            "id": "894567b8eca607bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/Storage & BackUp/Immich/Immich.md",
+                "file": "01 - HomeLab/Services/OS & System control/Cockpit/Third party repository.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Immich"
+              "title": "Third party repository"
             }
           },
           {
-            "id": "90132b7af559f99d",
+            "id": "589d25a21ee71aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/Secret Manager/Bitwarden/Bitwarden.md",
+                "file": "01 - HomeLab/Services/Containerize/Docker/Docker.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bitwarden"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "4a4c1a2e60a95d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitLab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Secret Manager/Bitwarden/Bitwarden.md",
+                "file": "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bitwarden"
+              "title": "Outline of GitLab"
             }
           },
           {
@@ -271,14 +285,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "90132b7af559f99d",
+  "active": "4a4c1a2e60a95d03",
   "lastOpenFiles": [
+    "01 - HomeLab/Services/OS & System control/Cockpit/Third party repository.md",
+    "01 - HomeLab/Services/OS & System control/Cockpit/Cockpit.md",
+    "01 - HomeLab/Services/OS & System control/SSH Key/Generate SSH key.md",
+    "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
+    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
+    "01 - HomeLab/Services/Storage & BackUp/Immich/Immich.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
-    "01 - HomeLab/Services/Storage & BackUp/Immich/Immich.md",
-    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
-    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
+    "01 - HomeLab/Services/Media/Navidrome/Navidrome.md",
+    "01 - HomeLab/Services/Media/YoutubeDL/YoutubeDL.md",
+    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
+    "01 - HomeLab/Services/Others/Htpasswd.md",
+    "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{2677D7A8-A393-4BBB-844E-63594E40722F}.png",
@@ -299,15 +322,6 @@
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
     "02 - School/Curiculum.md",
-    "01 - HomeLab/Services/Monitoring/Grafana/Grafana.md",
-    "01 - HomeLab/TodoList.md",
-    "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
-    "01 - HomeLab/Services/Storage & BackUp/Longlorn/Longhorn.md",
-    "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
-    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
-    "99 - Other/Temp/Tiền.md",
-    "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
-    "02 - School/Untitled.md",
     "08 - Templates",
     "03 - Work",
     "02 - School",
