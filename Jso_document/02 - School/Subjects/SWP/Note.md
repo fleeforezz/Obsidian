@@ -13,3 +13,25 @@
 		+ Gắn số seri phụ tùng lắp lên xe (chỉ đánh dấu phụ kiện quan trọng như pin, này nọ)
 		+ Nhận phụ tùng từ **hãng** 
 2. Thực hiện bảo hành
+
+
+TODO:
+T5:
++ List tools + Languages (6 sections)
++ Understanding business process
+
+FE: ReactJs
+BE: Srping boot
+Design: Figma
+Project Management: Click_Up / Jira
+Source code management: Github
+ERD: https://lucid.app/
+
+
+Tools:
+BE: IntelliJ
+FE: VScode
+DB: MSSQL
+API testinng: Postman
+CI/CD: Jenkins, ArgoCD
+Containerize: Docker, Kubernetes
