@@ -74,9 +74,35 @@
               "icon": "lucide-file",
               "title": "Note"
             }
+          },
+          {
+            "id": "90fd09102d4c9b7c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-08 21.22.25.excalidraw"
+            }
+          },
+          {
+            "id": "f73429754e6dcbfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Study/Ielts/Volcab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volcab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - School/Subjects/SWP/Note.md",
+                "file": "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note"
+              "title": "Outline of Drawing 2026-01-08 21.22.25.excalidraw"
             }
           },
           {
@@ -259,8 +285,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "61f1c5fb997a3395",
+  "active": "90fd09102d4c9b7c",
   "lastOpenFiles": [
+    "04 - Study/Ielts/Volcab.md",
+    "04 - Study/Ielts",
+    "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
+    "02 - School/Subjects/SWP/Note.md",
+    "02 - School/Subjects/SWP/Untitled mindmap.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "01 - HomeLab/Services/OS & System control/SSH Key/Generate SSH key.md",
@@ -292,10 +323,6 @@
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
     "02 - School/Curiculum.md",
-    "01 - HomeLab/Services/Monitoring/Grafana/Grafana.md",
-    "01 - HomeLab/TodoList.md",
-    "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
-    "01 - HomeLab/Services/Storage & BackUp/Longlorn/Longhorn.md",
     "08 - Templates",
     "03 - Work",
     "02 - School",
@@ -303,7 +330,6 @@
     "01 - HomeLab/Services/Web Server/Apache",
     "01 - HomeLab/Services/Web Server",
     "01 - HomeLab/Services/Storage & BackUp/MySQL/Pasted image 20240302101545.png",
-    "01 - HomeLab/Services/Storage & BackUp/Syncthing",
     "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302095027.png",
     "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302095012.png",
     "01 - HomeLab/Services/OS & System control/Linux Command/Resource/Pasted image 20240302094918.png",
