@@ -62,55 +62,35 @@
             }
           },
           {
-            "id": "61f1c5fb997a3395",
+            "id": "91cef036dbaae2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - School/Subjects/SWP/Note.md",
-                "mode": "source",
+                "file": "01 - HomeLab/Services/Automation/Ansible/Ansible.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Ansible"
             }
           },
           {
-            "id": "90fd09102d4c9b7c",
+            "id": "5c4bd7ae10972ec6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md"
+                "file": "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-08 21.22.25.excalidraw"
-            }
-          },
-          {
-            "id": "7ca9eea2892bd89d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02 - School/Curiculum.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Curiculum"
+              "icon": "lucide-file",
+              "title": "Portainer"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - School/Curiculum.md",
+                "file": "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curiculum"
+              "title": "Outline of Portainer"
             }
           },
           {
@@ -293,17 +273,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7ca9eea2892bd89d",
+  "active": "5c4bd7ae10972ec6",
   "lastOpenFiles": [
+    "01 - HomeLab/Services/Containerize/Docker Compose/Docker Compose.md",
+    "01 - HomeLab/Services/Automation/Ansible/Ansible.md",
+    "01 - HomeLab/Services/Development/Jenkin/Jenkin.md",
+    "02 - School/Subjects/SWP/Note.md",
     "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
+    "02 - School/Curiculum.md",
+    "05 - Excalidraw/Drawing 2026-01-16 21.09.35.excalidraw.md",
     "04 - Study/Ielts/Volcab.md",
     "04 - Study/Ielts",
-    "02 - School/Subjects/SWP/Note.md",
     "02 - School/Subjects/SWP/Untitled mindmap.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "01 - HomeLab/Services/OS & System control/SSH Key/Generate SSH key.md",
-    "01 - HomeLab/Services/Development/Jenkin/Jenkin.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Pi-Hole.md",
     "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/Inside K8s.md",
@@ -327,10 +311,6 @@
     "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
     "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
     "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
-    "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
-    "02 - School/Curiculum.md",
     "08 - Templates",
     "03 - Work",
     "02 - School",
