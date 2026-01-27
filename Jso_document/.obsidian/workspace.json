@@ -88,9 +88,21 @@
               "icon": "lucide-file",
               "title": "Portainer"
             }
+          },
+          {
+            "id": "6757ae3b6f3bbef3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-27 20.45.50.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+                "file": "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Portainer"
+              "title": "Outline of Drawing 2026-01-27 20.45.50.excalidraw"
             }
           },
           {
@@ -273,8 +285,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5c4bd7ae10972ec6",
+  "active": "6757ae3b6f3bbef3",
   "lastOpenFiles": [
+    "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
+    "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Services/Containerize/Docker Compose/Docker Compose.md",
     "01 - HomeLab/Services/Automation/Ansible/Ansible.md",
     "01 - HomeLab/Services/Development/Jenkin/Jenkin.md",
@@ -309,8 +323,6 @@
     "01 - HomeLab/Home Server Infrastructure/Networking/Ips Table.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
-    "01 - HomeLab/Services/Web Server/Nginx/Nginx.md",
-    "01 - HomeLab/Home Server Infrastructure/Terraform SetUp/Storage.md",
     "08 - Templates",
     "03 - Work",
     "02 - School",
