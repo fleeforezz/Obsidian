@@ -11,22 +11,14 @@
             "id": "30c8be6c3c96ec74",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/TodoList.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    null,
-                    false,
-                    false
-                  ]
-                }
+                "file": "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TodoList"
+              "icon": "lucide-file",
+              "title": "Config SMTP notification for uptime kuma"
             }
           }
         ]
@@ -117,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/TodoList.md",
+                "file": "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TodoList"
+              "title": "Outline of Config SMTP notification for uptime kuma"
             }
           },
           {
@@ -214,6 +206,9 @@
   },
   "active": "30c8be6c3c96ec74",
   "lastOpenFiles": [
+    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
+    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
+    "01 - HomeLab/TodoList.md",
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
@@ -238,9 +233,6 @@
     "05 - Excalidraw/Drawing 2026-01-16 21.09.35.excalidraw.md",
     "04 - Study/Ielts/Volcab.md",
     "04 - Study/Ielts",
-    "02 - School/Subjects/SWP/Untitled mindmap.md",
-    "02 - School/Subjects/SWP/Untitled Kanban.md",
-    "01 - HomeLab/Services/OS & System control/SSH Key/Generate SSH key.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{2677D7A8-A393-4BBB-844E-63594E40722F}.png",
