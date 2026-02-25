@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69e50b4c9213611e",
+        "id": "8bb93d218770e934",
         "type": "tabs",
         "children": [
           {
-            "id": "30c8be6c3c96ec74",
+            "id": "ab199262d78c6f66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Config SMTP notification for uptime kuma"
+              "title": "New tab"
             }
           }
         ]
@@ -109,13 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Config SMTP notification for uptime kuma"
+              "title": "Outline"
             }
           },
           {
@@ -204,10 +199,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "30c8be6c3c96ec74",
+  "active": "ab199262d78c6f66",
   "lastOpenFiles": [
-    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
+    "01 - HomeLab/Services/Dashboard/Flame/Custom CSS.md",
     "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
+    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
     "01 - HomeLab/TodoList.md",
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Network Nic Detail.md",
@@ -217,7 +213,6 @@
     "01 - HomeLab/Home Server Infrastructure/K8s/K8s architecture.md",
     "01 - HomeLab/Services/NVR/Frigate/Frigate.md",
     "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
-    "01 - HomeLab/Services/Dashboard/Flame/Custom CSS.md",
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
     "01 - HomeLab/Services/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
