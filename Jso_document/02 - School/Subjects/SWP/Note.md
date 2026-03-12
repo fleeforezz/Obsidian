@@ -60,3 +60,6 @@ Annotator:
 + Gắn AssignmentApi & DataItemApi để hiển thị thông tin assignment và số dataitem phải làm
 + Gắn AnnotationApi
 + Bổ sung task status, nếu label cho hết số dataitem thì flag for review sẽ là yes
+
+
+Upload 1 folder nhiều ảnh (min 30 ảnh)
