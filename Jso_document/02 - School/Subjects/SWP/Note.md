@@ -35,31 +35,3 @@ DB: MSSQL
 API testinng: Postman
 CI/CD: Jenkins, ArgoCD
 Containerize: Docker, Kubernetes
-
-
-## Todos
-Manager: 
-	+ project nào có cái status là inactive thì ko hiển thị lên màn hình (done)
-	+ Thêm button Cancel project đó, button Deactivate Project chỉnh thành remove project (not yet)
-	+ ![[Pasted image 20260311112906.png]]
-	+ Chỉnh logic nếu projectStatus là Inactive thì khi tạo project mới, project mới tạo có thể lấy tên của project đã inactive (vì coi như đã xóa r nên dùng lại tên cũng đc).
-	+ Sort cái list project theo ngày tạo project, tương tự như (not yet)
-	+ Tạo button add project member (not yet)
-	+ ![[Pasted image 20260311113506.png]]
-	+ Check available annotator & reviewer có available ko (khi annotator hoặc reviwer đó đã đc assign vào một project khác) (done)
-	+ Hiển thị data item trong phần dataset (done)
-	+ Hiển thị màu cạnh label name (done)
-	+ ![[Pasted image 20260311115040.png]]
-	+ Bổ sung phần assign dataset vào assignment
-	+ Bổ sung hiển thị Associated project trong phần assignment
-
-Annotator:
-+ Hiển thị số dataitem cho dataset hiện tại
-+ ![[Pasted image 20260311115757.png]]
-+ Gắn TaskAPI vào để hiện task
-+ Gắn AssignmentApi & DataItemApi để hiển thị thông tin assignment và số dataitem phải làm
-+ Gắn AnnotationApi
-+ Bổ sung task status, nếu label cho hết số dataitem thì flag for review sẽ là yes
-
-
-Upload 1 folder nhiều ảnh (min 30 ảnh)
