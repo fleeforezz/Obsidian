@@ -39,8 +39,7 @@
               "title": "Untitled Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -224,10 +224,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7a8a9eae3e219d01",
+  "active": "728b8183c71c7ff1",
   "lastOpenFiles": [
-    "02 - School/Subjects/SWP/Note.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
+    "02 - School/Subjects/SWP/Note.md",
     "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "01 - HomeLab/Services/OS & System control/Proxmox/Config Proxmox.md",
