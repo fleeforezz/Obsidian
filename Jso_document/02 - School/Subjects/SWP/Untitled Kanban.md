@@ -12,16 +12,16 @@ kanban-plugin: board
 - [ ] Task API thiếu index
 - [ ] Task card chưa hiển thị đc task status
 - [ ] Task card chưa hiện progress bar để track completed_count
-- [ ] Fix lại xóa mềm assignment
 
 
 ## In-Progress
 
-- [ ] Assignment chưa thể xóa
 
 
 ## Done
 
+- [ ] Fix lại xóa mềm assignment
+- [ ] Assignment chưa thể xóa
 
 
 

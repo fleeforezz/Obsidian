@@ -39,7 +39,8 @@
               "title": "Untitled Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,11 +224,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "728b8183c71c7ff1",
+  "active": "7a8a9eae3e219d01",
   "lastOpenFiles": [
+    "05 - Excalidraw/DLS_Doc.excalidraw.md",
+    "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
     "02 - School/Subjects/SWP/Untitled mindmap.md",
-    "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
     "02 - School/Subjects/SWP/Note.md",
     "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
@@ -237,7 +239,6 @@
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311113506.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311112906.png",
     "02 - School/Subjects/SWP/attachments",
-    "05 - Excalidraw/DLS_Doc.excalidraw.md",
     "05 - Excalidraw/Drawing 2026-02-27 10.55.32.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20260227221220_271.png",
     "05 - Excalidraw/attachments/Pasted Image 20260227210457_379.png",
