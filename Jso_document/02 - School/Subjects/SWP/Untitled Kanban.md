@@ -17,6 +17,7 @@ kanban-plugin: board
 
 ## In-Progress
 
+- [ ] Assignment chưa thể xóa
 
 
 ## Done

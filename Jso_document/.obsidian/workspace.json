@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -227,6 +226,8 @@
   "active": "728b8183c71c7ff1",
   "lastOpenFiles": [
     "02 - School/Subjects/SWP/Untitled Kanban.md",
+    "02 - School/Subjects/SWP/Untitled mindmap.md",
+    "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
     "02 - School/Subjects/SWP/Note.md",
     "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
@@ -257,8 +258,6 @@
     "01 - HomeLab/Services/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
     "01 - HomeLab/Services/NVR/Scryted/Install Scryted.md",
     "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
-    "01 - HomeLab/Services/Containerize/Docker Compose/Docker Compose.md",
-    "01 - HomeLab/Services/Automation/Ansible/Ansible.md",
     "04 - Study/Ielts",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
