@@ -12,12 +12,14 @@ kanban-plugin: board
 - [ ] Task API thiếu index
 - [ ] Task card chưa hiển thị đc task status
 - [ ] Task card chưa hiện progress bar để track completed_count
-- [ ] Assignment xóa mềm
 
 
 ## In-Progress
 
+- [ ] Assignment xóa mềm
+- [ ] Đổi dataset của assignment
 - [ ] Dataset xóa mềm
+- [ ] Fix remove item trong lúc edit Dataset
 
 
 ## Done
