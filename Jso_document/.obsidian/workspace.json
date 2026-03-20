@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7a8a9eae3e219d01",
+            "id": "5cf00bfcc6a36322",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "1b55eec5a5b868a5",
+            "id": "3514d7c87ceb6a1f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -244,13 +244,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1b55eec5a5b868a5",
+  "active": "3514d7c87ceb6a1f",
   "lastOpenFiles": [
     "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
     "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
+    "02 - School/Subjects/SWP/Untitled Kanban.md",
     "02 - School/Subjects/SWP/Board",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
     "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
     "02 - School/Subjects/SWP/Untitled mindmap.md",
     "02 - School/Subjects/SWP/Note.md",
@@ -279,6 +279,7 @@
     "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
+    "01 - HomeLab/Services/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
     "04 - Study/Ielts",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
