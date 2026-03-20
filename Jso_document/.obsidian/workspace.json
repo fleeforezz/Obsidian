@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,10 +244,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7a8a9eae3e219d01",
+  "active": "1b55eec5a5b868a5",
   "lastOpenFiles": [
-    "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
     "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
+    "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
     "02 - School/Subjects/SWP/Board",
     "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
