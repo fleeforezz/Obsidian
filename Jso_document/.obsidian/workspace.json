@@ -25,7 +25,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "02 - School/Subjects/SWP/Untitled Kanban.md",
+                "file": "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -36,7 +36,27 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Front-end Kanban"
+            }
+          },
+          {
+            "id": "1b55eec5a5b868a5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Back-end Kanban"
             }
           }
         ],
@@ -226,8 +246,11 @@
   },
   "active": "7a8a9eae3e219d01",
   "lastOpenFiles": [
+    "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
+    "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
-    "02 - School/Subjects/SWP/Untitled Kanban.md",
+    "02 - School/Subjects/SWP/Board",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
     "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
     "02 - School/Subjects/SWP/Untitled mindmap.md",
     "02 - School/Subjects/SWP/Note.md",
@@ -256,9 +279,6 @@
     "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
-    "01 - HomeLab/Services/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
-    "01 - HomeLab/Services/NVR/Scryted/Install Scryted.md",
-    "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
     "04 - Study/Ielts",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
@@ -271,7 +291,6 @@
     "03 - Work",
     "02 - School",
     "01 - HomeLab/Services/Web Server/Nginx",
-    "01 - HomeLab/Services/Web Server/Apache",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
