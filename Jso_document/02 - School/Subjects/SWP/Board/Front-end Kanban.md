@@ -7,8 +7,6 @@ kanban-plugin: board
 ## Todo
 
 - [ ] Add Get Dataset Detail for current Assignment
-- [ ] Fix ko thể edit profile picture
-- [ ] Fix ko có placeholder nếu ko thể lấy đc profile picture từ API
 - [ ] Task API thiếu index
 - [ ] Task card chưa hiển thị đc task status
 - [ ] Task card chưa hiện progress bar để track completed_count
@@ -25,6 +23,8 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Fix ko có placeholder nếu ko thể lấy đc profile picture từ API
+- [ ] Fix ko thể edit profile picture
 - [ ] Fix lỗi ko hiện task cho annotation
 - [ ] Fix remove item trong lúc edit Dataset
 - [ ] Đổi dataset của assignment
