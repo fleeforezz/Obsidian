@@ -11,12 +11,20 @@
             "id": "728b8183c71c7ff1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "05 - Excalidraw/DLS_Doc.excalidraw.md"
+                "file": "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "DLS_Doc.excalidraw"
+              "icon": "lucide-trello",
+              "title": "Back-end Kanban"
             }
           },
           {
@@ -74,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,10 +266,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f9ebcf4d2f828ad3",
+  "active": "5cf00bfcc6a36322",
   "lastOpenFiles": [
     "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
     "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
     "02 - School/Subjects/SWP/Board",
@@ -293,7 +302,6 @@
     "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
-    "01 - HomeLab/Services/Automation/HomeAssistant/Beautiful Dashboard in HomeAssistant.md",
     "04 - Study/Ielts",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",

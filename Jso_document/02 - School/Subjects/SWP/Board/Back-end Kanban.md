@@ -10,6 +10,8 @@ kanban-plugin: board
 - [ ] Cập nhật flagForReview sẽ true nếu annotation xong
 - [ ] Cập nhật assignment status khi taskstatus thay đổi
 - [ ] Cập nhật project status khi assignment đó đổi status
+- [ ] Xóa nhiều dataitem trong lúc update dataset
+- [ ] Ko thể tạo assignment trên dataset từng gắn cho assignment inactive
 
 
 ## In-Progress
