@@ -11,20 +11,12 @@
             "id": "728b8183c71c7ff1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "05 - Excalidraw/DLS_Doc.excalidraw.md"
               },
-              "icon": "lucide-trello",
-              "title": "Back-end Kanban"
+              "icon": "excalidraw-icon",
+              "title": "DLS_Doc.excalidraw"
             }
           },
           {
@@ -81,8 +73,7 @@
               "title": "Install Kubernetes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +209,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -228,8 +219,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -238,12 +229,22 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          },
+          {
+            "id": "b6896a7f48b3f0b7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -266,7 +267,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5cf00bfcc6a36322",
+  "active": "728b8183c71c7ff1",
   "lastOpenFiles": [
     "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
     "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
