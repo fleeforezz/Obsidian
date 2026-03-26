@@ -73,7 +73,8 @@
               "title": "Install Kubernetes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,12 +268,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "728b8183c71c7ff1",
+  "active": "5cf00bfcc6a36322",
   "lastOpenFiles": [
-    "05 - Excalidraw/DLS_Doc.excalidraw.md",
-    "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
-    "99 - Other/System Tweaks/WSL/Install WSL.md",
     "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
+    "05 - Excalidraw/DLS_Doc.excalidraw.md",
+    "99 - Other/System Tweaks/WSL/Install WSL.md",
     "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
     "02 - School/Subjects/SWP/Board",
