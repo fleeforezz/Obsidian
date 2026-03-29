@@ -1,6 +1,6 @@
 1 Page: 1tr5 (trang nào có form mail + 500k)
-Hosting: ~$7.20/month
-Tên miền (Domain name): tùy thuộc domain
+Hosting: 600k/năm (Trả theo chu kỳ 1 năm 1 lần)
+Tên miền (Domain name): giá tùy thuộc mỗi domain
 
 # Option 1 
 + 2 trang 1 cho JD 1 cho form application
