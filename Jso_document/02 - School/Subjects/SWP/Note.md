@@ -35,3 +35,10 @@ DB: MSSQL
 API testinng: Postman
 CI/CD: Jenkins, ArgoCD
 Containerize: Docker, Kubernetes
+
+
++ Cannot upload since 413 Content Too Large
++ Khi 1 trong số task Của assignment đó có status là complete thì assignment status tự động chuyển thành inactive 
++ Ko update đc annotation. Lúc review xong thì annotator nó edit lại thì bị lỗi này
+![[Pasted image 20260330234448.png]]
+
