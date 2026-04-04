@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
-                "mode": "preview",
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "Infrastructure"
             }
           }
         ],
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
+                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prometheus"
+              "title": "Outgoing links from Infrastructure"
             }
           },
           {
@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -326,11 +326,11 @@
   },
   "active": "355953cc84fc9fb1",
   "lastOpenFiles": [
-    "02 - School/Subjects/SWP/Note.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
+    "06 - Projects/Job Applying Website/Kinh phí.md",
+    "02 - School/Subjects/SWP/Note.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
-    "06 - Projects/Job Applying Website/Kinh phí.md",
     "06 - Projects/Job Applying Website/Front-end Task Board.md",
     "06 - Projects/Job Applying Website/Back-end Task Board.md",
     "02 - School/Subjects/SWP/Board/Back-end Kanban.md",

@@ -1,3 +1,46 @@
+
+## Infrastucture setup
+```bash
+                         🌍 Internet
+                              │
+                    [Viettel Router]
+                        192.168.1.1
+                              │
+                              │ (DMZ → pfSense WAN)
+                              │
+                   ┌────────────────────┐
+                   │     Proxmox Host   │
+                   │   192.168.1.20     │
+                   │                    │
+                   │   vmbr0 (VLAN aware)
+                   │        │
+                   │        │
+                   │   ┌────▼─────┐
+                   │   │ pfSense  │
+                   │   │  VM      │
+                   │   └────┬─────┘
+                   │        │
+                   │   VLAN trunk (net1)
+                   │        │
+                   │  ┌─────┼──────────────┐
+                   │  │     │              │
+                   │  │     │              │
+                   │ VLAN10 VLAN20      VLAN30
+                   │ Servers Dev        IoT
+                   │  │      │           │
+                   │  │      │           │
+                   │ VM      VM         Devices
+                   │  │
+                   │ Kubernetes / NAS
+                   │
+                   │
+                   │   WireGuard VPN (10.0.99.0/24)
+                   │          │
+                   │     Remote Laptop
+                   │
+                   └────────────────────┘
+```
+
 ## 🖥️ Proxmox VMs and Containers Design (Main Server)
 
 **Proxmox Host**
