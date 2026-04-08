@@ -25,33 +25,29 @@ mindmap-plugin: basic
         - Longhorn [[Longhorn]]
         - ArgoCD [[ArgoCD]]
 - Standalone Docker VMs
-    - 301 - Media Stack (10.0.1.70)
-        - Navidrome [[Navidrome]]
-        - YoutubeDL [[YoutubeDL]]
-    - 302 - Personal Services (10.0.1.71/24)
+    - 301 - Personal Services (10.0.1.70/24)
         - Immich [[Immich]]
         - Bitwarden [[Bitwarden]]
         - Frigate [[Frigate]]
-    - 303 - Databases (10.0.1.72/24)
+    - 302 - Databases (10.0.1.71/24)
         - PostgreSQL
         - MicrosoftSQL
         - Redis
-    - 304 - S3-Storage (10.0.1.73/24)
+    - 303 - S3-Storage (10.0.1.72/24)
         - SeaweedFS
-    - 305 - Developments (10.0.1.74/24)
+    - 304 - Developments (10.0.1.73/24)
         - Portainer [[Portainer]]
         - Testing webapps
         - SonarQube [[Sonarqube]]
-    - 306 - Reverse Proxy (10.0.1.75/24)
+    - 305 - Reverse Proxy (10.0.1.74/24)
         - Traefik
 - Standalone VMs
-    - 400 - PfSense (WAN: 192.168.1.99/24 - LAN: 10.0.1.0/24)
-    - 401 - Gitlab [[GitLab]] (10.0.1.77/24)
-    - 402 - Jenkins [[Jenkin]] (10.0.1.78/24)
-    - 403 - Pi-Hole [[Pi-Hole]] (10.0.1.79/24)
-    - 404 - Cockpit [[Cockpit]] (10.0.1.80/24)
-    - 405 - HomeAssistant [[HomeAssistant]] (10.0.1.81/24)
-    - 406 - K8s-Clusters Load Balancer (10.0.1.76/24)
+    - 100 - PfSense (WAN: 192.168.1.99/24 - LAN: 10.0.1.0/24)
+    - 400 - Gitlab [[GitLab]] (10.0.1.77/24)
+    - 401 - Jenkins [[Jenkin]] (10.0.1.78/24)
+    - 402 - Cockpit [[Cockpit]] (10.0.1.80/24)
+    - 403 - HomeAssistant [[HomeAssistant]] (10.0.1.81/24)
+    - 404 - K8s-Clusters Load Balancer (10.0.1.76/24)
 - Cloud-Init Template
     - ubuntu-cloud (type VM - 10.0.1.0/24)
 
