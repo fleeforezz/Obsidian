@@ -18,117 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "DLS_Doc.excalidraw"
             }
-          },
-          {
-            "id": "5cf00bfcc6a36322",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Front-end Kanban"
-            }
-          },
-          {
-            "id": "3514d7c87ceb6a1f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Back-end Kanban"
-            }
-          },
-          {
-            "id": "a74ca5106dfb754d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "06 - Projects/Job Applying Website/Back-end Task Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Back-end Task Board"
-            }
-          },
-          {
-            "id": "f9ebcf4d2f828ad3",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "06 - Projects/Job Applying Website/Front-end Task Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Front-end Task Board"
-            }
-          },
-          {
-            "id": "355953cc84fc9fb1",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md"
-              },
-              "icon": "blocks",
-              "title": "HomeLab Map"
-            }
-          },
-          {
-            "id": "29f1d078ce437e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
+                "file": "03 - Study/DevOps Engineer/Monitoring/Prometheus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Infrastructure"
+              "title": "Outgoing links from Prometheus"
             }
           },
           {
@@ -299,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -322,18 +213,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "29f1d078ce437e78",
+  "active": "728b8183c71c7ff1",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
-    "06 - Projects/Job Applying Website/Kinh phí.md",
-    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
-    "02 - School/Subjects/SWP/Note.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
+    "01 - HomeLab/Services/OS & System control/Proxmox/Config Proxmox.md",
+    "01 - HomeLab/Services/OS & System control/Proxmox/Proxmox.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
+    "06 - Projects/Job Applying Website/Kinh phí.md",
+    "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
+    "01 - HomeLab/Services/Storage & BackUp/NextCloud/NextCloud.md",
+    "01 - HomeLab/Services/Containerize/Kubernetes/Kubernetes.md",
+    "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
+    "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
+    "06 - Projects/Job Applying Website/Back-end Task Board.md",
+    "02 - School/Subjects/SWP/Note.md",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
     "06 - Projects/Job Applying Website/Front-end Task Board.md",
-    "06 - Projects/Job Applying Website/Back-end Task Board.md",
-    "02 - School/Subjects/SWP/Board/Back-end Kanban.md",
     "06 - Projects/Job Applying Website 1/Untitled Kanban.md",
     "06 - Projects/Job Applying Website 1/Kinh phí.md",
     "06 - Projects/Job Applying Website 1/Back-end Task Board.md",
@@ -341,7 +236,6 @@
     "06 - Projects/Job Applying Website/Untitled Kanban.md",
     "01 - HomeLab/Services/Containerize/Kubernetes/Install Kubernetes.md",
     "06 - Projects/Job Applying Website",
-    "02 - School/Subjects/SWP/Board/Front-end Kanban.md",
     "99 - Other/System Tweaks/WSL/Install WSL.md",
     "02 - School/Subjects/SWP/Untitled Kanban.md",
     "02 - School/Subjects/SWP/Board",
@@ -349,7 +243,6 @@
     "02 - School/Subjects/SWP/Untitled mindmap.md",
     "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Services/OS & System control/Proxmox/Config Proxmox.md",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311115757.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311115040.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311113506.png",
@@ -359,8 +252,6 @@
     "05 - Excalidraw/attachments/Pasted Image 20260227221220_271.png",
     "05 - Excalidraw/attachments/Pasted Image 20260227210457_379.png",
     "01 - HomeLab/Services/Dashboard/Flame/Custom CSS.md",
-    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
-    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
     "04 - Study/Ielts",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
