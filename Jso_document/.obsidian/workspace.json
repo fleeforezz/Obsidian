@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb93d218770e934",
+        "id": "7996f79cfcd141de",
         "type": "tabs",
         "children": [
           {
-            "id": "728b8183c71c7ff1",
+            "id": "c36ec6a9913243e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "993722b3ad05b376",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
               "state": {
-                "file": "05 - Excalidraw/DLS_Doc.excalidraw.md"
+                "file": "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "DLS_Doc.excalidraw"
+              "icon": "blocks",
+              "title": "HomeLab Map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "728b8183c71c7ff1",
+  "active": "993722b3ad05b376",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
+    "06 - Projects/Todo App/📑 Todo's App Design.md",
+    "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "05 - Excalidraw/DLS_Doc.excalidraw.md",
     "01 - HomeLab/Services/OS & System control/Proxmox/Config Proxmox.md",
     "01 - HomeLab/Services/OS & System control/Proxmox/Proxmox.md",
@@ -242,16 +256,13 @@
     "02 - School/Subjects/SWP/Drawing 2026-01-08 21.22.25.excalidraw.md",
     "02 - School/Subjects/SWP/Untitled mindmap.md",
     "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
-    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311115757.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311115040.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311113506.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311112906.png",
     "02 - School/Subjects/SWP/attachments",
-    "05 - Excalidraw/Drawing 2026-02-27 10.55.32.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20260227221220_271.png",
     "05 - Excalidraw/attachments/Pasted Image 20260227210457_379.png",
-    "01 - HomeLab/Services/Dashboard/Flame/Custom CSS.md",
     "04 - Study/Ielts",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",

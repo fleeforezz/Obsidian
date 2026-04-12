@@ -33,14 +33,15 @@ mindmap-plugin: basic
         - PostgreSQL
         - MicrosoftSQL
         - Redis
-    - 303 - S3-Storage (10.0.1.72/24)
-        - SeaweedFS
     - 304 - Developments (10.0.1.73/24)
         - Portainer [[Portainer]]
         - Testing webapps
         - SonarQube [[Sonarqube]]
+        - S3-Storage
+            - SeaweedFS
     - 305 - Reverse Proxy (10.0.1.74/24)
         - Traefik
+        - Nginx Proxy Manager
 - Standalone VMs
     - 100 - PfSense (WAN: 192.168.1.99/24 - LAN: 10.0.1.0/24)
     - 400 - Gitlab [[GitLab]] (10.0.1.77/24)
