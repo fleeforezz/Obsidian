@@ -4,8 +4,6 @@ banner:
 
 ## Install
 
-> [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]]
 ### Docker
 
 ```shell

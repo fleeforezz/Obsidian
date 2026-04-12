@@ -1,7 +1,4 @@
 
-> [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]]
-
 # Create a config file
 
 ```shell

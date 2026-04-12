@@ -1,8 +1,5 @@
 # Install
 
-> [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]]
-
 ```yaml
 ---
 version: "2.1"

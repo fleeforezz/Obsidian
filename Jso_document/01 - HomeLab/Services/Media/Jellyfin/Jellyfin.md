@@ -7,8 +7,6 @@ wget -O- https://repo.jellyfin.org/install-debuntu.sh | sudo bash
 
 # Docker Compose (Recommend)
 
-> Make sure you have [[Docker]] and [[Docker Compose]]
-
 ```yaml
 ---
 version: "2.1"

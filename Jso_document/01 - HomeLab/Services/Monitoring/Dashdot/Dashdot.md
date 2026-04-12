@@ -1,5 +1,5 @@
 > [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]] and [[Homarr]] setup
+> Make sure you have [[Homarr]] setup
 
 ```yaml
 version: '3.5'

@@ -1,5 +1,3 @@
-> [!note]
-> Make sure you install [[Docker]] and [[Docker Compose]]
 
 ```yaml
 version: "3"

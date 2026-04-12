@@ -4,11 +4,6 @@ content-start: "300"
 banner-display: cover
 banner-fade: "-100"
 ---
-
-## Install
-
-> [!note] 
-> Make sure you have [[Docker]] and [[Docker Compose]]
 ### Docker
 
 ```docker

@@ -1,7 +1,3 @@
-
-> [!note] 
-> Make sure you have [[Docker]] and [[Docker Compose]] installed
-
 # Docker Compose (Recommend)
 
 > Create docker volume for minecraft
