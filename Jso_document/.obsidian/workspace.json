@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c36ec6a9913243e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "993722b3ad05b376",
             "type": "leaf",
             "state": {
@@ -223,7 +213,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c36ec6a9913243e7",
+  "active": "993722b3ad05b376",
   "lastOpenFiles": [
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Monitoring/Prometheus/Install Prometheus.md",
