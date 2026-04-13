@@ -3,7 +3,7 @@
   "translucency": false,
   "showViewHeader": true,
   "nativeMenus": true,
-  "theme": "system",
+  "theme": "obsidian",
   "cssTheme": "",
   "interfaceFontFamily": "Inter,Cascadia Mono",
   "enabledCssSnippets": [

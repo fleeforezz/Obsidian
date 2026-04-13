@@ -185,12 +185,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "6217c70a92407f6f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -215,6 +225,7 @@
   },
   "active": "993722b3ad05b376",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Monitoring/Prometheus/Install Prometheus.md",
     "01 - HomeLab/Services/NVR/Scryted/Install Scryted.md",
@@ -235,7 +246,6 @@
     "01 - HomeLab/Services/Network/Wireguard/Install Wireguard.md",
     "01 - HomeLab/Services/Storage & BackUp/File Browser/File browser.md",
     "01 - HomeLab/Services/Game/Minecraft/Minecraft.md",
-    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
     "01 - HomeLab/Services/Network/Pf-Sense/Pf-Sense.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS/SeaweedFS.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
