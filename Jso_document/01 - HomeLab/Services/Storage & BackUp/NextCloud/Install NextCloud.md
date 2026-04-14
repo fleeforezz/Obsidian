@@ -188,8 +188,6 @@ Ex:
 
 # Docker Compose (Recommend)
 
-> Make sure you have [[Docker]] and [[Docker Compose]]
-
 ## Someone src
 
 ```yaml

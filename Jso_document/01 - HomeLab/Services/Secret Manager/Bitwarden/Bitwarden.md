@@ -1,7 +1,5 @@
 # Install
 
-> [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]]
 ## Config User
 
 > Create a user name `bitwarden`.

@@ -167,9 +167,6 @@ privileged = true
 
 # Install Gitlab with Docker
 
-> [!note] 
-> Make sure you have [[Docker]] and [[Docker Compose]] installed
-
 ## Docker
 ### Gitlab
 #### Create environment variable 

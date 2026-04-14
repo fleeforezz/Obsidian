@@ -7,8 +7,6 @@ banner-fade: "-100"
 
 ## Install
 
-> [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]] installed
 
 ```YAML
 services:

@@ -2,10 +2,6 @@
 
 ---
 
-
-> [!note]
-> Make sure you have [[Docker]] and [[Docker Compose]]
-
 # Docker Compose (Recommend)
 
 ```yaml

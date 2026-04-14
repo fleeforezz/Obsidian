@@ -1,5 +1,4 @@
-> [!note]
-> Make sure that [[Docker]] has already installed on jenkins server
+
 
 # Install Docker plugins 
 

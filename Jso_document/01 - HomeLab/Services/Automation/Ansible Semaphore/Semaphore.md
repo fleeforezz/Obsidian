@@ -5,9 +5,6 @@ banner-display: cover
 banner-fade: "-100"
 ---
 
-> [!note]
->  Make sure your machine have [[Docker]] and [[Docker Compose]] installed
- 
 Create a **docker-compose.yml** file
 
 ```yml

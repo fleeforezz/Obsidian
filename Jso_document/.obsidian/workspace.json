@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -318,10 +318,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "165a7b4195eb14a2",
+  "active": "a9d0d7d0e9d44f73",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
+    "01 - HomeLab/Services/Development/Jenkin/CICD pipeline project sample.md",
+    "03 - Work/Get ready for Interview/DevOps/Questions board.md",
+    "01 - HomeLab/Services/Automation/Ansible Semaphore/Semaphore.md",
+    "01 - HomeLab/Services/Containerize/Portainer/Portainer.md",
+    "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
+    "01 - HomeLab/Services/Development/Jenkin/Jenkins with docker CICD pipeline.md",
+    "01 - HomeLab/Services/Dashboard/Dashy/Dashy.md",
+    "01 - HomeLab/Services/Storage & BackUp/NextCloud/Install NextCloud.md",
+    "01 - HomeLab/Services/Secret Manager/Bitwarden/Bitwarden.md",
+    "01 - HomeLab/Services/OS & System control/Watch Tower/Watch Tower.md",
+    "01 - HomeLab/Services/Automation/HomeAssistant/HomeAssistant.md",
+    "01 - HomeLab/Services/Containerize/Docker/Docker syntax.md",
+    "01 - HomeLab/Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
+    "01 - HomeLab/Services/Others/Little Link/Little Link.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/NetWork Flow.md",
     "01 - HomeLab/Home Server Infrastructure/Infrastructure.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-Docker-VMs/Standalone Docker VMs.md",
@@ -335,20 +349,6 @@
     "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
     "01 - HomeLab/Services/Monitoring/Prometheus/Install Prometheus.md",
     "01 - HomeLab/Services/NVR/Scryted/Install Scryted.md",
-    "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
-    "01 - HomeLab/Services/Containerize/Docker Compose/Docker Compose.md",
-    "01 - HomeLab/Services/Development/Code Server/Code Server.md",
-    "01 - HomeLab/Services/Storage & BackUp/Syncthing/Install Syncthing.md",
-    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Services/Media/Jellyfin/Jellyfin.md",
-    "01 - HomeLab/Services/Monitoring/Dashdot/Dashdot.md",
-    "01 - HomeLab/Services/Automation/Kestra/Kestra.md",
-    "01 - HomeLab/Services/Storage & BackUp/Duplicati/Duplicati.md",
-    "01 - HomeLab/Services/Dashboard/Homer Dashboard/Install Homer Dashboard.md",
-    "01 - HomeLab/Services/OS & System control/Guacamole/Install Guacamole with Docker.md",
-    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
-    "01 - HomeLab/Services/Others/Trilium Note/Trilium Note.md",
-    "01 - HomeLab/Services/Dashboard/Heimdall/Heimdall.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
     "06 - Projects/Job Applying Website 1",
