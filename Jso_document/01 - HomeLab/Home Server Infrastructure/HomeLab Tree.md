@@ -9,10 +9,9 @@ mindmap-plugin: basic
 ## Proxmox (192.168.1.33/24) [[Proxmox]]
 - K8s-Clusters [[K8s Clusters]]
     - 150 - K8s-manager-1 (10.0.1.51/24)
-    - 151 - K8s-manager-2 (10.0.1.52/24)
-    - 153 - K8s-worker-1 (10.0.1.61/24)
-    - 154 - K8s-worker-2 (10.0.1.62/24)
-    - 155 - K8s-worker-3 (10.0.1.63/24)
+    - 152 - K8s-worker-1 (10.0.1.61/24)
+    - 153 - K8s-worker-2 (10.0.1.62/24)
+    - 154 - K8s-worker-3 (10.0.1.63/24)
         - Web-facing & Scalable services
         - Traefik [[Traefik]]
         - Grafana [[Grafana]]
@@ -48,9 +47,10 @@ mindmap-plugin: basic
     - 402 - Cockpit [[Cockpit]] (10.0.1.80/24)
     - 403 - HomeAssistant [[HomeAssistant]] (10.0.1.81/24)
     - 404 - K8s-Clusters Load Balancer (10.0.1.76/24)
+        - Nginx [[Nginx]]
 - Cloud-Init Template
-    - ubuntu-cloud (type VM - 10.0.1.0/24)
+    - ubuntu-cloud (type VM - 10.0.1.0/24) [[CloudInit Template]]
 
-## TrueNas Scale (10.0.1.34/24)
+## TrueNas Scale (10.0.1.34/24) [[TrueNas]]
 
 ## TP-Link Router (HomeLab - 10.0.1.0/24)

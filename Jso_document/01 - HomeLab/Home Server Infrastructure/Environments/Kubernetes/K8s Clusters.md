@@ -1,12 +1,11 @@
 
-| VM Id  | VM Name       | CPU     | RAM | Disk |     |
-| ------ | ------------- | ------- | --- | ---- | :-- |
-| VM 150 | K8s-manager-1 | 4 cores | 8Gb | 32Gb |     |
-| VM 151 | K8s-manager-2 | 4 cores | 8Gb | 32Gb |     |
-| VM 152 | K8s-worker-1  | 4 cores | 8Gb | 32Gb |     |
-| VM 153 | K8s-worker-2  | 4 cores | 8Gb | 32Gb |     |
-| VM 154 | K8s-worker-3  | 4 cores | 8Gb | 32Gb |     |
-
+| VM Id  | VM Name       | CPU     | RAM | Disk | Network   |
+| ------ | ------------- | ------- | --- | ---- | :-------- |
+| VM 150 | K8s-manager-1 | 4 cores | 8Gb | 32Gb | 10.0.1.50 |
+| VM 160 | K8s-worker-1  | 4 cores | 8Gb | 32Gb | 10.0.1.60 |
+| VM 161 | K8s-worker-2  | 4 cores | 8Gb | 32Gb | 10.0.1.61 |
+| VM 162 | K8s-worker-3  | 4 cores | 8Gb | 32Gb | 10.0.1.62 |
+-> Total Disk Usage:  128Gb
 
 Here is a documentation of how K8s works
 [Architecture (Big Picture)](#architecture)
