@@ -1,3 +1,13 @@
+
+| VM Id  | VM Name       | CPU     | RAM | Disk |     |
+| ------ | ------------- | ------- | --- | ---- | :-- |
+| VM 150 | K8s-manager-1 | 4 cores | 8Gb | 32Gb |     |
+| VM 151 | K8s-manager-2 | 4 cores | 8Gb | 32Gb |     |
+| VM 152 | K8s-worker-1  | 4 cores | 8Gb | 32Gb |     |
+| VM 153 | K8s-worker-2  | 4 cores | 8Gb | 32Gb |     |
+| VM 154 | K8s-worker-3  | 4 cores | 8Gb | 32Gb |     |
+
+
 Here is a documentation of how K8s works
 [Architecture (Big Picture)](#architecture)
 [Traefik Ingress](#traefik-ingress)

@@ -6,11 +6,10 @@ mindmap-plugin: basic
 
 # HomeLab MindMap
 
-## Proxmox (192.168.1.33/24)
-- K8s Clusters
+## Proxmox (192.168.1.33/24) [[Proxmox]]
+- K8s-Clusters [[K8s Clusters]]
     - 150 - K8s-manager-1 (10.0.1.51/24)
     - 151 - K8s-manager-2 (10.0.1.52/24)
-    - 152 - K8s-manager-3 (10.0.1.53/24)
     - 153 - K8s-worker-1 (10.0.1.61/24)
     - 154 - K8s-worker-2 (10.0.1.62/24)
     - 155 - K8s-worker-3 (10.0.1.63/24)
@@ -24,7 +23,7 @@ mindmap-plugin: basic
         - Jenkins Agents
         - Longhorn [[Longhorn]]
         - ArgoCD [[ArgoCD]]
-- Standalone Docker VMs
+- Standalone Docker VMs [[Standalone Docker VMs]]
     - 301 - Personal Services (10.0.1.70/24)
         - Immich [[Immich]]
         - Bitwarden [[Bitwarden]]
@@ -42,7 +41,7 @@ mindmap-plugin: basic
     - 305 - Reverse Proxy (10.0.1.74/24)
         - Traefik
         - Nginx Proxy Manager
-- Standalone VMs
+- Standalone VMs [[Standalone VMs]]
     - 100 - PfSense [[Pf-Sense]] (WAN: 192.168.1.99/24 - LAN: 10.0.1.0/24)
     - 400 - Gitlab [[GitLab]] (10.0.1.77/24)
     - 401 - Jenkins [[Jenkin]] (10.0.1.78/24)
