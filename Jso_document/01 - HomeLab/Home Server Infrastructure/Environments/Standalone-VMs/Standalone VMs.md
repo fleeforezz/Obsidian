@@ -6,4 +6,5 @@
 | VM 401 | Jenkins           | 4 cores | 8Gb  | 32Gb | 10.0.1.78                                |
 | VM 402 | Cockpit           | 3 cores | 4Gb  | 15Gb | 10.0.1.80                                |
 | VM 403 | K8s-Load-Balancer | 4 cores | 4Gb  | 15Gb | 10.0.1.76                                |
--> Total Disk Usage:  109Gb
+| VM 405 | Pi-hole           | 2 cores | 4Gb  | 15Gb | 10.0.1.91                                |
+-> Total Disk Usage:  124Gb
