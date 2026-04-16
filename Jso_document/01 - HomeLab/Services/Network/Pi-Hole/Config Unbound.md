@@ -12,8 +12,9 @@ sudo nano /etc/unbound/unbound.conf.d/pi-hole.conf
 ```shell
 server:
     # If no logfile is specified, syslog is used
-    # logfile: "/var/log/unbound/unbound.log"
-    verbosity: 0
+    logfile: "/var/log/unbound/unbound.log"
+    log-time-ascii: yes
+    verbosity: 2
 
     interface: 127.0.0.1
     port: 5335
@@ -21,7 +22,7 @@ server:
     do-udp: yes
     do-tcp: yes
 
-    # May be set to yes if you have IPv6 connectivity
+    # May be set to no if you don't have IPv6 connectivity
     do-ip6: no
 
     # You want to leave this to no unless you have *native* IPv6. With 6to4 and
@@ -38,8 +39,11 @@ server:
     # Require DNSSEC data for trust-anchored zones, if such data is absent, the zone becomes BOGUS
     harden-dnssec-stripped: yes
 
+    module-config: "validator iterator"
+    val-permissive-mode: yes
+
     # Don't use Capitalization randomization as it known to cause DNSSEC issues sometimes
-    # see <https://discourse.pi-hole.net/t/unbound-stubby-or-dnscrypt-proxy/9378> for further details
+    # see https://discourse.pi-hole.net/t/unbound-stubby-or-dnscrypt-proxy/9378 for further details
     use-caps-for-id: no
 
     # Reduce EDNS reassembly buffer size.
@@ -49,7 +53,7 @@ server:
     # possible to spoof parts of a fragmented DNS message, without easy
     # detection at the receiving end. Recently, there was an excellent study
     # >>> Defragmenting DNS - Determining the optimal maximum UDP response size for DNS <<<
-    # by Axel Koolhaas, and Tjeerd Slokker (<https://indico.dns-oarc.net/event/36/contributions/776/>)
+    # by Axel Koolhaas, and Tjeerd Slokker (https://indico.dns-oarc.net/event/36/contributions/776/)
     # in collaboration with NLnet Labs explored DNS using real world data from the
     # the RIPE Atlas probes and the researchers suggested different values for
     # IPv4 and IPv6 and in different scenarios. They advise that servers should
@@ -76,6 +80,18 @@ server:
     private-address: 10.0.0.0/8
     private-address: fd00::/8
     private-address: fe80::/10
+
+    # Ensure no reverse queries to non-public IP ranges (RFC6303 4.2)
+    private-address: 192.0.2.0/24
+    private-address: 198.51.100.0/24
+    private-address: 203.0.113.0/24
+    private-address: 255.255.255.255/32
+    private-address: 2001:db8::/32
+
+#forward-zone:
+#    name: "."
+#    forward-addr: 1.1.1.1
+#    forward-addr: 8.8.8.8
 ```
 
 ```shell
