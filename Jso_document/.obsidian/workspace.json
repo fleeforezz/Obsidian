@@ -50,19 +50,21 @@
             }
           },
           {
-            "id": "247471638e2c168c",
+            "id": "0ed6d387c937b320",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/Drawing 2026-04-16 12.06.37.excalidraw.md"
+                "file": "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-16 12.06.37.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sonarqube"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,18 +268,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fe09b4a64f3fe181",
+  "active": "0ed6d387c937b320",
   "lastOpenFiles": [
-    "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
+    "01 - HomeLab/Services/Storage & BackUp/SeaweedFS/SeaweedFS.md",
+    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Change apt package to VietNam.md",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Untitled",
     "01 - HomeLab/Home Server Infrastructure/Networking/Drawing 2026-04-16 12.06.37.excalidraw.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Config Unbound.md",
+    "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Untitled",
     "01 - HomeLab/Services/OS & System control/Linux Command/Mount drive.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
     "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Pi-Hole.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Tree.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
@@ -299,7 +302,6 @@
     "01 - HomeLab/Services/Media/Jellyfin/Jellyfin.md",
     "01 - HomeLab/Services/Monitoring/Dashdot/Dashdot.md",
     "01 - HomeLab/Services/Automation/Kestra/Kestra.md",
-    "01 - HomeLab/Services/Storage & BackUp/Duplicati/Duplicati.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
     "06 - Projects/Job Applying Website 1",
