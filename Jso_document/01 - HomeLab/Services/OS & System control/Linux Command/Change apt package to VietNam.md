@@ -1,0 +1,18 @@
+```
+sudo nano /etc/apt/sources.list.d/ubuntu.sources
+```
+
+```
+Types: deb
+URIs: http://vn.archive.ubuntu.com/ubuntu
+Suites: noble noble-updates noble-backports
+Components: main universe restricted multiverse
+Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
+
+Types: deb
+URIs: http://vn.archive.ubuntu.com/ubuntu
+Suites: noble-security
+Components: main universe restricted multiverse
+Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
+```
+

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
+                "file": "01 - HomeLab/Services/OS & System control/Linux Command/Change apt package to VietNam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN + DNS Flow"
+              "title": "Change apt package to VietNam"
             }
           },
           {
@@ -268,9 +268,11 @@
   },
   "active": "fe09b4a64f3fe181",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Change apt package to VietNam.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Untitled",
     "01 - HomeLab/Home Server Infrastructure/Networking/Drawing 2026-04-16 12.06.37.excalidraw.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Config Unbound.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Mount drive.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
     "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
@@ -298,7 +300,6 @@
     "01 - HomeLab/Services/Monitoring/Dashdot/Dashdot.md",
     "01 - HomeLab/Services/Automation/Kestra/Kestra.md",
     "01 - HomeLab/Services/Storage & BackUp/Duplicati/Duplicati.md",
-    "01 - HomeLab/Services/Dashboard/Homer Dashboard/Install Homer Dashboard.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
     "06 - Projects/Job Applying Website 1",
@@ -308,7 +309,6 @@
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311115040.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311113506.png",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260311112906.png",
-    "02 - School/Subjects/SWP/attachments",
     "05 - Excalidraw/attachments/Pasted Image 20260227221220_271.png",
     "05 - Excalidraw/attachments/Pasted Image 20260227210457_379.png",
     "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
