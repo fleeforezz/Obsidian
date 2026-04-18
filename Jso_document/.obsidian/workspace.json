@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95309a6a63c47b77",
+        "id": "d6ab5b98b812909e",
         "type": "tabs",
         "children": [
           {
-            "id": "c01ec6d927ad5c39",
+            "id": "ddc170c964c04a15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Uptime Kuma"
             }
           }
         ]
@@ -221,8 +225,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c01ec6d927ad5c39",
+  "active": "ddc170c964c04a15",
   "lastOpenFiles": [
+    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
+    "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
     "01 - HomeLab/Services/Secret Manager/Bitwarden/Bitwarden.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Config Unbound.md",
@@ -253,8 +259,6 @@
     "01 - HomeLab/Services/Development/Code Server/Code Server.md",
     "01 - HomeLab/Services/Storage & BackUp/Syncthing/Install Syncthing.md",
     "01 - HomeLab/Services/Media/Jellyfin/Jellyfin.md",
-    "01 - HomeLab/Services/Monitoring/Dashdot/Dashdot.md",
-    "01 - HomeLab/Services/Automation/Kestra/Kestra.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
     "06 - Projects/Job Applying Website 1",
