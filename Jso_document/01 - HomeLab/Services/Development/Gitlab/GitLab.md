@@ -62,6 +62,22 @@ gitaly['configuration'] = {
 }
 ```
 
+Use external PostgreSQL
+```sh
+postgresql['enable'] = false
+```
+
+```sh
+gitlab_rails['db_adapter'] = 'postgresql'
+gitlab_rails['db_encoding'] = 'unicode'
+
+gitlab_rails['db_host'] = '10.0.1.x'
+gitlab_rails['db_port'] = 5432
+gitlab_rails['db_database'] = 'gitlabhq_production'
+gitlab_rails['db_username'] = 'gitlab'
+gitlab_rails['db_password'] = 'strongpassword'
+```
+
 >Reconfigure gitlab to make changes
 
 ```shell
