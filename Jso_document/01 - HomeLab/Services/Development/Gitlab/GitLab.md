@@ -84,6 +84,38 @@ gitlab_rails['db_password'] = 'strongpassword'
 sudo gitlab-ctl reconfigure
 ```
 
+> Current config
+
+```sh
+external_url 'https://gitlab.hikarimoon.pro'
+
+# Disable built-in SSL - NPM handles it
+nginx['listen_port'] = 80
+nginx['listen_https'] = false
+letsencrypt['enable'] = false
+
+gitaly['configuration'] = {
+  storage: [
+    {
+      name: 'default',
+      path: '/var/opt/gitlab/git-data/repositories',
+    },
+  ],
+}
+
+
+postgresql['enable'] = false
+
+gitlab_rails['db_adapter'] = 'postgresql'
+gitlab_rails['db_encoding'] = 'unicode'
+
+gitlab_rails['db_host'] = 'superdatabase.yay'
+gitlab_rails['db_port'] = port
+gitlab_rails['db_database'] = 'gitlab_production'
+gitlab_rails['db_username'] = 'super-user'
+gitlab_rails['db_password'] = 'super-password'
+```
+
 > When you visit your gitlab on web browser they will ask you `username` and `password`  so the default username is :
 
 + username : `root`
@@ -279,4 +311,7 @@ sudo docker run --rm -it -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/
 
 #### Read more
 [[How to create a pipeline in Gitlab]]
+```
 
+# Backing up Gitlab
+[[Backup]]
