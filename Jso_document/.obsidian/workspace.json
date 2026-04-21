@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Backup"
             }
+          },
+          {
+            "id": "de8db8c23c177ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sonarqube"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Development/Gitlab/Backup.md",
+                "file": "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Backup"
+              "title": "Outline of Sonarqube"
             }
           },
           {
@@ -224,12 +239,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a9c078219b4f6626",
+  "active": "de8db8c23c177ba8",
   "lastOpenFiles": [
+    "01 - HomeLab/Services/Development/Gitlab/Backup.md",
     "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
     "01 - HomeLab/Services/Development/Gitlab/How to create a pipeline in Gitlab.md",
     "01 - HomeLab/Services/Development/Gitlab/Install Gitlab with Docker.md",
-    "01 - HomeLab/Services/Development/Gitlab/Backup.md",
     "01 - HomeLab/Services/Development/Gitlab/Generate SSH key for Gitlab.md",
     "01 - HomeLab/Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
     "01 - HomeLab/Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
