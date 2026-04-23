@@ -23,6 +23,10 @@ mindmap-plugin: basic
         - Longhorn [[Longhorn]]
         - ArgoCD [[ArgoCD]]
 - Standalone Docker VMs [[Standalone Docker VMs]]
+    - 300 - Monitoring (10.0.1.75/24)
+        - Grafana [[Grafana]]
+        - Loki
+        - Prometheus
     - 301 - Personal Services (10.0.1.70/24)
         - Immich [[Immich]]
         - Bitwarden [[Bitwarden]]
@@ -31,21 +35,19 @@ mindmap-plugin: basic
         - PostgreSQL
         - MicrosoftSQL
         - Redis
-    - 304 - Developments (10.0.1.72/24)
+    - 303 - Developments (10.0.1.72/24)
         - Portainer [[Portainer]]
         - Testing webapps
         - SonarQube [[Sonarqube]]
         - S3-Storage
             - SeaweedFS [[SeaweedFS]]
-    - 305 - Reverse Proxy (10.0.1.74/24)
-        - Traefik
-        - Nginx Proxy Manager
+    - 304 - Reverse Proxy (10.0.1.74/24)
+        - Traefik [[Traefik]]
+        - Nginx Proxy Manager [[Nginx Proxy Manager]]
 - Standalone VMs [[Standalone VMs]]
     - 100 - PfSense [[Pf-Sense]] (WAN: 192.168.1.99/24 - LAN: 10.0.1.0/24)
     - 400 - Gitlab [[GitLab]] (10.0.1.77/24)
     - 401 - Jenkins [[Jenkin]] (10.0.1.78/24)
-    - 402 - Cockpit [[Cockpit]] (10.0.1.80/24)
-    - 403 - HomeAssistant [[HomeAssistant]] (10.0.1.81/24)
     - 404 - K8s-Clusters Load Balancer (10.0.1.76/24)
         - Nginx [[Nginx]]
     - 405 - Pi-hole [[Pi-Hole]] (10.0.1.91/24)
