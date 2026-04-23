@@ -31,7 +31,7 @@ mindmap-plugin: basic
         - PostgreSQL
         - MicrosoftSQL
         - Redis
-    - 304 - Developments (10.0.1.73/24)
+    - 304 - Developments (10.0.1.72/24)
         - Portainer [[Portainer]]
         - Testing webapps
         - SonarQube [[Sonarqube]]
@@ -48,7 +48,7 @@ mindmap-plugin: basic
     - 403 - HomeAssistant [[HomeAssistant]] (10.0.1.81/24)
     - 404 - K8s-Clusters Load Balancer (10.0.1.76/24)
         - Nginx [[Nginx]]
-    - 405 - Pi-hole [[Pi-Hole]] (10.0.1.91/24)
+    - 405 - Pi-hole [[Pi-Hole]] (10.0.1.91/24)
 - Cloud-Init Template
     - ubuntu-cloud (type VM - 10.0.1.0/24) [[CloudInit Template]]
 

@@ -22,21 +22,33 @@
             }
           },
           {
-            "id": "de8db8c23c177ba8",
+            "id": "d81d847f670318fe",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "01 - HomeLab/Home Server Infrastructure/HomeLab Tree.md"
+              },
+              "icon": "blocks",
+              "title": "HomeLab Tree"
+            }
+          },
+          {
+            "id": "d11ccc5d15e77456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
+                "file": "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sonarqube"
+              "title": "Homepage"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
+                "file": "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sonarqube"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -239,8 +251,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "de8db8c23c177ba8",
+  "active": "d11ccc5d15e77456",
   "lastOpenFiles": [
+    "01 - HomeLab/Home Server Infrastructure/HomeLab Tree.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Network.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Change user and root password.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Change hostname.md",
+    "01 - HomeLab/Services/OS & System control/Linux Command/Change apt package to VietNam.md",
+    "01 - HomeLab/Services/Network/Traefik/Traefik.md",
+    "01 - HomeLab/Services/Monitoring/Grafana/Grafana.md",
+    "01 - HomeLab/Services/Development/Sonarqube/Sonarqube.md",
     "01 - HomeLab/Services/Development/Gitlab/Backup.md",
     "01 - HomeLab/Services/Development/Gitlab/GitLab.md",
     "01 - HomeLab/Services/Development/Gitlab/How to create a pipeline in Gitlab.md",
@@ -251,28 +272,19 @@
     "01 - HomeLab/Services/Secret Manager/Bitwarden/Bitwarden.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Config Unbound.md",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Change apt package to VietNam.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/Drawing 2026-04-16 12.06.37.excalidraw.md",
     "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
     "01 - HomeLab/Services/OS & System control/Linux Command/Untitled",
     "01 - HomeLab/Services/OS & System control/Linux Command/Mount drive.md",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Change timezone.md",
     "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
     "01 - HomeLab/Services/Network/Pi-Hole/Pi-Hole.md",
-    "01 - HomeLab/Home Server Infrastructure/HomeLab Tree.md",
     "01 - HomeLab/Services/Containerize/Docker/Docker.md",
     "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/TrueNas/TrueNas.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/TrueNas",
     "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-Docker-VMs/Standalone Docker VMs.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-Docker-VMs",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Kubernetes/K8s Clusters.md",
     "01 - HomeLab/Home Server Infrastructure/Environments/Kubernetes",
-    "01 - HomeLab/Home Server Infrastructure/Environments/CloudInit Template.md",
     "01 - HomeLab/Home Server Infrastructure/Environments",
-    "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
-    "01 - HomeLab/Services/Monitoring/Prometheus/Install Prometheus.md",
     "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
     "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
     "06 - Projects/Job Applying Website 1",
