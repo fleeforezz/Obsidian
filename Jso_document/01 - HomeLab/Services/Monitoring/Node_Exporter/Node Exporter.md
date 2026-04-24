@@ -87,17 +87,25 @@ curl http://localhost:9100/metrics
 # Xoá node exporter
 ## Stop service
 
+```sh
 sudo systemctl stop node_exporter
+```
 
 ## Disable (không cho auto start)
 
+```sh
 sudo systemctl disable node_exporter
+```
 
 ## Xoá service file
 
+```sh
 sudo rm /etc/systemd/system/node_exporter.service  
 sudo systemctl daemon-reload
+```
 
 ## Xoá binary
 
+```sh
 sudo rm /usr/local/bin/node_exporter
+```
