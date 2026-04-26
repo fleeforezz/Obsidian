@@ -24,7 +24,7 @@ tar -xvf node_exporter-${VERSION}.linux-amd64.tar.gz
 # 📁 3. Move binary
 
 ```sh
-sudo cp node_exporter-*/node_exporter /usr/local/bin/  
+sudo cp node_exporter-1.11.1.linux-amd64/node_exporter /usr/local/bin/
 sudo chown node_exporter:node_exporter /usr/local/bin/node_exporter
 ```
 
