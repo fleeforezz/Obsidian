@@ -61,9 +61,9 @@ last-updated: 2026-05-11
 - [[Pi-Hole]]
 
 ## Physical
-- Location: metal rack, top of the rack
+- Location: metal rack, on the rack
 - Mounted: rack-ears
-- Power: plugged into [[PDU]] socket 3
+- Power: plugged into [[PDU]] socket 4
 - Cable colour used: 
 	- Black - round = onboard Lan
 	- Blue-1 = Lan in from [[Firewall]]

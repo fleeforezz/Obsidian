@@ -251,12 +251,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f23da2aacc1901f",
+  "active": "81dc0241abea68a5",
   "lastOpenFiles": [
-    "00 - HomeLab/Hardware/Switch-02.md",
     "00 - HomeLab/Hardware/Server-Main.md",
-    "00 - HomeLab/Hardware/PDU.md",
     "00 - HomeLab/Hardware/Switch-01.md",
+    "00 - HomeLab/Hardware/PDU.md",
+    "00 - HomeLab/TodoList.md",
+    "00 - HomeLab/Hardware/Switch-02.md",
     "00 - HomeLab/Hardware/Router-Mesh-03.md",
     "00 - HomeLab/Hardware/Firewall.md",
     "00 - HomeLab/Services/README.md",
@@ -264,7 +265,6 @@
     "00 - HomeLab/Services/Seaweed.md",
     "04 - Self_Learning/HomeLab_Services/Storage & BackUp/SeaweedFS/SeaweedFS.md",
     "00 - HomeLab/Services/Sonarqube.md",
-    "00 - HomeLab/TodoList.md",
     "Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "Old-Stuff/Home Server Infrastructure/Test.md",
     "00 - HomeLab/Network/VPN + DNS Flow.md",

@@ -36,9 +36,9 @@ last-updated: 2026-05-11
 | 4    | -- empty -- | --    | --                        |
 | 5    | -- empty -- | --    | --                        |
 ## Physical
-- Location: Server room
-- Rack unit / shelf position: 
-- Cables: 
+- Location: metal rack, top of the rack
+- Mounted: self mount
+- Power: plugged into [[PDU]] socket 1
 
 ## Access
 - SSH: `ssh user@192.168.x.x`
