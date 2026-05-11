@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f15f914c4949f8b9",
+        "id": "c05517749a449aa4",
         "type": "tabs",
         "children": [
           {
-            "id": "482ea347478a2ada",
+            "id": "80f0cee67b178580",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - HomeLab/Home Server Infrastructure/Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
+            }
+          },
+          {
+            "id": "34ebdd0b93406ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/tmp-homelab-hardware.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tmp-homelab-hardware"
+            }
+          },
+          {
+            "id": "5fb70b01885a3a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - HomeLab/Services/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "f711d31e21e2483d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - HomeLab/Hardware/Server-Main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Server-Main"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,36 +195,6 @@
             }
           },
           {
-            "id": "b3120590e885e92c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "adcd5567fee81697",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "c2758ca18ec40a97",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
-            }
-          },
-          {
             "id": "b6896a7f48b3f0b7",
             "type": "leaf",
             "state": {
@@ -193,12 +210,32 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "eb7dfae9f8d96527",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "c5408857946c182a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -218,57 +255,58 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "482ea347478a2ada",
+  "active": "f711d31e21e2483d",
   "lastOpenFiles": [
+    "00 - HomeLab/Home Server Infrastructure/Test.md",
+    "00 - HomeLab/Services/Homepage.md",
+    "Templates/tmp-homelab-hardware.md",
+    "00 - HomeLab/Hardware/Server-Main.md",
+    "00 - HomeLab/Hardware/Switch.md",
+    "00 - HomeLab/Services/README.md",
+    "00 - HomeLab/Services/undefined.md",
+    "Templates/tmp-homelab-service.md",
+    "Templates",
+    "00 - HomeLab/Services/TrueNas.md",
+    "00 - HomeLab/Services/Proxmox.md",
+    "00 - HomeLab/Runbooks",
+    "00 - HomeLab/Hardware",
+    "00 - HomeLab/Network",
+    "Untitled 1",
+    "04 - Self_Learning/Ielts/Volcab.md",
+    "00 - HomeLab/Services",
+    "00 - Notes/HomeLab/HomeLab note 2025-02-05.md",
+    "00 - HomeLab/TodoList.md",
     "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Change pi-hole DNS.md",
-    "01 - HomeLab/Services/OS & System control/Linux Command/Change apt package to VietNam.md",
-    "01 - HomeLab/Services/Monitoring/Node_Exporter/Node Exporter.md",
-    "01 - HomeLab/Services/Monitoring/Node_Exporter",
-    "01 - HomeLab/Services/Monitoring/Loki/Loki.md",
-    "01 - HomeLab/Services/Monitoring/Loki",
-    "01 - HomeLab/Services/Monitoring/Grafana/Alert.md",
-    "01 - HomeLab/Services/Monitoring/Alloy/Alloy.md",
-    "01 - HomeLab/Services/Monitoring/Alloy",
-    "01 - HomeLab/Services/Development/Gitlab/Backup.md",
-    "01 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
-    "01 - HomeLab/Home Server Infrastructure/HomeLab Tree.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/TrueNas/TrueNas.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-Docker-VMs/Standalone Docker VMs.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Kubernetes/K8s Clusters.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments/TrueNas",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Standalone-Docker-VMs",
-    "01 - HomeLab/Home Server Infrastructure/Environments/Kubernetes",
-    "01 - HomeLab/Home Server Infrastructure/Environments/CloudInit Template.md",
-    "01 - HomeLab/Home Server Infrastructure/Environments",
-    "01 - HomeLab/Home Server Infrastructure/HomeLab Map.md",
-    "01 - HomeLab/Services/Dashboard/Flame/Flame.md",
-    "01 - HomeLab/Services/Monitoring/Prometheus/Install Prometheus.md",
-    "01 - HomeLab/Services/NVR/Scryted/Install Scryted.md",
-    "01 - HomeLab/Services/Dashboard/Home Page/Homepage.md",
-    "01 - HomeLab/Services/Containerize/Docker Compose/Docker Compose.md",
-    "01 - HomeLab/Services/Development/Code Server/Code Server.md",
-    "01 - HomeLab/Services/Storage & BackUp/Syncthing/Install Syncthing.md",
-    "01 - HomeLab/Services/Containerize/Docker/Docker.md",
-    "01 - HomeLab/Services/Media/Jellyfin/Jellyfin.md",
-    "01 - HomeLab/Services/Monitoring/Dashdot/Dashdot.md",
-    "01 - HomeLab/Services/Storage & BackUp/SeaweedFS",
-    "02 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
-    "06 - Projects/Job Applying Website 1",
-    "02 - School/Subjects/SWP/attachments/Pasted image 20260311115757.png",
-    "02 - School/Subjects/SWP/attachments/Pasted image 20260311115040.png",
-    "02 - School/Subjects/SWP/attachments/Pasted image 20260311113506.png",
-    "02 - School/Subjects/SWP/attachments/Pasted image 20260311112906.png",
+    "00 - HomeLab/Services_Old/OS & System control/Linux Command/Change pi-hole DNS.md",
+    "00 - HomeLab/Services_Old/OS & System control/Linux Command/Change apt package to VietNam.md",
+    "00 - HomeLab/Services_Old/Monitoring/Node_Exporter/Node Exporter.md",
+    "00 - HomeLab/Services_Old/Monitoring/Node_Exporter",
+    "00 - HomeLab/Services_Old/Monitoring/Loki/Loki.md",
+    "00 - HomeLab/Services_Old/Monitoring/Loki",
+    "00 - HomeLab/Services_Old/Monitoring/Grafana/Alert.md",
+    "00 - HomeLab/Services_Old/Monitoring/Alloy/Alloy.md",
+    "00 - HomeLab/Services_Old/Monitoring/Alloy",
+    "00 - HomeLab/Services_Old/Development/Gitlab/Backup.md",
+    "00 - HomeLab/Home Server Infrastructure/Networking/VPN + DNS Flow.md",
+    "00 - HomeLab/Home Server Infrastructure/HomeLab Tree.md",
+    "00 - HomeLab/Home Server Infrastructure/Environments/TrueNas/TrueNas.md",
+    "00 - HomeLab/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
+    "00 - HomeLab/Home Server Infrastructure/Environments/Standalone-Docker-VMs/Standalone Docker VMs.md",
+    "00 - HomeLab/Home Server Infrastructure/Environments/TrueNas",
+    "01 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
+    "01 - School/Subjects/SWP/attachments/Pasted image 20260311115757.png",
+    "01 - School/Subjects/SWP/attachments/Pasted image 20260311115040.png",
+    "01 - School/Subjects/SWP/attachments/Pasted image 20260311113506.png",
+    "01 - School/Subjects/SWP/attachments/Pasted image 20260311112906.png",
     "05 - Excalidraw/attachments/Pasted Image 20260227221220_271.png",
     "05 - Excalidraw/attachments/Pasted Image 20260227210457_379.png",
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
-    "01 - HomeLab/Services/Containerize/Kubernetes/attachments/{2677D7A8-A393-4BBB-844E-63594E40722F}.png",
+    "00 - HomeLab/Services_Old/Containerize/Kubernetes/attachments/{90EC6BB4-8404-4808-863C-06EFA6C29890}.png",
+    "00 - HomeLab/Services_Old/Containerize/Kubernetes/attachments/{46CB164C-8534-46AD-A81D-4E5FE0D32C03}.png",
+    "00 - HomeLab/Services_Old/Containerize/Kubernetes/attachments/{2677D7A8-A393-4BBB-844E-63594E40722F}.png",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareFunction",
+      "LiHardHat",
+      "LiNetwork",
       "BoBxShoppingBag",
-      "LiSchool2",
-      "LiLayoutPanelTop",
-      "BoBxCategoryAlt",
-      "BoBxClipboard"
+      "LiSchool2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,15 +34,18 @@
     "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "01 - HomeLab": "BoBxServer",
   "05 - Excalidraw": "BoBxPaint",
-  "01 - HomeLab/Home Server Infrastructure": "RaFizzingFlask",
   "06 - Projects": "FarPaperPlane",
-  "00 - Notes": "FarCalendarPlus",
-  "01 - HomeLab/Services": "LiLayoutPanelTop",
   "99 - Other": "FarHardDrive",
   "07 - Resources": "BoBxBox",
-  "02 - School": "LiSchool2",
-  "03 - Work": "BoBxShoppingBag",
-  "04 - Study": "FarNoteSticky"
+  "00 - HomeLab": "BoBxServer",
+  "00 - HomeLab/Home Server Infrastructure": "RaFizzingFlask",
+  "01 - School": "LiSchool2",
+  "02 - Work": "BoBxShoppingBag",
+  "04 - Self_Learning": "FarNoteSticky",
+  "00 - HomeLab/Services_Old": "LiLayoutPanelTop",
+  "00 - HomeLab/Services": "BoBxCategoryAlt",
+  "00 - HomeLab/Network": "LiNetwork",
+  "00 - HomeLab/Runbooks": "LiSquareFunction",
+  "00 - HomeLab/Hardware": "LiHardHat"
 }

@@ -6,7 +6,7 @@ mindmap-plugin: basic
 
 # HomeLab MindMap
 
-## Proxmox (192.168.1.33/24) [[Proxmox]]
+## Proxmox (192.168.1.33/24) [[00 - HomeLab/Services_Old/OS & System control/Proxmox/Proxmox]]
 - K8s-Clusters [[K8s Clusters]]
     - 150 - K8s-manager-1 (10.0.1.51/24)
     - 152 - K8s-worker-1 (10.0.1.61/24)
@@ -15,7 +15,7 @@ mindmap-plugin: basic
         - Web-facing & Scalable services
         - Traefik [[Traefik]]
         - Grafana [[Grafana]]
-        - Homepage [[Homepage]]
+        - Homepage [[00 - HomeLab/Services_Old/Dashboard/Home Page/Homepage]]
         - Portainer [[Portainer]]
         - Uptime Kuma [[Uptime Kuma]]
         - Game Server
@@ -54,6 +54,6 @@ mindmap-plugin: basic
 - Cloud-Init Template
     - ubuntu-cloud (type VM - 10.0.1.0/24) [[CloudInit Template]]
 
-## TrueNas Scale (10.0.1.34/24) [[TrueNas]]
+## TrueNas Scale (10.0.1.34/24) [[00 - HomeLab/Home Server Infrastructure/Environments/TrueNas/TrueNas]]
 
 ## TP-Link Router (HomeLab - 10.0.1.0/24)
