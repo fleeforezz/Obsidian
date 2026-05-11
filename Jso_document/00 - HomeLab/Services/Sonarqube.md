@@ -27,7 +27,7 @@ For automated testing while running CI/CD pipeline
 
 ## Common tasks
 - Restart: `sudo docker restart sonarqube`
-- Logs: `journalctl -u untitled -f`
+- Logs: `sudo watch docker logs sonarqube`
 
 ## Gotchas
 

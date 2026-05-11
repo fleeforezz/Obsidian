@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1fb156a91135f9d",
+        "id": "bda37554b89164bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7f8390c702b082",
+            "id": "81dc0241abea68a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,16 +212,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c7f8390c702b082",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
+    "00 - HomeLab/Services/Portainer.md",
+    "00 - HomeLab/Services/Seaweed.md",
+    "04 - Self_Learning/HomeLab_Services/Storage & BackUp/SeaweedFS/SeaweedFS.md",
+    "00 - HomeLab/Services/Sonarqube.md",
     "00 - HomeLab/TodoList.md",
     "Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "Old-Stuff/Home Server Infrastructure/Test.md",
-    "00 - HomeLab/Services/Sonarqube.md",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/Network Nic Detail.md",
     "00 - HomeLab/Network/NetWork Flow.md",
-    "00 - HomeLab/Services/Portainer.md",
     "00 - HomeLab/Services/Homepage.md",
     "00 - HomeLab/Services/External-Uptime-Kuma.md",
     "00 - HomeLab/Services/Internal-Uptime-Kuma.md",
@@ -241,9 +243,7 @@
     "Old-Stuff/Home Server Infrastructure/Environments/CloudInit Template.md",
     "Old-Stuff",
     "00 - HomeLab/Old-Stuff/Home Server Infrastructure/Environments/TrueNas/TrueNas.md",
-    "00 - HomeLab/Services/undefined.md",
     "Templates",
-    "00 - HomeLab/Services/TrueNas.md",
     "00 - HomeLab/Runbooks",
     "00 - HomeLab/Hardware",
     "00 - HomeLab/Network",
