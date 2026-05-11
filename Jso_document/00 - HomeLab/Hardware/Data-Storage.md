@@ -44,7 +44,7 @@ last-updated: 2026-05-11
 - Hostname: truenas
 - IP (static): 10.0.1.34
 - MAC address: no-info
-- Connected to: [[switch]] port 
+- Connected to: [[Switch-01]] port 
 
 ## What runs on it
 - [[]]

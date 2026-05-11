@@ -43,7 +43,7 @@ last-updated: 2026-05-11
 - Hostname: pve
 - IP (static): 192.168.1.33
 - MAC address: no-info
-- Connected to: [[switch]] port 
+- Connected to: [[Switch-01]] port 
 
 ## What runs on it
 - [[pfsense]]
@@ -61,9 +61,13 @@ last-updated: 2026-05-11
 - [[Pi-Hole]]
 
 ## Physical
-- Location: Server room
-- Rack unit: 600x500mm rack
-- Cables: no-info
+- Location: metal rack, top of the rack
+- Mounted: rack-ears
+- Power: plugged into [[PDU]] socket 3
+- Cable colour used: 
+	- Black - round = onboard Lan
+	- Blue-1 = Lan in from [[Firewall]]
+	- Black - flat = Lan in for pfsense from [[Router-Mesh-03]] 
 
 ## Access
 - SSH: `ssh user@192.168.1.33`

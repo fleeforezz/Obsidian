@@ -1,12 +1,14 @@
 ---
-tags: [homelab, hardware]
+tags:
+  - homelab
+  - hardware
+  - network
 type: server | nas | switch | router | sbc | ups
 status: active
 location: rack-u3 | shelf | desk
-last-updated: <% tp.date.now("YYYY-MM-DD") %>
+last-updated: 2026-05-11
 ---
-
-# <% tp.file.title %>
+# Pfsense
 
 ## Identity
 - Manufacturer: 
@@ -46,7 +48,7 @@ last-updated: <% tp.date.now("YYYY-MM-DD") %>
 ## Maintenance log
 | Date | Action |
 |------|--------|
-| <% tp.date.now("YYYY-MM-DD") %> | Added to HomeLab |
+| 2026-05-11 | Added to HomeLab |
 
 ## Notes
 Quirks, known issues, things to watch.

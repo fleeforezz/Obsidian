@@ -7,8 +7,7 @@ status: active
 location: rack-u3 | shelf | desk
 last-updated: 2026-05-11
 ---
-
-# Untitled
+# Viettel Mesh 03
 
 ## Identity
 - Manufacturer: 
@@ -29,7 +28,7 @@ last-updated: 2026-05-11
 - Hostname: 
 - IP (static): 192.168.x.x
 - MAC address: 
-- Connected to: [[switch]] port 
+- Connected to: [[Switch-01]] port 
 
 ## What runs on it
 - [[]]
