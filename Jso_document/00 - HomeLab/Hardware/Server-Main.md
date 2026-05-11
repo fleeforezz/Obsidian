@@ -67,10 +67,11 @@ last-updated: 2026-05-11
 - Cable colour used: 
 	- Black - round = onboard Lan
 	- Blue-1 = Lan in from [[Firewall]]
+	- Blue-2 = Lan out to [[Switch-02]]
 	- Black - flat = Lan in for pfsense from [[Router-Mesh-03]] 
 
 ## Access
-- SSH: `ssh user@192.168.1.33`
+- SSH: `ssh jso@192.168.1.33`
 - Web UI: https://proxmox.hikarimoon.pro
 - IPMI / iDRAC / iLO: no-info
 

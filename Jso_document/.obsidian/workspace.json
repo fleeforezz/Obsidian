@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PDU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,13 +251,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81dc0241abea68a5",
+  "active": "8f23da2aacc1901f",
   "lastOpenFiles": [
+    "00 - HomeLab/Hardware/Switch-02.md",
     "00 - HomeLab/Hardware/Server-Main.md",
-    "00 - HomeLab/Hardware/Router-Mesh-03.md",
-    "00 - HomeLab/Hardware/Firewall.md",
     "00 - HomeLab/Hardware/PDU.md",
     "00 - HomeLab/Hardware/Switch-01.md",
+    "00 - HomeLab/Hardware/Router-Mesh-03.md",
+    "00 - HomeLab/Hardware/Firewall.md",
     "00 - HomeLab/Services/README.md",
     "00 - HomeLab/Services/Portainer.md",
     "00 - HomeLab/Services/Seaweed.md",
@@ -280,7 +281,6 @@
     "Templates/tmp-homelab-service.md",
     "04 - Self_Learning/HomeLab_Services/Containerize/Docker/Docker.md",
     "Templates/tmp-homelab-hardware.md",
-    "Old-Stuff/Home Server Infrastructure/Environments/Kubernetes/K8s Clusters.md",
     "Old-Stuff",
     "Templates",
     "00 - HomeLab/Runbooks",
