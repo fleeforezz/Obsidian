@@ -40,7 +40,7 @@ last-updated: 2026-05-11
 - Power draw (idle / load):  W /  W
 
 ## Network
-- Hostname: pve.hikarimoon.pro
+- Hostname: pve
 - IP (static): 192.168.1.33
 - MAC address: no-info
 - Connected to: [[switch]] port 
@@ -56,9 +56,9 @@ last-updated: 2026-05-11
 - [[Databases]]
 - [[Development]]
 - [[Reverse-proxy]]
-- [[Gitlab]]
+- [[GitLab]]
 - [[Jenkins]]
-- [[Pi-hole]]
+- [[Pi-Hole]]
 
 ## Physical
 - Location: Server room

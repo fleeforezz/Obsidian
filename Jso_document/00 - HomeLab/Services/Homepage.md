@@ -22,16 +22,16 @@ A visual dashboard for all services
 - Env: /mnt/homepage-data/Homepage/.env
 
 ## Dependencies
-- Runs on: [[]]
-- Needs: [[Docker]]
+- Runs on: [[Docker]], [[04 - Self_Learning/HomeLab_Services/Containerize/Portainer/Portainer|Portainer]]
+- Needs: [[Docker]], [[Docker Compose]], [[Data-Storage]], [[04 - Self_Learning/HomeLab_Services/Dashboard/Home Page/Homepage|Homepage]]
 
 ## Common tasks
-- Restart: `systemctl restart untitled`
-- Logs: `journalctl -u untitled -f`
-- Update: 
+- Restart: `sudo docker restart homepage`
+- Logs: `sudo watch docker logs homepage`
 
 ## Gotchas
-
++ Setup External Storage using NFS
++ Config Trusted Hostname
 
 ## Change history
 - 2026-05-11 — created

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,23 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"01 - HomeLab\"",
+      "query": "path:\"00 - HomeLab\"",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 8708714
+      }
+    },
+    {
+      "query": "path:\"01 - School\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8776703
+      }
+    },
+    {
+      "query": "path:\"02 - Work\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 46079
+      }
+    },
+    {
+      "query": "path:\"04 - Self_Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8409855
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 1.18492723492724,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15280090627833523,
+  "scale": 0.42106978419384056,
   "close": true
 }

@@ -1,0 +1,36 @@
+---
+tags:
+  - homelab
+  - service
+status: running
+host: proxmox-pve
+port: 3001
+last-updated: 2026-05-11
+---
+# Internal Uptime Kuma
+
+## Purpose
+To monitoring if internal services are online or not
+
+## Access
+- URL: http://dev.local:3001
+- Credentials: see [[passwords]]
+
+## Config location
+- Main config: /opt/internal-uptime-kuma
+- Data/volumes: /mnt/homepage-data/Internal-Uptime-Kuma/data
+
+## Dependencies
+- Runs on: [[Docker]], [[04 - Self_Learning/HomeLab_Services/Containerize/Portainer/Portainer|Portainer]]
+- Needs: [[Docker]], [[Docker Compose]], [[Data-Storage]], [[Uptime Kuma]]
+
+## Common tasks
+- Restart: `sudo docker restart internal-uptime-kuma`
+- Logs: `sudo watch docker logs internal-uptime-kuma`
+- Update: `sudo docker compose down internal-uptime-kuma && sudo docker compose up -d`
+
+## Gotchas
+
+
+## Change history
+- 2026-05-11 — created

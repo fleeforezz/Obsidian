@@ -39,13 +39,12 @@
   "99 - Other": "FarHardDrive",
   "07 - Resources": "BoBxBox",
   "00 - HomeLab": "BoBxServer",
-  "00 - HomeLab/Home Server Infrastructure": "RaFizzingFlask",
   "01 - School": "LiSchool2",
   "02 - Work": "BoBxShoppingBag",
   "04 - Self_Learning": "FarNoteSticky",
-  "00 - HomeLab/Services_Old": "LiLayoutPanelTop",
   "00 - HomeLab/Services": "BoBxCategoryAlt",
   "00 - HomeLab/Network": "LiNetwork",
   "00 - HomeLab/Runbooks": "LiSquareFunction",
-  "00 - HomeLab/Hardware": "LiHardHat"
+  "00 - HomeLab/Hardware": "LiHardHat",
+  "Old-Stuff/Home Server Infrastructure": "RaFizzingFlask"
 }

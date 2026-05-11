@@ -15,8 +15,8 @@ What this service does and why you run it.
 - http://192.168.1.50:8080 — web UI
 
 ## Dependencies
-- [[00 - HomeLab/Services_Old/OS & System control/Proxmox/Proxmox]] — runs as VM
-- [[pi-hole]] — DNS resolution
+- [[Proxmox]] — runs as VM
+- [[Pi-Hole]] — DNS resolution
 
 ## Gotchas
 Things that have bitten you before.
