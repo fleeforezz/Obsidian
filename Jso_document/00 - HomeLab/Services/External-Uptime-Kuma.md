@@ -6,6 +6,10 @@ status: running
 host: proxmox-pve
 port: 3002
 last-updated: 2026-05-11
+banner: https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223
+banner-display: cover
+banner-fade: "-100"
+content-start: "300"
 ---
 # External Uptime Kuma
 

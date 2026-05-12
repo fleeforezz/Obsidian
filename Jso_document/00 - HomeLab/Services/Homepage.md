@@ -6,6 +6,10 @@ status: running
 host: proxmox-pve
 port: 3000
 last-updated: 2026-05-11
+banner: https://user-images.githubusercontent.com/82196/194725622-39ce271c-34e5-414d-be53-62d221811f88.png
+banner-display: cover
+banner-fade: "-100"
+content-start: "300"
 ---
 # Homepage
 

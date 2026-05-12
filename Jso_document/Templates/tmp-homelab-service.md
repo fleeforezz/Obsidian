@@ -1,9 +1,15 @@
 ---
-tags: [homelab, service]
+tags:
+  - homelab
+  - service
 status: running
 host: <% tp.system.prompt("Host machine? (e.g. proxmox-vm-01)") %>
 port: <% tp.system.prompt("Port number?") %>
 last-updated: <% tp.date.now("YYYY-MM-DD") %>
+banner: <% tp.system.prompt("Banner?") %>
+banner-display: cover
+banner-fade: "-100"
+content-start: "300"
 ---
 # <% tp.file.title %>
 

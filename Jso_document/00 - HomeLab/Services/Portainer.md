@@ -6,6 +6,10 @@ status: running
 host: proxmox-pve
 port: 9443
 last-updated: 2026-05-11
+banner: https://raw.githubusercontent.com/portainer/portainer/refs/heads/develop/app/assets/images/portainer-github-banner.png
+banner-display: cover
+banner-fade: "-100"
+content-start: "300"
 ---
 # Portainer
 

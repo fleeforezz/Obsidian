@@ -6,6 +6,10 @@ status: running
 host: proxmox-pve
 port: 9333
 last-updated: 2026-05-11
+banner: https://cdn1.vogel.de/v4Xx6mrgoRkc2hm0FdctwkjktU4=/fit-in/800x0/p7i.vogel.de/wcms/01/57/01579f5d4168a167954b252b36adefa3/0125678702v1.jpeg
+banner-display: cover
+banner-fade: "-100"
+content-start: "300"
 ---
 # Seaweed
 
