@@ -24,9 +24,7 @@ next-action:
 active
 
 ## Tasks
-- [ ] 
-- [ ] 
-- [ ] 
+→ [[Tasks]] — full task board
 
 ## Blocked on
 Anything stopping progress right now. Delete if nothing.
