@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c215f205ce9880a",
+        "id": "58a340445d858871",
         "type": "tabs",
         "children": [
           {
-            "id": "422f0bb512599efe",
+            "id": "3e67448419275f32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,8 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "422f0bb512599efe",
+  "active": "3e67448419275f32",
   "lastOpenFiles": [
+    "00 - HomeLab/Change_Logs/Change_logs - temp.md",
+    "06 - Projects/Active/HomeLab-Upgrade/hub.md",
     "Templates/Projects/tmp-project-hub.md",
     "Templates/HomeLab/tmp-homelab-service.md",
     "Templates/HomeLab/tmp-homelab-hardware.md",
@@ -262,8 +264,6 @@
     "06 - Projects/On-hold/Melville/Feature Graph.md",
     "06 - Projects/On-hold/Job Applying Website/Untitled Kanban.md",
     "06 - Projects/On-hold/Job Applying Website/Kinh phí.md",
-    "06 - Projects/On-hold/Job Applying Website/Front-end Task Board.md",
-    "06 - Projects/On-hold/Job Applying Website/Back-end Task Board.md",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
