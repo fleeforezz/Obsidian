@@ -64,12 +64,21 @@ last-updated: 2026-05-11
 - Location: metal rack, on the rack
 - Mounted: rack-ears
 - Power: plugged into [[PDU]] socket 4
-- Cable colour used: 
+- Cable used: 
 	- Black - round = onboard Lan
 	- Blue-1 = Lan in from [[Firewall]]
 	- Blue-2 = Lan out to [[Switch-02]]
 	- Black - flat = Lan in for pfsense from [[Router-Mesh-03]] 
 
+## Port map
+
+| ID           | Device                                            | Port | Speed | Notes                 |
+| ------------ | ------------------------------------------------- | ---- | ----- | --------------------- |
+| 0000:00:19.0 | 82579LM Gigabit Network Connection                | 1    | 1Gbps | Uplink to [[Proxmox]] |
+| 0000:02:00.0 | 82571EB/82571GB Gigabit Ethernet Controller D0/D1 | 1    | 1Gbps | Pfsense Lan out       |
+| 0000:02:00.1 | 82571EB/82571GB Gigabit Ethernet Controller D0/D1 | 2    | 1Gbps | Pfsense Wan in        |
+| 0000:03:00.0 | 82571EB/82571GB Gigabit Ethernet Controller D0/D1 | 1    | 1Gbps | Pfsense network in    |
+| 0000:03:00.1 | 82571EB/82571GB Gigabit Ethernet Controller D0/D1 | --   | --    | --                    |
 ## Access
 - SSH: `ssh jso@192.168.1.33`
 - Web UI: https://proxmox.hikarimoon.pro

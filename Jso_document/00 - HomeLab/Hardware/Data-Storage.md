@@ -2,6 +2,7 @@
 tags:
   - homelab
   - hardware
+  - storage
 type: storage
 status: active
 location: rack-u3
@@ -44,7 +45,7 @@ last-updated: 2026-05-11
 - Hostname: truenas
 - IP (static): 10.0.1.34
 - MAC address: no-info
-- Connected to: [[Switch-01]] port 
+- Connected to: [[Switch-02]] port 
 
 ## What runs on it
 - [[]]

@@ -11,19 +11,17 @@ last-updated: 2026-05-11
 # Power Distribution Unit (PDU)
 
 ## Identity
-- Manufacturer: none
+- Manufacturer: G-Tech
 - Model: none
 - Serial number: none 
-- Purchase date: none
-- Warranty expires: none
+- Purchase date: 26/06/2025
+- Warranty expires: 12 month
 - Purchased from: Shopee
 
 ## Specs
-- CPU: 
-- RAM:  GB
-- Storage: 
-- NIC: 
-- Power draw (idle / load):  W /  W
+- Input: ~220 – 250 (V) | 32 (A) 
+- Cable lenght: 5m
+- Maximum power: 32A
 
 ## Network
 - Hostname: 
@@ -31,19 +29,10 @@ last-updated: 2026-05-11
 - MAC address: 
 - Connected to: [[Switch-01]] port 
 
-## What runs on it
-- [[]]
-- [[]]
-
 ## Physical
-- Location: 
-- Rack unit / shelf position: 
-- Cables: 
-
-## Access
-- SSH: `ssh user@192.168.x.x`
-- Web UI: 
-- IPMI / iDRAC / iLO: 
+- Location: behind the rack
+- Mounted: self mount
+- Power: plugged on the wall
 
 ## Maintenance log
 | Date | Action |

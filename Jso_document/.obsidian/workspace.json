@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bda37554b89164bf",
+        "id": "8c215f205ce9880a",
         "type": "tabs",
         "children": [
           {
-            "id": "81dc0241abea68a5",
+            "id": "422f0bb512599efe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - HomeLab/Hardware/Switch-01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Switch-01"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "71480369cc0c50e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f99b2b7d3f5109cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - HomeLab/Hardware/PDU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PDU"
-            }
-          },
-          {
-            "id": "8f23da2aacc1901f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - HomeLab/Hardware/Server-Main.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Server-Main"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,14 +212,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81dc0241abea68a5",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
-    "00 - HomeLab/Hardware/Server-Main.md",
-    "00 - HomeLab/Hardware/Switch-01.md",
-    "00 - HomeLab/Hardware/PDU.md",
-    "00 - HomeLab/TodoList.md",
-    "00 - HomeLab/Hardware/Switch-02.md",
+    "00 - HomeLab/Services/Homepage.md",
     "00 - HomeLab/Hardware/Router-Mesh-03.md",
+    "00 - HomeLab/Hardware/Data-Storage.md",
+    "00 - HomeLab/Hardware/Switch-01.md",
+    "00 - HomeLab/Hardware/Switch-02.md",
+    "00 - HomeLab/Hardware/PDU.md",
+    "00 - HomeLab/Hardware/Server-Main.md",
+    "00 - HomeLab/TodoList.md",
     "00 - HomeLab/Hardware/Firewall.md",
     "00 - HomeLab/Services/README.md",
     "00 - HomeLab/Services/Portainer.md",
@@ -270,11 +233,9 @@
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/Network Nic Detail.md",
     "00 - HomeLab/Network/NetWork Flow.md",
-    "00 - HomeLab/Services/Homepage.md",
     "00 - HomeLab/Services/External-Uptime-Kuma.md",
     "00 - HomeLab/Services/Internal-Uptime-Kuma.md",
     "00 - HomeLab/Services/attachments/{1295D28E-C5DF-42F5-8221-9CBFCAAEDB0F}.png",
-    "00 - HomeLab/Hardware/Data-Storage.md",
     "04 - Self_Learning/HomeLab_Services/Containerize/Portainer/Portainer.md",
     "00 - HomeLab/Services/attachments",
     "04 - Self_Learning/HomeLab_Services/Dashboard/Home Page/Homepage.md",

@@ -41,9 +41,9 @@ last-updated: 2026-05-11
 - Power: plugged into [[PDU]] socket 1
 
 ## Access
-- SSH: `ssh user@192.168.x.x`
-- Web UI: 
-- IPMI / iDRAC / iLO: 
+- SSH: `none`
+- Web UI: none
+- Default login: no login
 
 ## Maintenance log
 | Date | Action |

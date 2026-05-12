@@ -7,43 +7,41 @@ status: active
 location: rack-u3 | shelf | desk
 last-updated: 2026-05-11
 ---
-
-# Untitled
+# TP-Link Switch
 
 ## Identity
-- Manufacturer: 
-- Model: 
-- Serial number: 
-- Purchase date: 
-- Warranty expires: 
-- Purchased from: 
+- Manufacturer: TP-Link
+- Model: TL-SG1005D
+- Serial number: no info
+- Purchase date: no info
+- Warranty expires: no info
+- Purchased from: no info
 
 ## Specs
-- CPU: 
-- RAM:  GB
-- Storage: 
-- NIC: 
-- Power draw (idle / load):  W /  W
+- Ports: x5 RJ45 Gigabit 
+- Management: unmanaged
+- VLan Support: no support
+- Power: none |  no Poe
 
-## Network
-- Hostname: 
-- IP (static): 192.168.x.x
-- MAC address: 
-- Connected to: [[Switch-01]] port 
+## Port map
++ Port position start next to the power plug  
 
-## What runs on it
-- [[]]
-- [[]]
-
+| Port | Device      | Speed | Notes                     |
+| ---- | ----------- | ----- | ------------------------- |
+| 1    | router-main | 1Gbps | Uplink to                 |
+| 2    | server-main | 1Gbps | Uplink to [[Server-Main]] |
+| 3    | -- empty -- | --    | --                        |
+| 4    | -- empty -- | --    | --                        |
+| 5    | -- empty -- | --    | --                        |
 ## Physical
-- Location: 
-- Rack unit / shelf position: 
-- Cables: 
+- Location: metal rack, top of the rack
+- Mounted: self mount
+- Power: plugged into [[PDU]] socket 1
 
 ## Access
-- SSH: `ssh user@192.168.x.x`
-- Web UI: 
-- IPMI / iDRAC / iLO: 
+- SSH: `none`
+- Web UI: none
+- Default login: no login
 
 ## Maintenance log
 | Date | Action |
