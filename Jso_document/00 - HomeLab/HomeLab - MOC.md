@@ -110,7 +110,7 @@ it auto-builds your service table from your actual notes:
 
 ```dataview
 TABLE host, port, status, last-updated
-FROM "HomeLab/Services"
+FROM "00 - HomeLab/Services"
 SORT status ASC
 ```
 
@@ -118,7 +118,7 @@ And this one shows hardware by location:
 
 ```dataview
 TABLE ip, type, status, location
-FROM "HomeLab/Hardware"
+FROM "00 - HomeLab/Hardware"
 SORT type ASC
 ```
 

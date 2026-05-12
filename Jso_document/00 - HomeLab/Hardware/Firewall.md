@@ -3,9 +3,9 @@ tags:
   - homelab
   - hardware
   - network
-type: server | nas | switch | router | sbc | ups
+type: firewall
 status: active
-location: rack-u3 | shelf | desk
+location: proxmox-vm
 last-updated: 2026-05-11
 ---
 # Pfsense

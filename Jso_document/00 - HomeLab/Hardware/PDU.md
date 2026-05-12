@@ -2,9 +2,9 @@
 tags:
   - homelab
   - hardware
-type: server | nas | switch | router | sbc | ups
+type: pdu
 status: active
-location: rack-u3 | shelf | desk
+location: shelf
 last-updated: 2026-05-11
 ---
 

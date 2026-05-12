@@ -2,9 +2,9 @@
 tags:
   - homelab
   - hardware
-type: server | nas | switch | router | sbc | ups
+type: router
 status: active
-location: rack-u3 | shelf | desk
+location: wall
 last-updated: 2026-05-11
 ---
 # Viettel Mesh 03

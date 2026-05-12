@@ -2,9 +2,9 @@
 tags:
   - homelab
   - hardware
-type: server | nas | switch | router | sbc | ups
+type: switch
 status: active
-location: rack-u3 | shelf | desk
+location: rack-u3
 last-updated: 2026-05-11
 ---
 # TP-Link Switch
