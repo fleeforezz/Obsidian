@@ -16,15 +16,15 @@
   "folder_templates": [
     {
       "folder": "00 - HomeLab/Services",
-      "template": "Templates/tmp-homelab-service.md"
+      "template": "Templates/HomeLab/tmp-homelab-service.md"
     },
     {
       "folder": "00 - HomeLab/Hardware",
-      "template": "Templates/tmp-homelab-hardware.md"
+      "template": "Templates/HomeLab/tmp-homelab-hardware.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "06 - Projects/Active",
+      "template": "Templates/Projects/tmp-project-hub.md"
     }
   ],
   "enable_file_templates": false,

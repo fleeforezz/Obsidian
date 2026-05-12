@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "LiSquareFunction",
       "LiHardHat",
       "LiNetwork",
-      "BoBxShoppingBag",
-      "LiSchool2"
+      "BoBxShoppingBag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "00 - HomeLab/Network": "LiNetwork",
   "00 - HomeLab/Runbooks": "LiSquareFunction",
   "00 - HomeLab/Hardware": "LiHardHat",
-  "Old-Stuff/Home Server Infrastructure": "RaFizzingFlask"
+  "00 - HomeLab/Change_Logs": "LiNotebookPen",
+  "99 - Other/Old-Stuff/Home Server Infrastructure": "RaFizzingFlask"
 }

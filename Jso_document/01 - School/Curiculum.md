@@ -8,12 +8,6 @@ kanban-plugin: board
 
 - [ ] TMI101
 	(Traditional musical instrument)
-- [ ] SWR302
-	(Software Requirements)
-	#SWE201c #SWR302
-- [ ] SWT301
-	(Software Testing)
-	 #SWT301 #SWE201c
 - [ ] ENW492c
 	(Writing Research Papers)
 - [ ] OJT202
@@ -59,19 +53,22 @@ kanban-plugin: board
 
 ## 🔆 On-Going
 
-- [ ] SWP391
-	(Software development project)
-	#SWP391 #SWE201c #PRJ301
-- [ ] SWE201c
-	(Introduction to Software Engineering)
-	#SWE201c #PRO192
-- [ ] MAD101
-	#MAD101
+- [ ] SWT301
+	(Software Testing)
+	 #SWT301 #SWE201c
+- [ ] SWR302
+	(Software Requirements)
+	#SWE201c #SWR302
 
 
 ## ✅ Done
 
 **Complete**
+- [x] MAD101
+	#MAD101
+- [x] SWP391
+	(Software development project)
+	#SWP391 #SWE201c #PRJ301
 - [x] PRN212
 	#PRN212
 - [x] ITE302c
@@ -108,13 +105,9 @@ kanban-plugin: board
 - [ ] MAS291
 	(Statistics & Probability)
 	#MAS291
-- [ ] SWP391
-	(Software development project)
-	#SWP391 #SWE201c #PRJ301
 - [ ] SWE201c
 	(Introduction to Software Engineering)
 	#SWE201c #PRO192
-- [ ] MAD101
 - [ ] MAE101
 	#MAE101
 

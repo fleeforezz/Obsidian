@@ -1,4 +1,8 @@
-
+---
+status: active
+tags:
+  - project
+---
 We'll cover the following
 
 + [🎯 Project Overview](#🎯-project-overview)
@@ -26,7 +30,7 @@ A Windows desktop application built using WPF (Windows Presentation Foundation) 
 
 Todo's application will be contruct base on clean architechture and DDD (Domain Driven Design):
 + [[Clean Architecture]]
-+ [[06 - Projects/Todo App/Diagrams/File Structure|File Structure]]
++ [[06 - Projects/Active/Todo App/Diagrams/File Structure|File Structure]]
 
 ## 🎨 Database Design
 
