@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac1035cb65d6cb57",
+        "id": "7338282c3b053eea",
         "type": "tabs",
         "children": [
           {
-            "id": "33a5353fbd556745",
+            "id": "84805017fa7941ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hub"
+              "title": "New tab"
             }
           }
         ]
@@ -216,7 +212,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a5353fbd556745",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
     "06 - Projects/Active/Active_project - temp.md",
     "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
