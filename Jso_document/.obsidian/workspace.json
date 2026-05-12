@@ -11,10 +11,14 @@
             "id": "33a5353fbd556745",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hub"
             }
           }
         ]
@@ -214,6 +218,9 @@
   },
   "active": "33a5353fbd556745",
   "lastOpenFiles": [
+    "06 - Projects/Active/Active_project - temp.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
+    "06 - Projects/On-hold",
     "00 - HomeLab/HomeLab - MOC.md",
     "00 - HomeLab/Hardware/Switch-02.md",
     "00 - HomeLab/Hardware/Switch-01.md",
@@ -227,20 +234,17 @@
     "01 - School/Subjects/dotNet/Đặt lịch phòng khám.md",
     "01 - School/Curiculum.md",
     "06 - Projects/Projects - MOC.md",
-    "06 - Projects/Active/Job Applying Website/Untitled Kanban.md",
-    "06 - Projects/Active/Job Applying Website/Kinh phí.md",
-    "06 - Projects/Active/Job Applying Website/Back-end Task Board.md",
-    "06 - Projects/Active/Airport Magament System/File Structure.md",
-    "06 - Projects/Active/Airport Magament System/Feature graph.md",
-    "06 - Projects/Active/Airport Magament System/All Feature.md",
+    "06 - Projects/On-hold/Job Applying Website/Untitled Kanban.md",
+    "06 - Projects/On-hold/Job Applying Website/Kinh phí.md",
+    "06 - Projects/On-hold/Job Applying Website/Back-end Task Board.md",
+    "06 - Projects/On-hold/Airport Magament System/File Structure.md",
+    "06 - Projects/On-hold/Airport Magament System/Feature graph.md",
+    "06 - Projects/On-hold/Airport Magament System/All Feature.md",
     "06 - Projects/Active/Espresso/URI context path.md",
     "07 - Resources/Link Gallary/Ansible YAML Syntax.md",
     "Templates/Projects/tmp-project-hub.md",
-    "06 - Projects/Active/HomeLab-Upgrade/hub.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
     "06 - Projects/Active/HomeLab-server-main-upgrade.md",
     "06 - Projects/Active/HomeLab-Upgrade",
-    "99 - Other/Temp/Tiền.md",
     "Templates/School",
     "Templates/Projects",
     "Templates/HomeLab",
@@ -250,7 +254,6 @@
     "00 - HomeLab/attachments",
     "06 - Projects/Active",
     "01 - School/Subjects/SWR",
-    "01 - School/Subjects/SWT",
     "Untitled.canvas",
     "00 - HomeLab/Services/attachments/{1295D28E-C5DF-42F5-8221-9CBFCAAEDB0F}.png",
     "01 - School/Subjects/SWP/attachments/Pasted image 20260330234448.png",
