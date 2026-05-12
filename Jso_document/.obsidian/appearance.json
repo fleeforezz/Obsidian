@@ -1,10 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#9170c2",
   "translucency": false,
   "showViewHeader": true,
   "nativeMenus": true,
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Border",
   "interfaceFontFamily": "Inter,Cascadia Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",

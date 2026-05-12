@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9c75bb339326b0",
+        "id": "082372c58d74bb27",
         "type": "tabs",
         "children": [
           {
-            "id": "29ddae2fa3d77617",
+            "id": "fba7b57dea6bcf8f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,17 +212,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29ddae2fa3d77617",
+  "active": "187bc4847c5bdd7e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "00 - HomeLab/Services/Portainer.md",
+    "00 - HomeLab/Services/Jenkins.md",
+    "00 - HomeLab/Services/Internal-Uptime-Kuma.md",
+    "00 - HomeLab/Services/Homepage.md",
+    "00 - HomeLab/Services/External-Uptime-Kuma.md",
     "00 - HomeLab/Services/TrueNas.md",
     "00 - HomeLab/Services/Sonarqube.md",
     "00 - HomeLab/Services/Seaweed.md",
-    "00 - HomeLab/Services/Homepage.md",
-    "00 - HomeLab/Services/Portainer.md",
-    "00 - HomeLab/Services/Internal-Uptime-Kuma.md",
-    "00 - HomeLab/Services/External-Uptime-Kuma.md",
     "04 - Self_Learning/HomeLab_Services/Containerize/Docker/Docker.md",
-    "00 - HomeLab/Services/Jenkins.md",
     "Templates/tmp-homelab-service.md",
     "00 - HomeLab/Network/Network Nic Detail.md",
     "00 - HomeLab/Network/NetWork Flow.md",
@@ -240,7 +241,6 @@
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Services/attachments/{1295D28E-C5DF-42F5-8221-9CBFCAAEDB0F}.png",
     "00 - HomeLab/Hardware/Data-Storage.md",
-    "04 - Self_Learning/HomeLab_Services/Containerize/Portainer/Portainer.md",
     "00 - HomeLab/Services/attachments",
     "Old-Stuff",
     "Templates",
