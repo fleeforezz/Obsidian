@@ -4,18 +4,26 @@ kanban-plugin: board
 tags:
   - project
   - kanban
-project: "[[Hub]]"
+project: "[[HomeLab Upgrade - hub]]"
 
 ---
 
 ## No status 😴
 
-- [ ] Migrate from using single docker to use Kubernetes #low
-- [ ] Set up a load balancer for own projects #medium
-- [ ] Setup loadbalancer for databases #low
-- [ ] Setup backup job for Gitlab #high
+- [ ] [[Setup backup job for Gitlab]] #high
 - [ ] Setup backup job for Jenkins #high
 - [ ] Setup backup job for Proxmox VMs #high
+- [ ] Setup and test Truenas replication task, backup task #high
+- [ ] Setup a login tracer for all servers and show it in grafana #high
+- [ ] Set up a load balancer for own projects #medium
+- [ ] Setup auto shutdown cronjob for proxmox #medium
+- [ ] Setup auto shutdown cronjob for truenas #medium
+- [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
+- [ ] Migrate from using single docker to use Kubernetes #low
+- [ ] Setup loadbalancer for databases #low
+- [ ] Setup a redis server for my webapps #low
+- [ ] Setup IaC for Traefik #medium
+- [ ] ReOrganize Jenkins dashboard in Grafana #low
 
 
 ## In Progress 🧑‍💻
