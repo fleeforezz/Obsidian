@@ -11,8 +11,8 @@ project: "[[HomeLab Upgrade - hub]]"
 ## No status 😴
 
 - [ ] [[Setup backup job for Gitlab]] #high
-- [ ] Setup backup job for Jenkins #high
-- [ ] Setup backup job for Proxmox VMs #high
+- [ ] [[Setup backup job for Jenkins]] #high
+- [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] Setup and test Truenas replication task, backup task #high
 - [ ] Setup a login tracer for all servers and show it in grafana #high
 - [ ] Setup backup job for Pfsense #high
@@ -32,6 +32,7 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] ReOrganize Jenkins dashboard in Grafana #low
 - [ ] Setup disk status in grafana dashboard #low
 - [ ] Migrate all docker containers to use docker volume instead of system path #low
+- [ ] Setup proxmox monitoring #medium
 
 
 ## In Progress 🧑‍💻

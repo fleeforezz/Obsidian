@@ -24,7 +24,7 @@ next-action:
 active
 
 ## Tasks
-→ [[Tasks]] — full task board
+→ [[06 - Projects/Active/HomeLab-Upgrade/Tasks]] — full task board
 
 ## Blocked on
 Since i still have to go to school so the upgrade still be very slow, i will ship 2 upgrades/weeks with high priorty task first then medium and the last one is low.

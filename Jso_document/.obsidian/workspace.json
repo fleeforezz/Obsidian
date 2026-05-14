@@ -4,45 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "019ef4f5111eddd2",
+        "id": "4258978001b14462",
         "type": "tabs",
         "children": [
           {
-            "id": "951c32291b4845ae",
+            "id": "a9f15a7d667f24b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
-                "mode": "source",
+                "file": "06 - Projects/Active/Annotationary/Annotationary - hub.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HomeLab Upgrade - hub"
+              "title": "Annotationary - hub"
             }
           },
           {
-            "id": "3c5b98b618dad208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Gitlab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup backup job for Gitlab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3d8c6b3cb837e99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "17ae228f6c594778",
+            "id": "30b8f4b89ddb3b00",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -63,7 +43,8 @@
               "title": "Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,10 +239,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17ae228f6c594778",
+  "active": "30b8f4b89ddb3b00",
   "lastOpenFiles": [
-    "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
+    "06 - Projects/Active/Annotationary/Annotationary - hub.md",
+    "06 - Projects/Active/Annotationary/Tasks.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "06 - Projects/Active/Annotationary/Untitled.md",
+    "06 - Projects/Active/Annotationary",
+    "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Proxmox VMs.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Jenkins.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Setup backup job for Jenkins.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Gitlab.md",
     "06 - Projects/Active/HomeLab-Upgrade/Setup backup job for Gitlab.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details",
@@ -285,7 +273,6 @@
     "Templates",
     "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/Standalone-VMs/Standalone VMs.md",
     "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/Standalone-Docker-VMs/Standalone Docker VMs.md",
-    "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/Kubernetes/K8s Clusters.md",
     "99 - Other/Old-Stuff/Home Server Infrastructure/attachments/watch.png",
     "99 - Other/Old-Stuff/Home Server Infrastructure/attachments/smart.png",
     "99 - Other/Old-Stuff/Home Server Infrastructure/attachments/laptop.png",
@@ -294,13 +281,7 @@
     "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/Standalone-VMs",
     "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/Standalone-Docker-VMs",
     "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/Kubernetes",
-    "99 - Other/Old-Stuff/Home Server Infrastructure/Environments/CloudInit Template.md",
-    "99 - Other/Old-Stuff/Home Server Infrastructure/Test.md",
-    "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "99 - Other/Old-Stuff/Home Server Infrastructure/attachments",
-    "99 - Other/Old-Stuff/Home Server Infrastructure/Environments",
-    "06 - Projects/On-hold/Todo App/Kanban/Detail Fixes.md",
-    "06 - Projects/On-hold/Todo App/Kanban/All Feature.md",
     "06 - Projects/On-hold/Todo App/attachments/logo.png",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304215114.png",
