@@ -27,7 +27,7 @@ active
 → [[Tasks]] — full task board
 
 ## Blocked on
-Anything stopping progress right now. Delete if nothing.
+Since i still have to go to school so the upgrade still be very slow, i will ship 2 upgrades/weeks with high priorty task first then medium and the last one is low.
 
 ## Notes & decisions
 → 

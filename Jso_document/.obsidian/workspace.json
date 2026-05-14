@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "Setup backup job for Gitlab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d3d8c6b3cb837e99",
@@ -261,11 +260,11 @@
   },
   "active": "17ae228f6c594778",
   "lastOpenFiles": [
-    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Gitlab.md",
+    "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Gitlab.md",
     "06 - Projects/Active/HomeLab-Upgrade/Setup backup job for Gitlab.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details",
-    "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
     "06 - Projects/Projects - MOC.md",
     "04 - Self_Learning/HomeLab_Services/Containerize/Docker/Docker.md",
     "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
