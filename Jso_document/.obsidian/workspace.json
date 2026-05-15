@@ -77,15 +77,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
+                "file": "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Config Proxmox"
+              "title": "NFS Client"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,12 +281,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91cf30d0ab9d55aa",
+  "active": "cff4814bf10a7ebc",
   "lastOpenFiles": [
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup jenkins backup job.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup database server backup job.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup truenas auto shutdown job.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/attachments/Pasted image 20260515154221.png",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/attachments",
