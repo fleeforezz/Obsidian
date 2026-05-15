@@ -10,17 +10,10 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## No status 😴
 
-- [ ] [[Setup backup job for Gitlab]] #high
-- [ ] [[Setup backup job for Jenkins]] #high
 - [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] Setup and test Truenas replication task, backup task #high
 - [ ] Setup a login tracer for all servers and show it in grafana #high
-- [ ] Setup backup job for Pfsense #high
-- [ ] Setup backup jobs for Database server #high
-- [ ] Setup backup job for Bitwarden #high
 - [ ] Set up a load balancer for own projects #medium
-- [ ] Setup auto shutdown cronjob for proxmox #medium
-- [ ] Setup auto shutdown cronjob for truenas #medium
 - [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
 - [ ] Setup IaC for Traefik #medium
 - [ ] Setup disks temperature and health status for all our system #medium
@@ -38,11 +31,18 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
+- [ ] Setup database server backup job #high
+- [ ] Setup auto shutdown cronjob for proxmox #medium
 
 
 ## Done 🌟
 
 **Complete**
+- [x] [[Setup truenas auto shutdown job]] #medium
+- [x] Backup Bitwarden #high
+- [x] Backup Pfsense #high
+- [x] [[Setup jenkins backup job]] #high
+- [x] [[Set up gitlab backup job]] #high
 
 
 ## Failed ⭕
