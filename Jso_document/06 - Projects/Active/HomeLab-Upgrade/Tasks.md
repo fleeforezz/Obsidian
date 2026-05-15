@@ -26,13 +26,14 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] Setup disks temperature and health status for all our system #medium
 - [ ] Fix mysql-dev and mysql-prod auto start when boot #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
+- [ ] Setup proxmox monitoring and show it in grafana #medium
+- [ ] Setup Truenas monitoring and show it in grafana #medium
 - [ ] Migrate from using single docker to use Kubernetes #low
 - [ ] Setup loadbalancer for databases #low
 - [ ] Setup a redis server for my webapps #low
 - [ ] ReOrganize Jenkins dashboard in Grafana #low
 - [ ] Setup disk status in grafana dashboard #low
 - [ ] Migrate all docker containers to use docker volume instead of system path #low
-- [ ] Setup proxmox monitoring #medium
 
 
 ## In Progress 🧑‍💻
