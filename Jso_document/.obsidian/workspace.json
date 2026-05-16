@@ -25,8 +25,8 @@
                   ]
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Tasks"
+              "icon": "lucide-ghost",
+              "title": "kanban"
             }
           },
           {
@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
+                "file": "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NFS Client"
+              "title": "ZSH"
             }
           }
         ],
@@ -242,8 +242,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -252,12 +252,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "2358bfa297246ae7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -283,6 +293,7 @@
   },
   "active": "cff4814bf10a7ebc",
   "lastOpenFiles": [
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup jenkins backup job.md",
@@ -293,7 +304,6 @@
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Set up gitlab backup job.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup backup job for Proxmox VMs.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup database server.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
     "06 - Projects/Projects - MOC.md",
     "06 - Projects/Active/HomeLab-Upgrade/HomeLab Upgrade - hub.md",
     "06 - Projects/Active/Annotationary/Annotationary - hub.md",
