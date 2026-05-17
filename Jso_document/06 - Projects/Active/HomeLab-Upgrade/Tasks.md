@@ -31,13 +31,13 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
-- [ ] Setup database server backup job #high
 - [ ] Setup auto shutdown cronjob for proxmox #medium
 
 
 ## Done 🌟
 
 **Complete**
+- [x] [[Setup database server backup job]] #high
 - [x] [[Setup truenas auto shutdown job]] #medium
 - [x] Backup Bitwarden #high
 - [x] Backup Pfsense #high
