@@ -1,5 +1,5 @@
 {
-  "accentColor": "#484568",
+  "accentColor": "#7081c2",
   "translucency": false,
   "showViewHeader": true,
   "nativeMenus": true,
@@ -14,5 +14,5 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,Inter",
   "showRibbon": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 15
+  "baseFontSize": 13
 }
