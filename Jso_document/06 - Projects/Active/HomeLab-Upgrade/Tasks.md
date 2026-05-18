@@ -31,7 +31,7 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
-- [ ] Setup auto shutdown cronjob for proxmox #medium
+- [ ] Setup proxmox auto shutdown #medium
 
 
 ## Done 🌟
