@@ -11,22 +11,14 @@
             "id": "91cf30d0ab9d55aa",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Tasks"
+              "icon": "lucide-file",
+              "title": "Config Proxmox"
             }
           },
           {
@@ -278,12 +270,16 @@
   },
   "active": "91cf30d0ab9d55aa",
   "lastOpenFiles": [
-    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup database server backup job.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Increase VM disk size.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Pasted image 20240302122621.png",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Send email when shutdown.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Send email alert.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup database server backup job.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Set up gitlab backup job.md",
     "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup jenkins backup job.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup truenas auto shutdown job.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/attachments/Pasted image 20260515154221.png",
@@ -305,10 +301,6 @@
     "06 - Projects/Archive/s.md",
     "06 - Projects/Archive",
     "06 - Projects/Active/HomeLab-Upgrade/kanban.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Untitled.md",
-    "99 - Other/TodoList.md",
-    "Templates/Projects/tmp-project-hub.md",
-    "Templates/Projects/tmp-project-kanban.md",
     "Templates/Projects",
     "Templates/HomeLab",
     "Templates",
@@ -323,7 +315,6 @@
     "06 - Projects/On-hold/Todo App/attachments/logo.png",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304215114.png",
-    "06 - Projects/Archive/Melville/Resources/Pasted image 20250304131928.png",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Home Server Infrastructure 1.canvas"
