@@ -35,15 +35,19 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] Setup proxmox auto shutdown #medium
 
 
+## Testing 🧪
+
+- [ ] [[Setup database server backup job]] #high
+- [ ] [[Setup truenas auto shutdown job]] #medium
+- [ ] Backup Bitwarden #high
+- [ ] Backup Pfsense #high
+- [ ] [[Setup jenkins backup job]] #high
+- [ ] [[Set up gitlab backup job]] #high
+
+
 ## Done 🌟
 
 **Complete**
-- [x] [[Setup database server backup job]] #high
-- [x] [[Setup truenas auto shutdown job]] #medium
-- [x] Backup Bitwarden #high
-- [x] Backup Pfsense #high
-- [x] [[Setup jenkins backup job]] #high
-- [x] [[Set up gitlab backup job]] #high
 
 
 ## Failed ⭕
@@ -60,6 +64,6 @@ project: "[[HomeLab Upgrade - hub]]"
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"tag-colors":[{"tagKey":"#high","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(85, 0, 24, 1)"},{"tagKey":"#medium","color":"#121212","backgroundColor":"rgba(84, 61, 0, 1)"},{"tagKey":"#low","color":"#121212","backgroundColor":"rgba(7, 84, 0, 1)"},{"tagKey":"#homelab","color":"rgba(153, 153, 153, 1)","backgroundColor":"rgba(112, 123, 194, 0.1)"}],"tag-sort":[{"tag":"#high"},{"tag":"#medium"},{"tag":"#low"}],"full-list-lane-width":false,"tag-action":"kanban"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"tag-colors":[{"tagKey":"#high","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(85, 0, 24, 1)"},{"tagKey":"#medium","color":"#121212","backgroundColor":"rgba(84, 61, 0, 1)"},{"tagKey":"#low","color":"#121212","backgroundColor":"rgba(7, 84, 0, 1)"},{"tagKey":"#homelab","color":"rgba(153, 153, 153, 1)","backgroundColor":"rgba(112, 123, 194, 0.1)"}],"tag-sort":[{"tag":"#high"},{"tag":"#medium"},{"tag":"#low"}],"full-list-lane-width":false,"tag-action":"kanban"}
 ```
 %%

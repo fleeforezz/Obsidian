@@ -35,6 +35,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -43,7 +44,8 @@
               "title": "Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,12 +240,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef1e909670a84364",
+  "active": "c1706610fa89e9a3",
   "lastOpenFiles": [
+    "00 - HomeLab/HomeLab - MOC.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "04 - Self_Learning/HomeLab_Services/Network/Pi-Hole/Config Unbound.md",
     "04 - Self_Learning/HomeLab_Services/Network/Pi-Hole/Pi-Hole.md",
-    "00 - HomeLab/HomeLab - MOC.md",
     "01 - School/Subjects/SWT/Note.md",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
