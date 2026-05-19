@@ -13,6 +13,7 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] Setup and test Truenas replication task, backup task #high
 - [ ] Setup a login tracer for all servers and show it in grafana #high
+- [ ] Setup Pihole backup job #high
 - [ ] Set up a load balancer for own projects #medium
 - [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
 - [ ] Setup IaC for Traefik #medium
