@@ -943,12 +943,40 @@
       "content": "architecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n",
       "sortingOrder": 0,
       "isPinned": false
+    },
+    {
+      "id": "92ee0d70-9a59-4ac7-8611-35185af85534",
+      "categoryId": "sankeyDiagram",
+      "description": "",
+      "content": "sankey-beta\n        %% source,target,value\n        Electricity grid,Over generation / exports,104.453\n        Electricity grid,Heating and cooling - homes,113.726\n        Electricity grid,H2 conversion,27.14",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "80ec95b7-1a19-48c0-b134-a5bb133c8890",
+      "categoryId": "xyChart",
+      "description": "a sample XYChart diagram",
+      "content": "xychart-beta\n        title \"Sales Revenue\"\n        x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]\n        y-axis \"Revenue (in $)\" 4000 --> 11000\n        bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]\n        line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]",
+      "sortingOrder": 0,
+      "isPinned": false
     }
   ],
   "customCategories": [],
   "selectedCategoryId": "stateDiagram",
   "defaultCategorySortOrders": {},
   "categoryModifications": {},
+  "defaultElementCategoryIds": [
+    "mindmap",
+    "timeline",
+    "quadrantChart",
+    "c4Diagram",
+    "sankeyDiagram",
+    "xyChart",
+    "packet",
+    "kanban",
+    "block",
+    "architecture"
+  ],
   "categories": {
     "Flowchart": "Flowchart",
     "SequenceDiagram": "SequenceDiagram",
