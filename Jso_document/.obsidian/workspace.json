@@ -43,6 +43,16 @@
               "icon": "lucide-trello",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "3f3f2f987c0023dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 1
@@ -201,8 +211,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -211,12 +221,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "2693c9d50580e819",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -243,6 +263,10 @@
   "active": "c1706610fa89e9a3",
   "lastOpenFiles": [
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Cron Job.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Send email when shutdown.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Send email alert.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
     "00 - HomeLab/HomeLab - MOC.md",
     "04 - Self_Learning/HomeLab_Services/Network/Pi-Hole/Config Unbound.md",
     "04 - Self_Learning/HomeLab_Services/Network/Pi-Hole/Pi-Hole.md",
@@ -274,10 +298,6 @@
     "06 - Projects/Active/HomeLab-Upgrade/Hub.md",
     "06 - Projects/On-hold",
     "00 - HomeLab/Hardware/Switch-02.md",
-    "00 - HomeLab/Hardware/Switch-01.md",
-    "00 - HomeLab/Hardware/Server-Main.md",
-    "00 - HomeLab/Hardware/Router-Mesh-03.md",
-    "00 - HomeLab/Hardware/PDU.md",
     "06 - Projects/Active/HomeLab-Upgrade",
     "Templates/School",
     "Templates/Projects",

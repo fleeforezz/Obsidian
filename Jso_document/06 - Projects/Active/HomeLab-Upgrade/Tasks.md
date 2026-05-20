@@ -32,11 +32,11 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
-- [ ] Setup proxmox auto shutdown #medium
 
 
 ## Testing 🧪
 
+- [ ] Setup proxmox auto shutdown #medium
 - [ ] [[Setup database server backup job]] #high
 - [ ] [[Setup truenas auto shutdown job]] #medium
 - [ ] Backup Bitwarden #high
