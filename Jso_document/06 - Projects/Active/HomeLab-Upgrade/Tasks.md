@@ -18,7 +18,6 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
 - [ ] Setup IaC for Traefik #medium
 - [ ] Setup disks temperature and health status for all our system #medium
-- [ ] Fix mysql-dev and mysql-prod auto start when boot #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
 - [ ] Setup proxmox monitoring and show it in grafana #medium
 - [ ] Setup Truenas monitoring and show it in grafana #medium
@@ -36,6 +35,7 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## Testing 🧪
 
+- [ ] Fix mysql-dev and mysql-prod auto start when boot #medium
 - [ ] Setup proxmox auto shutdown #medium
 - [ ] [[Setup database server backup job]] #high
 - [ ] [[Setup truenas auto shutdown job]] #medium
