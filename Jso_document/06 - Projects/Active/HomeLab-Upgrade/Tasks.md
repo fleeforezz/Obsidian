@@ -15,7 +15,6 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] Setup a login tracer for all servers and show it in grafana #high
 - [ ] Setup Pihole backup job #high
 - [ ] Set up a load balancer for own projects #medium
-- [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
 - [ ] Setup IaC for Traefik #medium
 - [ ] Setup disks temperature and health status for all our system #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
@@ -31,6 +30,7 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
+- [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
 
 
 ## Testing 🧪
