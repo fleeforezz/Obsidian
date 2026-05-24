@@ -11,25 +11,8 @@ next-action:
 ## Goal
 One sentence: what does done look like?
 
-## Why this matters
-Why are you doing this? What problem does it solve?
+## Setup ssh key for both pi-hole servers
 
-## Status
-active
-
-## Tasks
-- [ ] 
-- [ ] 
-- [ ] 
-
-## Blocked on
-Anything stopping progress right now. Delete if nothing.
-
-## Notes & decisions
-→ 
-
-## Resources
-- [[]]
 
 ## Progress log
 - 2026-05-24 — project started
