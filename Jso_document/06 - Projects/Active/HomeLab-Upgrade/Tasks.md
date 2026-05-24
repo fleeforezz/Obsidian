@@ -13,7 +13,6 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] Setup and test Truenas replication task, backup task #high
 - [ ] Setup a login tracer for all servers and show it in grafana #high
-- [ ] Setup Pihole backup job #high
 - [ ] Set up a load balancer for own projects #medium
 - [ ] Setup IaC for Traefik #medium
 - [ ] Setup disks temperature and health status for all our system #medium
@@ -30,11 +29,13 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
+- [ ] [[Setup HA Pi-hole]] #medium
 - [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
 
 
 ## Testing 🧪
 
+- [ ] [[Setup pi-hole backup job]] #high
 - [ ] Fix mysql-dev and mysql-prod auto start when boot #medium
 - [ ] Setup proxmox auto shutdown #medium
 - [ ] [[Setup database server backup job]] #high
