@@ -12,8 +12,6 @@ project: "[[HomeLab Upgrade - hub]]"
 
 - [ ] (Setup) and test Truenas replication task, backup tasks #high
 - [ ] [[Setup backup job for Proxmox VMs]] #high
-- [ ] (Fix) SeaweedFS not start at bootup #medium
-- [ ] (Fix) Sonarqube not start at bootup #medium
 - [ ] (Setup) a load balancer for own projects #medium
 - [ ] (Setup) disks temperature and health status for all servers #medium
 - [ ] (Setup) Gitops for Traefik #medium
@@ -29,8 +27,8 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
+- [ ] (Fix) SeaweedFS not start at bootup #medium
 - [ ] (Setup) proxmox monitoring #medium
-- [ ] [[Setup HA Pi-hole]] #medium
 - [ ] (Setup) a temperature status for proxmox and truenas #medium
 - [ ] (Migrate) Pfsense to a physical server #low
 - [ ] (Setup) disk status in grafana dashboard #low
@@ -39,6 +37,7 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## Testing 🧪
 
+- [ ] [[Setup HA Pi-hole]] #medium
 - [ ] [[(Setup) pi-hole backup job]] #high
 - [ ] (Fix) mysql-dev and mysql-prod auto start when boot #medium
 - [ ] [[Setup database server backup job]] #high
@@ -49,6 +48,7 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
+- [x] (Fix) Sonarqube not start at bootup #medium
 - [x] (Setup) proxmox auto shutdown #medium
 - [x] [[Setup truenas auto shutdown job]] #medium
 - [x] (Backup) Bitwarden #high

@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,10 +316,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "014cc2a8e19ea41c",
+  "active": "cf56dfa76223fca5",
   "lastOpenFiles": [
-    "99 - Other/Temp/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
+    "99 - Other/Temp/Alloy.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/(Setup) pi-hole backup job.md",
     "00 - HomeLab/HomeLab - MOC.md",
