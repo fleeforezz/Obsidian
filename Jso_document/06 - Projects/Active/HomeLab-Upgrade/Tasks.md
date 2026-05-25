@@ -10,35 +10,37 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## No status 😴
 
+- [ ] (Setup) and test Truenas replication task, backup tasks #high
 - [ ] [[Setup backup job for Proxmox VMs]] #high
-- [ ] Setup and test Truenas replication task, backup tasks #high
-- [ ] Setup a load balancer for own projects #medium
-- [ ] Setup Gitops for Traefik #medium
-- [ ] Setup disks temperature and health status for all servers #medium
+- [ ] (Fix) SeaweedFS not start at bootup #medium
+- [ ] (Fix) Sonarqube not start at bootup #medium
+- [ ] (Setup) a load balancer for own projects #medium
+- [ ] (Setup) disks temperature and health status for all servers #medium
+- [ ] (Setup) Gitops for Traefik #medium
+- [ ] (Setup) Truenas monitoring and show it in grafana #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
-- [ ] Setup Truenas monitoring and show it in grafana #medium
-- [ ] Migrate from using single docker to use Kubernetes #low
-- [ ] Setup loadbalancer for databases #low
-- [ ] Setup a redis server for my webapps #low
+- [ ] (Migrate) all docker containers to use docker volume instead of system path #low
+- [ ] (Migrate) from using single docker to use Kubernetes #low
+- [ ] (Setup) a redis server for my webapps #low
+- [ ] (Setup) Gitops for system #low
+- [ ] (Setup) loadbalancer for databases #low
 - [ ] ReOrganize Jenkins dashboard in Grafana #low
-- [ ] Migrate all docker containers to use docker volume instead of system path #low
-- [ ] Setup Gitops for system #low
 
 
 ## In Progress 🧑‍💻
 
-- [ ] Setup proxmox monitoring #medium
+- [ ] (Setup) proxmox monitoring #medium
 - [ ] [[Setup HA Pi-hole]] #medium
-- [ ] Setup a temperature status for proxmox and truenas #medium
-- [ ] Migrate Pfsense to a physical server #low
-- [ ] Setup disk status in grafana dashboard #low
-- [ ] Setup a sytstem logs for all servers #high
+- [ ] (Setup) a temperature status for proxmox and truenas #medium
+- [ ] (Migrate) Pfsense to a physical server #low
+- [ ] (Setup) disk status in grafana dashboard #low
+- [ ] (Setup) a sytstem logs for all servers #high
 
 
 ## Testing 🧪
 
-- [ ] [[Setup pi-hole backup job]] #high
-- [ ] Fix mysql-dev and mysql-prod auto start when boot #medium
+- [ ] [[(Setup) pi-hole backup job]] #high
+- [ ] (Fix) mysql-dev and mysql-prod auto start when boot #medium
 - [ ] [[Setup database server backup job]] #high
 - [ ] [[Setup jenkins backup job]] #high
 - [ ] [[Set up gitlab backup job]] #high
@@ -47,10 +49,10 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
-- [x] Setup proxmox auto shutdown #medium
+- [x] (Setup) proxmox auto shutdown #medium
 - [x] [[Setup truenas auto shutdown job]] #medium
-- [x] Backup Bitwarden #high
-- [x] Backup Pfsense #high
+- [x] (Backup) Bitwarden #high
+- [x] (Backup) Pfsense #high
 
 
 ## Failed ⭕
