@@ -90,10 +90,10 @@ sudo crontab -e
 ```
 ```sh
 #========== LOCAL BACKUP ==========#
-0 1 * * * /usr/local/bin/pihole-backup.sh
+0 1 * * * /usr/local/bin/pihole-backup.sh >> /var/log/pihole-backup.log 2>&1
 
 #========== NAS BACKUP ==========#
-30 1 * * * /usr/local/bin/pihole-backup-nas.sh
+30 1 * * * /usr/local/bin/pihole-backup-nas.sh >> /var/log/pihole-backup-nas.log 2>&1
 ```
 ## Progress log
 - 2026-05-24 — project started

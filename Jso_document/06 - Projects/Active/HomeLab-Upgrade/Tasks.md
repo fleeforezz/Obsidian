@@ -11,37 +11,35 @@ project: "[[HomeLab Upgrade - hub]]"
 ## No status 😴
 
 - [ ] [[Setup backup job for Proxmox VMs]] #high
-- [ ] Setup and test Truenas replication task, backup task #high
-- [ ] Setup a login tracer for all servers and show it in grafana #high
-- [ ] Set up a load balancer for own projects #medium
-- [ ] Setup IaC for Traefik #medium
-- [ ] Setup disks temperature and health status for all our system #medium
+- [ ] Setup and test Truenas replication task, backup tasks #high
+- [ ] Setup a load balancer for own projects #medium
+- [ ] Setup Gitops for Traefik #medium
+- [ ] Setup disks temperature and health status for all servers #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
-- [ ] Setup proxmox monitoring and show it in grafana #medium
 - [ ] Setup Truenas monitoring and show it in grafana #medium
 - [ ] Migrate from using single docker to use Kubernetes #low
 - [ ] Setup loadbalancer for databases #low
 - [ ] Setup a redis server for my webapps #low
 - [ ] ReOrganize Jenkins dashboard in Grafana #low
-- [ ] Setup disk status in grafana dashboard #low
 - [ ] Migrate all docker containers to use docker volume instead of system path #low
+- [ ] Setup Gitops for system #low
 
 
 ## In Progress 🧑‍💻
 
+- [ ] Setup proxmox monitoring #medium
 - [ ] [[Setup HA Pi-hole]] #medium
-- [ ] Setup a temperature tracker for proxmox and truenas and show it in grafana #medium
+- [ ] Setup a temperature status for proxmox and truenas #medium
+- [ ] Migrate Pfsense to a physical server #low
+- [ ] Setup disk status in grafana dashboard #low
+- [ ] Setup a sytstem logs for all servers #high
 
 
 ## Testing 🧪
 
 - [ ] [[Setup pi-hole backup job]] #high
 - [ ] Fix mysql-dev and mysql-prod auto start when boot #medium
-- [ ] Setup proxmox auto shutdown #medium
 - [ ] [[Setup database server backup job]] #high
-- [ ] [[Setup truenas auto shutdown job]] #medium
-- [ ] Backup Bitwarden #high
-- [ ] Backup Pfsense #high
 - [ ] [[Setup jenkins backup job]] #high
 - [ ] [[Set up gitlab backup job]] #high
 
@@ -49,6 +47,10 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
+- [x] Setup proxmox auto shutdown #medium
+- [x] [[Setup truenas auto shutdown job]] #medium
+- [x] Backup Bitwarden #high
+- [x] Backup Pfsense #high
 
 
 ## Failed ⭕
