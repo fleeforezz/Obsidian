@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,16 +316,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "492031982dd6501b",
+  "active": "cf56dfa76223fca5",
   "lastOpenFiles": [
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
+    "99 - Other/Temp/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/CasaOS/Install CasaOS.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Proxmox.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
     "04 - Self_Learning/HomeLab_Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
     "04 - Self_Learning/HomeLab_Services/Network/Pf-Sense/Pf-Sense.md",
     "04 - Self_Learning/HomeLab_Services/Automation/Ansible/Ansible Playbooks.md",
-    "99 - Other/Temp/Alloy.md",
     "04 - Self_Learning/attachments/debian_command_banner.png",
     "04 - Self_Learning/attachments/uptime_kuma_banner.png",
     "04 - Self_Learning/attachments/homer_banner.png",
