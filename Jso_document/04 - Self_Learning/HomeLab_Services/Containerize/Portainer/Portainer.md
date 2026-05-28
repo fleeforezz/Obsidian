@@ -14,12 +14,20 @@ services:
     container_name: portainer
     image: portainer/portainer-ce:lts
     restart: always
+    dns:
+      - 10.0.1.91
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
     ports:
       - 9443:9443
       - 8000:8000  # Remove if you do not intend to use Edge Agents
+    healthcheck:
+      test: ["CMD", "/portainer", "--version"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
 
 volumes:
   portainer_data:

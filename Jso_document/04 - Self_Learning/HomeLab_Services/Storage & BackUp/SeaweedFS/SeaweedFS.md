@@ -30,40 +30,96 @@ version: '3.9'
 
 services:
   master:
-    image: chrislusf/seaweedfs
-    command: master -ip=master
+    image: chrislusf/seaweedfs # use a remote image
     ports:
-      - "9333:9333"
-      - "19333:19333"
+      - 9333:9333
+      - 19333:19333
+      - 9324:9324
+    command: 'master -ip=master -ip.bind=0.0.0.0 -metricsPort=9324'
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://monitoring.local:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
 
   volume:
-    image: chrislusf/seaweedfs
-    command: volume -mserver="master:9333" -port=8080 -ip=volume
+    image: chrislusf/seaweedfs # use a remote image
     ports:
-      - "8080:8080"
-      - "18080:18080"
-    volumes:
-      - ./data:/data
+      - 8081:8080
+      - 18080:18080
+      - 9325:9325
+    command: 'volume -ip=volume -master="master:9333" -ip.bind=0.0.0.0 -port=8081 -metricsPort=9325'
     depends_on:
       - master
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://monitoring.local:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
 
   filer:
-    image: chrislusf/seaweedfs
-    command: filer -master="master:9333"
+    image: chrislusf/seaweedfs # use a remote image
     ports:
-      - "8888:8888"
-      - "18888:18888"
+      - 8888:8888
+      - 18888:18888
+      - 9326:9326
+    command: 'filer -ip=filer -master="master:9333" -ip.bind=0.0.0.0 -metricsPort=9326'
+    tty: true
+    stdin_open: true
     depends_on:
       - master
       - volume
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://monitoring.local:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
 
   s3:
-    image: chrislusf/seaweedfs
-    command: s3 -filer="filer:8888"
+    image: chrislusf/seaweedfs # use a remote image
     ports:
-      - "8333:8333"
+      - 8333:8333
+      - 9327:9327
+    command: 's3 -filer="filer:8888" -ip.bind=0.0.0.0 -metricsPort=9327'
     depends_on:
+      - master
+      - volume
       - filer
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://monitoring.local:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+
+  webdav:
+    image: chrislusf/seaweedfs # use a remote image
+    ports:
+      - 7333:7333
+    command: 'webdav -filer="filer:8888"'
+    depends_on:
+      - master
+      - volume
+      - filer
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://monitoring.local:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+
+#  prometheus:
+#    image: prom/prometheus:v2.21.0
+#    ports:
+#      - 9001:9090
+#    volumes:
+#      - ./prometheus:/etc/prometheus
+#    command: '--web.enable-lifecycle --config.file=/etc/prometheus/prometheus.yml'
+#    depends_on:
+#      - s3
 ```
 
 ## Common Operations
