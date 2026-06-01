@@ -13,30 +13,30 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] (Setup) and test Truenas replication task, backup tasks #high
 - [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] (Setup) a load balancer for own projects #medium
-- [ ] (Setup) disks temperature and health status for all servers #medium
 - [ ] (Setup) Gitops for Traefik #medium
-- [ ] (Setup) Truenas monitoring and show it in grafana #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
 - [ ] (Migrate) all docker containers to use docker volume instead of system path #low
 - [ ] (Migrate) from using single docker to use Kubernetes #low
 - [ ] (Setup) a redis server for my webapps #low
 - [ ] (Setup) Gitops for system #low
 - [ ] (Setup) loadbalancer for databases #low
-- [ ] ReOrganize Jenkins dashboard in Grafana #low
 
 
 ## In Progress 🧑‍💻
 
-- [ ] (Fix) SeaweedFS not start at bootup #medium
-- [ ] (Setup) proxmox monitoring #medium
-- [ ] (Setup) a temperature status for proxmox and truenas #medium
+- [ ] (Setup) Truenas monitoring and show it in grafana #medium
+- [ ] (Setup) Version control backup job #low
+- [ ] (Setup) Make Gitlab only used local #low
+- [ ] (Setup) disks temperature and health status for all servers #medium
 - [ ] (Migrate) Pfsense to a physical server #low
 - [ ] (Setup) disk status in grafana dashboard #low
-- [ ] (Setup) a sytstem logs for all servers #high
 
 
 ## Testing 🧪
 
+- [ ] (Setup) a sytstem logs for all servers #high
+- [ ] (Setup) a temperature status for proxmox and truenas #medium
+- [ ] (Setup) proxmox monitoring #medium
 - [ ] [[Setup HA Pi-hole]] #medium
 - [ ] [[(Setup) pi-hole backup job]] #high
 - [ ] (Fix) mysql-dev and mysql-prod auto start when boot #medium
@@ -48,6 +48,8 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
+- [x] ReOrganize Jenkins dashboard in Grafana #low
+- [x] (Fix) SeaweedFS not start at bootup #medium
 - [x] (Fix) Sonarqube not start at bootup #medium
 - [x] (Setup) proxmox auto shutdown #medium
 - [x] [[Setup truenas auto shutdown job]] #medium

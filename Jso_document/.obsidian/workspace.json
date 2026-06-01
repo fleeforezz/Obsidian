@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,14 +292,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "014cc2a8e19ea41c",
+  "active": "cf56dfa76223fca5",
   "lastOpenFiles": [
+    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/(Setup) pi-hole backup job.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/Storage & BackUp/SeaweedFS/SeaweedFS.md",
     "04 - Self_Learning/HomeLab_Services/Development/Sonarqube/Sonarqube.md",
-    "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "99 - Other/Temp/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/Containerize/Portainer/Portainer.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/CasaOS/Install CasaOS.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Proxmox.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
@@ -317,7 +318,6 @@
     "04 - Self_Learning/HomeLab_Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Watch Tower/Watch Tower.md",
     "00 - HomeLab/Services/External-Uptime-Kuma.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/(Setup) pi-hole backup job.md",
     "00 - HomeLab/HomeLab - MOC.md",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup HA Pi-hole.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Network.md",
