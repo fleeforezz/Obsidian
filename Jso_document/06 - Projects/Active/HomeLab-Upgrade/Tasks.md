@@ -15,12 +15,12 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] (Setup) a load balancer for own projects #medium
 - [ ] (Setup) Gitops for Traefik #medium
 - [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
+- [ ] (Update) Migrate from using .local to .home.arpa #medium
 - [ ] (Migrate) all docker containers to use docker volume instead of system path #low
 - [ ] (Migrate) from using single docker to use Kubernetes #low
 - [ ] (Setup) a redis server for my webapps #low
 - [ ] (Setup) Gitops for system #low
 - [ ] (Setup) loadbalancer for databases #low
-- [ ] (Update) Migrate from using .local to .home.arpa #medium
 
 
 ## In Progress 🧑‍💻
