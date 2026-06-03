@@ -19,15 +19,13 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] (Migrate) all docker containers to use docker volume instead of system path #low
 - [ ] (Migrate) from using single docker to use Kubernetes #low
 - [ ] (Setup) a redis server for my webapps #low
-- [ ] (Setup) Gitops for system #low
 - [ ] (Setup) loadbalancer for databases #low
 
 
 ## In Progress 🧑‍💻
 
+- [ ] (Setup) Gitops for system #low
 - [ ] (Setup) Truenas monitoring and show it in grafana #medium
-- [ ] (Setup) Version control backup job #low
-- [ ] (Setup) Make Gitlab only used local #low
 - [ ] (Setup) disks temperature and health status for all servers #medium
 - [ ] (Migrate) Pfsense to a physical server #low
 - [ ] (Setup) disk status in grafana dashboard #low
@@ -49,6 +47,8 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
+- [x] (Setup) Make Gitlab only used local #low
+- [x] (Setup) Version control backup job #low
 - [x] ReOrganize Jenkins dashboard in Grafana #low
 - [x] (Fix) SeaweedFS not start at bootup #medium
 - [x] (Fix) Sonarqube not start at bootup #medium

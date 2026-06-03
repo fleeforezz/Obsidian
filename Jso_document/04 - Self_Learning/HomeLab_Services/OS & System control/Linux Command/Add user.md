@@ -1,10 +1,10 @@
 
 ```shell
-adduser ur-name
+sudo useradd -m -s /bin/bash <your-username>
 ```
 
 ```shell
-adduser ur-name sudo
+adduser <your-username> sudo
 ```
 
 ```shell
