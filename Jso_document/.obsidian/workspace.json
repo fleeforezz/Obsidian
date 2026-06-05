@@ -45,7 +45,7 @@
             }
           },
           {
-            "id": "c66bf5309a1ddc34",
+            "id": "57592c662c8054a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -264,7 +264,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c66bf5309a1ddc34",
+  "active": "57592c662c8054a1",
   "lastOpenFiles": [
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Add user.md",
