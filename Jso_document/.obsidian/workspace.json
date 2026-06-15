@@ -22,29 +22,6 @@
             }
           },
           {
-            "id": "cf56dfa76223fca5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Tasks"
-            }
-          },
-          {
             "id": "23c78a23d35ff40c",
             "type": "leaf",
             "state": {
@@ -57,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,9 +241,11 @@
   },
   "active": "23c78a23d35ff40c",
   "lastOpenFiles": [
+    "02 - Work/Freelance/Note.md",
+    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "02 - Work/Freelance",
     "05 - Excalidraw/Drawing 2026-06-12 10.40.08.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20260612120220_800.png",
-    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "00 - HomeLab/HomeLab - MOC.md",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Add user.md",
@@ -308,7 +287,6 @@
     "06 - Projects/On-hold",
     "06 - Projects/Active/HomeLab-Upgrade",
     "Templates/School",
-    "Templates/Projects",
     "Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
