@@ -25,12 +25,14 @@
             "id": "23c78a23d35ff40c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "05 - Excalidraw/Drawing 2026-06-12 10.40.08.excalidraw.md"
+                "file": "02 - Work/Freelance/Note.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-12 10.40.08.excalidraw"
+              "icon": "lucide-file",
+              "title": "Note"
             }
           }
         ],
@@ -241,10 +243,10 @@
   },
   "active": "23c78a23d35ff40c",
   "lastOpenFiles": [
+    "05 - Excalidraw/Drawing 2026-06-12 10.40.08.excalidraw.md",
     "02 - Work/Freelance/Note.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "02 - Work/Freelance",
-    "05 - Excalidraw/Drawing 2026-06-12 10.40.08.excalidraw.md",
     "05 - Excalidraw/attachments/Pasted Image 20260612120220_800.png",
     "00 - HomeLab/HomeLab - MOC.md",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
