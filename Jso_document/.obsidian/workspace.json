@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "16a3a168401a89f8",
+        "id": "dcb515fbaefabd08",
         "type": "tabs",
         "children": [
           {
-            "id": "ef1e909670a84364",
+            "id": "1087bddea069b15a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00 - HomeLab/HomeLab - MOC.md",
-                "mode": "source",
-                "source": false
+                "file": "05 - Excalidraw/Annotationary_Doc.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "HomeLab - MOC"
+              "icon": "excalidraw-icon",
+              "title": "Annotationary_Doc.excalidraw"
             }
           },
           {
-            "id": "23c78a23d35ff40c",
+            "id": "c3e63307f18e7510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02 - Work/Freelance/Note.md",
-                "mode": "preview",
-                "source": false
+                "file": "05 - Excalidraw/Domain Drive Driven.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Note"
+              "icon": "excalidraw-icon",
+              "title": "Domain Drive Driven.excalidraw"
             }
           }
         ],
@@ -241,14 +237,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23c78a23d35ff40c",
+  "active": "c3e63307f18e7510",
   "lastOpenFiles": [
-    "05 - Excalidraw/Drawing 2026-06-12 10.40.08.excalidraw.md",
+    "05 - Excalidraw/Annotationary_Doc.excalidraw.md",
+    "05 - Excalidraw/Domain Drive Driven.excalidraw.md",
+    "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
+    "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
+    "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
+    "05 - Excalidraw/Lab211.excalidraw.md",
+    "05 - Excalidraw/Drawing 2026-01-16 21.09.35.excalidraw.md",
+    "05 - Excalidraw/Drawing 2025-09-21 17.02.28.excalidraw.md",
+    "05 - Excalidraw/Docker Explain.excalidraw.md",
+    "06 - Projects/Active/Annotationary/Annotationary - hub.md",
+    "00 - HomeLab/HomeLab - MOC.md",
     "02 - Work/Freelance/Note.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "02 - Work/Freelance",
     "05 - Excalidraw/attachments/Pasted Image 20260612120220_800.png",
-    "00 - HomeLab/HomeLab - MOC.md",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Add user.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
@@ -262,21 +267,12 @@
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Proxmox.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
     "04 - Self_Learning/HomeLab_Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
-    "04 - Self_Learning/HomeLab_Services/Network/Pf-Sense/Pf-Sense.md",
-    "04 - Self_Learning/HomeLab_Services/Automation/Ansible/Ansible Playbooks.md",
     "04 - Self_Learning/attachments/debian_command_banner.png",
     "04 - Self_Learning/attachments/uptime_kuma_banner.png",
     "04 - Self_Learning/attachments/homer_banner.png",
     "04 - Self_Learning/attachments/ansible_banner.png",
     "04 - Self_Learning/attachments/watch_tower_banner.png",
     "04 - Self_Learning/attachments",
-    "04 - Self_Learning/HomeLab_Services/Automation/Ansible/Ansible.md",
-    "04 - Self_Learning/HomeLab_Services/Monitoring/Uptime Kuma/Config SMTP notification for uptime kuma.md",
-    "04 - Self_Learning/HomeLab_Services/Monitoring/Uptime Kuma/Uptime Kuma.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Watch Tower/Watch Tower.md",
-    "00 - HomeLab/Services/External-Uptime-Kuma.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Network.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Task-Details/Setup database server backup job.md",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304230750.png",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304215114.png",
     "06 - Projects/Archive/Melville/Resources/Pasted image 20250304131928.png",
