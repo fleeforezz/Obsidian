@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODOs
 
-- [ ] Ai Report lab 2
 - [ ] Code lab 3
 - [ ] Diagrams lab 3
 - [ ] AI Report lab 3
@@ -15,6 +14,7 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] Diagrams lab 2
+- [ ] Ai Report lab 2
 
 
 ## Done

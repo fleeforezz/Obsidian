@@ -20,8 +20,30 @@
               "icon": "lucide-file",
               "title": "Lab 2"
             }
+          },
+          {
+            "id": "2430d61f016db59d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "02 - Work/Freelance/Teaching/Work needs to do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Work needs to do"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +248,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfccb3d492f44eda",
+  "active": "2430d61f016db59d",
   "lastOpenFiles": [
+    "02 - Work/Freelance/Teaching/resources/Lab 2.md",
     "02 - Work/Freelance/Teaching/Work needs to do.md",
     "02 - Work/Freelance/Teaching/Price.md",
-    "02 - Work/Freelance/Teaching/resources/Lab 2.md",
     "02 - Work/Freelance/Teaching/resources",
     "06 - Projects/Active/Untitled",
     "05 - Excalidraw/Annotationary_Doc.excalidraw.md",
