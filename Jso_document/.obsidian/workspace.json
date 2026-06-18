@@ -11,28 +11,17 @@
             "id": "1087bddea069b15a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "05 - Excalidraw/Annotationary_Doc.excalidraw.md"
+                "file": "02 - Work/Freelance/Teaching/resources/Lab 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Annotationary_Doc.excalidraw"
-            }
-          },
-          {
-            "id": "c3e63307f18e7510",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "05 - Excalidraw/Domain Drive Driven.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Domain Drive Driven.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lab 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +226,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3e63307f18e7510",
+  "active": "1087bddea069b15a",
   "lastOpenFiles": [
+    "02 - Work/Freelance/Teaching/Work needs to do.md",
+    "02 - Work/Freelance/Teaching/resources/Lab 2.md",
+    "02 - Work/Freelance/Teaching/resources",
+    "02 - Work/Freelance/Teaching/Price.md",
+    "06 - Projects/Active/Untitled",
     "05 - Excalidraw/Annotationary_Doc.excalidraw.md",
     "05 - Excalidraw/Domain Drive Driven.excalidraw.md",
+    "02 - Work/Freelance/Teaching",
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
     "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
@@ -264,9 +259,6 @@
     "99 - Other/Temp/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/Containerize/Portainer/Portainer.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/CasaOS/Install CasaOS.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Proxmox.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Proxmox/Config Proxmox.md",
-    "04 - Self_Learning/HomeLab_Services/Network/Nginx Proxy Manager/Nginx Proxy Manager.md",
     "04 - Self_Learning/attachments/debian_command_banner.png",
     "04 - Self_Learning/attachments/uptime_kuma_banner.png",
     "04 - Self_Learning/attachments/homer_banner.png",
@@ -282,9 +274,6 @@
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/attachments",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details",
     "06 - Projects/Active/Annotationary",
-    "06 - Projects/On-hold",
-    "06 - Projects/Active/HomeLab-Upgrade",
-    "Templates/School",
     "Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
