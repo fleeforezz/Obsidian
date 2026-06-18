@@ -14,5 +14,6 @@
   "dataview",
   "mermaid-tools",
   "templater-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-plugin-toc"
 ]

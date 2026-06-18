@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb515fbaefabd08",
+        "id": "151a257472ae5c78",
         "type": "tabs",
         "children": [
           {
-            "id": "1087bddea069b15a",
+            "id": "dfccb3d492f44eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -226,12 +226,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1087bddea069b15a",
+  "active": "dfccb3d492f44eda",
   "lastOpenFiles": [
     "02 - Work/Freelance/Teaching/Work needs to do.md",
+    "02 - Work/Freelance/Teaching/Price.md",
     "02 - Work/Freelance/Teaching/resources/Lab 2.md",
     "02 - Work/Freelance/Teaching/resources",
-    "02 - Work/Freelance/Teaching/Price.md",
     "06 - Projects/Active/Untitled",
     "05 - Excalidraw/Annotationary_Doc.excalidraw.md",
     "05 - Excalidraw/Domain Drive Driven.excalidraw.md",
