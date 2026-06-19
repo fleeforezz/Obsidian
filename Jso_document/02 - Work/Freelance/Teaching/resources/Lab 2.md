@@ -13,8 +13,9 @@ Table of content
 		- [[#2.1 Flow charts#2.1.9 Remove player by ID|2.1.9 Remove player by ID]]
 		- [[#2.1 Flow charts#2.1.10 Update player by ID|2.1.10 Update player by ID]]
 		- [[#2.1 Flow charts#2.1.11 List all players by position|2.1.11 List all players by position]]
-	- [[#2. Diagrams#2.2 Flow Charts|2.2 Flow Charts]]
-		- [[#2.2 Flow Charts#2.2.1|2.2.1]]
+		- [[#2.1 Flow charts#2.1.12 Save to file|2.1.12 Save to file]]
+		- [[#2.1 Flow charts#2.1.13 Load data from file|2.1.13 Load data from file]]
+		- [[#2.1 Flow charts#2.1.14 Exit the program|2.1.14 Exit the program]]
 
 ## 1. Codes
 https://github.com/fleeforezz/Freelance/tree/main/FPTU/Lab_2_FootballClub_n_PlayerManagement
@@ -49,6 +50,4 @@ https://github.com/fleeforezz/Freelance/tree/main/FPTU/Lab_2_FootballClub_n_Play
 ![[Load_data_from_file.png]]
 #### 2.1.14 Exit the program
 ![[Exit_program.png]]
-### 2.2 Flow Charts
-#### 2.2.1 
 
