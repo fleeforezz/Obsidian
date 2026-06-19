@@ -43,8 +43,7 @@
               "title": "Work needs to do"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,20 +248,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2430d61f016db59d",
+  "active": "dfccb3d492f44eda",
   "lastOpenFiles": [
+    "02 - Work/Freelance/Teaching/resources/attachments/Exit_program.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/Load_data_from_file.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/Save_To_File.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/List_PLayer_By_Position.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/Update_Player.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/Remove_Player_By_ID.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/Add_New_Player.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/Search_Players_By_Partial_Name.png",
+    "02 - Work/Freelance/Teaching/resources/attachments/List_All_Player_Acending.png",
+    "02 - Work/Freelance/Teaching/Work needs to do.md",
     "02 - Work/Freelance/Teaching/resources/Lab 2.md",
     "02 - Work/Freelance/Teaching/resources/attachments/List_Club_With_Budget.png",
     "02 - Work/Freelance/Teaching/resources/attachments/Update_Club_By_ID 2.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/Update_Club_By_ID 1.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/Update_Club_By_ID.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/Search_Club_By_ID.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/Pasted image 20260619120602.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/Add_New_Club.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/{5A78A3AC-509F-46D8-A8BC-D7B232194EDA}.png",
-    "02 - Work/Freelance/Teaching/resources/attachments/ListAllClub.png",
     "02 - Work/Freelance/Teaching/Cách nộp bài.md",
-    "02 - Work/Freelance/Teaching/Work needs to do.md",
     "02 - Work/Freelance/Teaching/Price.md",
     "02 - Work/Freelance/Teaching/resources/attachments",
     "02 - Work/Freelance/Teaching/resources",
@@ -282,7 +283,6 @@
     "02 - Work/Freelance/Note.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "02 - Work/Freelance",
-    "05 - Excalidraw/attachments/Pasted Image 20260612120220_800.png",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Add user.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
