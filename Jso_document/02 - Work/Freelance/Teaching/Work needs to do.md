@@ -17,10 +17,14 @@ kanban-plugin: board
 - [ ] Ai Report lab 2
 
 
+## Need Fix
+
+- [ ] Code lab 2
+
+
 ## Done
 
 **Complete**
-- [x] Code lab 2
 
 
 ## Cancel
@@ -31,6 +35,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
