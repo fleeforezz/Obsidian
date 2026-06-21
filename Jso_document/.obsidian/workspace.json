@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Work/Freelance/Teaching/resources/Lab 2.md",
+                "file": "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2"
+              "title": "ZSH"
             }
           },
           {
@@ -219,12 +219,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "c59dbf95f5b2478b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -250,8 +260,8 @@
   },
   "active": "dfccb3d492f44eda",
   "lastOpenFiles": [
-    "02 - Work/Freelance/Teaching/Work needs to do.md",
     "02 - Work/Freelance/Teaching/resources/Lab 2.md",
+    "02 - Work/Freelance/Teaching/Work needs to do.md",
     "02 - Work/Freelance/Teaching/resources/attachments/Exit_program.png",
     "02 - Work/Freelance/Teaching/resources/attachments/Load_data_from_file.png",
     "02 - Work/Freelance/Teaching/resources/attachments/Save_To_File.png",
