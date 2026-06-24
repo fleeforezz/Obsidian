@@ -1,5 +1,3 @@
-+ Làm 2 bài Lab (400k)
-	+ Mỗi bài 200k
-+ Làm diagrams vs AI report (200k)
-	+ Mỗi bài 100k
--> Total: 600k
++ Làm 2 bài Lab (850k)
+	+ Lab 2: 300k
+	+ Lab 3: 550k

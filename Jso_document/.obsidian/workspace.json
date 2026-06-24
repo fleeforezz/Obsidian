@@ -43,7 +43,8 @@
               "title": "Work needs to do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,10 +259,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfccb3d492f44eda",
+  "active": "2430d61f016db59d",
   "lastOpenFiles": [
-    "02 - Work/Freelance/Teaching/resources/Lab 2.md",
+    "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
+    "02 - Work/Freelance/Note.md",
     "02 - Work/Freelance/Teaching/Work needs to do.md",
+    "02 - Work/Freelance/Teaching/Price.md",
+    "02 - Work/Freelance/Teaching/Cách nộp bài.md",
+    "02 - Work/Freelance/Teaching/resources/Lab 2.md",
     "02 - Work/Freelance/Teaching/resources/attachments/Exit_program.png",
     "02 - Work/Freelance/Teaching/resources/attachments/Load_data_from_file.png",
     "02 - Work/Freelance/Teaching/resources/attachments/Save_To_File.png",
@@ -272,8 +277,6 @@
     "02 - Work/Freelance/Teaching/resources/attachments/Search_Players_By_Partial_Name.png",
     "02 - Work/Freelance/Teaching/resources/attachments/List_All_Player_Acending.png",
     "02 - Work/Freelance/Teaching/resources/attachments/List_Club_With_Budget.png",
-    "02 - Work/Freelance/Teaching/Cách nộp bài.md",
-    "02 - Work/Freelance/Teaching/Price.md",
     "02 - Work/Freelance/Teaching/resources/attachments",
     "02 - Work/Freelance/Teaching/resources",
     "06 - Projects/Active/Untitled",
@@ -289,7 +292,6 @@
     "05 - Excalidraw/Docker Explain.excalidraw.md",
     "06 - Projects/Active/Annotationary/Annotationary - hub.md",
     "00 - HomeLab/HomeLab - MOC.md",
-    "02 - Work/Freelance/Note.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "02 - Work/Freelance",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
