@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Excalidraw/Drawing 2026-02-27 10.55.32.excalidraw.md",
+                "file": "02 - Work/Get ready for Interview/DevOps/Blue Bolt interview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-27 10.55.32.excalidraw"
+              "title": "Outline of Blue Bolt interview"
             }
           },
           {
@@ -212,12 +212,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {

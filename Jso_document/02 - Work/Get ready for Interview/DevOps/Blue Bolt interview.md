@@ -1,3 +1,4 @@
+# Vòng Technical Skill
 ## Linux & Docker
 **Câu 1:** Sự khác nhau giữa CMD và ENTRYPOINT trong Dockerfile là gì ?
 + `Entrypoint` định nghĩa lệnh chính luôn được chạy khi container khởi động, không thể bị override bằng argument thông thường. 
@@ -126,3 +127,32 @@ Dùng cấu trúc **STAR** (Situation, Task, Action, Result). Gợi ý một s
 • **GLPA Stack**: Loki query chậm do high cardinality labels → refactor sang dùng LogQL parser  
 • **Homelab-edge**: Terraform state drift khi Proxmox VM bị xóa tay → học về `terraform state rm` và import  
 Chọn một vấn đề thực sự bạn gặp và giải thích rõ ràng, trung thực.
+
+# Vòng câu hỏi Behavioral
+> [!tip]
+> Dùng cấu trúc STAR để trả lời: Situation (bối cảnh) -> Task (nhiệm vụ) -> Action (hành động) -> Result (kết quả)
+
+## Giới thiệu bản thân
+**Câu 1:** Hãy giới thiệu về bản thân bạn
++ **Công thức:** Quá khứ -> Hiện tại -> Tương lai. Không kể lại CV, hãy kể về một câu chuyện liền mạch trong 90s.
++ **Gợi ý:** Bắt đầu bằng nền tảng kỹ thuật, nhắc đến 3 dự án (Homelab-Edge, Network_Pipe, GLPA Stack) như bằng chứng tự học, kết bằng lý do ứng tuyển vào vị trí này.
++ **Ví dụ:** "Mình có nền tảng DevOps Engineer, trong quá trình học mình tự build homelab trên proxmox để thực hành Linux, Docker và monitoring thực tế. Mình đã hoàn thành  3 dự án cá nhân - một trong số đó là GLPA Stack, một obserbility stack hoàn chỉnh gồm Grafana, Loki, Prometheus và Alloy. Đó là lý do mình muốn bắt đầu sự nghiệp tại đây."
++ **Lưu ý:** Tránh nói "Mình là người chăm chỉ và cầu tiến" - ai cũng nói vậy. Để dự án nói thay mình.
+
+**Câu 2:** Tại sao bạn lại chọn ngành DevOps thay vì Dev hay các ngành khác ?
+
+**Câu 3:** Bạn thấy mình ở đâu sau 2-3 năm nữa trong lĩnh vực này ?
++ **Nguyên tắc:** Trả lời thành thật nhưng align với growth path của công ty. Đừng nói "muốn làm manager" nếu đây là vị trí kỹ thuật thuần tuý.
++ **Gợi ý:** 
+	+ Năm 1: nắm vững CI/CD và container orchestration trong môi trường production thực tế.
+	+ Năm 2-3: đảm nhận được thiết kế pipeline từ đầu, có thể mentor fresher mới, bắt đầu tìm hiểu Kubernetes hoặc cloud native.
++ **Ví dụ:** "Mình muốn trong năm đầu nắm thật chắc quy trình CI/CD và monitoring của team. Sau 2–3 năm, mình muốn có thể tự thiết kế và vận hành infrastructure cho một product hoàn chỉnh — và có thể contribute lại cho team bằng kinh nghiệm đó."
++ **Lưu ý:** Đừng quá tham vọng ("CEO sau 5 năm") cũng đừng quá mơ hồ ("muốn phát triễn hơn"). Cụ thể và realistic.
+## Làm việc nhóm
+**Câu 1:** Kể về một lần bạn làm việc nhóm và đòng góp vào kết quả chung
++ Situation: 
+
+**Câu 2:** 
+## Xử lý áp lực
+## Học hỏi và phát triển
+## Phù hợp văn hoá
