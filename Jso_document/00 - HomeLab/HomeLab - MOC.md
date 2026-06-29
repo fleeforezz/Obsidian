@@ -38,6 +38,12 @@ banner-y: 0
 | switch-02      | 10.0.1.0/24              | TP-Link 5-port      | [[Hardware/Switch-02]]      |
 | firewall       | 192.168.1.99 \| 10.0.1.1 | Pfsense firewall    | [[Hardware/Firewall]]       |
 | router-mesh-03 | 192.168.1.1              | Viettel mesh router | [[Hardware/Router-Mesh-03]] |
+### Proxmox VMs
+
+| VMID | VM-name       |
+| ---- | ------------- |
+| 100  | infra-pfsense |
+
 
 ### Services running
 | Service     | Host                | Port | Status |
