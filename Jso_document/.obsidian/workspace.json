@@ -27,26 +27,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "00 - HomeLab/Monitoring/Drawing 2026-06-30 15.09.51.excalidraw.md"
+                "file": "00 - HomeLab/Monitoring/GLPA Stack.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-30 15.09.51.excalidraw"
-            }
-          },
-          {
-            "id": "5e016a4e43962c93",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md"
-              },
-              "icon": "blocks",
-              "title": "HomeLab Tree"
+              "title": "GLPA Stack"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - HomeLab/Monitoring/Drawing 2026-06-30 15.09.51.excalidraw.md",
+                "file": "00 - HomeLab/HomeLab - MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-06-30 15.09.51.excalidraw"
+              "title": "Outline of HomeLab - MOC"
             }
           },
           {
@@ -191,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,12 +198,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed5b1630ffd6cb2d",
+  "active": "993a3316b8976e0a",
   "lastOpenFiles": [
+    "00 - HomeLab/Monitoring/GLPA Stack.md",
     "00 - HomeLab/HomeLab - MOC.md",
-    "00 - HomeLab/Monitoring/Drawing 2026-06-30 15.09.51.excalidraw.md",
-    "00 - HomeLab/Monitoring",
     "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
+    "00 - HomeLab/Monitoring",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
     "00 - HomeLab/Runbooks/Runbook - temp.md",
