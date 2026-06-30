@@ -39,10 +39,43 @@ banner-y: 0
 | firewall       | 192.168.1.99 \| 10.0.1.1 | Pfsense firewall    | [[Hardware/Firewall]]       |
 | router-mesh-03 | 192.168.1.1              | Viettel mesh router | [[Hardware/Router-Mesh-03]] |
 ### Proxmox VMs
+#### Proxmox node naming
+For the Proxmox hosts:
++ pve01
++ pve02
++ pve03
+Or:
++ pve-mini01
++ pve-tower01
++ pve-r73001
 
-| VMID | VM-name       |
-| ---- | ------------- |
-| 100  | infra-pfsense |
+#### VMs & LXC naming
+For VMs and LXC:
++ 100-199 -> infrastructure
++ 200-299 -> services
++ 300-399 -> monitoring
++ 400-499 -> databases
++ 900-999 -> templates
+
+**Names:**
+```
+<category>-<service>-<type><number>
+
+Example:
+mon-grafana-lxc01  
+db-postgres-vm01  
+svc-pihole-lxc01  
+ci-jenkins-vm01
+```
+
+| VMID | VM-name               |
+| ---- | --------------------- |
+| 100  | infra-pfsense-vm01    |
+| 101  | infra-k8s-master-vm01 |
+| 102  | infra-k8s-worker-vm01 |
+| 103  | infra-k8s-worker-vm02 |
+| 104  | infra-k8s-worker-vm03 |
+| 200  | svc-                  |
 
 
 ### Services running

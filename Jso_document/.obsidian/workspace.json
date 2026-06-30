@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "HomeLab - MOC"
             }
+          },
+          {
+            "id": "5e016a4e43962c93",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md"
+              },
+              "icon": "blocks",
+              "title": "HomeLab Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,11 +258,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "993a3316b8976e0a",
+  "active": "5e016a4e43962c93",
   "lastOpenFiles": [
+    "00 - HomeLab/HomeLab - MOC.md",
+    "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
-    "00 - HomeLab/HomeLab - MOC.md",
     "00 - HomeLab/Runbooks/Runbook - temp.md",
     "00 - HomeLab/Change_Logs/Change_logs - temp.md",
     "00 - HomeLab/Hardware/Server-Main.md",
@@ -286,7 +300,6 @@
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
     "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
-    "05 - Excalidraw/Lab211.excalidraw.md",
     "02 - Work/Freelance",
     "04 - Self_Learning/attachments",
     "06 - Projects/Archive/Melville/Resources",
