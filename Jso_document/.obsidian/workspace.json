@@ -33,8 +33,7 @@
               "title": "HomeLab Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,10 +257,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e016a4e43962c93",
+  "active": "993a3316b8976e0a",
   "lastOpenFiles": [
-    "00 - HomeLab/HomeLab - MOC.md",
     "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
+    "00 - HomeLab/HomeLab - MOC.md",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
     "00 - HomeLab/Runbooks/Runbook - temp.md",

@@ -51,10 +51,11 @@ Or:
 
 #### VMs & LXC naming
 For VMs and LXC:
-+ 100-199 -> infrastructure
-+ 200-299 -> services
-+ 300-399 -> monitoring
-+ 400-499 -> databases
++ 100-199 -> Infrastructure
++ 200-299 -> Shared Services
++ 300-399 -> Monitoring
++ 400-499 -> Development/CI
++ 500-599 -> Kubernetes
 + 900-999 -> templates
 
 **Names:**
@@ -68,15 +69,22 @@ svc-pihole-lxc01
 ci-jenkins-vm01
 ```
 
-| VMID | VM-name               |
-| ---- | --------------------- |
-| 100  | infra-pfsense-vm01    |
-| 101  | infra-k8s-master-vm01 |
-| 102  | infra-k8s-worker-vm01 |
-| 103  | infra-k8s-worker-vm02 |
-| 104  | infra-k8s-worker-vm03 |
-| 200  | svc-                  |
-
+| VMID | VM-name         | Tags           | Notes                                       |
+| ---- | --------------- | -------------- | ------------------------------------------- |
+| 100  | edge-fw01       | infrastructure | Pfsense                                     |
+| 101  | dns01           | infrastructure | Pi-hole                                     |
+| 102  | dns02           | infrastructure | Pi-hole                                     |
+| 200  | svc-core-vm01   | services       | Redis, PostgreSQL, MSSQL                    |
+| 201  | svc-apps-vm01   | services       | Bitwarden, Immich, Frigate                  |
+| 300  | monitor01       | monitoring     | Grafana, Prometheus, Loki, <br>Alertmanager |
+| 310  | ingress01       |                | Traefik                                     |
+| 400  | ci01            | Development/CI | Jenkins                                     |
+| 401  | git01           | Development/CI | Gitlab                                      |
+| 501  | k8s-cp01        | kubernetes     | Control plane 1                             |
+| 506  | k8s-w01         | kubernetes     | Worker 1                                    |
+| 507  | k8s-w02         | kubernetes     | Worker 2                                    |
+| 508  | k8s-w03         | kubernetes     | Worker 3                                    |
+| 900  | tmpl-ubuntu2404 | templates      |                                             |
 
 ### Services running
 | Service     | Host                | Port | Status |
