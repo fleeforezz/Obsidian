@@ -74,8 +74,8 @@ ci-jenkins-vm01
 | 100  | edge-fw01       | infrastructure | Pfsense                                     |
 | 101  | dns01           | infrastructure | Pi-hole                                     |
 | 102  | dns02           | infrastructure | Pi-hole                                     |
-| 200  | svc-core-vm01   | services       | Redis, PostgreSQL, MSSQL                    |
-| 201  | svc-apps-vm01   | services       | Bitwarden, Immich, Frigate                  |
+| 200  | svc-core01      | services       | Redis, PostgreSQL, MSSQL                    |
+| 201  | svc-apps01      | services       | Bitwarden, Immich, Frigate                  |
 | 300  | monitor01       | monitoring     | Grafana, Prometheus, Loki, <br>Alertmanager |
 | 310  | ingress01       |                | Traefik                                     |
 | 400  | ci01            | Development/CI | Jenkins                                     |
