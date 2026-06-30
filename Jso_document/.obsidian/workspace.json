@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e595d76547e756ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00 - HomeLab/Monitoring/Drawing 2026-06-30 15.09.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-30 15.09.51.excalidraw"
+            }
+          },
+          {
             "id": "5e016a4e43962c93",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "HomeLab Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - HomeLab/HomeLab - MOC.md",
+                "file": "00 - HomeLab/Monitoring/Drawing 2026-06-30 15.09.51.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HomeLab - MOC"
+              "title": "Outline of Drawing 2026-06-30 15.09.51.excalidraw"
             }
           },
           {
@@ -164,66 +177,6 @@
             }
           },
           {
-            "id": "b6896a7f48b3f0b7",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "6217c70a92407f6f",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "eb7dfae9f8d96527",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "c5408857946c182a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "2693c9d50580e819",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "c59dbf95f5b2478b",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
             "id": "a629f2500526e265",
             "type": "leaf",
             "state": {
@@ -234,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,10 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "993a3316b8976e0a",
+  "active": "ed5b1630ffd6cb2d",
   "lastOpenFiles": [
-    "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "00 - HomeLab/HomeLab - MOC.md",
+    "00 - HomeLab/Monitoring/Drawing 2026-06-30 15.09.51.excalidraw.md",
+    "00 - HomeLab/Monitoring",
+    "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
     "00 - HomeLab/Runbooks/Runbook - temp.md",
@@ -298,13 +253,11 @@
     "02 - Work/Freelance/Teaching",
     "05 - Excalidraw/Drawing 2025-06-16 07.47.19.excalidraw.md",
     "05 - Excalidraw/Drawing 2025-04-11 11.24.49.excalidraw.md",
-    "05 - Excalidraw/Drawing 2026-01-27 20.45.50.excalidraw.md",
     "02 - Work/Freelance",
     "04 - Self_Learning/attachments",
     "06 - Projects/Archive/Melville/Resources",
     "06 - Projects/Archive/Melville",
     "06 - Projects/Active/HomeLab-Upgrade/Task-Details/attachments",
-    "06 - Projects/Active/HomeLab-Upgrade/Task-Details",
     "Untitled.canvas",
     "01 - HomeLab/Home Server Infrastructure/Proxmox and Pf sense config.canvas",
     "06 - Projects/Airlines Magament System/Untitled.canvas",
