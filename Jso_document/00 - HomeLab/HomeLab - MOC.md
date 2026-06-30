@@ -80,6 +80,7 @@ ci-jenkins-vm01
 | 310  | ingress01       |                | Traefik                                     |
 | 400  | ci01            | Development/CI | Jenkins                                     |
 | 401  | git01           | Development/CI | Gitlab                                      |
+| 402  | dev-test01      | Development/CI | Testing tools, develop webapps              |
 | 501  | k8s-cp01        | kubernetes     | Control plane 1                             |
 | 506  | k8s-w01         | kubernetes     | Worker 1                                    |
 | 507  | k8s-w02         | kubernetes     | Worker 2                                    |
