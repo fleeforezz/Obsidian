@@ -11,11 +11,12 @@ project: "[[HomeLab Upgrade - hub]]"
 ## No status 😴
 
 - [ ] (Setup) and test Truenas replication task, backup tasks #high
+- [ ] (Setup) Truenas monitoring and show it in grafana #medium
+- [ ] (Migrate) Pfsense to a physical server #low
 - [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] (Setup) a load balancer for own projects #medium
 - [ ] (Setup) Gitops for Traefik #medium
-- [ ] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
-- [ ] (Update) Migrate from using .local to .home.arpa #medium
+- [ ] (Migrate) from using Jenkins CI for IaC to GitlabCI #medium
 - [ ] (Migrate) all docker containers to use docker volume instead of system path #low
 - [ ] (Migrate) from using single docker to use Kubernetes #low
 - [ ] (Setup) a redis server for my webapps #low
@@ -24,15 +25,14 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
-- [ ] (Setup) Gitops for system #low
-- [ ] (Setup) Truenas monitoring and show it in grafana #medium
+- [ ] (Update) Migrate from using .local to .homelab #medium
 - [ ] (Setup) disks temperature and health status for all servers #medium
-- [ ] (Migrate) Pfsense to a physical server #low
 - [ ] (Setup) disk status in grafana dashboard #low
 
 
 ## Testing 🧪
 
+- [ ] (Setup) Gitops for system #low
 - [ ] (Setup) a sytstem logs for all servers #high
 - [ ] (Setup) a temperature status for proxmox and truenas #medium
 - [ ] (Setup) proxmox monitoring #medium
@@ -66,6 +66,7 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Abort
 
 **Complete**
+- [x] Move uptime-kuma(ex) and uptime-kuma(in) from development server to monitoring server #medium
 
 
 
