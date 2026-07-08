@@ -15,7 +15,6 @@ project: "[[HomeLab Upgrade - hub]]"
 - [ ] (Migrate) Pfsense to a physical server #low
 - [ ] [[Setup backup job for Proxmox VMs]] #high
 - [ ] (Setup) a load balancer for own projects #medium
-- [ ] (Setup) Gitops for Traefik #medium
 - [ ] (Migrate) from using Jenkins CI for IaC to GitlabCI #medium
 - [ ] (Migrate) all docker containers to use docker volume instead of system path #low
 - [ ] (Migrate) from using single docker to use Kubernetes #low
@@ -32,7 +31,6 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## Testing 🧪
 
-- [ ] (Setup) Gitops for system #low
 - [ ] (Setup) a sytstem logs for all servers #high
 - [ ] (Setup) a temperature status for proxmox and truenas #medium
 - [ ] (Setup) proxmox monitoring #medium
@@ -47,6 +45,8 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
+- [x] (Setup) Gitops for Traefik #medium
+- [x] (Setup) Gitops for system #low
 - [x] (Setup) Make Gitlab only used local #low
 - [x] (Setup) Version control backup job #low
 - [x] ReOrganize Jenkins dashboard in Grafana #low

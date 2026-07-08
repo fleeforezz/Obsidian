@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,9 +260,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d138b3705a31e64d",
+  "active": "934435ba90f75e53",
   "lastOpenFiles": [
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "04 - Self_Learning/HomeLab_Services/Development/Gitlab/GitLab.md",
     "00 - HomeLab/HomeLab - MOC.md",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Network.md",
@@ -274,7 +275,6 @@
     "00 - HomeLab/Runbooks/Runbook - temp.md",
     "00 - HomeLab/Change_Logs/Change_logs - temp.md",
     "00 - HomeLab/Hardware/Server-Main.md",
-    "04 - Self_Learning/HomeLab_Services/Development/Gitlab/GitLab.md",
     "00 - HomeLab/Hardware/Router-Mesh-03.md",
     "00 - HomeLab/Hardware/PDU.md",
     "00 - HomeLab/Hardware/Firewall.md",
