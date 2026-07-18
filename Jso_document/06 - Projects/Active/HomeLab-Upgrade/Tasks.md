@@ -24,7 +24,6 @@ project: "[[HomeLab Upgrade - hub]]"
 
 ## In Progress 🧑‍💻
 
-- [ ] (Update) Migrate from using .local to .homelab #medium
 - [ ] (Setup) disks temperature and health status for all servers #medium
 - [ ] (Setup) disk status in grafana dashboard #low
 
@@ -45,6 +44,7 @@ project: "[[HomeLab Upgrade - hub]]"
 ## Done 🌟
 
 **Complete**
+- [x] (Update) Migrate from using .local to .homelab #medium
 - [x] (Setup) Gitops for Traefik #medium
 - [x] (Setup) Gitops for system #low
 - [x] (Setup) Make Gitlab only used local #low

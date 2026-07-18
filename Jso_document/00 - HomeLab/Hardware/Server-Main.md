@@ -47,10 +47,7 @@ last-updated: 2026-05-11
 
 ## What runs on it
 - [[pfsense]]
-- [[K8s-manager-1]]
-- [[K8s-worker-1]]
-- [[K8s-worker-2]]
-- [[K8s-worker-3]]
+- [[Harbor]]
 - [[Monitoring]]
 - [[Personal-services]]
 - [[Databases]]
