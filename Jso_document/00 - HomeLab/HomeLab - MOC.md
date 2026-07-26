@@ -77,14 +77,14 @@ ci-jenkins-vm01
 | 200  | svc-core01      | services       | Redis, PostgreSQL, MSSQL                    |
 | 201  | svc-apps01      | services       | Bitwarden, Immich, Frigate                  |
 | 300  | monitor01       | monitoring     | Grafana, Prometheus, Loki, <br>Alertmanager |
-| 310  | ingress01       |                | Traefik                                     |
+| 310  | ingress01       | infrastructure | Traefik                                     |
+| 311  | registry01      | infrastructure | Harbor                                      |
 | 400  | ci01            | Development/CI | Jenkins                                     |
 | 401  | git01           | Development/CI | Gitlab                                      |
 | 402  | dev-test01      | Development/CI | Testing tools, develop webapps              |
-| 501  | k8s-cp01        | kubernetes     | Control plane 1                             |
-| 506  | k8s-w01         | kubernetes     | Worker 1                                    |
-| 507  | k8s-w02         | kubernetes     | Worker 2                                    |
-| 508  | k8s-w03         | kubernetes     | Worker 3                                    |
+| 501  | swarm-cp01      | swarm          | Control plane 1                             |
+| 506  | swarm-w01       | swarm          | Worker 1                                    |
+| 507  | swarm-w02       | swarm          | Worker 2                                    |
 | 900  | tmpl-ubuntu2404 | templates      |                                             |
 
 ### Services running
