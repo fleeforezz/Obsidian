@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - HomeLab/HomeLab - MOC.md",
+                "file": "00 - HomeLab/Network/VPN + DNS Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HomeLab - MOC"
+              "title": "VPN + DNS Flow"
             }
           }
         ],
@@ -234,12 +234,12 @@
   },
   "active": "ec7c0b04816335ca",
   "lastOpenFiles": [
+    "00 - HomeLab/HomeLab - MOC.md",
     "00 - HomeLab/Monitoring/GLPA Stack.md",
     "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/Network.md",
     "04 - Self_Learning/HomeLab_Services/Monitoring/Alloy/Alloy.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "04 - Self_Learning/HomeLab_Services/Development/Gitlab/GitLab.md",
-    "00 - HomeLab/HomeLab - MOC.md",
     "99 - Other/Old-Stuff/Home Server Infrastructure/HomeLab Tree.md",
     "00 - HomeLab/Monitoring",
     "00 - HomeLab/Network/VPN + DNS Flow.md",
