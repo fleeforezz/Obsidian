@@ -55,7 +55,7 @@ For VMs and LXC:
 + 200-299 -> Shared Services
 + 300-399 -> Monitoring
 + 400-499 -> Development/CI
-+ 500-599 -> Kubernetes
++ 500-599 -> Docker Swarm or Kubernetes
 + 900-999 -> templates
 
 **Names:**
@@ -69,23 +69,23 @@ svc-pihole-lxc01
 ci-jenkins-vm01
 ```
 
-| VMID | VM-name         | Tags           | Notes                                       |
-| ---- | --------------- | -------------- | ------------------------------------------- |
-| 100  | edge-fw01       | infrastructure | Pfsense                                     |
-| 101  | dns01           | infrastructure | Pi-hole                                     |
-| 102  | dns02           | infrastructure | Pi-hole                                     |
-| 200  | svc-core01      | services       | Redis, PostgreSQL, MSSQL                    |
-| 201  | svc-apps01      | services       | Bitwarden, Immich, Frigate                  |
-| 300  | monitor01       | monitoring     | Grafana, Prometheus, Loki, <br>Alertmanager |
-| 310  | ingress01       | infrastructure | Traefik                                     |
-| 311  | registry01      | infrastructure | Harbor                                      |
-| 400  | ci01            | Development/CI | Jenkins                                     |
-| 401  | git01           | Development/CI | Gitlab                                      |
-| 402  | dev-test01      | Development/CI | Testing tools, develop webapps              |
-| 501  | swarm-cp01      | swarm          | Control plane 1                             |
-| 506  | swarm-w01       | swarm          | Worker 1                                    |
-| 507  | swarm-w02       | swarm          | Worker 2                                    |
-| 900  | tmpl-ubuntu2404 | templates      |                                             |
+| VMID | VM-name         | Tags           | Notes                                       | Terraformed |
+| ---- | --------------- | -------------- | ------------------------------------------- | ----------- |
+| 100  | edge-fw01       | infrastructure | Pfsense                                     |             |
+| 101  | dns01           | infrastructure | Pi-hole                                     | ✅           |
+| 102  | dns02           | infrastructure | Pi-hole                                     | ✅           |
+| 103  | ingress01       | infrastructure | Traefik                                     | ✅           |
+| 104  | registry01      | infrastructure | Harbor                                      | ✅           |
+| 200  | svc-core01      | services       | Redis, PostgreSQL, MSSQL                    | ✅           |
+| 201  | svc-apps01      | services       | Bitwarden, Immich, Frigate                  | ✅           |
+| 300  | monitor01       | monitoring     | Grafana, Prometheus, Loki, <br>Alertmanager | ✅           |
+| 400  | ci01            | Development/CI | Jenkins                                     | ✅           |
+| 401  | git01           | Development/CI | Gitlab                                      | ✅           |
+| 402  | dev-test01      | Development/CI | Testing tools, develop webapps              | ✅           |
+| 501  | swarm-cp01      | swarm          | Control plane 1                             | ✅           |
+| 506  | swarm-w01       | swarm          | Worker 1                                    | ✅           |
+| 507  | swarm-w02       | swarm          | Worker 2                                    | ✅           |
+| 900  | tmpl-ubuntu2404 | templates      |                                             |             |
 
 ### Services running
 | Service     | Host                | Port | Status |
