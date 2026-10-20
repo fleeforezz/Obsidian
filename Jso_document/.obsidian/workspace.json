@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - HomeLab/HomeLab - MOC.md",
+                "file": "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HomeLab - MOC"
+              "title": "NFS Client"
             }
           }
         ],
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "32bbfc717621d88e",
@@ -251,8 +250,9 @@
   },
   "active": "ec7c0b04816335ca",
   "lastOpenFiles": [
-    "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/HomeLab - MOC.md",
+    "05 - Excalidraw/Drawing 2026-08-21 21.18.38.excalidraw.md",
+    "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
     "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "00 - HomeLab/Monitoring/GLPA Stack.md",
@@ -290,7 +290,6 @@
     "02 - Work/Freelance/Teaching/resources/attachments",
     "02 - Work/Freelance/Teaching/resources",
     "06 - Projects/Active/Untitled",
-    "05 - Excalidraw/Annotationary_Doc.excalidraw.md",
     "02 - Work/Freelance/Teaching",
     "02 - Work/Freelance",
     "04 - Self_Learning/attachments",
