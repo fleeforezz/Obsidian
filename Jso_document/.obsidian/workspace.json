@@ -4,74 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4fcdf4aa92865967",
+        "id": "725a597a47f906e5",
         "type": "tabs",
         "children": [
           {
-            "id": "993a3316b8976e0a",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "e595d76547e756ee",
+            "id": "030e5e633b583299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - HomeLab/Network/VPN + DNS Flow.md",
+                "file": "99 - Other/System Tweaks/WSL/Install WSL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN + DNS Flow"
-            }
-          },
-          {
-            "id": "101c5be7c68976f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "00 - HomeLab/Network/NetWork Flow.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "NetWork Flow"
-            }
-          },
-          {
-            "id": "ec7c0b04816335ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NFS Client"
+              "title": "Install WSL"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +159,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -219,12 +169,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "32a52cf8c79d3e22",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -233,7 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,13 +207,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec7c0b04816335ca",
+  "active": "030e5e633b583299",
   "lastOpenFiles": [
+    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
+    "00 - HomeLab/Network/VPN + DNS Flow.md",
+    "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
     "00 - HomeLab/HomeLab - MOC.md",
     "05 - Excalidraw/Drawing 2026-08-21 21.18.38.excalidraw.md",
-    "00 - HomeLab/Network/VPN + DNS Flow.md",
     "00 - HomeLab/Network/NetWork Flow.md",
-    "06 - Projects/Active/HomeLab-Upgrade/Tasks.md",
     "00 - HomeLab/Monitoring/GLPA Stack.md",
     "00 - HomeLab/Hardware/Router-Mesh-03.md",
     "00 - HomeLab/Hardware/PDU.md",
@@ -268,7 +228,6 @@
     "00 - HomeLab/Runbooks/Runbook - temp.md",
     "00 - HomeLab/Change_Logs/Change_logs - temp.md",
     "00 - HomeLab/Hardware/Server-Main.md",
-    "04 - Self_Learning/HomeLab_Services/OS & System control/Linux Command/NFS Client.md",
     "02 - Work/Get ready for Interview/DevOps/Blue Bolt interview.md",
     "02 - Work/Get ready for Interview/DevOps/Questions board.md",
     "99 - Other/System Tweaks/Pretty Terminal/ZSH.md",
